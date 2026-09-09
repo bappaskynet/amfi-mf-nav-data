@@ -36540,6 +36540,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154500,ITI Asset Management Limited,ITI Multi Asset Allocation Fund- Regular Plan- Growth Option,INF00XX01DP2,,Open Ended,Hybrid Schemes - Multi Asset Allocation Fund
 154515,Quantum Asset Management Company Private Limited,Quantum Flexi Cap Fund - Direct Plan Growth Option,INF082J01507,,Open Ended,Equity Schemes - Flexi Cap Fund
 154516,Quantum Asset Management Company Private Limited,Quantum Flexi Cap Fund - Regular Plan Growth Option,INF082J01515,,Open Ended,Equity Schemes - Flexi Cap Fund
+154544,Invesco Asset Management (India) Private Limited,Invesco India Pharma and Healthcare Fund - Regular Fund - IDCW Plan,INF205KA1BV9,INF205KA1BW7,Open Ended,Equity Schemes - Sectoral Fund
+154545,Invesco Asset Management (India) Private Limited,Invesco India Pharma and Healthcare Fund - Regular Plan - Growth,INF205KA1BU1,,Open Ended,Equity Schemes - Sectoral Fund
+154546,Invesco Asset Management (India) Private Limited,Invesco India Pharma and Healthcare Fund - Direct Plan - IDCW Plan,INF205KA1BY3,INF205KA1BZ0,Open Ended,Equity Schemes - Sectoral Fund
+154547,Invesco Asset Management (India) Private Limited,Invesco India Pharma and Healthcare Fund - Direct Plan - Growth,INF205KA1BX5,,Open Ended,Equity Schemes - Sectoral Fund
 154563,ICICI Prudential Asset Management Company Limited,ICICI Prudential Life Cycle Fund 2031 - Growth,,,Open Ended,Life Cycle Funds - Life Cycle Fund with Maturity of 5 Years
 154564,ICICI Prudential Asset Management Company Limited,ICICI Prudential Life Cycle Fund 2031 - Direct Plan - Growth,,,Open Ended,Life Cycle Funds - Life Cycle Fund with Maturity of 5 Years
 154577,ICICI Prudential Asset Management Company Limited,ICICI Prudential Life Cycle Fund 2036 - Growth,,,Open Ended,Life Cycle Funds - Life Cycle Fund with Maturity of 10 Years
@@ -36574,6 +36578,14 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154709,Monarch Networth Asset Management Private Limited,Monarch Overnight Fund- Regular Plan- Monthly IDCW,,,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
 154710,Monarch Networth Asset Management Private Limited,Monarch Overnught Fund- Regular Plan - Daily IDCW,,,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
 154711,Monarch Networth Asset Management Private Limited,Monarch Overnight Fund- Regular Plan Growth,,,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
+154712,Invesco Asset Management (India) Private Limited,Invesco India Nifty India Defence Index Fund - Direct Plan - Growth,INF205KA1CG8,,Open Ended,Index Funds - Equity Funds
+154713,Invesco Asset Management (India) Private Limited,Invesco India Nifty India Defence Index Fund - Regular Plan - Growth,INF205KA1CD5,,Open Ended,Index Funds - Equity Funds
+154714,Invesco Asset Management (India) Private Limited,Invesco India Nifty India Defence Index Fund - Direct Plan - IDCW,INF205KA1CH6,INF205KA1CI4,Open Ended,Index Funds - Equity Funds
+154715,Invesco Asset Management (India) Private Limited,Invesco India Nifty India Defence Index Fund - Regular Plan - IDCW,INF205KA1CE3,INF205KA1CF0,Open Ended,Index Funds - Equity Funds
+154716,Invesco Asset Management (India) Private Limited,Invesco India Nifty Chemical Index Fund - Regular Plan - Growth,INF205KA1CJ2,,Open Ended,Index Funds - Equity Funds
+154717,Invesco Asset Management (India) Private Limited,Invesco India Nifty Chemical Index Fund - Regular Plan - IDCW,INF205KA1CK0,INF205KA1CL8,Open Ended,Index Funds - Equity Funds
+154718,Invesco Asset Management (India) Private Limited,Invesco India Nifty Chemical Index Fund - Direct Plan - IDCW,INF205KA1CN4,INF205KA1CO2,Open Ended,Index Funds - Equity Funds
+154719,Invesco Asset Management (India) Private Limited,Invesco India Nifty Chemical Index Fund - Direct Plan - Growth,INF205KA1CM6,,Open Ended,Index Funds - Equity Funds
 154720,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset BSE Information Technology Index Fund - Direct Plan - Growth,INF769K01RO5,,Open Ended,Index Funds - Equity Funds
 154721,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset BSE Information Technology Index Fund - Direct Plan - IDCW,INF769K01RQ0,INF769K01RP2,Open Ended,Index Funds - Equity Funds
 154722,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset BSE Information Technology Index Fund - Regular Plan - Growth,INF769K01RL1,,Open Ended,Index Funds - Equity Funds
@@ -36604,5 +36616,5 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154745,Tata Asset Management Limited,Tata CRISIL-IBX Financial Services 3-6 Months Debt Index Fund-Regular Plan-IDCW Payout,INF277KA1EZ7,,Open Ended,Index Funds - Debt Funds
 154750,HDFC Asset Management Company Limited,HDFC BSE REITS and Commercial Real Estate Index Fund- IDCW Option,,,Open Ended,Index Funds - Equity Funds
 154751,HDFC Asset Management Company Limited,HDFC BSE REITS and Commercial Real Estate Index fund-Direct Plan - IDCW Option,,,Open Ended,Index Funds - Equity Funds
-154752,HDFC Asset Management Company Limited,HDFC BSE REITS and Commercial Real Estate Index Fund-IDCW Option,,,Open Ended,Index Funds - Equity Funds
+154752,HDFC Asset Management Company Limited,HDFC BSE REITS and Commercial Real Estate Index Fund-Growth Option,,,Open Ended,Index Funds - Equity Funds
 154753,HDFC Asset Management Company Limited,HDFC BSE REITS and Commercial Real Estate Index Fund-Direct Plan-Growth Option,,,Open Ended,Index Funds - Equity Funds
