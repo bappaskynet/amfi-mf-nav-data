@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Medium Term Fund",
         "scheme_code": 111812,
-        "scheme_name": "Aditya Birla Sun Life Medium Term Fund - Regular Plan - Half Yearly IDCW",
+        "scheme_name": "Aditya Birla Sun Life Medium Term Fund - Regular Plan - IDCW",
         "isin_growth": "INF209K01611",
         "isin_div_reinvestment": "INF209K01DA1"
     },
     "data": [
+        {
+            "date": "09-09-2026",
+            "nav": "16.64930"
+        },
         {
             "date": "08-09-2026",
             "nav": "16.64700"

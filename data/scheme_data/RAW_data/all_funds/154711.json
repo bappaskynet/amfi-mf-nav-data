@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "Monarch Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Income/Debt Oriented Schemes - Overnight Fund",
+        "scheme_code": 154711,
+        "scheme_name": "Monarch Overnight Fund - Regular Plan - Growth",
+        "isin_growth": "INF2ZSC01010",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "09-09-2026",
+            "nav": "1000.32080"
+        }
+    ],
+    "status": "SUCCESS"
+}
