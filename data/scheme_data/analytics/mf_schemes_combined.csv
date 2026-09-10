@@ -14206,6 +14206,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154495,Mirae Asset Mutual Fund,Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund,INF769K01RD8,,Open Ended Schemes,Index Funds - Hybrid Fund
 154496,Mirae Asset Mutual Fund,Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund,INF769K01RF3,INF769K01RE6,Open Ended Schemes,Index Funds - Hybrid Fund
 154497,Mirae Asset Mutual Fund,Mirae Asset Nifty200 Momentum 30 Plus 8-13 yr G-Sec 50:50 ETF,INF769K01RJ5,,Open Ended Schemes,Exchange Traded Funds
+154498,ITI Mutual Fund,ITI Multi Asset Allocation Fund,INF00XX01DS6,,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
+154499,ITI Mutual Fund,ITI Multi Asset Allocation Fund,INF00XX01DT4,INF00XX01DU2,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
+154500,ITI Mutual Fund,ITI Multi Asset Allocation Fund,INF00XX01DP2,,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
+154502,ITI Mutual Fund,ITI Multi Asset Allocation Fund,INF00XX01DQ0,INF00XX01DR8,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
 154503,ICICI Prudential Mutual Fund,ICICI Prudential BSE Insurance ETF,INF109K1A567,,Open Ended Schemes,Exchange Traded Funds
 154504,HDFC Mutual Fund,HDFC Nifty Metal ETF,,,Open Ended Schemes,Exchange Traded Funds
 154505,HDFC Mutual Fund,HDFC Nifty Metal ETF FOF,INF179KC1KS6,,Open Ended Schemes,Fund of Funds Scheme
@@ -14237,6 +14241,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154539,Franklin Templeton Mutual Fund,Franklin India Short Term Fund,INF090I01YU3,INF090I01YV1,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 154540,Franklin Templeton Mutual Fund,Franklin India Short Term Fund,INF090I01YT5,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 154541,Franklin Templeton Mutual Fund,Franklin India Short Term Fund,INF090I01YW9,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+154544,Invesco Mutual Fund,Invesco India Pharma and Healthcare Fund,INF205KA1BV9,INF205KA1BW7,Open Ended Schemes,Equity Schemes - Sectoral Fund
+154545,Invesco Mutual Fund,Invesco India Pharma and Healthcare Fund,INF205KA1BU1,,Open Ended Schemes,Equity Schemes - Sectoral Fund
+154546,Invesco Mutual Fund,Invesco India Pharma and Healthcare Fund,INF205KA1BY3,INF205KA1BZ0,Open Ended Schemes,Equity Schemes - Sectoral Fund
+154547,Invesco Mutual Fund,Invesco India Pharma and Healthcare Fund,INF205KA1BX5,,Open Ended Schemes,Equity Schemes - Sectoral Fund
 154548,Edelweiss Mutual Fund,Edelweiss Nifty REITs & Realty Index Fund,INF754K01XJ5,,Open Ended Schemes,Index Funds - Equity Funds
 154549,Edelweiss Mutual Fund,Edelweiss Nifty REITs & Realty Index Fund,INF754K01XK3,INF754K01XL1,Open Ended Schemes,Index Funds - Equity Funds
 154550,Jio BlackRock Mutual Fund,JioBlackRock Nifty 50 ETF,INF22M001184,,Open Ended Schemes,Exchange Traded Funds
@@ -36539,14 +36547,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154522,Abakkus Investment Managers Private Limited,Abakkus Liquid Fund - Unclaimed IDCW Less than 3 Years,,,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
 154126,Sundaram Asset Management Company Ltd,Sundaram Income Plus Arbitrage Active FoF Fund-Regular-IDCW Reinvestment,INF903JA1ME0,,Open Ended,Other Scheme - FoF Domestic
 154128,Sundaram Asset Management Company Ltd,Sundaram Income Plus Arbitrage Active FoF Fund-Direct-IDCW Reinvestment,INF903JA1MB6,,Open Ended,Other Scheme - FoF Domestic
-154502,ITI Asset Management Limited,ITI Multi Asset Allocation Fund- Regular Plan- IDCW Option,INF00XX01DQ0,INF00XX01DR8,Open Ended,Hybrid Schemes - Multi Asset Allocation Fund
-154498,ITI Asset Management Limited,ITI Multi Asset Allocation Fund - Direct Plan - Growth Option,INF00XX01DS6,,Open Ended,Hybrid Schemes - Multi Asset Allocation Fund
-154499,ITI Asset Management Limited,ITI Multi Asset Allocation Fund- Direct Plan- IDCW Option,INF00XX01DT4,INF00XX01DU2,Open Ended,Hybrid Schemes - Multi Asset Allocation Fund
-154500,ITI Asset Management Limited,ITI Multi Asset Allocation Fund- Regular Plan- Growth Option,INF00XX01DP2,,Open Ended,Hybrid Schemes - Multi Asset Allocation Fund
-154544,Invesco Asset Management (India) Private Limited,Invesco India Pharma and Healthcare Fund - Regular Fund - IDCW Plan,INF205KA1BV9,INF205KA1BW7,Open Ended,Equity Schemes - Sectoral Fund
-154545,Invesco Asset Management (India) Private Limited,Invesco India Pharma and Healthcare Fund - Regular Plan - Growth,INF205KA1BU1,,Open Ended,Equity Schemes - Sectoral Fund
-154546,Invesco Asset Management (India) Private Limited,Invesco India Pharma and Healthcare Fund - Direct Plan - IDCW Plan,INF205KA1BY3,INF205KA1BZ0,Open Ended,Equity Schemes - Sectoral Fund
-154547,Invesco Asset Management (India) Private Limited,Invesco India Pharma and Healthcare Fund - Direct Plan - Growth,INF205KA1BX5,,Open Ended,Equity Schemes - Sectoral Fund
 154563,ICICI Prudential Asset Management Company Limited,ICICI Prudential Life Cycle Fund 2031 - Growth,,,Open Ended,Life Cycle Funds - Life Cycle Fund with Maturity of 5 Years
 154564,ICICI Prudential Asset Management Company Limited,ICICI Prudential Life Cycle Fund 2031 - Direct Plan - Growth,,,Open Ended,Life Cycle Funds - Life Cycle Fund with Maturity of 5 Years
 154577,ICICI Prudential Asset Management Company Limited,ICICI Prudential Life Cycle Fund 2036 - Growth,,,Open Ended,Life Cycle Funds - Life Cycle Fund with Maturity of 10 Years
