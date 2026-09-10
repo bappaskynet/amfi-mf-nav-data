@@ -8565,8 +8565,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 111808,Aditya Birla Sun Life Mutual Fund,Birla Sun Life Floating Rate - Long Term - Growth,,,Open Ended Schemes,Income
 111809,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium Term Fund - Regular Plan - Quarterly IDCW,INF209K01637,INF209KB1OJ2,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund
 111810,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium Term Plan - Institutional - Quarterly Dividend Plan,,,Open Ended Schemes,Income
-111811,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium Term Fund,INF209K01595,INF209K01CZ0,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund
-111812,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium Term Fund - Regular Plan - Half Yearly IDCW,INF209K01611,INF209K01DA1,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund
+111811,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium Term Fund - Regular Plan - Half Yearly IDCW,INF209K01595,INF209K01CZ0,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund
+111812,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium Term Fund - Regular Plan - IDCW,INF209K01611,INF209K01DA1,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund
 111813,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium Term Plan - Institutional - Dividend Plan,,,Open Ended Schemes,Income
 111814,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium Term Plan - Retail - Qrtly Dividend Plan,,,Open Ended Schemes,Income
 111815,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium Term Plan - Institutional - Qrtly Dividend Plan,,,Open Ended Schemes,Income
@@ -37868,3 +37868,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154689,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Term Fund (the scheme has 2 segregated portfolios) - Regular Plan - Defunct Growth,INF955L01JM9,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 154690,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Term Fund (the scheme has 2 segregated portfolios) - Regular Plan - Defunct Monthly IDCW Payout,INF955L01JP2,INF955L01JQ0,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 154691,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Term Fund (the scheme has 2 segregated portfolios) - Regular Plan - Defunct Weekly IDCW Reinvestment,,INF955L01JO5,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+154705,Monarch Mutual Fund,Monarch Overnight Fund - Direct Plan - Monthly IDCW,INF2ZSC01085,INF2ZSC01069,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
+154706,Monarch Mutual Fund,Monarch Overnight Fund - Direct Plan - Growth,INF2ZSC01028,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
+154711,Monarch Mutual Fund,Monarch Overnight Fund - Regular Plan - Growth,INF2ZSC01010,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
