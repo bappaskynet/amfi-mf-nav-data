@@ -3046,12 +3046,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 122640,PPFAS Mutual Fund,Parag Parikh Flexi Cap Fund,INF879O01019,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
 122641,UTI Mutual Fund,UTI - FIIF Half Yearly Plan I,INF789F01VR8,INF789F01VS6,Close Ended Schemes,Income
 122642,UTI Mutual Fund,UTI - FIIF Half Yearly Plan I,INF789F01VT4,,Close Ended Schemes,Income
-122643,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Floating Interest Rate Fund,,INF209KA1LN1,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
-122644,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Floating Interest Rate Fund,INF209K01MG9,,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
-122645,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Floating Interest Rate Fund,INF209K01UW9,,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
-122646,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Floating Interest Rate Fund,INF209K01UX7,,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
-122647,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Floating Interest Rate Fund,,INF209K01MH7,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
-122648,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Floating Interest Rate Fund,INF209K01UY5,,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
+122643,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Floating Interest Rates Fund,,INF209KA1LN1,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
+122644,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Floating Interest Rates Fund,INF209K01MG9,,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
+122645,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Floating Interest Rates Fund,INF209K01UW9,,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
+122646,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Floating Interest Rates Fund,INF209K01UX7,,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
+122647,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Floating Interest Rates Fund,,INF209K01MH7,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
+122648,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Floating Interest Rates Fund,INF209K01UY5,,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
 122651,ICICI Prudential Mutual Fund,ICICI Prudential Ultra Short to Short Term Fund,INF109K018Y9,INF109K017Y1,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 122652,Nippon India Mutual Fund,Reliance Yearly Interval Fund - Series 8,INF204K01V04,,Open Ended Schemes,Income
 122653,Nippon India Mutual Fund,Reliance Yearly Interval Fund - Series 8,INF204K01V38,,Open Ended Schemes,Income
@@ -11817,8 +11817,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 151749,HDFC Mutual Fund,HDFC Defence Fund,INF179KC1GJ3,INF179KC1GK1,Open Ended Schemes,Equity Schemes - Thematic Fund
 151750,HDFC Mutual Fund,HDFC Defence Fund,INF179KC1GI5,,Open Ended Schemes,Equity Schemes - Thematic Fund
 151751,HDFC Mutual Fund,HDFC Defence Fund,INF179KC1GL9,,Open Ended Schemes,Equity Schemes - Thematic Fund
-151752,Samco Mutual Fund,Samco Active Momentum Fund,INF0K1H01073,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-151753,Samco Mutual Fund,Samco Active Momentum Fund,INF0K1H01081,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
+151752,Samco Mutual Fund,Samco Active Momentum Fund,INF0K1H01073,,Open Ended Schemes,Equity Schemes - Thematic Fund
+151753,Samco Mutual Fund,Samco Active Momentum Fund,INF0K1H01081,,Open Ended Schemes,Equity Schemes - Thematic Fund
 151754,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Value Fund,INF251K01SB9,INF251K01SC7,Open Ended Schemes,Equity Scheme - Value Fund
 151755,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Value Fund,INF251K01SD5,,Open Ended Schemes,Equity Scheme - Value Fund
 151756,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Value Fund,INF251K01SE3,INF251K01SF0,Open Ended Schemes,Equity Scheme - Value Fund
@@ -14217,6 +14217,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154511,Kotak Mahindra Mutual Fund,Kotak Corporate Bond Fund,INF174KA1B93,INF174KA1C19,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
 154513,Kotak Mahindra Mutual Fund,Kotak Ultra Short Term Fund,INF174KA1C43,INF174KA1C27,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
 154514,Kotak Mahindra Mutual Fund,Kotak Ultra Short Term Fund,INF174KA1C35,INF174KA1C50,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+154515,Quantum Mutual Fund,Quantum Flexi Cap Fund,INF082J01507,,Open Ended Schemes,Equity Schemes - Flexi Cap Fund
+154516,Quantum Mutual Fund,Quantum Flexi Cap Fund,INF082J01515,,Open Ended Schemes,Equity Schemes - Flexi Cap Fund
 154517,AlphaGrep Mutual Fund,AlphaGrep Flexi Cap Fund,INF2VOA01129,INF2VOA01111,Open Ended Schemes,Equity Schemes - Flexi Cap Fund
 154518,AlphaGrep Mutual Fund,AlphaGrep Flexi Cap Fund,INF2VOA01079,,Open Ended Schemes,Equity Schemes - Flexi Cap Fund
 154519,AlphaGrep Mutual Fund,AlphaGrep Flexi Cap Fund,INF2VOA01103,,Open Ended Schemes,Equity Schemes - Flexi Cap Fund
@@ -14284,10 +14286,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154612,Kotak Mahindra Mutual Fund,Kotak Money Market Fund,INF174KA1F24,INF174KA1F08,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
 154613,Bajaj Finserv Mutual Fund,Bajaj Finserv Money Market Fund,INF0QA701CJ8,,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
 154614,Bajaj Finserv Mutual Fund,Bajaj Finserv Money Market Fund,INF0QA701CK6,,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
-154615,SBI Mutual Fund,SBI Balanced Hybrid Fund,,,Open Ended Schemes,Hybrid Schemes - Balanced Hybrid Fund
-154616,SBI Mutual Fund,SBI Balanced Hybrid Fund,,,Open Ended Schemes,Hybrid Schemes - Balanced Hybrid Fund
-154617,SBI Mutual Fund,SBI Balanced Hybrid Fund,,,Open Ended Schemes,Hybrid Schemes - Balanced Hybrid Fund
-154618,SBI Mutual Fund,SBI Balanced Hybrid Fund,,,Open Ended Schemes,Hybrid Schemes - Balanced Hybrid Fund
+154615,SBI Mutual Fund,SBI Balanced Hybrid Fund,INF200KB1BX9,,Open Ended Schemes,Hybrid Schemes - Balanced Hybrid Fund
+154616,SBI Mutual Fund,SBI Balanced Hybrid Fund,INF200KB1BY7,INF200KB1BZ4,Open Ended Schemes,Hybrid Schemes - Balanced Hybrid Fund
+154617,SBI Mutual Fund,SBI Balanced Hybrid Fund,INF200KB1CB3,INF200KB1CC1,Open Ended Schemes,Hybrid Schemes - Balanced Hybrid Fund
+154618,SBI Mutual Fund,SBI Balanced Hybrid Fund,INF200KB1CA5,,Open Ended Schemes,Hybrid Schemes - Balanced Hybrid Fund
 154619,Zerodha Mutual Fund,Zerodha Arbitrage Fund,INF0R8F01232,,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
 154620,Edelweiss Mutual Fund,Edelweiss Ultra Short Term Fund,INF754K01XW8,INF754K01XX6,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
 154621,Edelweiss Mutual Fund,Edelweiss Ultra Short Term Fund,INF754K01XR8,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
@@ -36541,8 +36543,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154498,ITI Asset Management Limited,ITI Multi Asset Allocation Fund - Direct Plan - Growth Option,INF00XX01DS6,,Open Ended,Hybrid Schemes - Multi Asset Allocation Fund
 154499,ITI Asset Management Limited,ITI Multi Asset Allocation Fund- Direct Plan- IDCW Option,INF00XX01DT4,INF00XX01DU2,Open Ended,Hybrid Schemes - Multi Asset Allocation Fund
 154500,ITI Asset Management Limited,ITI Multi Asset Allocation Fund- Regular Plan- Growth Option,INF00XX01DP2,,Open Ended,Hybrid Schemes - Multi Asset Allocation Fund
-154515,Quantum Asset Management Company Private Limited,Quantum Flexi Cap Fund - Direct Plan Growth Option,INF082J01507,,Open Ended,Equity Schemes - Flexi Cap Fund
-154516,Quantum Asset Management Company Private Limited,Quantum Flexi Cap Fund - Regular Plan Growth Option,INF082J01515,,Open Ended,Equity Schemes - Flexi Cap Fund
 154544,Invesco Asset Management (India) Private Limited,Invesco India Pharma and Healthcare Fund - Regular Fund - IDCW Plan,INF205KA1BV9,INF205KA1BW7,Open Ended,Equity Schemes - Sectoral Fund
 154545,Invesco Asset Management (India) Private Limited,Invesco India Pharma and Healthcare Fund - Regular Plan - Growth,INF205KA1BU1,,Open Ended,Equity Schemes - Sectoral Fund
 154546,Invesco Asset Management (India) Private Limited,Invesco India Pharma and Healthcare Fund - Direct Plan - IDCW Plan,INF205KA1BY3,INF205KA1BZ0,Open Ended,Equity Schemes - Sectoral Fund
