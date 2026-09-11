@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Schemes - Balanced Hybrid Fund",
         "scheme_code": 154617,
-        "scheme_name": "SBI Balanced Hybrid Fund",
-        "isin_growth": null,
-        "isin_div_reinvestment": null
+        "scheme_name": "SBI Balanced Hybrid Fund - Direct Plan - IDCW",
+        "isin_growth": "INF200KB1CB3",
+        "isin_div_reinvestment": "INF200KB1CC1"
     },
     "data": [
+        {
+            "date": "10-09-2026",
+            "nav": "10.04200"
+        },
         {
             "date": "09-09-2026",
             "nav": "10.03380"

@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Floating Interest Rates Fund",
         "scheme_code": 122645,
-        "scheme_name": "Aditya Birla Sun Life Floating Interest Rate Fund - Direct Plan - Daily IDCW",
+        "scheme_name": "Aditya Birla Sun Life Floating Interest Rates Fund - Direct Plan - Daily IDCW",
         "isin_growth": "INF209K01UW9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "10-09-2026",
+            "nav": "100.14110"
+        },
         {
             "date": "09-09-2026",
             "nav": "100.14680"

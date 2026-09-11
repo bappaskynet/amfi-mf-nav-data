@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "Invesco Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Equity Schemes - Sectoral Fund",
+        "scheme_code": 154544,
+        "scheme_name": "Invesco India Pharma and Healthcare Fund - Regular Plan - IDCW",
+        "isin_growth": "INF205KA1BV9",
+        "isin_div_reinvestment": "INF205KA1BW7"
+    },
+    "data": [
+        {
+            "date": "10-09-2026",
+            "nav": "10.01000"
+        }
+    ],
+    "status": "SUCCESS"
+}

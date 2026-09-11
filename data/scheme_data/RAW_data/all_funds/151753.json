@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Samco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 151753,
         "scheme_name": "Samco Active Momentum Fund - Direct Plan - Growth",
         "isin_growth": "INF0K1H01081",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "10-09-2026",
+            "nav": "16.62000"
+        },
         {
             "date": "09-09-2026",
             "nav": "16.65000"

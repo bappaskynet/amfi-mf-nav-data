@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "ITI Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Hybrid Schemes - Multi Asset Allocation Fund",
+        "scheme_code": 154500,
+        "scheme_name": "ITI Multi Asset Allocation Fund - Regular Plan - Growth Option",
+        "isin_growth": "INF00XX01DP2",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "10-09-2026",
+            "nav": "9.99400"
+        }
+    ],
+    "status": "SUCCESS"
+}
