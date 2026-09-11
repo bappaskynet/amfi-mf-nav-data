@@ -9108,10 +9108,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 147380,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Money Market Fund,,INF955L01HZ5,Open Ended Schemes,Debt Scheme - Money Market Fund
 147381,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Money Market Fund,INF251K01VS7,INF955L01IA6,Open Ended Schemes,Debt Scheme - Money Market Fund
 147382,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Money Market Fund,INF955L01HY8,,Open Ended Schemes,Debt Scheme - Money Market Fund
-147403,Shriram Mutual Fund,Shriram Balanced Advantage Fund,INF680P01216,INF680P01224,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
-147404,Shriram Mutual Fund,Shriram Balanced Advantage Fund,INF680P01182,INF680P01190,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
-147405,Shriram Mutual Fund,Shriram Balanced Advantage Fund,INF680P01174,,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
-147406,Shriram Mutual Fund,Shriram Balanced Advantage Fund,INF680P01208,,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
+147403,Shriram Mutual Fund,Shriram Balanced Advantage Fund,INF680P01216,INF680P01224,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
+147404,Shriram Mutual Fund,Shriram Balanced Advantage Fund,INF680P01182,INF680P01190,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
+147405,Shriram Mutual Fund,Shriram Balanced Advantage Fund,INF680P01174,,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
+147406,Shriram Mutual Fund,Shriram Balanced Advantage Fund,INF680P01208,,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 147407,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Pharma and Healthcare Fund,INF209KB1N91,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 147408,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Pharma and Healthcare Fund,INF209KB1O09,INF209KB1O17,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 147409,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Pharma and Healthcare Fund,INF209KB1O25,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
@@ -12602,7 +12602,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 152738,Franklin Templeton Mutual Fund,Franklin India Multi Cap Fund,INF090I01WX1,,Open Ended Schemes,Equity Scheme - Multi Cap Fund
 152739,Franklin Templeton Mutual Fund,Franklin India Multi Cap Fund,INF090I01XA7,,Open Ended Schemes,Equity Scheme - Multi Cap Fund
 152740,Franklin Templeton Mutual Fund,Franklin India Multi Cap Fund,INF090I01WY9,INF090I01WZ6,Open Ended Schemes,Equity Scheme - Multi Cap Fund
-152741,Shriram Mutual Fund,Shriram Nifty 1D Rate Liquid ETF,INF680P01422,,Open Ended Schemes,Other Scheme - Other  ETFs
+152741,Shriram Mutual Fund,Shriram Nifty 1D Rate Liquid ETF,INF680P01422,,Open Ended Schemes,Exchange Traded Funds
 152742,Tata Mutual Fund,Tata Nifty India Tourism Index Fund,INF277KA1CC0,,Open Ended Schemes,Other Scheme - Index Funds
 152743,Tata Mutual Fund,Tata Nifty India Tourism Index Fund,,INF277KA1CE6,Open Ended Schemes,Other Scheme - Index Funds
 152744,Tata Mutual Fund,Tata Nifty India Tourism Index Fund,INF277KA1CD8,,Open Ended Schemes,Other Scheme - Index Funds
@@ -12867,8 +12867,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153032,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil-IBX AAA Financial Services Index-Sep 2027 Fund,INF209KC1324,,Open Ended Schemes,Other Scheme - Index Funds
 153033,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil-IBX AAA Financial Services Index-Sep 2027 Fund,INF209KC1316,,Open Ended Schemes,Other Scheme - Index Funds
 153034,Groww Mutual Fund,Groww Multicap Fund,INF666M01JD9,,Open Ended Schemes,Equity Schemes - Multi Cap Fund
-153035,Shriram Mutual Fund,Shriram Liquid Fund,INF680P01430,,Open Ended Schemes,Debt Scheme - Liquid Fund
-153036,Shriram Mutual Fund,Shriram Liquid Fund,INF680P01448,,Open Ended Schemes,Debt Scheme - Liquid Fund
+153035,Shriram Mutual Fund,Shriram Liquid Fund,INF680P01430,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+153036,Shriram Mutual Fund,Shriram Liquid Fund,INF680P01448,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 153037,PGIM India Mutual Fund,PGIM India Healthcare Fund,INF663L01Z60,INF663L01Z78,Open Ended Schemes,Equity Schemes - Thematic Fund
 153038,PGIM India Mutual Fund,PGIM India Healthcare Fund,INF663L01Z86,INF663L01Z94,Open Ended Schemes,Equity Schemes - Thematic Fund
 153039,PGIM India Mutual Fund,PGIM India Healthcare Fund,INF663L01Z45,,Open Ended Schemes,Equity Schemes - Thematic Fund
@@ -13106,10 +13106,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153276,Nippon India Mutual Fund,Nippon India Active Momentum Fund,INF204KC1EH1,,Open Ended Schemes,Equity Schemes - Thematic Fund
 153277,Nippon India Mutual Fund,Nippon India Active Momentum Fund,INF204KC1EL3,INF204KC1EM1,Open Ended Schemes,Equity Schemes - Thematic Fund
 153278,Nippon India Mutual Fund,Nippon India Active Momentum Fund,INF204KC1EI9,INF204KC1EJ7,Open Ended Schemes,Equity Schemes - Thematic Fund
-153280,Shriram Mutual Fund,Shriram Liquid Fund,,,Open Ended Schemes,Debt Scheme - Liquid Fund
-153281,Shriram Mutual Fund,Shriram Liquid Fund,,,Open Ended Schemes,Debt Scheme - Liquid Fund
-153282,Shriram Mutual Fund,Shriram Liquid Fund,,,Open Ended Schemes,Debt Scheme - Liquid Fund
-153283,Shriram Mutual Fund,Shriram Liquid Fund,,,Open Ended Schemes,Debt Scheme - Liquid Fund
+153280,Shriram Mutual Fund,Shriram Liquid Fund,,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+153281,Shriram Mutual Fund,Shriram Liquid Fund,,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+153282,Shriram Mutual Fund,Shriram Liquid Fund,,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+153283,Shriram Mutual Fund,Shriram Liquid Fund,,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 153284,Kotak Mahindra Mutual Fund,Kotak BSE Sensex Index Fund,INF174KA1US2,,Open Ended Schemes,Other Scheme - Index Funds
 153285,Kotak Mahindra Mutual Fund,Kotak BSE Sensex Index Fund,INF174KA1UT0,INF174KA1UU8,Open Ended Schemes,Other Scheme - Index Funds
 153286,Kotak Mahindra Mutual Fund,Kotak BSE Sensex Index Fund,INF174KA1UV6,,Open Ended Schemes,Other Scheme - Index Funds
@@ -13888,8 +13888,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154139,Motilal Oswal Mutual Fund,Motilal Oswal Financial Services Fund,INF247L01GR6,INF247L01GS4,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 154140,Motilal Oswal Mutual Fund,Motilal Oswal Financial Services Fund,INF247L01GO3,INF247L01GP0,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 154142,Motilal Oswal Mutual Fund,Motilal Oswal Financial Services Fund,INF247L01GN5,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-154143,Shriram Mutual Fund,Shriram Money Market Fund,INF680P01489,,Open Ended Schemes,Debt Scheme - Money Market Fund
-154144,Shriram Mutual Fund,Shriram Money Market Fund,INF680P01471,,Open Ended Schemes,Debt Scheme - Money Market Fund
+154143,Shriram Mutual Fund,Shriram Money Market Fund,INF680P01489,,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
+154144,Shriram Mutual Fund,Shriram Money Market Fund,INF680P01471,,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
 154145,Kotak Mahindra Mutual Fund,Kotak Nifty200 Value 30 Index Fund,INF174KA1YP0,,Open Ended Schemes,Other Scheme - Index Funds
 154146,Kotak Mahindra Mutual Fund,Kotak Nifty200 Value 30 Index Fund,INF174KA1YQ8,INF174KA1YR6,Open Ended Schemes,Other Scheme - Index Funds
 154147,Kotak Mahindra Mutual Fund,Kotak Nifty200 Value 30 Index Fund,INF174KA1YT2,INF174KA1YU0,Open Ended Schemes,Other Scheme - Index Funds
@@ -14128,12 +14128,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154391,Kotak Mahindra Mutual Fund,Kotak Nifty Alpha Low Volatility 30 Index Fund,INF174KA1A37,INF174KA1A45,Open Ended Schemes,Other Scheme - Index Funds
 154392,WhiteOak Capital Mutual Fund,WhiteOak Capital Aggressive Hybrid Fund,INF03VN01AF8,,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
 154393,WhiteOak Capital Mutual Fund,WhiteOak Capital Aggressive Hybrid Fund,INF03VN01AG6,,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
-154394,Shriram Mutual Fund,Shriram Overnight Fund,INF680P01497,,Open Ended Schemes,Debt Scheme - Overnight Fund
-154395,Shriram Mutual Fund,Shriram Overnight Fund,,INF680P01513,Open Ended Schemes,Debt Scheme - Overnight Fund
-154396,Shriram Mutual Fund,Shriram Overnight Fund,INF680P01612,INF680P01638,Open Ended Schemes,Debt Scheme - Overnight Fund
-154398,Shriram Mutual Fund,Shriram Overnight Fund,,INF680P01521,Open Ended Schemes,Debt Scheme - Overnight Fund
-154399,Shriram Mutual Fund,Shriram Overnight Fund,INF680P01505,,Open Ended Schemes,Debt Scheme - Overnight Fund
-154402,Shriram Mutual Fund,Shriram Overnight Fund,INF680P01620,INF680P01646,Open Ended Schemes,Debt Scheme - Overnight Fund
+154394,Shriram Mutual Fund,Shriram Overnight Fund,INF680P01497,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
+154395,Shriram Mutual Fund,Shriram Overnight Fund,,INF680P01513,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
+154396,Shriram Mutual Fund,Shriram Overnight Fund,INF680P01612,INF680P01638,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
+154398,Shriram Mutual Fund,Shriram Overnight Fund,,INF680P01521,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
+154399,Shriram Mutual Fund,Shriram Overnight Fund,INF680P01505,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
+154402,Shriram Mutual Fund,Shriram Overnight Fund,INF680P01620,INF680P01646,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 154404,ICICI Prudential Mutual Fund,ICICI Prudential Nifty Smallcap 250 ETF,INF109K1A476,,Open Ended Schemes,Other Scheme - Other  ETFs
 154405,Tata Mutual Fund,Tata Multi Sector Passive FOF,INF277KA1ES2,,Open Ended Schemes,Fund of Funds Scheme
 154406,Tata Mutual Fund,Tata Multi Sector Passive FOF,INF277KA1EU8,,Open Ended Schemes,Fund of Funds Scheme
@@ -36387,10 +36387,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 152117,NJ Asset Management Private Limited,NJ Overnight Fund - Unclaimed IDCW Plan - Upto 3 Years,,,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
 152118,NJ Asset Management Private Limited,NJ Overnight Fund - Unclaimed Redemption Plan - Above 3 Years,,,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
 150524,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 88 - 226 Days Plan E - Half Yearly IDCW,INF109KC16D7,,Close Ended,Income
-154403,Shriram Asset Management Co. Ltd.,Shriram Overnight Fund- Direct Fortnightly IDCW,INF680P01570,INF680P01596,Open Ended,Debt Scheme - Overnight Fund
-154397,Shriram Asset Management Co. Ltd.,Shriram Overnight Fund- Direct Weekly IDCW,INF680P01539,INF680P01554,Open Ended,Debt Scheme - Overnight Fund
-154400,Shriram Asset Management Co. Ltd.,Shriram Overnight Fund- Regular Weekly IDCW,INF680P01547,INF680P01562,Open Ended,Debt Scheme - Overnight Fund
-154401,Shriram Asset Management Co. Ltd.,Shriram Overnight Fund- Regular Fortnightly IDCW,INF680P01588,INF680P01604,Open Ended,Debt Scheme - Overnight Fund
+154403,Shriram Asset Management Co. Ltd.,Shriram Overnight Fund- Direct Fortnightly IDCW,INF680P01570,INF680P01596,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
+154397,Shriram Asset Management Co. Ltd.,Shriram Overnight Fund- Direct Weekly IDCW,INF680P01539,INF680P01554,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
+154400,Shriram Asset Management Co. Ltd.,Shriram Overnight Fund- Regular Weekly IDCW,INF680P01547,INF680P01562,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
+154401,Shriram Asset Management Co. Ltd.,Shriram Overnight Fund- Regular Fortnightly IDCW,INF680P01588,INF680P01604,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
 153018,Samco Asset Management Private Limited,Samco Overnight Fund - Unclaimed Redemption Beyond 3 years,,,Open Ended,Debt Scheme - Overnight Fund
 153019,Samco Asset Management Private Limited,Samco Overnight Fund - Unclaimed IDCW Beyond 3 years,,,Open Ended,Debt Scheme - Overnight Fund
 153020,Samco Asset Management Private Limited,Samco Overnight Fund - Unclaimed IDCW Upto 3 years,,,Open Ended,Debt Scheme - Overnight Fund
@@ -36622,3 +36622,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154755,Kotak Mahindra Asset Management Company Limited.,Kotak Nifty Capital Markets Index Fund - Direct Plan - IDCW,INF174KA1G15,INF174KA1G23,Open Ended,Index Funds - Equity Funds
 154756,Kotak Mahindra Asset Management Company Limited.,Kotak Nifty Capital Markets Index Fund - Regular Plan - Growth,INF174KA1G31,,Open Ended,Index Funds - Equity Funds
 154757,Kotak Mahindra Asset Management Company Limited.,Kotak Nifty Capital Markets Index Fund - Regular Plan - IDCW,INF174KA1G49,INF174KA1G56,Open Ended,Index Funds - Equity Funds
+154758,SBI Funds Management Limited,SBI Nifty200 Value 30 ETF FOF - Regular Plan - Growth,,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154759,SBI Funds Management Limited,SBI Nifty200 Value 30 ETF FOF - Regular Plan - IDCW,,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154760,SBI Funds Management Limited,SBI Nifty200 Value 30 ETF FOF - Direct Plan - Growth,,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154761,SBI Funds Management Limited,SBI Nifty200 Value 30 ETF FOF - Direct Plan - IDCW,,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
