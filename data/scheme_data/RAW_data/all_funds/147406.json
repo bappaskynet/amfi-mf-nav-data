@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Shriram Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
+        "scheme_category": "Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation",
         "scheme_code": 147406,
         "scheme_name": "Shriram Balanced Advantage Fund - Direct Plan - Growth",
         "isin_growth": "INF680P01208",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "11-09-2026",
+            "nav": "18.67070"
+        },
         {
             "date": "10-09-2026",
             "nav": "18.71450"

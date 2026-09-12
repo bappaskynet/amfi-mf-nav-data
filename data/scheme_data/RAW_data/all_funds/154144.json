@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Shriram Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Money Market Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Money Market Fund",
         "scheme_code": 154144,
         "scheme_name": "Shriram Money Market Fund - Direct Plan - Growth",
         "isin_growth": "INF680P01471",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "11-09-2026",
+            "nav": "1042.29680"
+        },
         {
             "date": "10-09-2026",
             "nav": "1042.39980"

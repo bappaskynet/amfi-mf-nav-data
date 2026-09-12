@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Shriram Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Liquid Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 153282,
         "scheme_name": "Shriram Liquid Fund - Direct Plan",
         "isin_growth": null,
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "11-09-2026",
+            "nav": "1094.34110"
+        },
         {
             "date": "10-09-2026",
             "nav": "1094.28940"

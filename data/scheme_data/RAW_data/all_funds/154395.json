@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Shriram Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Overnight Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Overnight Fund",
         "scheme_code": 154395,
         "scheme_name": "Shriram Overnight Fund - Direct Plan - Daily IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF680P01513"
     },
     "data": [
+        {
+            "date": "11-09-2026",
+            "nav": "1000.01880"
+        },
         {
             "date": "10-09-2026",
             "nav": "1000.01880"
