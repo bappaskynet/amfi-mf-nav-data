@@ -25924,10 +25924,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 147400,Tata Mutual Fund,Tata Treasury Advantage Fund Segregated Portfolio 1 Regular Plan - Weekly Payout of IDCW Option,,,Open Ended Schemes,Debt Scheme - Low Duration Fund
 147401,Tata Mutual Fund,Tata Treasury Advantage Fund Segregated Portfolio 1 Regular Plan - Daily Payout of IDCW Option,,,Open Ended Schemes,Debt Scheme - Low Duration Fund
 147402,Tata Mutual Fund,Tata Treasury Advantage Fund Segregated Portfolio 1 Regular Plan - Periodic Payout of IDCW Option,,,Open Ended Schemes,Debt Scheme - Low Duration Fund
-147403,Shriram Mutual Fund,Shriram Balanced Advantage Fund - Direct Plan - IDCW,INF680P01216,INF680P01224,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
-147404,Shriram Mutual Fund,Shriram Balanced Advantage Fund - Regular Plan - IDCW,INF680P01182,INF680P01190,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
-147405,Shriram Mutual Fund,Shriram Balanced Advantage Fund - Regular Plan - Growth,INF680P01174,,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
-147406,Shriram Mutual Fund,Shriram Balanced Advantage Fund - Direct Plan - Growth,INF680P01208,,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
+147403,Shriram Mutual Fund,Shriram Balanced Advantage Fund - Direct Plan - IDCW,INF680P01216,INF680P01224,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
+147404,Shriram Mutual Fund,Shriram Balanced Advantage Fund - Regular Plan - IDCW,INF680P01182,INF680P01190,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
+147405,Shriram Mutual Fund,Shriram Balanced Advantage Fund - Regular Plan - Growth,INF680P01174,,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
+147406,Shriram Mutual Fund,Shriram Balanced Advantage Fund - Direct Plan - Growth,INF680P01208,,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 147407,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Pharma and Healthcare Fund - Regular Plan - Growth,INF209KB1N91,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 147408,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Pharma and Healthcare Fund - Regular Plan - IDCW,INF209KB1O09,INF209KB1O17,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 147409,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Pharma and Healthcare Fund - Direct Plan - GROWTH,INF209KB1O25,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
@@ -29559,7 +29559,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 152738,Franklin Templeton Mutual Fund,Franklin India Multi Cap Fund - Regular Plan - Growth,INF090I01WX1,,Open Ended Schemes,Equity Scheme - Multi Cap Fund
 152739,Franklin Templeton Mutual Fund,Franklin India Multi Cap Fund - Direct Plan - Growth,INF090I01XA7,,Open Ended Schemes,Equity Scheme - Multi Cap Fund
 152740,Franklin Templeton Mutual Fund,Franklin India Multi Cap Fund - Regular Plan - IDCW,INF090I01WY9,INF090I01WZ6,Open Ended Schemes,Equity Scheme - Multi Cap Fund
-152741,Shriram Mutual Fund,Shriram Nifty 1D Rate Liquid ETF - Direct Plan - Growth,INF680P01422,,Open Ended Schemes,Other Scheme - Other  ETFs
+152741,Shriram Mutual Fund,Shriram Nifty 1D Rate Liquid ETF - Direct Plan - Growth,INF680P01422,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Debt ETF
 152742,Tata Mutual Fund,Tata Nifty India Tourism Index Fund - Direct Plan - Growth Option,INF277KA1CC0,,Open Ended Schemes,Other Scheme - Index Funds
 152743,Tata Mutual Fund,Tata Nifty India Tourism Index Fund - Direct Plan - IDCW Reinvestment Option,,INF277KA1CE6,Open Ended Schemes,Other Scheme - Index Funds
 152744,Tata Mutual Fund,Tata Nifty India Tourism Index Fund - Direct Plan - IDCW Payout Option,INF277KA1CD8,,Open Ended Schemes,Other Scheme - Index Funds
@@ -29842,8 +29842,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153032,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil-IBX AAA Financial Services Index-Sep 2027 Fund - Regular Plan - IDCW Payout,INF209KC1324,,Open Ended Schemes,Other Scheme - Index Funds
 153033,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil-IBX AAA Financial Services Index-Sep 2027 Fund - Regular Plan - Growth,INF209KC1316,,Open Ended Schemes,Other Scheme - Index Funds
 153034,Groww Mutual Fund,Groww Multicap Fund - Direct Plan - Growth,INF666M01JD9,,Open Ended Schemes,Equity Schemes - Multi Cap Fund
-153035,Shriram Mutual Fund,Shriram Liquid Fund - Direct Plan - Growth,INF680P01430,,Open Ended Schemes,Debt Scheme - Liquid Fund
-153036,Shriram Mutual Fund,Shriram Liquid Fund - Regular Plan - Growth,INF680P01448,,Open Ended Schemes,Debt Scheme - Liquid Fund
+153035,Shriram Mutual Fund,Shriram Liquid Fund - Direct Plan - Growth,INF680P01430,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+153036,Shriram Mutual Fund,Shriram Liquid Fund - Regular Plan - Growth,INF680P01448,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 153037,PGIM India Mutual Fund,PGIM India Healthcare Fund - Direct Plan - Direct IDCW,INF663L01Z60,INF663L01Z78,Open Ended Schemes,Equity Schemes - Thematic Fund
 153038,PGIM India Mutual Fund,PGIM India Healthcare Fund - Regular Plan - Regular IDCW,INF663L01Z86,INF663L01Z94,Open Ended Schemes,Equity Schemes - Thematic Fund
 153039,PGIM India Mutual Fund,PGIM India Healthcare Fund - Direct Plan - Direct Growth,INF663L01Z45,,Open Ended Schemes,Equity Schemes - Thematic Fund
@@ -30077,10 +30077,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153276,Nippon India Mutual Fund,Nippon India Active Momentum Fund - Regular Plan - Growth Option,INF204KC1EH1,,Open Ended Schemes,Equity Schemes - Thematic Fund
 153277,Nippon India Mutual Fund,Nippon India Active Momentum Fund - Direct Plan - IDCW Option,INF204KC1EL3,INF204KC1EM1,Open Ended Schemes,Equity Schemes - Thematic Fund
 153278,Nippon India Mutual Fund,Nippon India Active Momentum Fund - Regular Plan - IDCW Option,INF204KC1EI9,INF204KC1EJ7,Open Ended Schemes,Equity Schemes - Thematic Fund
-153280,Shriram Mutual Fund,Shriram Liquid Fund - Direct Plan,,,Open Ended Schemes,Debt Scheme - Liquid Fund
-153281,Shriram Mutual Fund,Shriram Liquid Fund - Direct Plan,,,Open Ended Schemes,Debt Scheme - Liquid Fund
-153282,Shriram Mutual Fund,Shriram Liquid Fund - Direct Plan,,,Open Ended Schemes,Debt Scheme - Liquid Fund
-153283,Shriram Mutual Fund,Shriram Liquid Fund - Direct Plan,,,Open Ended Schemes,Debt Scheme - Liquid Fund
+153280,Shriram Mutual Fund,Shriram Liquid Fund - Direct Plan,,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+153281,Shriram Mutual Fund,Shriram Liquid Fund - Direct Plan,,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+153282,Shriram Mutual Fund,Shriram Liquid Fund - Direct Plan,,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+153283,Shriram Mutual Fund,Shriram Liquid Fund - Direct Plan,,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 153284,Kotak Mahindra Mutual Fund,Kotak BSE Sensex Index Fund - Regular Plan - Growth,INF174KA1US2,,Open Ended Schemes,Other Scheme - Index Funds
 153285,Kotak Mahindra Mutual Fund,Kotak BSE Sensex Index Fund - Regular Plan - IDCW,INF174KA1UT0,INF174KA1UU8,Open Ended Schemes,Other Scheme - Index Funds
 153286,Kotak Mahindra Mutual Fund,Kotak BSE Sensex Index Fund - Direct Plan - Growth,INF174KA1UV6,,Open Ended Schemes,Other Scheme - Index Funds
@@ -30859,8 +30859,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154139,Motilal Oswal Mutual Fund,Motilal Oswal Financial Services Fund - Regular Plan - Payout,INF247L01GR6,INF247L01GS4,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 154140,Motilal Oswal Mutual Fund,Motilal Oswal Financial Services Fund - Direct Plan - Payout/Reinvestment,INF247L01GO3,INF247L01GP0,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 154142,Motilal Oswal Mutual Fund,Motilal Oswal Financial Services Fund - Direct Plan - Growth,INF247L01GN5,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-154143,Shriram Mutual Fund,Shriram Money Market Fund - Regular Plan - Growth,INF680P01489,,Open Ended Schemes,Debt Scheme - Money Market Fund
-154144,Shriram Mutual Fund,Shriram Money Market Fund - Direct Plan - Growth,INF680P01471,,Open Ended Schemes,Debt Scheme - Money Market Fund
+154143,Shriram Mutual Fund,Shriram Money Market Fund - Regular Plan - Growth,INF680P01489,,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
+154144,Shriram Mutual Fund,Shriram Money Market Fund - Direct Plan - Growth,INF680P01471,,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
 154145,Kotak Mahindra Mutual Fund,Kotak Nifty200 Value 30 Index Fund - Direct Plan - Growth,INF174KA1YP0,,Open Ended Schemes,Other Scheme - Index Funds
 154146,Kotak Mahindra Mutual Fund,Kotak Nifty200 Value 30 Index Fund - Direct Plan - IDCW,INF174KA1YQ8,INF174KA1YR6,Open Ended Schemes,Other Scheme - Index Funds
 154147,Kotak Mahindra Mutual Fund,Kotak Nifty200 Value 30 Index Fund - Regular Plan - IDCW,INF174KA1YT2,INF174KA1YU0,Open Ended Schemes,Other Scheme - Index Funds
@@ -31099,12 +31099,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154391,Kotak Mahindra Mutual Fund,Kotak Nifty Alpha Low Volatility 30 Index Fund - Direct Plan - IDCW,INF174KA1A37,INF174KA1A45,Open Ended Schemes,Other Scheme - Index Funds
 154392,WhiteOak Capital Mutual Fund,WhiteOak Capital Aggressive Hybrid Fund - Direct Plan - Growth Option,INF03VN01AF8,,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
 154393,WhiteOak Capital Mutual Fund,WhiteOak Capital Aggressive Hybrid Fund - Regular Plan - Growth Option,INF03VN01AG6,,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
-154394,Shriram Mutual Fund,Shriram Overnight Fund - Direct Plan - Growth,INF680P01497,,Open Ended Schemes,Debt Scheme - Overnight Fund
-154395,Shriram Mutual Fund,Shriram Overnight Fund - Direct Plan - Daily IDCW,,INF680P01513,Open Ended Schemes,Debt Scheme - Overnight Fund
-154396,Shriram Mutual Fund,Shriram Overnight Fund - Direct Plan - Monthly IDCW,INF680P01612,INF680P01638,Open Ended Schemes,Debt Scheme - Overnight Fund
-154398,Shriram Mutual Fund,Shriram Overnight Fund - Regular Plan - Daily IDCW,,INF680P01521,Open Ended Schemes,Debt Scheme - Overnight Fund
-154399,Shriram Mutual Fund,Shriram Overnight Fund - Regular Plan - Growth,INF680P01505,,Open Ended Schemes,Debt Scheme - Overnight Fund
-154402,Shriram Mutual Fund,Shriram Overnight Fund - Regular Plan - Monthly IDCW,INF680P01620,INF680P01646,Open Ended Schemes,Debt Scheme - Overnight Fund
+154394,Shriram Mutual Fund,Shriram Overnight Fund - Direct Plan - Growth,INF680P01497,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
+154395,Shriram Mutual Fund,Shriram Overnight Fund - Direct Plan - Daily IDCW,,INF680P01513,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
+154396,Shriram Mutual Fund,Shriram Overnight Fund - Direct Plan - Monthly IDCW,INF680P01612,INF680P01638,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
+154398,Shriram Mutual Fund,Shriram Overnight Fund - Regular Plan - Daily IDCW,,INF680P01521,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
+154399,Shriram Mutual Fund,Shriram Overnight Fund - Regular Plan - Growth,INF680P01505,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
+154402,Shriram Mutual Fund,Shriram Overnight Fund - Regular Plan - Monthly IDCW,INF680P01620,INF680P01646,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 154404,ICICI Prudential Mutual Fund,ICICI Prudential Nifty Smallcap 250 ETF,INF109K1A476,,Open Ended Schemes,Other Scheme - Other  ETFs
 154405,Tata Mutual Fund,Tata Multi Sector Passive FOF - Regular Plan - Growth Option,INF277KA1ES2,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154406,Tata Mutual Fund,Tata Multi Sector Passive FOF - Regular Plan - IDCW Payout Option,INF277KA1EU8,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
