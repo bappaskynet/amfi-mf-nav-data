@@ -14284,8 +14284,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154600,Bandhan Mutual Fund,Bandhan Contra Fund,INF194KB1KX8,,Open Ended Schemes,Equity Schemes - Contra Fund
 154601,Bandhan Mutual Fund,Bandhan Contra Fund,INF194KB1LA4,INF194KB1LB2,Open Ended Schemes,Equity Schemes - Contra Fund
 154602,UTI Mutual Fund,UTI Nifty 500 Exchange Traded Fund,INF789F1AG76,,Open Ended Schemes,Exchange Traded Funds
-154603,UTI Mutual Fund,UTI Nifty 500 Index Fund,INF789F1AG84,,Open Ended Schemes,Exchange Traded Funds
-154604,UTI Mutual Fund,UTI Nifty 500 Index Fund,INF789F1AG92,,Open Ended Schemes,Exchange Traded Funds
+154603,UTI Mutual Fund,UTI Nifty 500 Index Fund,INF789F1AG84,,Open Ended Schemes,Index Funds - Equity Funds
+154604,UTI Mutual Fund,UTI Nifty 500 Index Fund,INF789F1AG92,,Open Ended Schemes,Index Funds - Equity Funds
 154605,Kotak Mahindra Mutual Fund,Kotak Liquid Fund,INF174KA1D91,INF174KA1E17,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 154606,Kotak Mahindra Mutual Fund,Kotak Liquid Fund,INF174KA1E09,INF174KA1D83,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 154607,Kotak Mahindra Mutual Fund,Kotak Ultra Short Term Fund,INF174KA1E33,INF174KA1E58,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
@@ -36626,3 +36626,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154759,SBI Funds Management Limited,SBI Nifty200 Value 30 ETF FOF - Regular Plan - IDCW,,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154760,SBI Funds Management Limited,SBI Nifty200 Value 30 ETF FOF - Direct Plan - Growth,,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154761,SBI Funds Management Limited,SBI Nifty200 Value 30 ETF FOF - Direct Plan - IDCW,,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154762,Motilal Oswal Asset Management Company Limited,Motilal Oswal Nifty REITs & Realty Index Fund - Direct,INF247L01HO1,,Open Ended,Index Funds - Equity Funds
+154763,Motilal Oswal Asset Management Company Limited,Motilal Oswal Nifty REITs & Realty Index Fund - Regular,INF247L01HP8,,Open Ended,Index Funds - Equity Funds
+154764,Zerodha Asset Management Private Limited,Zerodha Nifty Next 100 ETF,,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
