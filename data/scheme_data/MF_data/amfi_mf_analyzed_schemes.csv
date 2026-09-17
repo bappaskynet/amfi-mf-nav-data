@@ -36568,13 +36568,13 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 154700,UTI Asset Mgmt. Co. Ltd.,UTI BSE India Sector Leaders Index Fund Regular Plan,INF789F1AH59,Open Ended,Index Funds,Equity Funds,Regular,Other,
 154701,Jio BlackRock Asset Management Private Limited,JioBlackRock Balanced Advantage Fund,INF22M001366,Open Ended,Hybrids,Balanced Advantage Fund/ Dynamic Asset Allocation,Other,Other,
 154702,Jio BlackRock Asset Management Private Limited,JioBlackRock Balanced Advantage Fund - Regular Plan - Growth Option,INF22M001374,Open Ended,Hybrids,Balanced Advantage Fund/ Dynamic Asset Allocation,Regular,Growth,
-154703,Navi AMC Limited,Navi Nifty Reits & Realty Undex Fund- Regular Plan,INF959L01HU8,Open Ended,Index Funds,Equity Funds,Regular,Other,
-154704,Navi AMC Limited,Navi Nifty Reits & Realty Index Fund- Direct Plan,INF959L01HT0,Open Ended,Index Funds,Equity Funds,Direct,Other,
+154703,Navi Mutual Fund,Navi Nifty Reits & Realty Index fund,INF959L01HU8,Open Ended,Index Funds,Equity Funds,Other,Other,
+154704,Navi Mutual Fund,Navi Nifty Reits & Realty Index fund,INF959L01HT0,Open Ended,Index Funds,Equity Funds,Other,Other,
 154705,Monarch Mutual Fund,Monarch Overnight Fund,INF2ZSC01085,Open Ended,Income/Debt Orienteds,Overnight Fund,Other,Other,
 154706,Monarch Mutual Fund,Monarch Overnight Fund,INF2ZSC01028,Open Ended,Income/Debt Orienteds,Overnight Fund,Other,Other,
 154707,Monarch Networth Asset Management Private Limited,Monarch Overnight Fund - Direct Plan-Daily IDCW,INF2ZSC01044,Open Ended,Income/Debt Orienteds,Overnight Fund,Direct,IDCW,Daily
 154709,Monarch Networth Asset Management Private Limited,Monarch Overnight Fund- Regular Plan- Monthly IDCW,INF2ZSC01077,Open Ended,Income/Debt Orienteds,Overnight Fund,Regular,IDCW,Monthly
-154710,Monarch Networth Asset Management Private Limited,Monarch Overnught Fund- Regular Plan - Daily IDCW,INF2ZSC01036,Open Ended,Income/Debt Orienteds,Overnight Fund,Regular,IDCW,Daily
+154710,Monarch Mutual Fund,Monarch Overnight Fund,,Open Ended,Income/Debt Orienteds,Overnight Fund,Other,Other,
 154711,Monarch Mutual Fund,Monarch Overnight Fund,INF2ZSC01010,Open Ended,Income/Debt Orienteds,Overnight Fund,Other,Other,
 154712,Invesco Asset Management (India) Private Limited,Invesco India Nifty India Defence Index Fund - Direct Plan - Growth,INF205KA1CG8,Open Ended,Index Funds,Equity Funds,Direct,Growth,
 154713,Invesco Asset Management (India) Private Limited,Invesco India Nifty India Defence Index Fund - Regular Plan - Growth,INF205KA1CD5,Open Ended,Index Funds,Equity Funds,Regular,Growth,
