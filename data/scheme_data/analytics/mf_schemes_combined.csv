@@ -259,7 +259,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 101070,quant Mutual Fund,Quant Aggressive Hybrid Fund,INF966L01267,,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
 101071,quant Mutual Fund,Quant Multi Asset Allocation Fund,INF966L01184,INF966L01192,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
 101072,quant Mutual Fund,Quant Multi Asset Allocation Fund,INF966L01200,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
-101078,JM Financial Mutual Fund,JM Liquid Fund - Daily Dividend Option,,INF192K01833,Open Ended Schemes,Debt Scheme - Liquid Fund
+101078,JM Financial Mutual Fund,JM Liquid Fund,,INF192K01833,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 101083,HDFC Mutual Fund,HDFC Gilt Fund,INF179K01756,,Open Ended Schemes,Debt Scheme - Gilt Fund
 101084,HDFC Mutual Fund,HDFC Gilt Fund,INF179K01772,INF179K01764,Open Ended Schemes,Debt Scheme - Gilt Fund
 101098,ICICI Prudential Mutual Fund,ICICI Prudential Child Care -Study Plan,INF109K01597,,Open Ended Schemes,Income
@@ -271,7 +271,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 101163,Nippon India Mutual Fund,Nippon India Multi Cap Fund,INF204K01455,INF204K01463,Open Ended Schemes,Equity Scheme - Multi Cap Fund
 101165,ICICI Prudential Mutual Fund,ICICI Prudential Short Term Fund - Div. Option,INF109K01WL0,INF109K01647,Open Ended Schemes,Debt Scheme - Short Duration Fund
 101169,SBI Mutual Fund,SBI CHILDREN'S FUND - SAVINGS PLAN,INF200K01776,,Open Ended Schemes,Solution Oriented Scheme - Childrenâs Fund
-101181,JM Financial Mutual Fund,JM Medium to Long Term Fund Growth - Bonus Option,INF192K01AC1,,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund
+101181,JM Financial Mutual Fund,JM Medium to Long Term Fund,INF192K01AC1,,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund
 101184,LIC Mutual Fund,LIC MF Liquid Fund,INF767K01IQ3,INF767K01IR1,Open Ended Schemes,Debt Scheme - Liquid Fund
 101185,LIC Mutual Fund,LIC MF Liquid Fund,INF767K01IS9,,Open Ended Schemes,Debt Scheme - Liquid Fund
 101186,Tata Mutual Fund,Tata Income Fund,INF277K01DT8,INF277K01667,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
@@ -333,7 +333,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 101539,Sundaram Mutual Fund,Sundaram Mid Cap Fund,INF903J01173,,Open Ended Schemes,Equity Scheme - Mid Cap Fund
 101547,Tata Mutual Fund,Tata Short Term Fund,INF277K01EI9,INF277K01964,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 101548,Tata Mutual Fund,Tata Short Term Fund,INF277K01972,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
-101549,JM Financial Mutual Fund,JM Liquid Fund - Bonus Option,INF192K01890,,Open Ended Schemes,Debt Scheme - Liquid Fund
+101549,JM Financial Mutual Fund,JM Liquid Fund,INF192K01890,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 101551,SBI Mutual Fund,SBI AGGRESSIVE HYBRID FUND,INF200K01115,INF200K01123,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
 101585,HDFC Mutual Fund,HDFC Equity Savings Fund,INF179K01AM7,,Open Ended Schemes,Hybrid Scheme - Equity Savings
 101586,HDFC Mutual Fund,HDFC Equity Savings Fund,INF179K01AK1,INF179K01AL9,Open Ended Schemes,Hybrid Scheme - Equity Savings
@@ -36157,12 +36157,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 147062,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 85 - 1114 Days Plan W - Cumulative Option,,,Close Ended,Income
 147063,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 85 - 1114 Days Plan W - Quarterly Dividend Option,,,Close Ended,Income
 147064,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 85 - 1114 Days Plan W - Direct Plan Quarterly Dividend Option,,,Close Ended,Income
-147070,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 85 - 1109 Days Plan X - Direct Plan Cumulative Option,,,Close Ended,Income
 147065,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 85 - 1109 Days Plan X - Cumulative Option,,,Close Ended,Income
 147066,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 85 - 1109 Days Plan X - Direct Plan Quarterly Dividend Option,,,Close Ended,Income
 147067,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 85 - 1109 Days Plan X - Half Yearly Dividend Option,,,Close Ended,Income
 147068,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 85 - 1109 Days Plan X - Direct Plan Half Yearly Dividend Option,,,Close Ended,Income
 147069,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 85 - 1109 Days Plan X - Quarterly Dividend Option,,,Close Ended,Income
+147070,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 85 - 1109 Days Plan X - Direct Plan Cumulative Option,,,Close Ended,Income
 147099,Nippon Life India Asset Management Limited,Reliance Fixed Horizon Fund XLI - Series 9 - Dividend Payout Option,INF204KB10C3,,Close Ended,Income
 147100,Nippon Life India Asset Management Limited,Reliance Fixed Horizon Fund XLI - Series 9 - Growth Option,INF204KB19B6,,Close Ended,Income
 147101,Nippon Life India Asset Management Limited,Reliance Fixed Horizon Fund XLI - Series 9 - Direct Plan - Growth Option,INF204KB11C1,,Close Ended,Income
@@ -36568,7 +36568,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154693,Bank of India Investment Managers Private Limited,Bank of India Value Fund - Direct - Growth,INF761K01HK1,,Open Ended,Equity Schemes - Value Fund
 154694,Bank of India Investment Managers Private Limited,Bank of India Value Fund - Direct - IDCW,INF761K01HL9,INF761K01HM7,Open Ended,Equity Schemes - Value Fund
 154695,Bank of India Investment Managers Private Limited,Bank of India Value Fund - Regular - Growth,INF761K01HN5,,Open Ended,Equity Schemes - Value Fund
-154697,Zerodha Asset Management Private Limited,Zerodha Life Cycle Fund 2031,,,Open Ended,Life Cycle Funds - Life Cycle Fund with Maturity of 5 Years
+154697,Zerodha Asset Management Private Limited,Zerodha Life Cycle Fund 2031,INF0R8F01240,,Open Ended,Life Cycle Funds - Life Cycle Fund with Maturity of 5 Years
 154699,UTI Asset Mgmt. Co. Ltd.,UTI BSE India Sector Leaders Index Fund,INF789F1AH67,,Open Ended,Index Funds - Equity Funds
 154700,UTI Asset Mgmt. Co. Ltd.,UTI BSE India Sector Leaders Index Fund Regular Plan,INF789F1AH59,,Open Ended,Index Funds - Equity Funds
 154701,Jio BlackRock Asset Management Private Limited,JioBlackRock Balanced Advantage Fund,INF22M001366,,Open Ended,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
@@ -36600,8 +36600,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154731,Kotak Mahindra Asset Management Company Limited.,Kotak Multi Sector Omni FOF - Regular Plan - Growth,INF174KA1F73,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154732,Kotak Mahindra Asset Management Company Limited.,Kotak Multi Sector Omni FOF - Direct Plan - IDCW - Payout & Reinvestment,INF174KA1F57,INF174KA1F65,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154733,Kotak Mahindra Asset Management Company Limited.,Kotak Multi Sector Omni FOF - Regular Plan - IDCW - Payout & Reinvestment,INF174KA1F81,INF174KA1F99,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
-154737,Lakshya Asset Management Private Limited,LAKSHYA OVERNIGHT FUND-Regular,INF2ZPR01022,,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
 154736,Lakshya Asset Management Private Limited,LAKSHYA OVERNIGHT FUND-Direct,INF2ZPR01014,,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
+154737,Lakshya Asset Management Private Limited,LAKSHYA OVERNIGHT FUND-Regular,INF2ZPR01022,,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
 154738,Axis Asset Management Co. Ltd.,Axis Nifty500 Low Volatility 50 Index Fund - Direct Plan - Growth Option,INF846KA1614,,Open Ended,Index Funds - Equity Funds
 154739,Axis Asset Management Co. Ltd.,Axis Nifty500 Low Volatility 50 Index Fund - Regular Plan - Growth Option,INF846KA1606,,Open Ended,Index Funds - Equity Funds
 154740,ICICI Prudential Asset Management Company Limited,ICICI Prudential Contra Fund - Direct Plan - Growth,,,Open Ended,Equity Schemes - Contra Fund

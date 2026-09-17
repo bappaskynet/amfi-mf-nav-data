@@ -567,7 +567,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 101070,quant Mutual Fund,Quant Aggressive Hybrid Fund,INF966L01267,Open Ended,Hybrid,Aggressive Hybrid Fund,Other,Other,
 101071,quant Mutual Fund,Quant Multi Asset Allocation Fund,INF966L01184,Open Ended,Hybrid,Multi Asset Allocation,Other,Other,
 101072,quant Mutual Fund,Quant Multi Asset Allocation Fund,INF966L01200,Open Ended,Hybrid,Multi Asset Allocation,Other,Other,
-101078,JM Financial Mutual Fund,JM Liquid Fund - Daily Dividend Option,,Open Ended,Debt,Liquid Fund,Other,IDCW,Daily
+101078,JM Financial Mutual Fund,JM Liquid Fund,,Open Ended,Income/Debt Orienteds,Liquid Fund,Other,Other,
 101081,HDFC Mutual Fund,HDFC Gilt Fund-Short Term-Dividend,,Open Ended,Income,Income,Other,IDCW,
 101082,HDFC Mutual Fund,HDFC Gilt Fund-Short Term-Growth,,Open Ended,Income,Income,Other,Growth,
 101083,HDFC Mutual Fund,HDFC Gilt Fund,INF179K01756,Open Ended,Debt,Gilt Fund,Other,Other,
@@ -614,7 +614,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 101178,Standard Chartered Mutual Fund,Grindlays Government Securities Fund - ST (Monthly Dividend),,Open Ended,Income,Income,Other,IDCW,Monthly
 101179,Standard Chartered Mutual Fund,Grindlays Government Securities Fund-IP(Annual Dividend),,Open Ended,Income,Income,Other,IDCW,Annual
 101180,Standard Chartered Mutual Fund,Grindlays Government Securities Fund-ST (Quarterly Dividend),,Open Ended,Income,Income,Other,IDCW,Quarterly
-101181,JM Financial Mutual Fund,JM Medium to Long Term Fund Growth - Bonus Option,INF192K01AC1,Open Ended,Income/Debt Orienteds,Medium to Long Term Fund,Other,Growth,
+101181,JM Financial Mutual Fund,JM Medium to Long Term Fund,INF192K01AC1,Open Ended,Income/Debt Orienteds,Medium to Long Term Fund,Other,Other,
 101184,LIC Mutual Fund,LIC MF Liquid Fund,INF767K01IQ3,Open Ended,Debt,Liquid Fund,Other,Other,
 101185,LIC Mutual Fund,LIC MF Liquid Fund,INF767K01IS9,Open Ended,Debt,Liquid Fund,Other,Other,
 101186,Tata Mutual Fund,Tata Income Fund,INF277K01DT8,Open Ended,Debt,Medium to Long Duration Fund,Other,Other,
@@ -767,7 +767,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 101546,Sundaram Asset Management Company Ltd,Sundaram Income Plus-Short Term Plan - Institutional Monthly Dividend,,Open Ended,Debt,Credit Risk Fund,Institutional,IDCW,Monthly
 101547,Tata Mutual Fund,Tata Short Term Fund,INF277K01EI9,Open Ended,Income/Debt Orienteds,Short Term Fund,Other,Other,
 101548,Tata Mutual Fund,Tata Short Term Fund,INF277K01972,Open Ended,Income/Debt Orienteds,Short Term Fund,Other,Other,
-101549,JM Financial Mutual Fund,JM Liquid Fund - Bonus Option,INF192K01890,Open Ended,Debt,Liquid Fund,Other,Bonus,
+101549,JM Financial Mutual Fund,JM Liquid Fund,INF192K01890,Open Ended,Income/Debt Orienteds,Liquid Fund,Other,Other,
 101550,ING Mutual Fund,ING Short Term Income Fund -Dividend Option,,Open Ended,Income,Income,Other,IDCW,
 101551,SBI Mutual Fund,SBI AGGRESSIVE HYBRID FUND,INF200K01115,Open Ended,Hybrids,Aggressive Hybrid Fund,Other,Other,
 101552,Sundaram Asset Management Company Ltd,Sundaram BNP Paribas Select Debt-3-Year Asset Plan-Quarterly Div,,Open Ended,Debt,Short Duration Fund,Other,Other,
@@ -36562,7 +36562,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 154694,Bank of India Investment Managers Private Limited,Bank of India Value Fund - Direct - IDCW,INF761K01HL9,Open Ended,Equitys,Value Fund,Direct,IDCW,
 154695,Bank of India Investment Managers Private Limited,Bank of India Value Fund - Regular - Growth,INF761K01HN5,Open Ended,Equitys,Value Fund,Regular,Growth,
 154696,Bank of India Investment Managers Private Limited,Bank of India Value Fund - Regular - IDCW,INF761K01HO3,Open Ended,Equitys,Value Fund,Regular,IDCW,
-154697,Zerodha Asset Management Private Limited,Zerodha Life Cycle Fund 2031,,Open Ended,Life Cycle Funds,Life Cycle Fund with Maturity of 5 Years,Other,Other,
+154697,Zerodha Asset Management Private Limited,Zerodha Life Cycle Fund 2031,INF0R8F01240,Open Ended,Life Cycle Funds,Life Cycle Fund with Maturity of 5 Years,Other,Other,
 154698,UTI Mutual Fund,UTI BSE India Sector Leaders Exchange Traded Fund,INF789F1AH42,Open Ended,Exchange Traded Funds,Exchange Traded Funds,Other,Other,
 154699,UTI Asset Mgmt. Co. Ltd.,UTI BSE India Sector Leaders Index Fund,INF789F1AH67,Open Ended,Index Funds,Equity Funds,Other,Other,
 154700,UTI Asset Mgmt. Co. Ltd.,UTI BSE India Sector Leaders Index Fund Regular Plan,INF789F1AH59,Open Ended,Index Funds,Equity Funds,Regular,Other,
