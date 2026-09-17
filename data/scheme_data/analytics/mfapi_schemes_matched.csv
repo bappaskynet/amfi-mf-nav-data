@@ -513,8 +513,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 101184,LIC Mutual Fund,LIC MF Liquid Fund - Regular Plan - Daily IDCW,INF767K01IQ3,INF767K01IR1,Open Ended Schemes,Debt Scheme - Liquid Fund
 101185,LIC Mutual Fund,LIC MF Liquid Fund - Regular Plan - Growth,INF767K01IS9,,Open Ended Schemes,Debt Scheme - Liquid Fund
 101186,Tata Mutual Fund,Tata Income Fund- Regular Plan - Periodic Payout of IDCW Option,,,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
-101187,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS GILT FUND - Regular Plan - Growth Option,INF955L01450,,Open Ended Schemes,Debt Scheme - Gilt Fund
-101188,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS GILT FUND - Regular Plan - IDCW Option,INF955L01435,INF955L01443,Open Ended Schemes,Debt Scheme - Gilt Fund
+101187,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS GILT FUND - Regular Plan - Growth Option,INF955L01450,,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
+101188,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS GILT FUND - Regular Plan - IDCW Option,INF955L01435,INF955L01443,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
 101190,Baroda Pioneer Mutual Fund,BOB GILT FUND-PF Plan (Growth),,,Open Ended Schemes,Income
 101192,DBS Chola Mutual Fund,DBS Chola Freedom Income-STF Regular-Semi Annual Dividend,,,Open Ended Schemes,Income
 101198,LIC Mutual Fund,LIC MF BSE Sensex Index Fund - Regular Plan - IDCW,INF767K01121,INF767K01113,Open Ended Schemes,Other Scheme - Index Funds
@@ -596,8 +596,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 101404,Sahara Mutual Fund,Sahara Income Fund-Growth,,,Open Ended Schemes,Income
 101405,ING Mutual Fund,ING Gilt Fund-Growth Option,,,Open Ended Schemes,Income
 101406,ING Mutual Fund,ING Gilt Fund-Dividend Option,,,Open Ended Schemes,Income
-101407,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND - IDCW Option,INF955L01559,INF955L01567,Open Ended Schemes,Debt Scheme - Liquid Fund
-101408,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND - Growth Option,INF955L01575,,Open Ended Schemes,Debt Scheme - Liquid Fund
+101407,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND - IDCW Option,INF955L01559,INF955L01567,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+101408,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND - Growth Option,INF955L01575,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 101409,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas LIQUID FUND-Defunct Plan-Daily IDCW Option,,,Open Ended Schemes,Debt Scheme - Liquid Fund
 101419,Tata Mutual Fund,Tata Long Term Debt Fund - Regular Plan  -Bonus,,,Open Ended Schemes,Income
 101430,HDFC Mutual Fund,HDFC Regular Savings Fund-GROWTH,,,Open Ended Schemes,Income
@@ -8352,9 +8352,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 111701,Mirae Asset Mutual Fund,Mirae Asset Gilt Fund Investment Plan - Regular Dividend,,,Open Ended Schemes,Income
 111702,Mirae Asset Mutual Fund,Mirae Asset Gilt Fund Investment Plan - Bonus Plan,,,Open Ended Schemes,Income
 111703,Taurus Mutual Fund,Taurus Liquid Fund - Regular Plan -SI Daily Dividend Option,,,Open Ended Schemes,Debt Scheme - Liquid Fund
-111704,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND - Regular Plan - Growth Option,INF955L01484,,Open Ended Schemes,Debt Scheme - Liquid Fund
-111705,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND - Regular Plan - Weekly IDCW Option,INF251K01SK0,INF955L01500,Open Ended Schemes,Debt Scheme - Liquid Fund
-111707,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND - Regular Plan - Daily IDCW Option,INF955L01468,INF955L01476,Open Ended Schemes,Debt Scheme - Liquid Fund
+111704,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND - Regular Plan - Growth Option,INF955L01484,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+111705,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND - Regular Plan - Weekly IDCW Option,INF251K01SK0,INF955L01500,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+111707,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND - Regular Plan - Daily IDCW Option,INF955L01468,INF955L01476,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 111708,Bank of India Mutual Fund,BANK OF INDIA ELSS TAX SAVER FUND - Regular Plan - IDCW,INF761K01165,INF761K01173,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
 111709,Bank of India Mutual Fund,BANK OF INDIA ELSS TAX SAVER FUND - Growth,INF761K01157,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
 111710,Bank of India Mutual Fund,BANK OF INDIA ELSS TAX SAVER FUND - Regular Plan - Growth,INF761K01181,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
@@ -13862,8 +13862,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 119336,Baroda Mutual Fund,Baroda Dynamic Bond Fund - Plan B (Direct) - IDCW,,,Open Ended Schemes,Debt Scheme - Dynamic Bond
 119337,Baroda Mutual Fund,Baroda Dynamic Bond Fund - Plan B (Direct) - Growth Option,,,Open Ended Schemes,Debt Scheme - Dynamic Bond
 119339,Baroda Mutual Fund,BARODA ELSS 96 - Plan B (Direct) - IDCW,,,Open Ended Schemes,Equity Scheme - ELSS
-119340,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS GILT FUND - Direct Plan - IDCW Option,INF955L01AB1,INF955L01AC9,Open Ended Schemes,Debt Scheme - Gilt Fund
-119341,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS GILT FUND - Direct Plan - Growth Option,INF955L01AD7,,Open Ended Schemes,Debt Scheme - Gilt Fund
+119340,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS GILT FUND - Direct Plan - IDCW Option,INF955L01AB1,INF955L01AC9,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
+119341,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS GILT FUND - Direct Plan - Growth Option,INF955L01AD7,,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
 119342,PineBridge Mutual Fund,PineBridge Infrastructure & Economic Reform Fund- Direct Plan- Dividend Option,,,Open Ended Schemes,Income
 119343,PineBridge Mutual Fund,PineBridge Infrastructure & Economic Reform Fund- Direct Plan- Growth Option,,,Open Ended Schemes,Income
 119344,PineBridge Mutual Fund,PineBridge World Gold Fund- Direct Plan- Growth Option,,,Open Ended Schemes,Income
@@ -13935,9 +13935,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 119411,Baroda Mutual Fund,Baroda Treasury Advantage Fund - Plan B (Direct) - Monthly IDCW Option,,,Open Ended Schemes,Debt Scheme - Low Duration Fund
 119412,L&T Mutual Fund,L&T Infrastructure Fund-Direct Plan-IDCW,,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 119413,L&T Mutual Fund,L&T Infrastructure Fund -Direct Plan-Growth,,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-119414,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND - Direct Plan - Daily IDCW Option,INF955L01AK2,,Open Ended Schemes,Debt Scheme - Liquid Fund
-119415,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND - Direct Plan - Growth Option,INF955L01AL0,,Open Ended Schemes,Debt Scheme - Liquid Fund
-119416,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND - Direct Plan - Weekly IDCW Option,INF251K01SL8,,Open Ended Schemes,Debt Scheme - Liquid Fund
+119414,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND - Direct Plan - Daily IDCW Option,INF955L01AK2,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+119415,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND - Direct Plan - Growth Option,INF955L01AL0,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+119416,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND - Direct Plan - Weekly IDCW Option,INF251K01SL8,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 119417,L&T Mutual Fund,L&T  Tax Advantage Fund-Direct Plan-Growth,,,Open Ended Schemes,Equity Scheme - ELSS
 119418,L&T Mutual Fund,L&T Tax Advantage Fund-Direct Plan-IDCW,,,Open Ended Schemes,Equity Scheme - ELSS
 119419,L&T Mutual Fund,L&T Global Real Assets Fund-Direct Plan-Dividend Option,,,Open Ended Schemes,Income
@@ -23316,7 +23316,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 141643,Axis Mutual Fund,Axis Balanced Advantage Fund - Direct Plan - IDCW Option,INF846K01A37,INF846K01A45,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 141644,Axis Mutual Fund,Axis Balanced Advantage Fund - Regular Plan - Growth Option,INF846K01A52,,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 141645,Axis Mutual Fund,Axis Balanced Advantage Fund - Regular Plan - IDCW Option,INF846K01A60,INF846K01A78,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
-141665,UTI Mutual Fund,UTI - Nifty Next 50 Exchange Traded Fund. - Direct Plan - Growth,INF789F1AUW9,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Equity ETF
+141665,UTI Mutual Fund,UTI - Nifty Next 50 Exchange Traded Fund - Direct Plan - Growth,INF789F1AUW9,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Equity ETF
 141666,Axis Mutual Fund,Axis Equity Advantage Fund - Series 2 - Direct Plan - Growth Option,,,Close Ended Schemes,Growth
 141667,Axis Mutual Fund,Axis Equity Advantage Fund - Series 2 - Regular Plan - Growth Option,,,Close Ended Schemes,Growth
 141668,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 81 - 1162 Days Plan P - Cumulative Option,,,Close Ended Schemes,Income
@@ -25819,12 +25819,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 147184,ITI Mutual Fund,ITI Multi Cap Fund - Regular Plan - Growth Option,INF00XX01135,,Open Ended Schemes,Equity Scheme - Multi Cap Fund
 147185,ITI Mutual Fund,ITI Multi Cap Fund - Regular Plan - IDCW Option,INF00XX01143,INF00XX01150,Open Ended Schemes,Equity Scheme - Multi Cap Fund
 147186,ITI Mutual Fund,ITI Multi Cap Fund - Direct Plan - IDCW Option,INF00XX01176,INF00XX01184,Open Ended Schemes,Equity Scheme - Multi Cap Fund
-147193,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund - Regular Plan - Growth Option,INF955L01HS0,,Open Ended Schemes,Debt Scheme - Overnight Fund
-147194,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund - Regular Plan - Daily IDCW Option,,INF955L01HT8,Open Ended Schemes,Debt Scheme - Overnight Fund
-147195,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund - Direct Plan - Weekly IDCW Option,,INF955L01HX0,Open Ended Schemes,Debt Scheme - Overnight Fund
-147196,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund - Direct Plan - Growth Option,INF955L01HV4,,Open Ended Schemes,Debt Scheme - Overnight Fund
-147197,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund - Direct Plan - Daily IDCW Option,,INF955L01HW2,Open Ended Schemes,Debt Scheme - Overnight Fund
-147198,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund - Regular Plan - Weekly IDCW Option,,INF955L01HU6,Open Ended Schemes,Debt Scheme - Overnight Fund
+147193,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund - Regular Plan - Growth Option,INF955L01HS0,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
+147194,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund - Regular Plan - Daily IDCW Option,,INF955L01HT8,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
+147195,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund - Direct Plan - Weekly IDCW Option,,INF955L01HX0,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
+147196,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund - Direct Plan - Growth Option,INF955L01HV4,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
+147197,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund - Direct Plan - Daily IDCW Option,,INF955L01HW2,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
+147198,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund - Regular Plan - Weekly IDCW Option,,INF955L01HU6,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 147203,Mirae Asset Mutual Fund,Mirae Asset Focused Fund - Regular Plan - Growth,INF769K01ES4,,Open Ended Schemes,Equity Schemes - Focused Fund
 147204,Mirae Asset Mutual Fund,Mirae Asset Focused Fund - Regular Plan - IDCW,INF769K01ER6,INF769K01EV8,Open Ended Schemes,Equity Schemes - Focused Fund
 147205,Mirae Asset Mutual Fund,Mirae Asset Focused Fund - Direct Plan - IDCW,INF769K01ET2,INF769K01EW6,Open Ended Schemes,Equity Schemes - Focused Fund
@@ -25896,14 +25896,14 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 147348,ICICI Prudential Mutual Fund,ICICI Prudential MNC Fund - Regular Plan - IDCW,INF109KC1D77,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 147371,Quantum Mutual Fund,QUANTUM ESG BEST IN CLASS STRATEGY FUND - Regular Plan - Growth Option,INF082J01390,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 147372,Quantum Mutual Fund,QUANTUM ESG BEST IN CLASS STRATEGY FUND - Direct Plan - Growth Option,INF082J01382,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-147373,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Money Market Fund - Direct Plan - Monthly IDCW Option,INF955L01IG3,,Open Ended Schemes,Debt Scheme - Money Market Fund
-147376,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Money Market Fund - Regular Plan - Monthly IDCW Option,INF955L01IB4,,Open Ended Schemes,Debt Scheme - Money Market Fund
-147377,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Money Market Fund - Direct Plan - Growth Option,INF955L01ID0,,Open Ended Schemes,Debt Scheme - Money Market Fund
-147378,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Money Market Fund - Direct Plan - Daily IDCW Option,,INF955L01IE8,Open Ended Schemes,Debt Scheme - Money Market Fund
-147379,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Money Market Fund - Direct Plan - Weekly IDCW Option,INF251K01VT5,INF955L01IF5,Open Ended Schemes,Debt Scheme - Money Market Fund
-147380,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Money Market Fund - Regular Plan - Daily IDCW Option,,INF955L01HZ5,Open Ended Schemes,Debt Scheme - Money Market Fund
-147381,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Money Market Fund - Regular Plan - Weekly IDCW Option,INF251K01VS7,INF955L01IA6,Open Ended Schemes,Debt Scheme - Money Market Fund
-147382,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Money Market Fund - Regular Plan - Growth Option,INF955L01HY8,,Open Ended Schemes,Debt Scheme - Money Market Fund
+147373,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Money Market Fund - Direct Plan - Monthly IDCW Option,INF955L01IG3,,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
+147376,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Money Market Fund - Regular Plan - Monthly IDCW Option,INF955L01IB4,,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
+147377,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Money Market Fund - Direct Plan - Growth Option,INF955L01ID0,,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
+147378,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Money Market Fund - Direct Plan - Daily IDCW Option,,INF955L01IE8,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
+147379,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Money Market Fund - Direct Plan - Weekly IDCW Option,INF251K01VT5,INF955L01IF5,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
+147380,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Money Market Fund - Regular Plan - Daily IDCW Option,,INF955L01HZ5,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
+147381,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Money Market Fund - Regular Plan - Weekly IDCW Option,INF251K01VS7,INF955L01IA6,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
+147382,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Money Market Fund - Regular Plan - Growth Option,INF955L01HY8,,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
 147383,Tata Mutual Fund,Tata Medium Term Fund- Segregated Portfolio 1 Regular Plan - Payout of IDCW Option,,,Open Ended Schemes,Debt Scheme - Medium Duration Fund
 147384,Tata Mutual Fund,Tata Medium Term Fund -Regular Plan - Growth (Segregated Portfolio 1),,,Open Ended Schemes,Debt Scheme - Medium Duration Fund
 147385,Tata Mutual Fund,Tata Medium Term Fund -Direct Plan -Growth (Segregated Portfolio 1),,,Open Ended Schemes,Debt Scheme - Medium Duration Fund
@@ -25981,10 +25981,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 147491,Union Mutual Fund,Union Focused Fund - Direct Plan - IDCW Option,INF582M01FU0,INF582M01FT2,Open Ended Schemes,Equity Scheme - Focused Fund
 147492,Union Mutual Fund,Union Focused Fund - Direct Plan - Growth Option,INF582M01FS4,,Open Ended Schemes,Equity Scheme - Focused Fund
 147493,Union Mutual Fund,Union Focused Fund - Regular Plan - IDCW Option,INF582M01FY2,INF582M01FX4,Open Ended Schemes,Equity Scheme - Focused Fund
-147494,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Equity Savings Fund - Regular Plan - Growth Option,INF955L01II9,,Open Ended Schemes,Hybrid Scheme - Equity Savings
-147495,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Equity Savings Fund - Regular Plan - IDCW Option,,INF955L01IK5,Open Ended Schemes,Hybrid Scheme - Equity Savings
-147496,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Equity Savings Fund - Direct Plan - Growth Option,INF955L01IL3,,Open Ended Schemes,Hybrid Scheme - Equity Savings
-147498,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Equity Savings Fund - Direct Plan - IDCW Option,,INF955L01IN9,Open Ended Schemes,Hybrid Scheme - Equity Savings
+147494,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Equity Savings Fund - Regular Plan - Growth Option,INF955L01II9,,Open Ended Schemes,Hybrid Schemes - Equity Savings Fund
+147495,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Equity Savings Fund - Regular Plan - IDCW Option,,INF955L01IK5,Open Ended Schemes,Hybrid Schemes - Equity Savings Fund
+147496,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Equity Savings Fund - Direct Plan - Growth Option,INF955L01IL3,,Open Ended Schemes,Hybrid Schemes - Equity Savings Fund
+147498,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Equity Savings Fund - Direct Plan - IDCW Option,,INF955L01IN9,Open Ended Schemes,Hybrid Schemes - Equity Savings Fund
 147512,LIC Mutual Fund,LIC MF Overnight Fund - Regular Plan - IDCW,INF767K01PZ9,INF767K01QA0,Open Ended Schemes,Debt Scheme - Overnight Fund
 147513,LIC Mutual Fund,LIC MF Overnight Fund - Direct Plan - IDCW,INF767K01QE2,INF767K01QF9,Open Ended Schemes,Debt Scheme - Overnight Fund
 147514,LIC Mutual Fund,LIC MF Overnight Fund - Direct Plan - Weekly IDCW,,INF767K01QH5,Open Ended Schemes,Debt Scheme - Overnight Fund
@@ -27703,10 +27703,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 149969,DSP Mutual Fund,DSP Nifty SDL Plus G-Sec Jun 2028 30:70 Index Fund - Regular Plan - IDCW,INF740KA1QT3,INF740KA1QU1,Open Ended Schemes,Other Scheme - Index Funds
 149970,DSP Mutual Fund,DSP Nifty SDL Plus G-Sec Jun 2028 30:70 Index Fund - Direct Plan - Growth,INF740KA1QV9,,Open Ended Schemes,Other Scheme - Index Funds
 149971,DSP Mutual Fund,DSP Nifty SDL Plus G-Sec Jun 2028 30:70 Index Fund - Direct Plan - IDCW,INF740KA1QW7,INF740KA1QX5,Open Ended Schemes,Other Scheme - Index Funds
-149988,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund - IDCW Greater than 3 years,,,Open Ended Schemes,Debt Scheme - Overnight Fund
-149989,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund - Redemption Up to 3 Yrs,,,Open Ended Schemes,Debt Scheme - Overnight Fund
-149990,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund - Redemption Greater than 3 years,,,Open Ended Schemes,Debt Scheme - Overnight Fund
-149991,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund - IDCW Up to 3 Yrs,,,Open Ended Schemes,Debt Scheme - Overnight Fund
+149988,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund - IDCW Greater than 3 years,,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
+149989,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund - Redemption Up to 3 Yrs,,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
+149990,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund - Redemption Greater than 3 years,,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
+149991,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund - IDCW Up to 3 Yrs,,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 149992,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 61 (1927 Days) - Regular Plan - IDCW,INF200KA12F2,,Close Ended Schemes,Income
 149993,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 61 (1927 Days) - Direct Plan - Growth,INF200KA13F0,,Close Ended Schemes,Income
 149994,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 61 (1927 Days) - Regular Plan - Growth,INF200KA11F4,,Close Ended Schemes,Income
@@ -27758,28 +27758,28 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 150186,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LARGE CAP FUND - Regular Plan - IDCW Option,INF251K01910,INF251K01902,Open Ended Schemes,Equity Scheme - Large Cap Fund
 150187,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LARGE CAP FUND - Direct Plan - Growth Option,INF251K01HN7,,Open Ended Schemes,Equity Scheme - Large Cap Fund
 150188,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LARGE CAP FUND - Direct Plan - IDCW Option,INF251K01HL1,INF251K01HM9,Open Ended Schemes,Equity Scheme - Large Cap Fund
-150203,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS CONSERVATIVE HYBRID FUND - Regular Plan - Growth Option,INF251K01845,,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund
-150204,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS CONSERVATIVE HYBRID FUND - Regular Plan - Monthly IDCW Option,INF251K01852,INF251K01860,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund
-150205,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS CONSERVATIVE HYBRID FUND - Regular Plan - Quarterly IDCW Option,INF251K01878,INF251K01886,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund
-150206,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS CONSERVATIVE HYBRID FUND - Direct Plan - Growth Option,INF251K01HR8,,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund
-150207,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS CONSERVATIVE HYBRID FUND - Direct Plan - Monthly IDCW Option,INF251K01HS6,INF251K01HT4,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund
-150208,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS CONSERVATIVE HYBRID FUND - Direct Plan - Quarterly IDCW Option,INF251K01HU2,INF251K01HV0,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund
+150203,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS CONSERVATIVE HYBRID FUND - Regular Plan - Growth Option,INF251K01845,,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
+150204,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS CONSERVATIVE HYBRID FUND - Regular Plan - Monthly IDCW Option,INF251K01852,INF251K01860,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
+150205,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS CONSERVATIVE HYBRID FUND - Regular Plan - Quarterly IDCW Option,INF251K01878,INF251K01886,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
+150206,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS CONSERVATIVE HYBRID FUND - Direct Plan - Growth Option,INF251K01HR8,,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
+150207,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS CONSERVATIVE HYBRID FUND - Direct Plan - Monthly IDCW Option,INF251K01HS6,INF251K01HT4,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
+150208,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS CONSERVATIVE HYBRID FUND - Direct Plan - Quarterly IDCW Option,INF251K01HU2,INF251K01HV0,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
 150209,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Mid Cap Fund - Regular Plan - Growth Option,INF251K01AW3,,Open Ended Schemes,Equity Scheme - Mid Cap Fund
 150210,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Mid Cap Fund - Regular Plan - IDCW Option,INF251K01AX1,INF251K01AY9,Open Ended Schemes,Equity Scheme - Mid Cap Fund
 150211,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Mid Cap Fund - Direct Plan - IDCW Option,INF251K01HO5,INF251K01HP2,Open Ended Schemes,Equity Scheme - Mid Cap Fund
 150212,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Mid Cap Fund - Direct Plan - Growth Option,INF251K01HQ0,,Open Ended Schemes,Equity Scheme - Mid Cap Fund
-150228,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS CORPORATE BOND FUND - Quarterly IDCW Option,INF251K01EL8,INF251K01EM6,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
-150229,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS CORPORATE BOND FUND - Growth Option,INF251K01EI4,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
-150230,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS CORPORATE BOND FUND - Annual IDCW Option,INF251K01EN4,INF251K01EO2,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
-150231,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS CORPORATE BOND FUND - Monthly IDCW Option,INF251K01EJ2,INF251K01EK0,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
-150232,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS CORPORATE BOND FUND - Regular Plan - Quarterly IDCW Option,INF251K01ES3,INF251K01ET1,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
-150233,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS CORPORATE BOND FUND - Regular Plan - Annual IDCW Option,INF251K01EU9,INF251K01EV7,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
-150234,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS CORPORATE BOND FUND - Regular Plan - Monthly IDCW Option,INF251K01EQ7,INF251K01ER5,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
-150235,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS CORPORATE BOND FUND - Regular Plan - Growth Option,INF251K01EP9,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
-150236,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS CORPORATE BOND FUND - Direct Plan - Annual IDCW Option,INF251K01GU4,INF251K01GV2,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
-150237,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS CORPORATE BOND FUND - Direct Plan - Growth Option,INF251K01GP4,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
-150238,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS CORPORATE BOND FUND - Direct Plan - Monthly IDCW Option,INF251K01GQ2,INF251K01GR0,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
-150239,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS CORPORATE BOND FUND - Direct Plan - Quarterly IDCW Option,INF251K01GS8,INF251K01GT6,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
+150228,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS CORPORATE BOND FUND - Quarterly IDCW Option,INF251K01EL8,INF251K01EM6,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
+150229,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS CORPORATE BOND FUND - Growth Option,INF251K01EI4,,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
+150230,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS CORPORATE BOND FUND - Annual IDCW Option,INF251K01EN4,INF251K01EO2,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
+150231,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS CORPORATE BOND FUND - Monthly IDCW Option,INF251K01EJ2,INF251K01EK0,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
+150232,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS CORPORATE BOND FUND - Regular Plan - Quarterly IDCW Option,INF251K01ES3,INF251K01ET1,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
+150233,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS CORPORATE BOND FUND - Regular Plan - Annual IDCW Option,INF251K01EU9,INF251K01EV7,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
+150234,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS CORPORATE BOND FUND - Regular Plan - Monthly IDCW Option,INF251K01EQ7,INF251K01ER5,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
+150235,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS CORPORATE BOND FUND - Regular Plan - Growth Option,INF251K01EP9,,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
+150236,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS CORPORATE BOND FUND - Direct Plan - Annual IDCW Option,INF251K01GU4,INF251K01GV2,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
+150237,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS CORPORATE BOND FUND - Direct Plan - Growth Option,INF251K01GP4,,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
+150238,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS CORPORATE BOND FUND - Direct Plan - Monthly IDCW Option,INF251K01GQ2,INF251K01GR0,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
+150239,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS CORPORATE BOND FUND - Direct Plan - Quarterly IDCW Option,INF251K01GS8,INF251K01GT6,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
 150240,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS Medium Duration Fund - Regular Plan - Growth Option,,,Open Ended Schemes,Debt Scheme - Medium Duration Fund
 150241,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS Medium Duration Fund - Direct Plan - Growth Option,,,Open Ended Schemes,Debt Scheme - Medium Duration Fund
 150242,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS Medium Duration Fund - Regular Plan - Calendar Quarterly IDCW Option,,,Open Ended Schemes,Debt Scheme - Medium Duration Fund
@@ -27798,10 +27798,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 150255,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS ARBITRAGE FUND - Direct Plan - Monthly IDCW Option,INF251K01PF6,INF251K01PE9,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
 150256,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS ARBITRAGE FUND - Direct Plan - Quarterly IDCW Option,INF251K01PJ8,INF251K01PI0,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
 150257,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS ARBITRAGE FUND - Regular Plan - Quarterly IDCW Option,INF251K01PH2,INF251K01PG4,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
-150258,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS AGGRESSIVE HYBRID FUND - Regular Plan - Growth Option,INF251K01OW4,,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
-150259,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS AGGRESSIVE HYBRID FUND - Direct Plan - IDCW Option,INF251K01PB5,INF251K01PA7,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
-150260,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS AGGRESSIVE HYBRID FUND - Direct Plan - Growth Option,INF251K01OZ7,,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
-150261,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS AGGRESSIVE HYBRID FUND - Regular Plan - IDCW Option,INF251K01OY0,INF251K01OX2,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
+150258,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS AGGRESSIVE HYBRID FUND - Regular Plan - Growth Option,INF251K01OW4,,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
+150259,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS AGGRESSIVE HYBRID FUND - Direct Plan - IDCW Option,INF251K01PB5,INF251K01PA7,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
+150260,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS AGGRESSIVE HYBRID FUND - Direct Plan - Growth Option,INF251K01OZ7,,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
+150261,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS AGGRESSIVE HYBRID FUND - Regular Plan - IDCW Option,INF251K01OY0,INF251K01OX2,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
 150262,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Focused Fund - Regular Plan - IDCW Option,INF251K01PL4,INF251K01PM2,Open Ended Schemes,Equity Scheme - Focused Fund
 150263,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Focused Fund - Regular Plan - Growth Option,INF251K01PK6,,Open Ended Schemes,Equity Scheme - Focused Fund
 150264,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Focused Fund - Direct Plan - Growth Option,INF251K01PN0,,Open Ended Schemes,Equity Scheme - Focused Fund
@@ -28391,10 +28391,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 151107,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Direct Plan - Growth,INF917K01HH5,,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
 151108,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Direct Plan - Daily IDCW,,INF917K01HL7,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
 151109,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Direct Plan - Weekly IDCW,,INF917K01HK9,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
-151110,HSBC Mutual Fund,HSBC Value Fund,INF677K01023,,Open Ended Schemes,Equity Schemes - Value Fund
-151111,HSBC Mutual Fund,HSBC Value Fund,INF677K01213,INF677K01015,Open Ended Schemes,Equity Schemes - Value Fund
-151112,HSBC Mutual Fund,HSBC Value Fund,INF917K01HC6,INF917K01HB8,Open Ended Schemes,Equity Schemes - Value Fund
-151113,HSBC Mutual Fund,HSBC Value Fund,INF917K01HD4,,Open Ended Schemes,Equity Schemes - Value Fund
+151110,HSBC Mutual Fund,HSBC Value Fund - Regular Plan - Growth,INF677K01023,,Open Ended Schemes,Equity Schemes - Value Fund
+151111,HSBC Mutual Fund,HSBC Value Fund - Regular Plan - IDCW,INF677K01213,INF677K01015,Open Ended Schemes,Equity Schemes - Value Fund
+151112,HSBC Mutual Fund,HSBC Value Fund - Direct Plan - IDCW,INF917K01HC6,INF917K01HB8,Open Ended Schemes,Equity Schemes - Value Fund
+151113,HSBC Mutual Fund,HSBC Value Fund - Direct Plan - Growth,INF917K01HD4,,Open Ended Schemes,Equity Schemes - Value Fund
 151114,HSBC Mutual Fund,HSBC Ultra Short to Short Term Fund - Regular Plan - Growth,INF677K01452,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 151115,HSBC Mutual Fund,HSBC Ultra Short to Short Term Fund - Regular Plan - Monthly IDCW,INF677K01460,INF677K01478,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 151116,HSBC Mutual Fund,HSBC Ultra Short to Short Term Fund - Direct Plan - Monthly IDCW,INF917K01E60,INF917K01GK1,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
@@ -28695,10 +28695,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 151570,HDFC Mutual Fund,HDFC NIFTY SDL Plus G-Sec Jun 2027 40:60 Index Fund - Direct Plan - Growth Option,INF179KC1GA2,,Open Ended Schemes,Other Scheme - Index Funds
 151571,HDFC Mutual Fund,HDFC NIFTY SDL Plus G-Sec Jun 2027 40:60 Index Fund - Regular Plan - Growth Option,INF179KC1GB0,,Open Ended Schemes,Other Scheme - Index Funds
 151572,ICICI Prudential Mutual Fund,ICICI Prudential Nifty PSU Bank ETF,INF109KC10S8,,Open Ended Schemes,Other Scheme - Other  ETFs
-151573,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas NIFTY SDL December 2028 Index Fund - Regular Plan - IDCW Option,INF251K01RP1,INF251K01RQ9,Open Ended Schemes,Other Scheme - Index Funds
-151574,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas NIFTY SDL December 2028 Index Fund - Direct Plan - Growth Option,INF251K01RR7,,Open Ended Schemes,Other Scheme - Index Funds
-151575,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas NIFTY SDL December 2028 Index Fund - Direct Plan - IDCW Option,INF251K01RS5,INF251K01RT3,Open Ended Schemes,Other Scheme - Index Funds
-151576,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas NIFTY SDL December 2028 Index Fund - Regular Plan - Growth Option,INF251K01RO4,,Open Ended Schemes,Other Scheme - Index Funds
+151573,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas NIFTY SDL December 2028 Index Fund - Regular Plan - IDCW Option,INF251K01RP1,INF251K01RQ9,Open Ended Schemes,Index Funds - Debt Funds
+151574,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas NIFTY SDL December 2028 Index Fund - Direct Plan - Growth Option,INF251K01RR7,,Open Ended Schemes,Index Funds - Debt Funds
+151575,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas NIFTY SDL December 2028 Index Fund - Direct Plan - IDCW Option,INF251K01RS5,INF251K01RT3,Open Ended Schemes,Index Funds - Debt Funds
+151576,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas NIFTY SDL December 2028 Index Fund - Regular Plan - Growth Option,INF251K01RO4,,Open Ended Schemes,Index Funds - Debt Funds
 151577,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil IBX Gilt Apr 2028 Index Fund - Direct Plan - Growth,INF209KB11U2,,Open Ended Schemes,Other Scheme - Index Funds
 151578,ICICI Prudential Mutual Fund,ICICI Prudential Innovation Fund - Direct Plan - IDCW,INF109KC13T0,INF109KC14T8,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 151579,ICICI Prudential Mutual Fund,ICICI Prudential Innovation Fund - Regular Plan - Growth,INF109KC19S9,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
@@ -29153,7 +29153,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 152228,Axis Mutual Fund,Axis Fixed Term Plan - Series 118 (100 Days) - Regular Plan - Quarterly IDCW,,,Close Ended Schemes,Income
 152229,Axis Mutual Fund,Axis Fixed Term Plan - Series 118 (100 Days) - Direct Plan - Quarterly IDCW,,,Close Ended Schemes,Income
 152230,Axis Mutual Fund,Axis Fixed Term Plan - Series 118 (100 Days) - Regular Plan - Growth,,,Close Ended Schemes,Income
-152231,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Gold ETF - Regular Plan - Growth Option,INF251K01SU9,,Open Ended Schemes,Other Scheme - Gold ETF
+152231,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Gold ETF - Regular Plan - Growth Option,INF251K01SU9,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Gold ETF
 152232,Motilal Oswal Mutual Fund,Motilal Oswal Small Cap Fund - Regular Plan - Growth,INF247L01BV9,,Open Ended Schemes,Equity Scheme - Small Cap Fund
 152234,Motilal Oswal Mutual Fund,Motilal Oswal Small Cap Fund - Regular Plan - Reinvestment/Payout,INF247L01BW7,INF247L01BX5,Open Ended Schemes,Equity Scheme - Small Cap Fund
 152235,Motilal Oswal Mutual Fund,Motilal Oswal Small Cap Fund - Direct Plan - Reinvestment/Payout,INF247L01BZ0,INF247L01CA1,Open Ended Schemes,Equity Scheme - Small Cap Fund
@@ -29449,10 +29449,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 152618,Edelweiss Mutual Fund,Edelweiss Nifty Alpha Low Volatility 30 Index Fund - Regular Plan - IDCW Payout,INF754K01SP2,INF754K01SQ0,Open Ended Schemes,Other Scheme - Index Funds
 152619,Edelweiss Mutual Fund,Edelweiss Nifty Alpha Low Volatility 30 Index Fund - Direct Plan - IDCW Payout,INF754K01ST4,INF754K01SU2,Open Ended Schemes,Other Scheme - Index Funds
 152620,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty PSE ETF,INF209KB19Z4,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Equity ETF
-152625,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Retirement Fund - Regular Plan - Growth Option,INF251K01TH4,,Open Ended Schemes,Solution Oriented Scheme - Retirement Fund
-152626,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Retirement Fund - Direct Plan - IDCW Option,INF251K01TK8,,Open Ended Schemes,Solution Oriented Scheme - Retirement Fund
-152627,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Retirement Fund - Regular Plan - IDCW Option,INF251K01TI2,,Open Ended Schemes,Solution Oriented Scheme - Retirement Fund
-152628,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Retirement Fund - Direct Plan - Growth Option,INF251K01TJ0,,Open Ended Schemes,Solution Oriented Scheme - Retirement Fund
+152625,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Retirement Fund - Regular Plan - Growth Option,INF251K01TH4,,Open Ended Schemes,Solution Oriented Schemes ** - Retirement Fund
+152626,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Retirement Fund - Direct Plan - IDCW Option,INF251K01TK8,,Open Ended Schemes,Solution Oriented Schemes ** - Retirement Fund
+152627,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Retirement Fund - Regular Plan - IDCW Option,INF251K01TI2,,Open Ended Schemes,Solution Oriented Schemes ** - Retirement Fund
+152628,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Retirement Fund - Direct Plan - Growth Option,INF251K01TJ0,,Open Ended Schemes,Solution Oriented Schemes ** - Retirement Fund
 152629,Axis Mutual Fund,Axis Nifty Bank Index Fund - Direct Plan - Growth Option,INF846K015W7,,Open Ended Schemes,Index Funds - Equity Funds
 152630,Axis Mutual Fund,Axis Nifty Bank Index Fund - Regular Plan - IDCW Option,INF846K013W2,INF846K014W0,Open Ended Schemes,Index Funds - Equity Funds
 152631,Axis Mutual Fund,Axis Nifty Bank Index Fund - Direct Plan - IDCW Option,INF846K016W5,INF846K017W3,Open Ended Schemes,Index Funds - Equity Funds
@@ -30326,10 +30326,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153545,ICICI Prudential Mutual Fund,ICICI Prudential Nifty200 Quality 30 Index Fund - Regular Plan - IDCW,INF109K1A245,INF109K1A237,Open Ended Schemes,Other Scheme - Index Funds
 153546,ICICI Prudential Mutual Fund,ICICI Prudential Nifty200 Quality 30 Index Fund - Direct Plan - Growth,INF109K1A252,,Open Ended Schemes,Other Scheme - Index Funds
 153547,ICICI Prudential Mutual Fund,ICICI Prudential Nifty200 Quality 30 Index Fund - Direct Plan - IDCW,INF109K1A278,INF109K1A260,Open Ended Schemes,Other Scheme - Index Funds
-153548,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Multi Asset Active Fund of Funds - Regular Plan - Growth Option,INF251K01UM2,,Open Ended Schemes,Other Scheme - FoF Domestic
-153549,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Multi Asset Active Fund of Funds - Regular Plan - IDCW Option,INF251K01UN0,INF251K01UW1,Open Ended Schemes,Other Scheme - FoF Domestic
-153550,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Multi Asset Active Fund of Funds - Direct Plan - IDCW Option,INF251K01UP5,INF251K01UQ3,Open Ended Schemes,Other Scheme - FoF Domestic
-153552,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Multi Asset Active Fund of Funds - Direct Plan - Growth Option,INF251K01UO8,,Open Ended Schemes,Other Scheme - FoF Domestic
+153548,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Multi Asset Active Fund of Funds - Regular Plan - Growth Option,INF251K01UM2,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+153549,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Multi Asset Active Fund of Funds - Regular Plan - IDCW Option,INF251K01UN0,INF251K01UW1,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+153550,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Multi Asset Active Fund of Funds - Direct Plan - IDCW Option,INF251K01UP5,INF251K01UQ3,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+153552,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Multi Asset Active Fund of Funds - Direct Plan - Growth Option,INF251K01UO8,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 153554,SBI Mutual Fund,SBI Nifty200 Quality 30 Index Fund - Regular Plan - Growth,INF200KB1787,,Open Ended Schemes,Other Scheme - Index Funds
 153555,SBI Mutual Fund,SBI Nifty200 Quality 30 Index Fund - Direct Plan - Growth,INF200KB1811,,Open Ended Schemes,Other Scheme - Index Funds
 153556,SBI Mutual Fund,SBI Nifty200 Quality 30 Index Fund - Regular Plan - IDCW,INF200KB1795,INF200KB1803,Open Ended Schemes,Other Scheme - Index Funds
@@ -30546,8 +30546,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153789,Jio BlackRock Mutual Fund,JioBlackRock Nifty Next 50 Index Fund - Direct Plan - Growth Option,INF22M001085,,Open Ended Schemes,Index Funds - Equity Funds
 153790,Jio BlackRock Mutual Fund,JioBlackRock Nifty Smallcap 250 Index Fund - Direct Plan - Growth Option,INF22M001051,,Open Ended Schemes,Index Funds - Equity Funds
 153791,Jio BlackRock Mutual Fund,JioBlackRock Nifty 8-13 yr G-Sec Index Fund - Direct Plan - Growth Option,INF22M001069,,Open Ended Schemes,Index Funds - Debt Funds
-153794,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Gold ETF Fund of Fund - Regular Plan - Growth Option,INF251K01VE7,,Open Ended Schemes,Other Scheme - FoF Domestic
-153795,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Gold ETF Fund of Fund - Direct Plan - Growth Option,INF251K01VF4,,Open Ended Schemes,Other Scheme - FoF Domestic
+153794,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Gold ETF Fund of Fund - Regular Plan - Growth Option,INF251K01VE7,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+153795,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Gold ETF Fund of Fund - Direct Plan - Growth Option,INF251K01VF4,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 153796,SBI Mutual Fund,SBI NIFTY 1D Rate Liquid ETF - Growth - Regular Plan - Growth,INF200KB1969,,Open Ended Schemes,Other Scheme - Other  ETFs
 153797,Groww Mutual Fund,Groww Nifty Next 50 Index Fund - Direct Plan - Income Distribution cum capital withdrawal,INF666M01LU9,INF666M01LV7,Open Ended Schemes,Index Funds - Equity Funds
 153798,Groww Mutual Fund,Groww Nifty Next 50 Index Fund - Regular Plan - Growth,INF666M01LW5,,Open Ended Schemes,Index Funds - Equity Funds
@@ -31227,6 +31227,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154556,WhiteOak Capital Mutual Fund,WhiteOak Capital Dividend Yield Fund - Direct Plan - Growth Option,INF03VN01AH4,,Open Ended Schemes,Equity Schemes - Dividend Yield Fund
 154559,Edelweiss Mutual Fund,Edelweiss Nifty REITs & Realty Index Fund - Regular Plan - IDCW Payout,INF754K01XO5,INF754K01XP2,Open Ended Schemes,Index Funds - Equity Funds
 154561,Edelweiss Mutual Fund,Edelweiss Nifty REITs & Realty Index Fund - Regular Plan - Growth,INF754K01XN7,,Open Ended Schemes,Index Funds - Equity Funds
+154563,ICICI Prudential Mutual Fund,ICICI Prudential Life Cycle Fund 2031,INF109K1A591,,Open Ended Schemes,Life Cycle Funds - Life Cycle Fund with Maturity of 5 Years
+154564,ICICI Prudential Mutual Fund,ICICI Prudential Life Cycle Fund 2031,INF109K1A609,,Open Ended Schemes,Life Cycle Funds - Life Cycle Fund with Maturity of 5 Years
 154565,AlphaGrep Mutual Fund,ALPHAGREP LIQUID OMNI FOF - Direct Plan - Growth,INF2VOA01137,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154566,AlphaGrep Mutual Fund,ALPHAGREP LIQUID OMNI FOF - Direct Plan - IDCW,INF2VOA01152,INF2VOA01145,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154567,AlphaGrep Mutual Fund,ALPHAGREP LIQUID OMNI FOF - Regular Plan - Growth,INF2VOA01160,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
@@ -31239,6 +31241,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154574,Kotak Mahindra Mutual Fund,Kotak Diversified Equity All Cap Omni FOF - Direct Plan - Growth,INF174KA1D26,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154575,Kotak Mahindra Mutual Fund,Kotak Diversified Equity All Cap Omni FOF - Direct Plan - IDCW,INF174KA1D34,INF174KA1D42,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154576,Kotak Mahindra Mutual Fund,Kotak Diversified Equity All Cap Omni FOF - Regular Plan - Growth,INF174KA1D59,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154577,ICICI Prudential Mutual Fund,ICICI Prudential Life Cycle Fund 2036,INF109K1A575,,Open Ended Schemes,Life Cycle Funds - Life Cycle Fund with Maturity of 10 Years
+154578,ICICI Prudential Mutual Fund,ICICI Prudential Life Cycle Fund 2036,INF109K1A583,,Open Ended Schemes,Life Cycle Funds - Life Cycle Fund with Maturity of 10 Years
+154579,ICICI Prudential Mutual Fund,ICICI Prudential Life Cycle Fund 2041,INF109K1A617,,Open Ended Schemes,Life Cycle Funds - Life Cycle Fund with Maturity of 15 Years
+154580,ICICI Prudential Mutual Fund,ICICI Prudential Life Cycle Fund 2041,INF109K1A625,,Open Ended Schemes,Life Cycle Funds - Life Cycle Fund with Maturity of 15 Years
 154581,ASK MUTUAL FUND,ASK Liquid Fund - Regular Plan - Growth,INF2XUU01021,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 154583,ASK MUTUAL FUND,ASK Liquid Fund - Direct Plan - Weekly IDCW,INF2XUU01070,INF2XUU01088,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 154586,ASK MUTUAL FUND,ASK Liquid Fund - Regular Plan - Daily IDCW,,INF2XUU01047,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
@@ -31255,11 +31261,11 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154600,Bandhan Mutual Fund,Bandhan Contra Fund - Direct Plan - Growth,INF194KB1KX8,,Open Ended Schemes,Equity Schemes - Contra Fund
 154601,Bandhan Mutual Fund,Bandhan Contra Fund - Regular Plan - Annual IDCW,INF194KB1LA4,INF194KB1LB2,Open Ended Schemes,Equity Schemes - Contra Fund
 154602,UTI Mutual Fund,UTI Nifty 500 Exchange Traded Fund,INF789F1AG76,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Equity ETF
-154603,UTI Mutual Fund,UTI Nifty 500 Index Fund,INF789F1AG84,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Equity ETF
-154604,UTI Mutual Fund,UTI Nifty 500 Index Fund,INF789F1AG92,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Equity ETF
+154603,UTI Mutual Fund,UTI Nifty 500 Index Fund,INF789F1AG84,,Open Ended Schemes,Index Funds - Equity Funds
+154604,UTI Mutual Fund,UTI Nifty 500 Index Fund,INF789F1AG92,,Open Ended Schemes,Index Funds - Equity Funds
 154605,Kotak Mahindra Mutual Fund,Kotak Liquid Fund,INF174KA1D91,INF174KA1E17,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 154606,Kotak Mahindra Mutual Fund,Kotak Liquid Fund - Direct Plan - IDCW,INF174KA1E09,INF174KA1D83,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
-154607,Kotak Mahindra Mutual Fund,Kotak Ultra Short Term Fund - Regular Plan - IDCW Weekly,INF174KA1E33,INF174KA1E58,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+154607,Kotak Mahindra Mutual Fund,Kotak Ultra Short Term Fund - Regular Plan - IDCW,INF174KA1E33,INF174KA1E58,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
 154608,Kotak Mahindra Mutual Fund,Kotak Ultra Short Term Fund - Direct Plan - IDCW,INF174KA1E41,INF174KA1E25,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
 154609,Kotak Mahindra Mutual Fund,Kotak Corporate Bond Fund - Direct Plan - IDCW,INF174KA1E82,INF174KA1E66,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
 154612,Kotak Mahindra Mutual Fund,Kotak Money Market Fund - Direct Plan - IDCW,INF174KA1F24,INF174KA1F08,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
@@ -31308,6 +31314,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154658,quant Mutual Fund,quant Income Plus Arbitrage Active FOF - Direct Plan - Growth Option,INF966L01EJ3,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154659,quant Mutual Fund,quant Income Plus Arbitrage Active FOF - Direct Plan - IDCW Option,INF966L01EK1,INF966L01EL9,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154660,quant Mutual Fund,quant Income Plus Arbitrage Active FOF - Regular Plan - IDCW Option,INF966L01EN5,INF966L01EO3,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154661,ICICI Prudential Mutual Fund,ICICI Prudential Dynamic Asset Allocation Passive FOF,INF109K1A641,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154662,ICICI Prudential Mutual Fund,ICICI Prudential Dynamic Asset Allocation Passive FOF,INF109K1A633,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154672,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Term Fund (the scheme has 2 segregated portfolios) - Direct Plan - Direct Monthly IDCW Payout and Re-investment,INF955L01IW0,INF955L01IX8,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 154673,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Term Fund (the scheme has 2 segregated portfolios) - Direct Plan - SG1 Direct Growth,INF955L01IT6,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 154674,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Term Fund (the scheme has 2 segregated portfolios) - Direct Plan - Direct Quarterly IDCW Payout and Re-Investment,INF955L01IU4,INF955L01IV2,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
@@ -31328,6 +31336,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154689,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Term Fund (the scheme has 2 segregated portfolios) - Regular Plan - Defunct Growth,INF955L01JM9,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 154690,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Term Fund (the scheme has 2 segregated portfolios) - Regular Plan - Defunct Monthly IDCW Payout,INF955L01JP2,INF955L01JQ0,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 154691,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Term Fund (the scheme has 2 segregated portfolios) - Regular Plan - Defunct Weekly IDCW Reinvestment,,INF955L01JO5,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+154698,UTI Mutual Fund,UTI BSE India Sector Leaders Exchange Traded Fund - Growth,INF789F1AH42,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Equity ETF
 154705,Monarch Mutual Fund,Monarch Overnight Fund - Direct Plan - Monthly IDCW,INF2ZSC01085,INF2ZSC01069,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 154706,Monarch Mutual Fund,Monarch Overnight Fund - Direct Plan - Growth,INF2ZSC01028,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 154711,Monarch Mutual Fund,Monarch Overnight Fund - Regular Plan - Growth,INF2ZSC01010,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
+154734,Helios Mutual Fund,Helios Balanced Advantage Fund - Direct Plan - Monthly IDCW,INF0R8701491,INF0R8701509,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
