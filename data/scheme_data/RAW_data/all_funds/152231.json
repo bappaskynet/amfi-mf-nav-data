@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Baroda BNP Paribas Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Gold ETF",
+        "scheme_category": "Exchange Traded Funds (ETFs) - Gold ETF",
         "scheme_code": 152231,
         "scheme_name": "Baroda BNP Paribas Gold ETF - Regular Plan - Growth Option",
         "isin_growth": "INF251K01SU9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "16-09-2026",
+            "nav": "146.29640"
+        },
         {
             "date": "15-09-2026",
             "nav": "144.60390"

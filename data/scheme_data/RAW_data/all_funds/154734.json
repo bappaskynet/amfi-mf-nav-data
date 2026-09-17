@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "Helios Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation",
+        "scheme_code": 154734,
+        "scheme_name": "Helios Balanced Advantage Fund - Direct Plan - Monthly IDCW",
+        "isin_growth": "INF0R8701491",
+        "isin_div_reinvestment": "INF0R8701509"
+    },
+    "data": [
+        {
+            "date": "16-09-2026",
+            "nav": "10.02000"
+        }
+    ],
+    "status": "SUCCESS"
+}

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Baroda BNP Paribas Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
         "scheme_code": 153794,
         "scheme_name": "Baroda BNP Paribas Gold ETF Fund of Fund - Regular Plan - Growth Option",
         "isin_growth": "INF251K01VE7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "16-09-2026",
+            "nav": "15.01910"
+        },
         {
             "date": "15-09-2026",
             "nav": "14.85690"

@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Ultra Short Term Fund",
         "scheme_code": 154607,
-        "scheme_name": "Kotak Ultra Short Term Fund - Regular Plan - IDCW Weekly",
+        "scheme_name": "Kotak Ultra Short Term Fund - Regular Plan - IDCW",
         "isin_growth": "INF174KA1E33",
         "isin_div_reinvestment": "INF174KA1E58"
     },
     "data": [
+        {
+            "date": "16-09-2026",
+            "nav": "10.00630"
+        },
         {
             "date": "15-09-2026",
             "nav": "10.00400"

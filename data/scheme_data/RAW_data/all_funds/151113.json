@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Value Fund",
         "scheme_code": 151113,
-        "scheme_name": "HSBC Value Fund",
+        "scheme_name": "HSBC Value Fund - Direct Plan - Growth",
         "isin_growth": "INF917K01HD4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "16-09-2026",
+            "nav": "125.60220"
+        },
         {
             "date": "15-09-2026",
             "nav": "124.96780"

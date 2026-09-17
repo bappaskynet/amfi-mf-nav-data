@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Baroda BNP Paribas Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
+        "scheme_category": "Hybrid Schemes - Aggressive Hybrid Fund",
         "scheme_code": 150259,
         "scheme_name": "BARODA BNP PARIBAS AGGRESSIVE HYBRID FUND - Direct Plan - IDCW Option",
         "isin_growth": "INF251K01PB5",
         "isin_div_reinvestment": "INF251K01PA7"
     },
     "data": [
+        {
+            "date": "16-09-2026",
+            "nav": "17.50820"
+        },
         {
             "date": "15-09-2026",
             "nav": "17.50780"

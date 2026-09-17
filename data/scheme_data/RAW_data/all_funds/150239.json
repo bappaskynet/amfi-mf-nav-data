@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Baroda BNP Paribas Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Corporate Bond Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Corporate Bond Fund",
         "scheme_code": 150239,
         "scheme_name": "BARODA BNP PARIBAS CORPORATE BOND FUND - Direct Plan - Quarterly IDCW Option",
         "isin_growth": "INF251K01GS8",
         "isin_div_reinvestment": "INF251K01GT6"
     },
     "data": [
+        {
+            "date": "16-09-2026",
+            "nav": "10.70910"
+        },
         {
             "date": "15-09-2026",
             "nav": "10.70480"

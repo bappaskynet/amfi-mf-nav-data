@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Exchange Traded Funds (ETFs) - Equity ETF",
         "scheme_code": 141665,
-        "scheme_name": "UTI - Nifty Next 50 Exchange Traded Fund. - Direct Plan - Growth",
+        "scheme_name": "UTI - Nifty Next 50 Exchange Traded Fund - Direct Plan - Growth",
         "isin_growth": "INF789F1AUW9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "16-09-2026",
+            "nav": "76.07650"
+        },
         {
             "date": "15-09-2026",
             "nav": "75.98190"

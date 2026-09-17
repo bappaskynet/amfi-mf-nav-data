@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Baroda BNP Paribas Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Equity Savings",
+        "scheme_category": "Hybrid Schemes - Equity Savings Fund",
         "scheme_code": 147494,
         "scheme_name": "Baroda BNP Paribas Equity Savings Fund - Regular Plan - Growth Option",
         "isin_growth": "INF955L01II9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "16-09-2026",
+            "nav": "17.20110"
+        },
         {
             "date": "15-09-2026",
             "nav": "17.17390"

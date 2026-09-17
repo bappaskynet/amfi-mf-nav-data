@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "UTI Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Exchange Traded Funds (ETFs) - Equity ETF",
+        "scheme_code": 154698,
+        "scheme_name": "UTI BSE India Sector Leaders Exchange Traded Fund - Growth",
+        "isin_growth": "INF789F1AH42",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "16-09-2026",
+            "nav": "14.15950"
+        }
+    ],
+    "status": "SUCCESS"
+}

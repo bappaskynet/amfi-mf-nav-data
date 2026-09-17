@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Baroda BNP Paribas Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Overnight Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Overnight Fund",
         "scheme_code": 147197,
         "scheme_name": "Baroda BNP Paribas Overnight Fund - Direct Plan - Daily IDCW Option",
         "isin_growth": null,
         "isin_div_reinvestment": "INF955L01HW2"
     },
     "data": [
+        {
+            "date": "16-09-2026",
+            "nav": "1000.00280"
+        },
         {
             "date": "15-09-2026",
             "nav": "1000.00280"
