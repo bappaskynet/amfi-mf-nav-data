@@ -14365,6 +14365,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154689,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Term Fund (the scheme has 2 segregated portfolios),INF955L01JM9,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 154690,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Term Fund (the scheme has 2 segregated portfolios),INF955L01JP2,INF955L01JQ0,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 154691,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Term Fund (the scheme has 2 segregated portfolios),,INF955L01JO5,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+154697,Zerodha Mutual Fund,Zerodha Life Cycle Fund 2031,INF0R8F01240,,Open Ended Schemes,Life Cycle Funds - Life Cycle Fund with Maturity of 5 Years
 154698,UTI Mutual Fund,UTI BSE India Sector Leaders Exchange Traded Fund,INF789F1AH42,,Open Ended Schemes,Exchange Traded Funds
 154703,Navi Mutual Fund,Navi Nifty Reits & Realty Index fund,INF959L01HU8,,Open Ended Schemes,Index Funds - Equity Funds
 154704,Navi Mutual Fund,Navi Nifty Reits & Realty Index fund,INF959L01HT0,,Open Ended Schemes,Index Funds - Equity Funds
@@ -36571,7 +36572,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154693,Bank of India Investment Managers Private Limited,Bank of India Value Fund - Direct - Growth,INF761K01HK1,,Open Ended,Equity Schemes - Value Fund
 154694,Bank of India Investment Managers Private Limited,Bank of India Value Fund - Direct - IDCW,INF761K01HL9,INF761K01HM7,Open Ended,Equity Schemes - Value Fund
 154695,Bank of India Investment Managers Private Limited,Bank of India Value Fund - Regular - Growth,INF761K01HN5,,Open Ended,Equity Schemes - Value Fund
-154697,Zerodha Asset Management Private Limited,Zerodha Life Cycle Fund 2031,INF0R8F01240,,Open Ended,Life Cycle Funds - Life Cycle Fund with Maturity of 5 Years
 154699,UTI Asset Mgmt. Co. Ltd.,UTI BSE India Sector Leaders Index Fund,INF789F1AH67,,Open Ended,Index Funds - Equity Funds
 154700,UTI Asset Mgmt. Co. Ltd.,UTI BSE India Sector Leaders Index Fund Regular Plan,INF789F1AH59,,Open Ended,Index Funds - Equity Funds
 154701,Jio BlackRock Asset Management Private Limited,JioBlackRock Balanced Advantage Fund,INF22M001366,,Open Ended,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
