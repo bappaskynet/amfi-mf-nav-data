@@ -491,7 +491,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 101070,quant Mutual Fund,Quant Aggressive Hybrid Fund - Regular Plan - Growth Option,INF966L01267,,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
 101071,quant Mutual Fund,Quant Multi Asset Allocation Fund - Regular Plan - IDCW Option,INF966L01184,INF966L01192,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
 101072,quant Mutual Fund,Quant Multi Asset Allocation Fund - Regular Plan - Growth Option,INF966L01200,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
-101078,JM Financial Mutual Fund,JM Liquid Fund - Daily Dividend Option - Regular Plan - Daily IDCW Option,,INF192K01833,Open Ended Schemes,Debt Scheme - Liquid Fund
+101078,JM Financial Mutual Fund,JM Liquid Fund - Regular Plan - Daily IDCW Option,,INF192K01833,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 101081,HDFC Mutual Fund,HDFC Gilt Fund-Short Term-Dividend,,,Open Ended Schemes,Income
 101082,HDFC Mutual Fund,HDFC Gilt Fund-Short Term-Growth,,,Open Ended Schemes,Income
 101083,HDFC Mutual Fund,HDFC Gilt Fund - Regular Plan - Growth Option,INF179K01756,,Open Ended Schemes,Debt Scheme - Gilt Fund
@@ -535,7 +535,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 101178,Standard Chartered Mutual Fund,Grindlays Government Securities Fund - ST (Monthly Dividend),,,Open Ended Schemes,Income
 101179,Standard Chartered Mutual Fund,Grindlays Government Securities Fund-IP(Annual Dividend),,,Open Ended Schemes,Income
 101180,Standard Chartered Mutual Fund,Grindlays Government Securities Fund-ST (Quarterly Dividend),,,Open Ended Schemes,Income
-101181,JM Financial Mutual Fund,JM Medium to Long Term Fund Growth - Bonus Option - Regular Plan - Bonus Option - Principal Units,INF192K01AC1,,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund
+101181,JM Financial Mutual Fund,JM Medium to Long Term Fund - Regular Plan - Bonus Option - Principal Units,INF192K01AC1,,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund
 101184,LIC Mutual Fund,LIC MF Liquid Fund - Regular Plan - Daily IDCW,INF767K01IQ3,INF767K01IR1,Open Ended Schemes,Debt Scheme - Liquid Fund
 101185,LIC Mutual Fund,LIC MF Liquid Fund - Regular Plan - Growth,INF767K01IS9,,Open Ended Schemes,Debt Scheme - Liquid Fund
 101186,Tata Mutual Fund,Tata Income Fund- Regular Plan - Periodic Payout of IDCW Option,,,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
@@ -674,7 +674,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 101545,Sundaram Mutual Fund,Sundaram Short Term Credit Risk Fund-Appreciation,,,Open Ended Schemes,Debt Scheme - Credit Risk Fund
 101547,Tata Mutual Fund,Tata Short Term Fund - Regular Plan - Monthly Payout of IDCW Option,INF277K01EI9,INF277K01964,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 101548,Tata Mutual Fund,Tata Short Term Fund - Regular Plan - Growth Option,INF277K01972,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
-101549,JM Financial Mutual Fund,JM Liquid Fund - Bonus Option - Regular Plan - Bonus Option - Principal Units,INF192K01890,,Open Ended Schemes,Debt Scheme - Liquid Fund
+101549,JM Financial Mutual Fund,JM Liquid Fund - Regular Plan - Bonus Option - Principal Units,INF192K01890,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 101550,ING Mutual Fund,ING Short Term Income Fund -Dividend Option,,,Open Ended Schemes,Income
 101551,SBI Mutual Fund,SBI AGGRESSIVE HYBRID FUND - Regular Plan - IDCW,INF200K01115,INF200K01123,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
 101560,Sundaram Mutual Fund,Sundaram Short Term Debt Fund Regular Plan - Quarterly Payout of Income Distribution cum Capital Withdrawal (IDCW),,,Open Ended Schemes,Debt Scheme - Short Duration Fund
@@ -37887,7 +37887,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154690,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Term Fund (the scheme has 2 segregated portfolios) - Regular Plan - Defunct Monthly IDCW Payout,INF955L01JP2,INF955L01JQ0,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 154691,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Term Fund (the scheme has 2 segregated portfolios) - Regular Plan - Defunct Weekly IDCW Reinvestment,,INF955L01JO5,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 154698,UTI Mutual Fund,UTI BSE India Sector Leaders Exchange Traded Fund - Growth,INF789F1AH42,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Equity ETF
+154703,Navi Mutual Fund,Navi Nifty Reits & Realty Index fund - Regular Plan - Growth,INF959L01HU8,,Open Ended Schemes,Index Funds - Equity Funds
+154704,Navi Mutual Fund,Navi Nifty Reits & Realty Index fund - Direct Plan - Growth,INF959L01HT0,,Open Ended Schemes,Index Funds - Equity Funds
 154705,Monarch Mutual Fund,Monarch Overnight Fund - Direct Plan - Monthly IDCW,INF2ZSC01085,INF2ZSC01069,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 154706,Monarch Mutual Fund,Monarch Overnight Fund - Direct Plan - Growth,INF2ZSC01028,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
+154710,Monarch Mutual Fund,Monarch Overnight Fund - Regular Plan - Daily IDCW,,INF2ZSC01036,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 154711,Monarch Mutual Fund,Monarch Overnight Fund - Regular Plan - Growth,INF2ZSC01010,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 154734,Helios Mutual Fund,Helios Balanced Advantage Fund - Direct Plan - Monthly IDCW,INF0R8701491,INF0R8701509,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
