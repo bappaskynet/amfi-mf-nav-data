@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "Navi Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Index Funds - Equity Funds",
+        "scheme_code": 154704,
+        "scheme_name": "Navi Nifty Reits & Realty Index fund - Direct Plan - Growth",
+        "isin_growth": "INF959L01HT0",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "17-09-2026",
+            "nav": "10.02100"
+        }
+    ],
+    "status": "SUCCESS"
+}

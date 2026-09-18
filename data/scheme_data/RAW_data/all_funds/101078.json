@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "JM Financial Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Liquid Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 101078,
-        "scheme_name": "JM Liquid Fund - Daily Dividend Option - Regular Plan - Daily IDCW Option",
+        "scheme_name": "JM Liquid Fund - Regular Plan - Daily IDCW Option",
         "isin_growth": null,
         "isin_div_reinvestment": "INF192K01833"
     },
     "data": [
+        {
+            "date": "17-09-2026",
+            "nav": "10.43020"
+        },
         {
             "date": "16-09-2026",
             "nav": "10.43020"
