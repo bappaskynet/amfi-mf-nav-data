@@ -36614,10 +36614,10 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 154747,Tata Asset Management Limited,Tata CRISIL-IBX Financial Services 3-6 Months Debt Index Fund-Direct Plan-Growth,INF277KA1FB5,Open Ended,Index Funds,Debt Funds,Direct,Growth,
 154748,Tata Asset Management Limited,Tata CRISIL-IBX Financial Services 3-6 Months Debt Index Fund-Direct Plan-IDCW Payout,INF277KA1FC3,Open Ended,Index Funds,Debt Funds,Direct,IDCW,
 154749,Tata Asset Management Limited,Tata CRISIL-IBX Financial Services 3-6 Months Debt Index Fund-Direct Plan-IDCW Reinvestment,INF277KA1FD1,Open Ended,Index Funds,Debt Funds,Direct,IDCW,Reinvestment
-154750,HDFC Asset Management Company Limited,HDFC BSE REITS and Commercial Real Estate Index Fund- IDCW Option,,Open Ended,Index Funds,Equity Funds,Other,IDCW,
-154751,HDFC Asset Management Company Limited,HDFC BSE REITS and Commercial Real Estate Index fund-Direct Plan - IDCW Option,,Open Ended,Index Funds,Equity Funds,Direct,IDCW,
-154752,HDFC Asset Management Company Limited,HDFC BSE REITS and Commercial Real Estate Index Fund-Growth Option,,Open Ended,Index Funds,Equity Funds,Other,Growth,
-154753,HDFC Asset Management Company Limited,HDFC BSE REITS and Commercial Real Estate Index Fund-Direct Plan-Growth Option,,Open Ended,Index Funds,Equity Funds,Direct,Growth,
+154750,HDFC Asset Management Company Limited,HDFC BSE REITS and Commercial Real Estate Index Fund- IDCW Payout Option,INF179KC1KV0,Open Ended,Index Funds,Equity Funds,Other,IDCW,
+154751,HDFC Asset Management Company Limited,HDFC BSE REITS and Commercial Real Estate Index fund-Direct Plan - IDCW Payout Option,INF179KC1KY4,Open Ended,Index Funds,Equity Funds,Direct,IDCW,
+154752,HDFC Asset Management Company Limited,HDFC BSE REITS and Commercial Real Estate Index Fund-Growth Option,INF179KC1KU2,Open Ended,Index Funds,Equity Funds,Other,Growth,
+154753,HDFC Asset Management Company Limited,HDFC BSE REITS and Commercial Real Estate Index Fund-Direct Plan-Growth Option,INF179KC1KX6,Open Ended,Index Funds,Equity Funds,Direct,Growth,
 154754,Kotak Mahindra Asset Management Company Limited.,Kotak Nifty Capital Markets Index Fund - Direct Plan - Growth,INF174KA1G07,Open Ended,Index Funds,Equity Funds,Direct,Growth,
 154755,Kotak Mahindra Asset Management Company Limited.,Kotak Nifty Capital Markets Index Fund - Direct Plan - IDCW,INF174KA1G15,Open Ended,Index Funds,Equity Funds,Direct,IDCW,
 154756,Kotak Mahindra Asset Management Company Limited.,Kotak Nifty Capital Markets Index Fund - Regular Plan - Growth,INF174KA1G31,Open Ended,Index Funds,Equity Funds,Regular,Growth,
@@ -36630,3 +36630,8 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 154763,Motilal Oswal Asset Management Company Limited,Motilal Oswal Nifty REITs & Realty Index Fund - Regular,INF247L01HP8,Open Ended,Index Funds,Equity Funds,Regular,Other,
 154764,Zerodha Asset Management Private Limited,Zerodha Nifty Next 100 ETF,,Open Ended,Exchange Traded Funds (ETFs),ETF,Other,Other,
 154765,HDFC Asset Management Company Limited,HDFC FTSE India Equity ETF-Growth Option,,Open Ended,Exchange Traded Funds (ETFs),ETF,Other,Growth,
+154766,HDFC Asset Management Company Limited,HDFC BSE REITS and Commercial Real Estate Index Fund-Direct -IDCW Reinvestment,INF179KC1KZ1,Open Ended,Index Funds,Equity Funds,Direct,IDCW,Reinvestment
+154767,HDFC Asset Management Company Limited,HDFC BSE REITS and Commercial Real Estate Index Fund-Regular-IDCW Reinvestment,INF179KC1KW8,Open Ended,Index Funds,Equity Funds,Regular,IDCW,Reinvestment
+154768,DSP Asset Managers Private Limited,DSP BSE Insurance ETF,INF740KA1ZR8,Open Ended,Exchange Traded Funds (ETFs),ETF,Other,Other,
+154769,WhiteOak Capital Asset Management Limited,WhiteOak Capital Diversified Equity Small Cap Active FOF Regular Plan Growth,INF1J2R01197,Open Ended,Fund of Funds (Domestic),Fund of Funds (Domestic),Regular,Growth,
+154770,WhiteOak Capital Asset Management Limited,WhiteOak Capital Diversified Equity Small Cap Active FOF Direct Plan Growth,INF1J2R01189,Open Ended,Fund of Funds (Domestic),Fund of Funds (Domestic),Direct,Growth,
