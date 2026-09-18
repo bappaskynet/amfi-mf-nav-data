@@ -319,8 +319,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 101359,Franklin Templeton Mutual Fund,Franklin India Money Market Fund,INF090I01BW7,INF090I01BV9,Open Ended Schemes,Debt Scheme - Money Market Fund,0.0000,18-Jun-2020
 101372,Kotak Mahindra Mutual Fund,Kotak Short Term Fund,INF174K01EU3,INF174K01ET5,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund,10.0545,17-Sep-2021
 101373,Kotak Mahindra Mutual Fund,Kotak Short Term Fund,INF174K01ES7,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund,55.2708,18-Sep-2026
-101407,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND,INF955L01559,INF955L01567,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,3925.7048,18-Sep-2026
-101408,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND,INF955L01575,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,4757.9264,18-Sep-2026
+101407,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND,INF955L01559,INF955L01567,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,3926.9231,20-Sep-2026
+101408,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND,INF955L01575,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,4759.4027,20-Sep-2026
 101409,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND,INF955L01518,INF955L01526,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1006.0602,04-Aug-2022
 101491,Tata Mutual Fund,Tata Childrens Fund,INF277K01AJ5,,Open Ended Schemes,Solution Oriented Scheme - Childrenâs Fund,54.5234,18-Sep-2026
 101519,JM Financial Mutual Fund,JM Short Term Fund..,INF192K01BA3,INF192K01BB1,Open Ended Schemes,Debt Scheme - Short Duration Fund,11.6715,25-Sep-2020
@@ -682,9 +682,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 103637,ICICI Prudential Mutual Fund,ICICI Prudential Money Market Fund - Cash Option,INF109K01UC3,INF109K01UB5,Open Ended Schemes,Debt Scheme - Money Market Fund,100.8819,16-Sep-2022
 103678,Franklin Templeton Mutual Fund,Franklin India Dividend Yield Fund,INF090I01957,,Open Ended Schemes,Equity Scheme - Dividend Yield Fund,133.2706,17-Sep-2026
 103679,Franklin Templeton Mutual Fund,Franklin India Dividend Yield Fund,INF090I01932,INF090I01940,Open Ended Schemes,Equity Scheme - Dividend Yield Fund,23.1271,17-Sep-2026
-103734,Quantum Mutual Fund,Quantum Liquid Fund,INF082J01127,,Open Ended Schemes,Debt Scheme - Liquid Fund,37.7724,18-Sep-2026
-103735,Quantum Mutual Fund,Quantum Liquid Fund,INF082J01143,INF082J01200,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0557,18-Sep-2026
-103736,Quantum Mutual Fund,Quantum Liquid Fund,,INF082J01135,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0134,18-Sep-2026
+103734,Quantum Mutual Fund,Quantum Liquid Fund,INF082J01127,,Open Ended Schemes,Debt Scheme - Liquid Fund,37.7836,20-Sep-2026
+103735,Quantum Mutual Fund,Quantum Liquid Fund,INF082J01143,INF082J01200,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0587,20-Sep-2026
+103736,Quantum Mutual Fund,Quantum Liquid Fund,,INF082J01135,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0132,20-Sep-2026
 103743,Sundaram Mutual Fund,Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund),INF903J01546,INF903J01553,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,24.7392,18-Sep-2026
 103780,JM Financial Mutual Fund,JM Arbitrage Fund,INF192K01510,,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund,34.7851,18-Sep-2026
 103781,JM Financial Mutual Fund,JM Arbitrage Fund,INF192K01494,INF192K01502,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund,16.145,18-Sep-2026
@@ -1056,16 +1056,16 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 109059,Sundaram Mutual Fund,Sundaram Financial Services Opportunities Fund,INF903J01629,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,108.0875,18-Sep-2026
 109060,Sundaram Mutual Fund,Sundaram Financial Services Opportunities Fund,INF903J01637,INF903J01645,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,33.8495,06-Jan-2025
 109061,Sundaram Mutual Fund,Sundaram Financial Services Opportunities Fund,INF903J01652,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,104.9194,22-Jan-2025
-109254,Bank of India Mutual Fund,BANK OF INDIA LIQUID FUND,INF761K01306,,Open Ended Schemes,Debt Scheme - Liquid Fund,3242.1371,19-Sep-2026
-109255,Bank of India Mutual Fund,BANK OF INDIA LIQUID FUND,,INF761K01CP1,Open Ended Schemes,Debt Scheme - Liquid Fund,1005.5775,19-Sep-2026
+109254,Bank of India Mutual Fund,BANK OF INDIA LIQUID FUND,INF761K01306,,Open Ended Schemes,Debt Scheme - Liquid Fund,3242.6492,20-Sep-2026
+109255,Bank of India Mutual Fund,BANK OF INDIA LIQUID FUND,,INF761K01CP1,Open Ended Schemes,Debt Scheme - Liquid Fund,1005.7368,20-Sep-2026
 109264,Bank of India Mutual Fund,BANK OF INDIA ULTRA SHORT TERM FUND,,INF761K01CX5,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund,1005.4249,18-Sep-2026
 109269,Bank of India Mutual Fund,BANK OF INDIA ULTRA SHORT TERM FUND,INF761K01298,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund,3392.5855,18-Sep-2026
 109274,quant Mutual Fund,Quant Focused Fund,INF966L01358,INF966L01366,Open Ended Schemes,Equity Scheme - Focused Fund,69.3892,18-Sep-2026
 109275,quant Mutual Fund,Quant Focused Fund,INF966L01374,,Open Ended Schemes,Equity Scheme - Focused Fund,93.3215,18-Sep-2026
-109349,Canara Robeco Mutual Fund,Canara Robeco Liquid Fund,,INF760K01CU3,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1005.5000,19-Sep-2026
-109350,Canara Robeco Mutual Fund,Canara Robeco Liquid Fund,INF760K01BZ4,INF760K01CZ2,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1000.7621,19-Sep-2026
-109351,Canara Robeco Mutual Fund,Canara Robeco Liquid Fund,INF760K01CX7,INF760K01CY5,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1004.3639,19-Sep-2026
-109353,Canara Robeco Mutual Fund,Canara Robeco Liquid Fund,INF760K01CW9,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,3385.6166,19-Sep-2026
+109349,Canara Robeco Mutual Fund,Canara Robeco Liquid Fund,,INF760K01CU3,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1005.5000,20-Sep-2026
+109350,Canara Robeco Mutual Fund,Canara Robeco Liquid Fund,INF760K01BZ4,INF760K01CZ2,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1000.9168,20-Sep-2026
+109351,Canara Robeco Mutual Fund,Canara Robeco Liquid Fund,INF760K01CX7,INF760K01CY5,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1004.5191,20-Sep-2026
+109353,Canara Robeco Mutual Fund,Canara Robeco Liquid Fund,INF760K01CW9,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,3386.1401,20-Sep-2026
 109366,Canara Robeco Mutual Fund,Canara Robeco Ultra Short Term Fund,INF760K01DE5,INF760K01DF2,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund,1240.9824,18-Sep-2026
 109370,Canara Robeco Mutual Fund,Canara Robeco Ultra Short Term Fund,INF760K01CA5,INF760K01DD7,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund,1004.5265,18-Sep-2026
 109371,Canara Robeco Mutual Fund,Canara Robeco Ultra Short Term Fund,INF760K01DC9,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund,4074.3268,18-Sep-2026
@@ -1171,9 +1171,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 111647,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund,,INF769K01804,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1066.4347,18-Sep-2026
 111675,LIC Mutual Fund,LIC MF Ultra Short to Short Term fund,INF767K01AP2,INF767K01AQ0,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund,14.5636,18-Sep-2026
 111676,LIC Mutual Fund,LIC MF Ultra Short to Short Term fund,INF767K01AK3,INF767K01AL1,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund,11.2104,18-Sep-2026
-111704,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND,INF955L01484,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,3231.7750,18-Sep-2026
-111705,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND,INF251K01SK0,INF955L01500,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1000.9562,18-Sep-2026
-111707,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND,INF955L01468,INF955L01476,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1001.1996,18-Sep-2026
+111704,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND,INF955L01484,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,3232.7778,20-Sep-2026
+111705,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND,INF251K01SK0,INF955L01500,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1001.2667,20-Sep-2026
+111707,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND,INF955L01468,INF955L01476,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1001.1996,20-Sep-2026
 111708,Bank of India Mutual Fund,BANK OF INDIA ELSS TAX SAVER FUND,INF761K01165,INF761K01173,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund,31.66,18-Sep-2026
 111709,Bank of India Mutual Fund,BANK OF INDIA ELSS TAX SAVER FUND,INF761K01157,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund,178.39,18-Sep-2026
 111710,Bank of India Mutual Fund,BANK OF INDIA ELSS TAX SAVER FUND,INF761K01181,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund,164.37,18-Sep-2026
@@ -1222,7 +1222,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 111962,Canara Robeco Mutual Fund,Canara Robeco Dynamic Term Fund,INF760K01449,,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund,29.6623,18-Sep-2026
 111963,Canara Robeco Mutual Fund,Canara Robeco Dynamic Term Fund,INF760K01423,INF760K01431,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund,13.2350,18-Sep-2026
 111970,Bank of India Mutual Fund,BANK OF INDIA ULTRA SHORT TERM FUND,,INF761K01CW7,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund,1005.0000,18-Sep-2026
-111971,Bank of India Mutual Fund,BANK OF INDIA LIQUID FUND,,INF761K01CO4,Open Ended Schemes,Debt Scheme - Liquid Fund,1005.0000,19-Sep-2026
+111971,Bank of India Mutual Fund,BANK OF INDIA LIQUID FUND,,INF761K01CO4,Open Ended Schemes,Debt Scheme - Liquid Fund,1005.0000,20-Sep-2026
 111972,ICICI Prudential Mutual Fund,ICICI Prudential Corporate Bond Fund,INF109K01CE7,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund,22.7853,24-Apr-2020
 111976,ICICI Prudential Mutual Fund,ICICI Prudential Corporate Bond Fund,INF109K01CF4,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund,10.0275,24-Apr-2020
 111977,ICICI Prudential Mutual Fund,ICICI Prudential Corporate Bond Fund,INF109K01SE3,INF109K01CG2,Open Ended Schemes,Debt Scheme - Corporate Bond Fund,10.2202,24-Apr-2020
@@ -1653,11 +1653,11 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 118295,Canara Robeco Mutual Fund,Canara Robeco Ultra Short to Short Term Fund,INF760K01EN4,INF760K01EO2,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund,10.2994,18-Sep-2026
 118298,Canara Robeco Mutual Fund,Canara Robeco Gilt Fund,INF760K01FA8,INF760K01FB6,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund,16.2161,18-Sep-2026
 118299,Canara Robeco Mutual Fund,Canara Robeco Gilt Fund,INF760K01FC4,,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund,83.3702,18-Sep-2026
-118304,Canara Robeco Mutual Fund,Canara Robeco Liquid Fund,INF760K01FT8,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,2268.5961,19-Sep-2026
-118305,Canara Robeco Mutual Fund,Canara Robeco Liquid Fund,INF760K01FU6,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,3408.4013,19-Sep-2026
-118306,Canara Robeco Mutual Fund,Canara Robeco Liquid Fund,INF760K01FV4,INF760K01FW2,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1004.6275,19-Sep-2026
-118307,Canara Robeco Mutual Fund,Canara Robeco Liquid Fund,,INF760K01FS0,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1005.5000,19-Sep-2026
-118308,Canara Robeco Mutual Fund,Canara Robeco Liquid Fund,INF760K01FY8,INF760K01FX0,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1000.7698,19-Sep-2026
+118304,Canara Robeco Mutual Fund,Canara Robeco Liquid Fund,INF760K01FT8,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,2268.9527,20-Sep-2026
+118305,Canara Robeco Mutual Fund,Canara Robeco Liquid Fund,INF760K01FU6,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,3408.9371,20-Sep-2026
+118306,Canara Robeco Mutual Fund,Canara Robeco Liquid Fund,INF760K01FV4,INF760K01FW2,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1004.7855,20-Sep-2026
+118307,Canara Robeco Mutual Fund,Canara Robeco Liquid Fund,,INF760K01FS0,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1005.5000,20-Sep-2026
+118308,Canara Robeco Mutual Fund,Canara Robeco Liquid Fund,INF760K01FY8,INF760K01FX0,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1000.9271,20-Sep-2026
 118309,Canara Robeco Mutual Fund,Canara Robeco Conservative Hybrid Fund,INF760K01GB4,,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund,115.6325,18-Sep-2026
 118310,Canara Robeco Mutual Fund,Canara Robeco Conservative Hybrid Fund,INF760K01GC2,INF760K01GD0,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund,16.1969,18-Sep-2026
 118311,Canara Robeco Mutual Fund,Canara Robeco Conservative Hybrid Fund,INF760K01FZ5,INF760K01GA6,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund,15.9440,18-Sep-2026
@@ -2167,9 +2167,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 119363,Bank of India Mutual Fund,BANK OF INDIA MANUFACTURING & INFRASTRUCTURE FUND,INF761K01694,INF761K01686,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,74.48,18-Sep-2026
 119364,Bank of India Mutual Fund,BANK OF INDIA MANUFACTURING & INFRASTRUCTURE FUND,INF761K01702,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,78.94,18-Sep-2026
 119365,Bank of India Mutual Fund,BANK OF INDIA MANUFACTURING & INFRASTRUCTURE FUND,INF761K01728,INF761K01710,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,77.59,18-Sep-2026
-119368,Bank of India Mutual Fund,BANK OF INDIA LIQUID FUND,,INF761K01CL0,Open Ended Schemes,Debt Scheme - Liquid Fund,1005.0000,19-Sep-2026
-119369,Bank of India Mutual Fund,BANK OF INDIA LIQUID FUND,INF761K01785,,Open Ended Schemes,Debt Scheme - Liquid Fund,3276.0065,19-Sep-2026
-119370,Bank of India Mutual Fund,BANK OF INDIA LIQUID FUND,,INF761K01CM8,Open Ended Schemes,Debt Scheme - Liquid Fund,1005.5839,19-Sep-2026
+119368,Bank of India Mutual Fund,BANK OF INDIA LIQUID FUND,,INF761K01CL0,Open Ended Schemes,Debt Scheme - Liquid Fund,1005.0000,20-Sep-2026
+119369,Bank of India Mutual Fund,BANK OF INDIA LIQUID FUND,INF761K01785,,Open Ended Schemes,Debt Scheme - Liquid Fund,3276.5292,20-Sep-2026
+119370,Bank of India Mutual Fund,BANK OF INDIA LIQUID FUND,,INF761K01CM8,Open Ended Schemes,Debt Scheme - Liquid Fund,1005.7449,20-Sep-2026
 119379,Bank of India Mutual Fund,BANK OF INDIA ULTRA SHORT TERM FUND,INF761K01892,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund,3531.5528,18-Sep-2026
 119380,Bank of India Mutual Fund,BANK OF INDIA ULTRA SHORT TERM FUND,,INF761K01CT3,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund,1005.0001,18-Sep-2026
 119381,Bank of India Mutual Fund,BANK OF INDIA ULTRA SHORT TERM FUND,,INF761K01CU1,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund,1005.4872,18-Sep-2026
@@ -2182,9 +2182,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 119396,Bank of India Mutual Fund,BANK OF INDIA CONSERVATIVE HYBRID FUND,INF761K01793,INF761K01801,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund,17.3130,18-Sep-2026
 119399,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Term Fund (the scheme has 2 segregated portfolios),INF955L01BB9,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund,10.4661,18-Sep-2026
 119400,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Term Fund (the scheme has 2 segregated portfolios),INF955L01BD5,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund,33.9815,18-Sep-2026
-119414,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND,INF955L01AK2,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1002.0849,18-Sep-2026
-119415,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND,INF955L01AL0,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,3276.8107,18-Sep-2026
-119416,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND,INF251K01SL8,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1220.9215,18-Sep-2026
+119414,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND,INF955L01AK2,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1002.0849,20-Sep-2026
+119415,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND,INF955L01AL0,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,3277.8410,20-Sep-2026
+119416,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND,INF251K01SL8,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1221.3054,20-Sep-2026
 119421,Tata Mutual Fund,Tata Money Market Fund,,INF277K011C6,Open Ended Schemes,Debt Scheme - Money Market Fund,1114.5200,18-Sep-2026
 119424,Tata Mutual Fund,Tata Money Market Fund,INF277K01PR6,,Open Ended Schemes,Debt Scheme - Money Market Fund,5212.9337,18-Sep-2026
 119433,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Large & Mid Cap Fund,INF209K01VG0,INF209K01VI6,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund,215.56,18-Sep-2026
@@ -3571,10 +3571,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 126332,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan-Series 72-368 Days Plan D,INF109KA13S6,,Close Ended Schemes,Income,13.0397,02-May-2017
 126334,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan-Series 72-368 Days Plan D,INF109KA11S0,,Close Ended Schemes,Income,12.9935,02-May-2017
 126335,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan-Series 72-368 Days Plan D,INF109KA12S8,,Close Ended Schemes,Income,11.5640,02-May-2017
-126350,Invesco Mutual Fund,Invesco India - Invesco Pan European Equity Fund of Fund,INF205K01A08,INF205K01A16,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas,26.7893,17-Sep-2026
-126351,Invesco Mutual Fund,Invesco India - Invesco Pan European Equity Fund of Fund,INF205K01ZZ9,,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas,26.7896,17-Sep-2026
-126352,Invesco Mutual Fund,Invesco India - Invesco Pan European Equity Fund of Fund,INF205K01A32,INF205K01A40,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas,29.2025,17-Sep-2026
-126353,Invesco Mutual Fund,Invesco India - Invesco Pan European Equity Fund of Fund,INF205K01A24,,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas,29.2917,17-Sep-2026
+126350,Invesco Mutual Fund,Invesco India - Invesco Pan European Equity Fund of Fund,INF205K01A08,INF205K01A16,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas,26.7211,18-Sep-2026
+126351,Invesco Mutual Fund,Invesco India - Invesco Pan European Equity Fund of Fund,INF205K01ZZ9,,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas,26.7214,18-Sep-2026
+126352,Invesco Mutual Fund,Invesco India - Invesco Pan European Equity Fund of Fund,INF205K01A32,INF205K01A40,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas,29.1285,18-Sep-2026
+126353,Invesco Mutual Fund,Invesco India - Invesco Pan European Equity Fund of Fund,INF205K01A24,,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas,29.2174,18-Sep-2026
 126371,Nippon India Mutual Fund,Reliance Fixed Horizon Fund - XXV - Series 14,INF204KA1GT3,,Close Ended Schemes,Income,12.7842,24-Jan-2017
 126372,Nippon India Mutual Fund,Reliance Fixed Horizon Fund - XXV - Series 14,INF204KA1GR7,,Close Ended Schemes,Income,12.8223,24-Jan-2017
 126389,Bank of India Mutual Fund,BANK OF INDIA ULTRA SHORT TERM FUND,INF761K01CS5,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund,3516.2235,18-Sep-2026
@@ -4010,10 +4010,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 129184,Nippon India Mutual Fund,Reliance Fixed Horizon Fund- XXVI- Series 16,INF204KA1NU7,,Close Ended Schemes,Income,10.0000,27-Apr-2017
 129185,Nippon India Mutual Fund,Reliance Fixed Horizon Fund- XXVI- Series 16,INF204KA1NS1,,Close Ended Schemes,Income,10.0000,08-May-2017
 129186,Nippon India Mutual Fund,Reliance Fixed Horizon Fund- XXVI- Series 16,INF204KA1NT9,,Close Ended Schemes,Income,13.3054,08-May-2017
-129187,Invesco Mutual Fund,Invesco India - Invesco Global Equity Income Fund of Fund,INF205K01B15,,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas,37.5235,17-Sep-2026
-129188,Invesco Mutual Fund,Invesco India - Invesco Global Equity Income Fund of Fund,INF205K01B49,,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas,41.7107,17-Sep-2026
-129189,Invesco Mutual Fund,Invesco India - Invesco Global Equity Income Fund of Fund,INF205K01B23,INF205K01B31,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas,37.47,17-Sep-2026
-129190,Invesco Mutual Fund,Invesco India - Invesco Global Equity Income Fund of Fund,INF205K01B56,INF205K01B64,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas,41.2035,17-Sep-2026
+129187,Invesco Mutual Fund,Invesco India - Invesco Global Equity Income Fund of Fund,INF205K01B15,,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas,37.3844,18-Sep-2026
+129188,Invesco Mutual Fund,Invesco India - Invesco Global Equity Income Fund of Fund,INF205K01B49,,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas,41.5565,18-Sep-2026
+129189,Invesco Mutual Fund,Invesco India - Invesco Global Equity Income Fund of Fund,INF205K01B23,INF205K01B31,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas,37.3311,18-Sep-2026
+129190,Invesco Mutual Fund,Invesco India - Invesco Global Equity Income Fund of Fund,INF205K01B56,INF205K01B64,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas,41.0511,18-Sep-2026
 129191,HSBC Mutual Fund,HSBC Multi Asset Active FOF (erstwhile HSBC Managed Solutions India - Moderate Fund),INF336L01IG6,,Open Ended Schemes,Fund of Funds Scheme,41.3811,17-Sep-2026
 129192,HSBC Mutual Fund,HSBC Multi Asset Active FOF (erstwhile HSBC Managed Solutions India - Moderate Fund),INF336L01IE1,INF336L01IF8,Open Ended Schemes,Fund of Funds Scheme,30.1973,17-Sep-2026
 129193,HSBC Mutual Fund,HSBC Multi Asset Active FOF (erstwhile HSBC Managed Solutions India - Moderate Fund),INF336L01IJ0,,Open Ended Schemes,Fund of Funds Scheme,44.2026,17-Sep-2026
@@ -5751,7 +5751,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 139203,Bandhan Mutual Fund,BANDHAN Corporate Bond Fund,INF194KA1R85,INF194KA1R93,Open Ended Schemes,Debt Scheme - Corporate Bond Fund,11.2605,18-Sep-2026
 139204,Bandhan Mutual Fund,BANDHAN Corporate Bond Fund,INF194KA1S19,INF194KA1S27,Open Ended Schemes,Debt Scheme - Corporate Bond Fund,10.5517,18-Sep-2026
 139205,Bandhan Mutual Fund,BANDHAN Corporate Bond Fund,INF194KA1R51,INF194KA1R69,Open Ended Schemes,Debt Scheme - Corporate Bond Fund,10.7775,18-Sep-2026
-139235,Canara Robeco Mutual Fund,Canara Robeco Liquid Fund,INF760K01IC8,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1860.1800,19-Sep-2026
+139235,Canara Robeco Mutual Fund,Canara Robeco Liquid Fund,INF760K01IC8,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1860.4736,20-Sep-2026
 139236,UTI Mutual Fund,UTI - Money Market Fund,INF789FA1M04,INF789FA1M12,Open Ended Schemes,Debt Scheme - Money Market Fund,1289.8496,18-Sep-2026
 139245,Nippon India Mutual Fund,Reliance Fixed Horizon Fund XXX- Series 18,INF204KB1270,,Close Ended Schemes,Income,10.0000,06-Jun-2019
 139246,Nippon India Mutual Fund,Reliance Fixed Horizon Fund XXX- Series 18,INF204KB1254,,Close Ended Schemes,Income,10.0000,06-Jun-2019
@@ -5865,14 +5865,14 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 139528,Bank of India Mutual Fund,BANK OF INDIA AGGRESSIVE HYBRID FUND,INF761K01DQ7,INF761K01DR5,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund,34.59,18-Sep-2026
 139529,Bank of India Mutual Fund,BANK OF INDIA AGGRESSIVE HYBRID FUND,INF761K01DP9,,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund,43.33,18-Sep-2026
 139530,Bank of India Mutual Fund,BANK OF INDIA AGGRESSIVE HYBRID FUND,INF761K01DN4,INF761K01DO2,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund,36.87,18-Sep-2026
-139534,Mahindra Manulife Mutual Fund,Mahindra Manulife Liquid Fund,,INF174V01028,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1001.6836,18-Sep-2026
-139535,Mahindra Manulife Mutual Fund,Mahindra Manulife Liquid Fund,,INF174V01051,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1300.8907,18-Sep-2026
-139536,Mahindra Manulife Mutual Fund,Mahindra Manulife Liquid Fund,,INF174V01069,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1003.1589,18-Sep-2026
-139537,Mahindra Manulife Mutual Fund,Mahindra Manulife Liquid Fund,INF174V01010,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1830.5586,18-Sep-2026
-139538,Mahindra Manulife Mutual Fund,Mahindra Manulife Liquid Fund,INF174V01044,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1852.6520,18-Sep-2026
+139534,Mahindra Manulife Mutual Fund,Mahindra Manulife Liquid Fund,,INF174V01028,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1001.6836,20-Sep-2026
+139535,Mahindra Manulife Mutual Fund,Mahindra Manulife Liquid Fund,,INF174V01051,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1301.3112,20-Sep-2026
+139536,Mahindra Manulife Mutual Fund,Mahindra Manulife Liquid Fund,,INF174V01069,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1003.4806,20-Sep-2026
+139537,Mahindra Manulife Mutual Fund,Mahindra Manulife Liquid Fund,INF174V01010,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1831.1349,20-Sep-2026
+139538,Mahindra Manulife Mutual Fund,Mahindra Manulife Liquid Fund,INF174V01044,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1853.2458,20-Sep-2026
 139539,Mahindra Manulife Mutual Fund,Mahindra Manulife Liquid Fund,,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1218.6343,30-Nov-2021
 139540,Mahindra Manulife Mutual Fund,Mahindra Manulife Liquid Fund,,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1000.0000,30-Nov-2021
-139541,Mahindra Manulife Mutual Fund,Mahindra Manulife Liquid Fund,,INF174V01036,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1009.5752,18-Sep-2026
+139541,Mahindra Manulife Mutual Fund,Mahindra Manulife Liquid Fund,,INF174V01036,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1009.8959,20-Sep-2026
 139542,Nippon India Mutual Fund,Reliance Fixed Horizon Fund XXXI- Series 5,INF204KB1AD9,,Close Ended Schemes,Income,12.5318,29-Jul-2019
 139544,Nippon India Mutual Fund,Reliance Fixed Horizon Fund XXXI- Series 5,INF204KB1AB3,,Close Ended Schemes,Income,12.3949,29-Jul-2019
 139545,Nippon India Mutual Fund,Reliance Fixed Horizon Fund XXXI- Series 5,INF204KB1AC1,,Close Ended Schemes,Income,10.0000,29-Jul-2019
@@ -6429,9 +6429,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 141062,Quantum Mutual Fund,Quantum Diversified Equity All Cap Active FOF,INF082J01283,INF082J01291,Open Ended Schemes,Other Scheme - FoF Domestic,82.545,17-Sep-2026
 141063,Quantum Mutual Fund,Quantum Diversified Equity All Cap Active FOF,INF082J01275,,Open Ended Schemes,Other Scheme - FoF Domestic,82.755,17-Sep-2026
 141064,Quantum Mutual Fund,Quantum Gold ETF FOF,INF082J01358,,Open Ended Schemes,Other Scheme - FoF Domestic,57.5705,18-Sep-2026
-141065,Quantum Mutual Fund,Quantum Liquid Fund,,INF082J01317,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0002,18-Sep-2026
-141066,Quantum Mutual Fund,Quantum Liquid Fund,INF082J01309,,Open Ended Schemes,Debt Scheme - Liquid Fund,37.4583,18-Sep-2026
-141067,Quantum Mutual Fund,Quantum Liquid Fund,INF082J01325,INF082J01333,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0521,18-Sep-2026
+141065,Quantum Mutual Fund,Quantum Liquid Fund,,INF082J01317,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0002,20-Sep-2026
+141066,Quantum Mutual Fund,Quantum Liquid Fund,INF082J01309,,Open Ended Schemes,Debt Scheme - Liquid Fund,37.4691,20-Sep-2026
+141067,Quantum Mutual Fund,Quantum Liquid Fund,INF082J01325,INF082J01333,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0550,20-Sep-2026
 141068,Quantum Mutual Fund,Quantum Value Fund,INF082J01242,,Open Ended Schemes,Equity Scheme - Value Fund,115.59,18-Sep-2026
 141069,Quantum Mutual Fund,Quantum Value Fund,INF082J01259,INF082J01267,Open Ended Schemes,Equity Scheme - Value Fund,114.73,18-Sep-2026
 141070,Quantum Mutual Fund,Quantum ELSS Tax Saver Fund,INF082J01366,,Open Ended Schemes,Equity Scheme - ELSS,114.83,18-Sep-2026
@@ -7428,14 +7428,14 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 143257,Nippon India Mutual Fund,Nippon India Fixed Horizon Fund XXXVII- Series 5,INF204KB1WU7,,Close Ended Schemes,Income,12.5000,21-May-2021
 143258,Bandhan Mutual Fund,BANDHAN EQUITY SAVINGS FUND,INF194KA19J4,INF194KA10K1,Open Ended Schemes,Hybrid Scheme - Equity Savings,13.336,18-Sep-2026
 143259,Bandhan Mutual Fund,BANDHAN EQUITY SAVINGS FUND,INF194KA16J0,INF194KA17J8,Open Ended Schemes,Hybrid Scheme - Equity Savings,12.705,18-Sep-2026
-143260,PPFAS Mutual Fund,Parag Parikh Liquid Fund,INF879O01035,,Open Ended Schemes,Debt Scheme - Liquid Fund,1559.0672,18-Sep-2026
-143261,PPFAS Mutual Fund,Parag Parikh Liquid Fund,INF879O01043,INF879O01050,Open Ended Schemes,Debt Scheme - Liquid Fund,1006.0089,18-Sep-2026
-143262,PPFAS Mutual Fund,Parag Parikh Liquid Fund,INF879O01076,INF879O01084,Open Ended Schemes,Debt Scheme - Liquid Fund,1006.0553,18-Sep-2026
-143263,PPFAS Mutual Fund,Parag Parikh Liquid Fund,,INF879O01118,Open Ended Schemes,Debt Scheme - Liquid Fund,1000.5405,18-Sep-2026
-143264,PPFAS Mutual Fund,Parag Parikh Liquid Fund,,INF879O01126,Open Ended Schemes,Debt Scheme - Liquid Fund,1000.5404,18-Sep-2026
-143265,PPFAS Mutual Fund,Parag Parikh Liquid Fund,,INF879O01134,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.4554,18-Sep-2026
-143266,PPFAS Mutual Fund,Parag Parikh Liquid Fund,,INF879O01142,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.4473,18-Sep-2026
-143269,PPFAS Mutual Fund,Parag Parikh Liquid Fund,INF879O01068,,Open Ended Schemes,Debt Scheme - Liquid Fund,1572.2184,18-Sep-2026
+143260,PPFAS Mutual Fund,Parag Parikh Liquid Fund,INF879O01035,,Open Ended Schemes,Debt Scheme - Liquid Fund,1559.3156,19-Sep-2026
+143261,PPFAS Mutual Fund,Parag Parikh Liquid Fund,INF879O01043,INF879O01050,Open Ended Schemes,Debt Scheme - Liquid Fund,1006.1691,19-Sep-2026
+143262,PPFAS Mutual Fund,Parag Parikh Liquid Fund,INF879O01076,INF879O01084,Open Ended Schemes,Debt Scheme - Liquid Fund,1006.2182,19-Sep-2026
+143263,PPFAS Mutual Fund,Parag Parikh Liquid Fund,,INF879O01118,Open Ended Schemes,Debt Scheme - Liquid Fund,1000.5405,19-Sep-2026
+143264,PPFAS Mutual Fund,Parag Parikh Liquid Fund,,INF879O01126,Open Ended Schemes,Debt Scheme - Liquid Fund,1000.5404,19-Sep-2026
+143265,PPFAS Mutual Fund,Parag Parikh Liquid Fund,,INF879O01134,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.6175,19-Sep-2026
+143266,PPFAS Mutual Fund,Parag Parikh Liquid Fund,,INF879O01142,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.6069,19-Sep-2026
+143269,PPFAS Mutual Fund,Parag Parikh Liquid Fund,INF879O01068,,Open Ended Schemes,Debt Scheme - Liquid Fund,1572.4729,19-Sep-2026
 143270,Nippon India Mutual Fund,Nippon India Fixed Horizon Fund XXXVII- Series 6,INF204KB1WZ6,,Close Ended Schemes,Income,13.5183,05-Apr-2022
 143271,Nippon India Mutual Fund,Nippon India Fixed Horizon Fund XXXVII- Series 6,INF204KB1WY9,,Close Ended Schemes,Income,13.5183,05-Apr-2022
 143272,Nippon India Mutual Fund,Nippon India Fixed Horizon Fund XXXVII- Series 6,INF204KB1XA7,,Close Ended Schemes,Income,13.6889,05-Apr-2022
@@ -8429,7 +8429,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 145827,Nippon India Mutual Fund,Nippon India Overnight Fund,INF204KB1Q99,INF204KB1R07,Open Ended Schemes,Debt Scheme - Overnight Fund,100.4226,18-Sep-2026
 145830,Nippon India Mutual Fund,Nippon India Overnight Fund,,INF204KB1Q73,Open Ended Schemes,Debt Scheme - Overnight Fund,100.0050,18-Sep-2026
 145833,Nippon India Mutual Fund,Nippon India Overnight Fund,INF204KB1R15,INF204KB1R23,Open Ended Schemes,Debt Scheme - Overnight Fund,100.2732,18-Sep-2026
-145834,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund,INF247L01734,,Open Ended Schemes,Debt Scheme - Liquid Fund,14.9655,18-Sep-2026
+145834,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund,INF247L01734,,Open Ended Schemes,Debt Scheme - Liquid Fund,14.9701,20-Sep-2026
 145835,UTI Mutual Fund,UTI - Fixed Term Income Fund Series XXX-XIV (1209 Days),INF789F1AFB4,,Close Ended Schemes,Income,10,19-Apr-2022
 145836,UTI Mutual Fund,UTI - Fixed Term Income Fund Series XXX-XIV (1209 Days),INF789F1AEW3,,Close Ended Schemes,Income,10,19-Apr-2022
 145837,UTI Mutual Fund,UTI - Fixed Term Income Fund Series XXX-XIV (1209 Days),INF789F1AEY9,,Close Ended Schemes,Income,10,19-Apr-2022
@@ -8478,7 +8478,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 145939,UTI Mutual Fund,UTI - Fixed Term Income Fund Series XXXI-I (1209 Days),INF789F1AFT6,,Close Ended Schemes,Income,12.8898,19-Apr-2022
 145940,UTI Mutual Fund,UTI - Fixed Term Income Fund Series XXXI-I (1209 Days),INF789F1AFO7,,Close Ended Schemes,Income,12.7752,19-Apr-2022
 145941,UTI Mutual Fund,UTI - Fixed Term Income Fund Series XXXI-I (1209 Days),INF789F1AFU4,,Close Ended Schemes,Income,10,19-Apr-2022
-145946,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund,INF247L01726,,Open Ended Schemes,Debt Scheme - Liquid Fund,14.7836,18-Sep-2026
+145946,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund,INF247L01726,,Open Ended Schemes,Debt Scheme - Liquid Fund,14.7880,20-Sep-2026
 145951,LIC Mutual Fund,LIC MF Short Term Fund,INF767K01PU0,INF767K01PV8,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund,15.4516,18-Sep-2026
 145952,LIC Mutual Fund,LIC MF Short Term Fund,INF767K01PT2,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund,15.4516,18-Sep-2026
 145953,LIC Mutual Fund,LIC MF Short Term Fund,INF767K01PX4,INF767K01PY2,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund,16.6801,18-Sep-2026
@@ -8620,16 +8620,16 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 146212,SBI Mutual Fund,SBI Corporate Bond Fund,INF200KA1YS2,INF200KA1YT0,Open Ended Schemes,Debt Scheme - Corporate Bond Fund,16.0745,18-Sep-2026
 146215,SBI Mutual Fund,SBI Corporate Bond Fund,INF200KA1YR4,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund,17.0299,18-Sep-2026
 146216,SBI Mutual Fund,SBI Corporate Bond Fund,INF200KA1YU8,INF200KA1YV6,Open Ended Schemes,Debt Scheme - Corporate Bond Fund,16.5554,18-Sep-2026
-146218,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund,INF247L01791,INF247L01783,Open Ended Schemes,Debt Scheme - Liquid Fund,10.3934,18-Sep-2026
-146220,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund,INF247L01841,INF247L01833,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0622,18-Sep-2026
-146222,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund,INF247L01866,INF247L01858,Open Ended Schemes,Debt Scheme - Liquid Fund,10.3786,18-Sep-2026
-146223,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund,INF247L01775,INF247L01767,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0635,18-Sep-2026
-146224,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund,,INF247L01874,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0130,18-Sep-2026
-146226,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund,,INF247L01759,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0204,18-Sep-2026
-146227,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund,,INF247L01817,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0055,18-Sep-2026
-146228,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund,,INF247L01742,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0077,18-Sep-2026
-146229,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund,,INF247L01809,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0058,18-Sep-2026
-146230,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund,,INF247L01825,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0156,18-Sep-2026
+146218,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund,INF247L01791,INF247L01783,Open Ended Schemes,Debt Scheme - Liquid Fund,10.3967,20-Sep-2026
+146220,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund,INF247L01841,INF247L01833,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0653,20-Sep-2026
+146222,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund,INF247L01866,INF247L01858,Open Ended Schemes,Debt Scheme - Liquid Fund,10.3817,20-Sep-2026
+146223,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund,INF247L01775,INF247L01767,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0666,20-Sep-2026
+146224,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund,,INF247L01874,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0160,20-Sep-2026
+146226,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund,,INF247L01759,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0235,20-Sep-2026
+146227,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund,,INF247L01817,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0055,20-Sep-2026
+146228,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund,,INF247L01742,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0077,20-Sep-2026
+146229,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund,,INF247L01809,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0089,20-Sep-2026
+146230,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund,,INF247L01825,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0186,20-Sep-2026
 146239,UTI Mutual Fund,UTI - Fixed Term Income Fund Series XXXI-III (1174 Days),INF789F1AGT4,,Close Ended Schemes,Income,10,19-Apr-2022
 146241,UTI Mutual Fund,UTI - Fixed Term Income Fund Series XXXI-III (1174 Days),INF789F1AGO5,,Close Ended Schemes,Income,10,19-Apr-2022
 146242,UTI Mutual Fund,UTI - Fixed Term Income Fund Series XXXI-III (1174 Days),INF789F1AGQ0,,Close Ended Schemes,Income,10,19-Apr-2022
@@ -9008,12 +9008,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 147184,ITI Mutual Fund,ITI Multi Cap Fund,INF00XX01135,,Open Ended Schemes,Equity Scheme - Multi Cap Fund,26.1323,18-Sep-2026
 147185,ITI Mutual Fund,ITI Multi Cap Fund,INF00XX01143,INF00XX01150,Open Ended Schemes,Equity Scheme - Multi Cap Fund,22.8586,18-Sep-2026
 147186,ITI Mutual Fund,ITI Multi Cap Fund,INF00XX01176,INF00XX01184,Open Ended Schemes,Equity Scheme - Multi Cap Fund,26.5823,18-Sep-2026
-147193,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund,INF955L01HS0,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1441.7858,18-Sep-2026
-147194,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund,,INF955L01HT8,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1000.0018,18-Sep-2026
-147195,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund,,INF955L01HX0,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1000.5134,18-Sep-2026
-147196,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund,INF955L01HV4,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1448.7696,18-Sep-2026
-147197,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund,,INF955L01HW2,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1000.0028,18-Sep-2026
-147198,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund,,INF955L01HU6,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1000.9952,18-Sep-2026
+147193,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund,INF955L01HS0,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1442.1803,20-Sep-2026
+147194,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund,,INF955L01HT8,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1000.0018,20-Sep-2026
+147195,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund,,INF955L01HX0,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1000.7903,20-Sep-2026
+147196,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund,INF955L01HV4,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1449.1697,20-Sep-2026
+147197,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund,,INF955L01HW2,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1000.0028,20-Sep-2026
+147198,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund,,INF955L01HU6,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1001.2698,20-Sep-2026
 147203,Mirae Asset Mutual Fund,Mirae Asset Focused Fund,INF769K01ES4,,Open Ended Schemes,Equity Schemes - Focused Fund,25.247,18-Sep-2026
 147204,Mirae Asset Mutual Fund,Mirae Asset Focused Fund,INF769K01ER6,INF769K01EV8,Open Ended Schemes,Equity Schemes - Focused Fund,23.210,18-Sep-2026
 147205,Mirae Asset Mutual Fund,Mirae Asset Focused Fund,INF769K01ET2,INF769K01EW6,Open Ended Schemes,Equity Schemes - Focused Fund,25.615,18-Sep-2026
@@ -9125,10 +9125,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 147418,UTI Mutual Fund,UTI - Fixed Term Income Fund Series XXXII-II(1111 Days),INF789F1AMB0,,Close Ended Schemes,Income,10.0001,19-Jul-2022
 147419,UTI Mutual Fund,UTI - Fixed Term Income Fund Series XXXII-II(1111 Days),INF789F1AMC8,,Close Ended Schemes,Income,10,19-Jul-2022
 147420,UTI Mutual Fund,UTI - Fixed Term Income Fund Series XXXII-II(1111 Days),INF789F1ALY4,,Close Ended Schemes,Income,12.3749,19-Jul-2022
-147441,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund,,,Open Ended Schemes,Debt Scheme - Liquid Fund,14.5768,18-Sep-2026
-147442,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund,,,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0000,18-Sep-2026
-147443,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund,,,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0000,18-Sep-2026
-147444,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund,,,Open Ended Schemes,Debt Scheme - Liquid Fund,14.2866,18-Sep-2026
+147441,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund,,,Open Ended Schemes,Debt Scheme - Liquid Fund,14.5813,20-Sep-2026
+147442,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund,,,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0000,20-Sep-2026
+147443,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund,,,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0000,20-Sep-2026
+147444,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund,,,Open Ended Schemes,Debt Scheme - Liquid Fund,14.2911,20-Sep-2026
 147445,Mirae Asset Mutual Fund,Mirae Asset Midcap Fund,INF769K01FA9,,Open Ended Schemes,Equity Schemes - Mid Cap Fund,43.945,18-Sep-2026
 147446,Mahindra Manulife Mutual Fund,Mahindra Manulife Aggressive Hybrid Fund,INF174V01788,,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund,29.9679,18-Sep-2026
 147447,Mahindra Manulife Mutual Fund,Mahindra Manulife Aggressive Hybrid Fund,INF174V01754,,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund,26.4302,18-Sep-2026
@@ -9175,10 +9175,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 147518,LIC Mutual Fund,LIC MF Overnight Fund,,INF767K01QC6,Open Ended Schemes,Debt Scheme - Overnight Fund,1179.4666,18-Sep-2026
 147519,LIC Mutual Fund,LIC MF Overnight Fund,INF767K01QD4,,Open Ended Schemes,Debt Scheme - Overnight Fund,1417.5919,18-Sep-2026
 147530,ICICI Prudential Mutual Fund,ICICI Prudential Nifty Private Bank ETF,INF109KC18U7,,Open Ended Schemes,Other Scheme - Other  ETFs,27.6135,18-Sep-2026
-147531,Canara Robeco Mutual Fund,Canara Robeco Overnight Fund,INF760K01JM5,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1423.7926,19-Sep-2026
-147532,Canara Robeco Mutual Fund,Canara Robeco Overnight Fund,,INF760K01JN3,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1001.0012,19-Sep-2026
-147533,Canara Robeco Mutual Fund,Canara Robeco Overnight Fund,,INF760K01JP8,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1001.0000,19-Sep-2026
-147534,Canara Robeco Mutual Fund,Canara Robeco Overnight Fund,INF760K01JO1,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1422.1293,19-Sep-2026
+147531,Canara Robeco Mutual Fund,Canara Robeco Overnight Fund,INF760K01JM5,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1423.9902,20-Sep-2026
+147532,Canara Robeco Mutual Fund,Canara Robeco Overnight Fund,,INF760K01JN3,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1001.0012,20-Sep-2026
+147533,Canara Robeco Mutual Fund,Canara Robeco Overnight Fund,,INF760K01JP8,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1001.0000,20-Sep-2026
+147534,Canara Robeco Mutual Fund,Canara Robeco Overnight Fund,INF760K01JO1,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1422.3254,20-Sep-2026
 147541,ITI Mutual Fund,ITI ELSS Tax Saver Fund,INF00XX01390,,Open Ended Schemes,Equity Scheme - ELSS,28.7251,18-Sep-2026
 147542,ITI Mutual Fund,ITI ELSS Tax Saver Fund,INF00XX01408,,Open Ended Schemes,Equity Scheme - ELSS,25.4136,18-Sep-2026
 147543,ITI Mutual Fund,ITI ELSS Tax Saver Fund,INF00XX01382,,Open Ended Schemes,Equity Scheme - ELSS,21.9512,18-Sep-2026
@@ -9193,10 +9193,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 147556,Edelweiss Mutual Fund,Edelweiss Overnight Fund,INF754K01KM6,INF754K01KL8,Open Ended Schemes,Debt Scheme - Overnight Fund,1350.5637,18-Sep-2026
 147557,Edelweiss Mutual Fund,Edelweiss Overnight Fund,,INF754K01JW7,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.2501,18-Sep-2026
 147558,Edelweiss Mutual Fund,Edelweiss Overnight Fund,,INF754K01JX5,Open Ended Schemes,Debt Scheme - Overnight Fund,1378.8658,18-Sep-2026
-147563,Mahindra Manulife Mutual Fund,Mahindra Manulife Overnight Fund,,INF174V01846,Open Ended Schemes,Debt Scheme - Overnight Fund,1430.8347,18-Sep-2026
-147564,Mahindra Manulife Mutual Fund,Mahindra Manulife Overnight Fund,INF174V01838,,Open Ended Schemes,Debt Scheme - Overnight Fund,1427.3149,18-Sep-2026
-147565,Mahindra Manulife Mutual Fund,Mahindra Manulife Overnight Fund,INF174V01812,,Open Ended Schemes,Debt Scheme - Overnight Fund,1417.0178,18-Sep-2026
-147566,Mahindra Manulife Mutual Fund,Mahindra Manulife Overnight Fund,,INF174V01820,Open Ended Schemes,Debt Scheme - Overnight Fund,1256.7551,18-Sep-2026
+147563,Mahindra Manulife Mutual Fund,Mahindra Manulife Overnight Fund,,INF174V01846,Open Ended Schemes,Debt Scheme - Overnight Fund,1431.2368,20-Sep-2026
+147564,Mahindra Manulife Mutual Fund,Mahindra Manulife Overnight Fund,INF174V01838,,Open Ended Schemes,Debt Scheme - Overnight Fund,1427.7158,20-Sep-2026
+147565,Mahindra Manulife Mutual Fund,Mahindra Manulife Overnight Fund,INF174V01812,,Open Ended Schemes,Debt Scheme - Overnight Fund,1417.4087,20-Sep-2026
+147566,Mahindra Manulife Mutual Fund,Mahindra Manulife Overnight Fund,,INF174V01820,Open Ended Schemes,Debt Scheme - Overnight Fund,1257.1017,20-Sep-2026
 147567,Axis Mutual Fund,Axis Money Market Fund,INF846K01Q62,,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund,1564.1287,18-Sep-2026
 147568,Axis Mutual Fund,Axis Money Market Fund,INF846K01R46,,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund,1546.7560,18-Sep-2026
 147569,Edelweiss Mutual Fund,Edelweiss Overnight Fund,INF754K01KE3,,Open Ended Schemes,Debt Scheme - Overnight Fund,1421.0674,18-Sep-2026
@@ -9429,18 +9429,18 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 147929,Axis Mutual Fund,Axis ESG Integration Strategy Fund,INF846K01W56,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,20.65,18-Sep-2026
 147930,Axis Mutual Fund,Axis ESG Integration Strategy Fund,INF846K01W64,INF846K01W72,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,13.49,18-Sep-2026
 147931,Axis Mutual Fund,Axis ESG Integration Strategy Fund,INF846K01W31,INF846K01W49,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,14.64,18-Sep-2026
-147936,Bank of India Mutual Fund,BANK OF INDIA OVERNIGHT FUND,INF761K01EZ6,,Open Ended Schemes,Debt Scheme - Overnight Fund,1399.2000,19-Sep-2026
+147936,Bank of India Mutual Fund,BANK OF INDIA OVERNIGHT FUND,INF761K01EZ6,,Open Ended Schemes,Debt Scheme - Overnight Fund,1399.3938,20-Sep-2026
 147943,Bandhan Mutual Fund,BANDHAN Small Cap Fund,INF194KB1AM2,,Open Ended Schemes,Equity Scheme - Small Cap Fund,39.956,18-Sep-2026
 147944,Bandhan Mutual Fund,BANDHAN Small Cap Fund,INF194KB1AJ8,,Open Ended Schemes,Equity Scheme - Small Cap Fund,51.883,18-Sep-2026
 147945,Bandhan Mutual Fund,BANDHAN Small Cap Fund,INF194KB1AK6,,Open Ended Schemes,Equity Scheme - Small Cap Fund,36.116,18-Sep-2026
 147946,Bandhan Mutual Fund,BANDHAN Small Cap Fund,INF194KB1AL4,,Open Ended Schemes,Equity Scheme - Small Cap Fund,57.411,18-Sep-2026
 147947,Bank of India Mutual Fund,BANK OF INDIA OVERNIGHT FUND,,INF761K01FB4,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.2841,29-Jan-2026
-147948,Bank of India Mutual Fund,BANK OF INDIA OVERNIGHT FUND,INF761K01EY9,INF761K01EX1,Open Ended Schemes,Debt Scheme - Overnight Fund,1003.0396,19-Sep-2026
-147949,Bank of India Mutual Fund,BANK OF INDIA OVERNIGHT FUND,INF761K01FD0,INF761K01FC2,Open Ended Schemes,Debt Scheme - Overnight Fund,1003.1715,19-Sep-2026
-147950,Bank of India Mutual Fund,BANK OF INDIA OVERNIGHT FUND,,INF761K01EW3,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.5484,19-Sep-2026
-147951,Bank of India Mutual Fund,BANK OF INDIA OVERNIGHT FUND,INF761K01EU7,,Open Ended Schemes,Debt Scheme - Overnight Fund,1403.3759,19-Sep-2026
-147952,Bank of India Mutual Fund,BANK OF INDIA OVERNIGHT FUND,,INF761K01EV5,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.0000,19-Sep-2026
-147953,Bank of India Mutual Fund,BANK OF INDIA OVERNIGHT FUND,,INF761K01FA6,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.0000,19-Sep-2026
+147948,Bank of India Mutual Fund,BANK OF INDIA OVERNIGHT FUND,INF761K01EY9,INF761K01EX1,Open Ended Schemes,Debt Scheme - Overnight Fund,1003.1802,20-Sep-2026
+147949,Bank of India Mutual Fund,BANK OF INDIA OVERNIGHT FUND,INF761K01FD0,INF761K01FC2,Open Ended Schemes,Debt Scheme - Overnight Fund,1003.3109,20-Sep-2026
+147950,Bank of India Mutual Fund,BANK OF INDIA OVERNIGHT FUND,,INF761K01EW3,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.6888,20-Sep-2026
+147951,Bank of India Mutual Fund,BANK OF INDIA OVERNIGHT FUND,INF761K01EU7,,Open Ended Schemes,Debt Scheme - Overnight Fund,1403.5721,20-Sep-2026
+147952,Bank of India Mutual Fund,BANK OF INDIA OVERNIGHT FUND,,INF761K01EV5,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.0000,20-Sep-2026
+147953,Bank of India Mutual Fund,BANK OF INDIA OVERNIGHT FUND,,INF761K01FA6,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.0000,20-Sep-2026
 147954,Franklin Templeton Mutual Fund,Franklin India Credit Risk Fund (No. of segregated portfolios-3),INF090I01TJ6,,Open Ended Schemes,Debt Scheme - Credit Risk Fund,0.0000,20-Jul-2020
 147955,Franklin Templeton Mutual Fund,Franklin India Credit Risk Fund (No. of segregated portfolios-3),INF090I01TL2,,Open Ended Schemes,Debt Scheme - Credit Risk Fund,0.0000,20-Jul-2020
 147956,Franklin Templeton Mutual Fund,Franklin India Credit Risk Fund (No. of segregated portfolios-3),INF090I01TK4,,Open Ended Schemes,Debt Scheme - Credit Risk Fund,0.0000,20-Jul-2020
@@ -9875,10 +9875,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 148609,HDFC Mutual Fund,HDFC DIVIDEND YIELD FUND,INF179KC1AO6,,Open Ended Schemes,Equity Scheme - Dividend Yield Fund,26.484,18-Sep-2026
 148610,HDFC Mutual Fund,HDFC DIVIDEND YIELD FUND,INF179KC1AR9,,Open Ended Schemes,Equity Scheme - Dividend Yield Fund,24.497,18-Sep-2026
 148611,HDFC Mutual Fund,HDFC DIVIDEND YIELD FUND,INF179KC1AS7,INF179KC1AT5,Open Ended Schemes,Equity Scheme - Dividend Yield Fund,19.522,18-Sep-2026
-148612,Invesco Mutual Fund,Invesco India - Invesco Global Consumer Trends Fund of Fund,INF205KA1239,INF205KA1254,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas,12.2368,17-Sep-2026
-148613,Invesco Mutual Fund,Invesco India - Invesco Global Consumer Trends Fund of Fund,INF205KA1247,,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas,12.237,17-Sep-2026
-148614,Invesco Mutual Fund,Invesco India - Invesco Global Consumer Trends Fund of Fund,INF205KA1270,,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas,12.9475,17-Sep-2026
-148615,Invesco Mutual Fund,Invesco India - Invesco Global Consumer Trends Fund of Fund,INF205KA1262,INF205KA1288,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas,12.9466,17-Sep-2026
+148612,Invesco Mutual Fund,Invesco India - Invesco Global Consumer Trends Fund of Fund,INF205KA1239,INF205KA1254,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas,12.2425,18-Sep-2026
+148613,Invesco Mutual Fund,Invesco India - Invesco Global Consumer Trends Fund of Fund,INF205KA1247,,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas,12.2427,18-Sep-2026
+148614,Invesco Mutual Fund,Invesco India - Invesco Global Consumer Trends Fund of Fund,INF205KA1270,,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas,12.9538,18-Sep-2026
+148615,Invesco Mutual Fund,Invesco India - Invesco Global Consumer Trends Fund of Fund,INF205KA1262,INF205KA1288,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas,12.953,18-Sep-2026
 148616,UTI Mutual Fund,UTI Small Cap Fund,INF789F1AUP3,,Open Ended Schemes,Equity Schemes - Small Cap Fund,27.4931,18-Sep-2026
 148617,UTI Mutual Fund,UTI Small Cap Fund,INF789F1AUO6,,Open Ended Schemes,Equity Schemes - Small Cap Fund,27.4933,18-Sep-2026
 148618,UTI Mutual Fund,UTI Small Cap Fund,INF789F1AUQ1,,Open Ended Schemes,Equity Schemes - Small Cap Fund,29.9724,18-Sep-2026
@@ -10442,10 +10442,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 149409,ICICI Prudential Mutual Fund,ICICI Prudential Overnight Fund,INF109KC17H6,,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.0000,18-Sep-2026
 149410,ICICI Prudential Mutual Fund,ICICI Prudential Overnight Fund,INF109KC15H0,,Open Ended Schemes,Debt Scheme - Overnight Fund,1311.2946,18-Sep-2026
 149411,ICICI Prudential Mutual Fund,ICICI Prudential Overnight Fund,INF109KC18H4,,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.0000,18-Sep-2026
-149412,Bank of India Mutual Fund,BANK OF INDIA OVERNIGHT FUND,,,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.0000,19-Sep-2026
-149413,Bank of India Mutual Fund,BANK OF INDIA OVERNIGHT FUND,,,Open Ended Schemes,Debt Scheme - Overnight Fund,1319.6582,19-Sep-2026
-149414,Bank of India Mutual Fund,BANK OF INDIA OVERNIGHT FUND,,,Open Ended Schemes,Debt Scheme - Overnight Fund,1319.4221,19-Sep-2026
-149415,Bank of India Mutual Fund,BANK OF INDIA OVERNIGHT FUND,,,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.0000,19-Sep-2026
+149412,Bank of India Mutual Fund,BANK OF INDIA OVERNIGHT FUND,,,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.0000,20-Sep-2026
+149413,Bank of India Mutual Fund,BANK OF INDIA OVERNIGHT FUND,,,Open Ended Schemes,Debt Scheme - Overnight Fund,1319.8426,20-Sep-2026
+149414,Bank of India Mutual Fund,BANK OF INDIA OVERNIGHT FUND,,,Open Ended Schemes,Debt Scheme - Overnight Fund,1319.6065,20-Sep-2026
+149415,Bank of India Mutual Fund,BANK OF INDIA OVERNIGHT FUND,,,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.0000,20-Sep-2026
 149430,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 57 (1835 Days),INF200KA15C2,,Close Ended Schemes,Income,13.2948,18-Sep-2026
 149431,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 57 (1835 Days),INF200KA14C5,,Close Ended Schemes,Income,13.2945,18-Sep-2026
 149432,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 57 (1835 Days),INF200KA12C9,,Close Ended Schemes,Income,13.2210,18-Sep-2026
@@ -10482,8 +10482,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 149467,Axis Mutual Fund,Axis Nifty Next 50 Index Fund,INF846K012F9,,Open Ended Schemes,Index Funds - Equity Funds,17.3328,18-Sep-2026
 149468,Axis Mutual Fund,Axis Nifty Next 50 Index Fund,INF846K013F7,INF846K014F5,Open Ended Schemes,Index Funds - Equity Funds,16.4441,18-Sep-2026
 149469,Axis Mutual Fund,Axis Nifty Next 50 Index Fund,INF846K010F3,INF846K011F1,Open Ended Schemes,Index Funds - Equity Funds,16.9891,18-Sep-2026
-149470,Mahindra Manulife Mutual Fund,Mahindra Manulife Overnight Fund,,,Open Ended Schemes,Debt Scheme - Overnight Fund,1308.9805,18-Sep-2026
-149471,Mahindra Manulife Mutual Fund,Mahindra Manulife Overnight Fund,,,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.0000,18-Sep-2026
+149470,Mahindra Manulife Mutual Fund,Mahindra Manulife Overnight Fund,,,Open Ended Schemes,Debt Scheme - Overnight Fund,1309.3482,20-Sep-2026
+149471,Mahindra Manulife Mutual Fund,Mahindra Manulife Overnight Fund,,,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.0000,20-Sep-2026
 149472,SBI Mutual Fund,SBI CPSE Bond Plus SDL Sep 2026 50:50 Index Fund,INF200KA10D1,,Open Ended Schemes,Other Scheme - Index Funds,13.1418,18-Sep-2026
 149473,SBI Mutual Fund,SBI CPSE Bond Plus SDL Sep 2026 50:50 Index Fund,INF200KA11D9,INF200KA12D7,Open Ended Schemes,Other Scheme - Index Funds,13.1421,18-Sep-2026
 149474,SBI Mutual Fund,SBI CPSE Bond Plus SDL Sep 2026 50:50 Index Fund,INF200KA13D5,,Open Ended Schemes,Other Scheme - Index Funds,13.2412,18-Sep-2026
@@ -10722,8 +10722,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 149949,Edelweiss Mutual Fund,Edelweiss CRISIL PSU Plus SDL 50:50 Oct 2025 Index Fund,INF754K01OC9,,Open Ended Schemes,Other Scheme - Index Funds,12.3027,31-Oct-2025
 149950,Edelweiss Mutual Fund,Edelweiss CRISIL PSU Plus SDL 50:50 Oct 2025 Index Fund,INF754K01OG0,,Open Ended Schemes,Other Scheme - Index Funds,12.3889,31-Oct-2025
 149959,Tata Mutual Fund,Tata Nifty India Digital Exchange Traded Fund,INF277KA1364,,Open Ended Schemes,Other Scheme - Other  ETFs,89.0995,18-Sep-2026
-149960,Invesco Mutual Fund,Invesco India - Invesco EQQQ Nasdaq-100 ETF Fund of Fund,INF205KA1577,,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas,26.1409,17-Sep-2026
-149961,Invesco Mutual Fund,Invesco India - Invesco EQQQ Nasdaq-100 ETF Fund of Fund,INF205KA1585,,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas,26.4154,17-Sep-2026
+149960,Invesco Mutual Fund,Invesco India - Invesco EQQQ Nasdaq-100 ETF Fund of Fund,INF205KA1577,,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas,26.1558,18-Sep-2026
+149961,Invesco Mutual Fund,Invesco India - Invesco EQQQ Nasdaq-100 ETF Fund of Fund,INF205KA1585,,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas,26.4306,18-Sep-2026
 149962,HSBC Mutual Fund,HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund,INF336L01QI5,INF336L01QJ3,Open Ended Schemes,Index Funds - Debt Funds,13.3783,18-Sep-2026
 149963,HSBC Mutual Fund,HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund,INF336L01QK1,,Open Ended Schemes,Index Funds - Debt Funds,13.271,18-Sep-2026
 149964,HSBC Mutual Fund,HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund,INF336L01QL9,INF336L01QM7,Open Ended Schemes,Index Funds - Debt Funds,13.2709,18-Sep-2026
@@ -10732,10 +10732,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 149969,DSP Mutual Fund,DSP Nifty SDL Plus G-Sec Jun 2028 30:70 Index Fund,INF740KA1QT3,INF740KA1QU1,Open Ended Schemes,Other Scheme - Index Funds,13.2920,18-Sep-2026
 149970,DSP Mutual Fund,DSP Nifty SDL Plus G-Sec Jun 2028 30:70 Index Fund,INF740KA1QV9,,Open Ended Schemes,Other Scheme - Index Funds,13.3823,18-Sep-2026
 149971,DSP Mutual Fund,DSP Nifty SDL Plus G-Sec Jun 2028 30:70 Index Fund,INF740KA1QW7,INF740KA1QX5,Open Ended Schemes,Other Scheme - Index Funds,13.3823,18-Sep-2026
-149988,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund,,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1000.0000,18-Sep-2026
-149989,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund,,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1299.8450,18-Sep-2026
-149990,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund,,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1000.0000,18-Sep-2026
-149991,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund,,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1299.8754,18-Sep-2026
+149988,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund,,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1000.0000,20-Sep-2026
+149989,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund,,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1300.2040,20-Sep-2026
+149990,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund,,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1000.0000,20-Sep-2026
+149991,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund,,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1300.2344,20-Sep-2026
 149992,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 61 (1927 Days),INF200KA12F2,,Close Ended Schemes,Income,13.2909,18-Sep-2026
 149993,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 61 (1927 Days),INF200KA13F0,,Close Ended Schemes,Income,13.3606,18-Sep-2026
 149994,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 61 (1927 Days),INF200KA11F4,,Close Ended Schemes,Income,13.2910,18-Sep-2026
@@ -12241,10 +12241,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 152295,Tata Mutual Fund,Tata Silver ETF Fund of Fund,,INF277KA1950,Open Ended Schemes,Other Scheme - FoF Domestic,30.6968,18-Sep-2026
 152296,Tata Mutual Fund,Tata Silver ETF Fund of Fund,INF277KA1935,,Open Ended Schemes,Other Scheme - FoF Domestic,30.3094,18-Sep-2026
 152297,Tata Mutual Fund,Tata Silver ETF Fund of Fund,INF277KA1893,,Open Ended Schemes,Other Scheme - FoF Domestic,30.3094,18-Sep-2026
-152298,Quantum Mutual Fund,Quantum Liquid Fund,,,Open Ended Schemes,Debt Scheme - Liquid Fund,11.8763,18-Sep-2026
-152299,Quantum Mutual Fund,Quantum Liquid Fund,,,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0000,18-Sep-2026
-152300,Quantum Mutual Fund,Quantum Liquid Fund,,,Open Ended Schemes,Debt Scheme - Liquid Fund,11.3991,18-Sep-2026
-152301,Quantum Mutual Fund,Quantum Liquid Fund,,,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0000,18-Sep-2026
+152298,Quantum Mutual Fund,Quantum Liquid Fund,,,Open Ended Schemes,Debt Scheme - Liquid Fund,11.8798,20-Sep-2026
+152299,Quantum Mutual Fund,Quantum Liquid Fund,,,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0000,20-Sep-2026
+152300,Quantum Mutual Fund,Quantum Liquid Fund,,,Open Ended Schemes,Debt Scheme - Liquid Fund,11.4024,20-Sep-2026
+152301,Quantum Mutual Fund,Quantum Liquid Fund,,,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0000,20-Sep-2026
 152306,DSP Mutual Fund,DSP Nifty Healthcare ETF,INF740KA1ZG1,,Open Ended Schemes,Other Scheme - Other  ETFs,16.7788,18-Sep-2026
 152307,DSP Mutual Fund,DSP Multi Cap Fund,INF740KA1TZ4,,Open Ended Schemes,Equity Schemes - Multi Cap Fund,12.1610,18-Sep-2026
 152308,DSP Mutual Fund,DSP Multi Cap Fund,INF740KA1UA5,INF740KA1UB3,Open Ended Schemes,Equity Schemes - Multi Cap Fund,11.2240,18-Sep-2026
@@ -14274,14 +14274,14 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 154578,ICICI Prudential Mutual Fund,ICICI Prudential Life Cycle Fund 2036,INF109K1A583,,Open Ended Schemes,Life Cycle Funds - Life Cycle Fund with Maturity of 10 Years,10.0155,18-Sep-2026
 154579,ICICI Prudential Mutual Fund,ICICI Prudential Life Cycle Fund 2041,INF109K1A617,,Open Ended Schemes,Life Cycle Funds - Life Cycle Fund with Maturity of 15 Years,10.0139,18-Sep-2026
 154580,ICICI Prudential Mutual Fund,ICICI Prudential Life Cycle Fund 2041,INF109K1A625,,Open Ended Schemes,Life Cycle Funds - Life Cycle Fund with Maturity of 15 Years,10.0150,18-Sep-2026
-154581,ASK MUTUAL FUND,ASK Liquid Fund,INF2XUU01021,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1003.6848,18-Sep-2026
-154583,ASK MUTUAL FUND,ASK Liquid Fund,INF2XUU01070,INF2XUU01088,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1000.4267,18-Sep-2026
-154586,ASK MUTUAL FUND,ASK Liquid Fund,,INF2XUU01047,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1000.0254,18-Sep-2026
-154587,ASK MUTUAL FUND,ASK Liquid Fund,INF2XUU01054,INF2XUU01062,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1000.5691,18-Sep-2026
-154589,ASK MUTUAL FUND,ASK Liquid Fund,INF2XUU01013,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1003.7616,18-Sep-2026
-154590,ASK MUTUAL FUND,ASK Liquid Fund,INF2XUU01096,INF2XUU01104,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1003.6275,18-Sep-2026
-154591,ASK MUTUAL FUND,ASK Liquid Fund,,INF2XUU01039,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1000.0255,18-Sep-2026
-154592,ASK MUTUAL FUND,ASK Liquid Fund,INF2XUU01112,INF2XUU01120,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1003.7076,18-Sep-2026
+154581,ASK MUTUAL FUND,ASK Liquid Fund,INF2XUU01021,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1003.9882,20-Sep-2026
+154583,ASK MUTUAL FUND,ASK Liquid Fund,INF2XUU01070,INF2XUU01088,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1000.7367,20-Sep-2026
+154586,ASK MUTUAL FUND,ASK Liquid Fund,,INF2XUU01047,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1000.0254,20-Sep-2026
+154587,ASK MUTUAL FUND,ASK Liquid Fund,INF2XUU01054,INF2XUU01062,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1000.8737,20-Sep-2026
+154589,ASK MUTUAL FUND,ASK Liquid Fund,INF2XUU01013,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1004.0734,20-Sep-2026
+154590,ASK MUTUAL FUND,ASK Liquid Fund,INF2XUU01096,INF2XUU01104,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1003.9325,20-Sep-2026
+154591,ASK MUTUAL FUND,ASK Liquid Fund,,INF2XUU01039,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1000.0255,20-Sep-2026
+154592,ASK MUTUAL FUND,ASK Liquid Fund,INF2XUU01112,INF2XUU01120,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1004.0186,20-Sep-2026
 154593,DSP Mutual Fund,DSP NIFTY 10 YR BENCHMARK G-SEC ETF,INF740KA1ZI7,,Open Ended Schemes,Exchange Traded Funds,26.5186,18-Sep-2026
 154594,Axis Mutual Fund,Axis Nifty Energy Index Fund,INF846KA1580,,Open Ended Schemes,Index Funds - Equity Funds,9.9394,18-Sep-2026
 154597,Axis Mutual Fund,Axis Nifty Energy Index Fund,INF846KA1572,,Open Ended Schemes,Index Funds - Equity Funds,9.9342,18-Sep-2026
@@ -14369,8 +14369,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 154698,UTI Mutual Fund,UTI BSE India Sector Leaders Exchange Traded Fund,INF789F1AH42,,Open Ended Schemes,Exchange Traded Funds,14.2367,18-Sep-2026
 154703,Navi Mutual Fund,Navi Nifty Reits & Realty Index fund,INF959L01HU8,,Open Ended Schemes,Index Funds - Equity Funds,10.0825,18-Sep-2026
 154704,Navi Mutual Fund,Navi Nifty Reits & Realty Index fund,INF959L01HT0,,Open Ended Schemes,Index Funds - Equity Funds,10.0832,18-Sep-2026
-154705,Monarch Mutual Fund,Monarch Overnight Fund,INF2ZSC01085,INF2ZSC01069,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1001.5905,19-Sep-2026
-154706,Monarch Mutual Fund,Monarch Overnight Fund,INF2ZSC01028,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1001.5939,19-Sep-2026
-154710,Monarch Mutual Fund,Monarch Overnight Fund,,INF2ZSC01036,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1000.0000,19-Sep-2026
-154711,Monarch Mutual Fund,Monarch Overnight Fund,INF2ZSC01010,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1001.5761,19-Sep-2026
+154705,Monarch Mutual Fund,Monarch Overnight Fund,INF2ZSC01085,INF2ZSC01069,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1001.7219,20-Sep-2026
+154706,Monarch Mutual Fund,Monarch Overnight Fund,INF2ZSC01028,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1001.7257,20-Sep-2026
+154710,Monarch Mutual Fund,Monarch Overnight Fund,,INF2ZSC01036,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1000.0000,20-Sep-2026
+154711,Monarch Mutual Fund,Monarch Overnight Fund,INF2ZSC01010,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1001.7063,20-Sep-2026
 154734,Helios Mutual Fund,Helios Balanced Advantage Fund,INF0R8701491,INF0R8701509,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation,10.17,18-Sep-2026
