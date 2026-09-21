@@ -14345,6 +14345,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154660,quant Mutual Fund,quant Income Plus Arbitrage Active FOF,INF966L01EN5,INF966L01EO3,Open Ended Schemes,Fund of Funds Scheme
 154661,ICICI Prudential Mutual Fund,ICICI Prudential Dynamic Asset Allocation Passive FOF,INF109K1A641,,Open Ended Schemes,Fund of Funds Scheme
 154662,ICICI Prudential Mutual Fund,ICICI Prudential Dynamic Asset Allocation Passive FOF,INF109K1A633,,Open Ended Schemes,Fund of Funds Scheme
+154663,The Wealth Company Mutual Fund,The Wealth Company Multi Cap Fund,INF2F0001719,,Open Ended Schemes,Equity Schemes - Multi Cap Fund
+154664,The Wealth Company Mutual Fund,The Wealth Company Multi Cap Fund,INF2F0001685,,Open Ended Schemes,Equity Schemes - Multi Cap Fund
+154665,The Wealth Company Mutual Fund,The Wealth Company Multi Cap Fund,INF2F0001693,INF2F0001701,Open Ended Schemes,Equity Schemes - Multi Cap Fund
+154666,The Wealth Company Mutual Fund,The Wealth Company Multi Cap Fund,INF2F0001727,INF2F0001735,Open Ended Schemes,Equity Schemes - Multi Cap Fund
 154672,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Term Fund (the scheme has 2 segregated portfolios),INF955L01IW0,INF955L01IX8,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 154673,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Term Fund (the scheme has 2 segregated portfolios),INF955L01IT6,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 154674,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Term Fund (the scheme has 2 segregated portfolios),INF955L01IU4,INF955L01IV2,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
@@ -36560,10 +36564,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154522,Abakkus Investment Managers Private Limited,Abakkus Liquid Fund - Unclaimed IDCW Less than 3 Years,,,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
 154126,Sundaram Asset Management Company Ltd,Sundaram Income Plus Arbitrage Active FoF Fund-Regular-IDCW Reinvestment,INF903JA1ME0,,Open Ended,Other Scheme - FoF Domestic
 154128,Sundaram Asset Management Company Ltd,Sundaram Income Plus Arbitrage Active FoF Fund-Direct-IDCW Reinvestment,INF903JA1MB6,,Open Ended,Other Scheme - FoF Domestic
-154663,Wealth Company Asset Management Holdings Private Limited,The Wealth Company Multi Cap Fund- Direct-Growth,INF2F0001719,,Open Ended,Equity Schemes - Multi Cap Fund
-154664,Wealth Company Asset Management Holdings Private Limited,The Wealth Company Multi Cap Fund,INF2F0001685,,Open Ended,Equity Schemes - Multi Cap Fund
-154665,Wealth Company Asset Management Holdings Private Limited,The Wealth Company Multi Cap Fund- Regular- IDCW,INF2F0001693,INF2F0001701,Open Ended,Equity Schemes - Multi Cap Fund
-154666,Wealth Company Asset Management Holdings Private Limited,The Wealth Company Multi Cap Fund- Direct-IDCW,INF2F0001727,INF2F0001735,Open Ended,Equity Schemes - Multi Cap Fund
 154667,Motilal Oswal Asset Management Company Limited,MOTILAL OSWAL QUALITY FUND - Regular,INF247L01HL7,,Open Ended,Equity Schemes - Thematic Fund
 154668,Motilal Oswal Asset Management Company Limited,MOTILAL OSWAL QUALITY FUND - Direct,INF247L01HI3,,Open Ended,Equity Schemes - Thematic Fund
 154669,Motilal Oswal Asset Management Company Limited,MOTILAL OSWAL QUALITY FUND - Regular IDCW,INF247L01HM5,INF247L01HN3,Open Ended,Equity Schemes - Thematic Fund
