@@ -12022,10 +12022,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 152050,UTI Mutual Fund,UTI Nifty Midcap 150 Exchange Traded Fund,INF789F1AYX9,,Open Ended Schemes,Exchange Traded Funds
 152051,Shriram Mutual Fund,Shriram Multi Asset Allocation Fund,INF680P01406,,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
 152052,Shriram Mutual Fund,Shriram Multi Asset Allocation Fund,INF680P01414,,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
-152053,DSP Mutual Fund,DSP Multi Asset Allocation Fund,INF740KA1TB5,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
-152054,DSP Mutual Fund,DSP Multi Asset Allocation Fund,INF740KA1TC3,INF740KA1TD1,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
-152055,DSP Mutual Fund,DSP Multi Asset Allocation Fund,INF740KA1TF6,INF740KA1TG4,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
-152056,DSP Mutual Fund,DSP Multi Asset Allocation Fund,INF740KA1TE9,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
+152053,DSP Mutual Fund,DSP Multi Asset Allocation Fund,INF740KA1TB5,,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
+152054,DSP Mutual Fund,DSP Multi Asset Allocation Fund,INF740KA1TC3,INF740KA1TD1,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
+152055,DSP Mutual Fund,DSP Multi Asset Allocation Fund,INF740KA1TF6,INF740KA1TG4,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
+152056,DSP Mutual Fund,DSP Multi Asset Allocation Fund,INF740KA1TE9,,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
 152057,HDFC Mutual Fund,HDFC Technology Fund,INF179KC1HG7,INF179KC1HH5,Open Ended Schemes,Equity Schemes - Thematic Fund
 152058,HDFC Mutual Fund,HDFC Technology Fund,INF179KC1HF9,,Open Ended Schemes,Equity Schemes - Thematic Fund
 152059,HDFC Mutual Fund,HDFC Technology Fund,INF179KC1HI3,,Open Ended Schemes,Equity Schemes - Thematic Fund
@@ -36635,3 +36635,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154768,DSP Asset Managers Private Limited,DSP BSE Insurance ETF,INF740KA1ZR8,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154769,WhiteOak Capital Asset Management Limited,WhiteOak Capital Diversified Equity Small Cap Active FOF Regular Plan Growth,INF1J2R01197,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154770,WhiteOak Capital Asset Management Limited,WhiteOak Capital Diversified Equity Small Cap Active FOF Direct Plan Growth,INF1J2R01189,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154771,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life BSE Total Market Index Fund - Direct Plan - Growth Option,INF209KC1753,,Open Ended,Index Funds - Equity Funds
+154772,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life BSE Toatl Market Index Fund - Regular Plan - Growth Option,INF209KC1761,,Open Ended,Index Funds - Equity Funds
+154774,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life BSE Total Market ETF,INF209KC1746,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
