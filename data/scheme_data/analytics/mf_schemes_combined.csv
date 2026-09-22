@@ -14369,8 +14369,14 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154689,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Term Fund (the scheme has 2 segregated portfolios),INF955L01JM9,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 154690,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Term Fund (the scheme has 2 segregated portfolios),INF955L01JP2,INF955L01JQ0,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 154691,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Term Fund (the scheme has 2 segregated portfolios),,INF955L01JO5,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+154693,Bank of India Mutual Fund,BANK OF INDIA VALUE FUND,INF761K01HK1,,Open Ended Schemes,Equity Schemes - Value Fund
+154694,Bank of India Mutual Fund,BANK OF INDIA VALUE FUND,INF761K01HL9,INF761K01HM7,Open Ended Schemes,Equity Schemes - Value Fund
+154695,Bank of India Mutual Fund,BANK OF INDIA VALUE FUND,INF761K01HN5,,Open Ended Schemes,Equity Schemes - Value Fund
+154696,Bank of India Mutual Fund,BANK OF INDIA VALUE FUND,INF761K01HO3,INF761K01HP0,Open Ended Schemes,Equity Schemes - Value Fund
 154697,Zerodha Mutual Fund,Zerodha Life Cycle Fund 2031,INF0R8F01240,,Open Ended Schemes,Life Cycle Funds - Life Cycle Fund with Maturity of 5 Years
 154698,UTI Mutual Fund,UTI BSE India Sector Leaders Exchange Traded Fund,INF789F1AH42,,Open Ended Schemes,Exchange Traded Funds
+154699,UTI Mutual Fund,UTI BSE India Sector Leaders Index Fund,INF789F1AH67,,Open Ended Schemes,Index Funds - Equity Funds
+154700,UTI Mutual Fund,UTI BSE India Sector Leaders Index Fund,INF789F1AH59,,Open Ended Schemes,Index Funds - Equity Funds
 154703,Navi Mutual Fund,Navi Nifty Reits & Realty Index fund,INF959L01HU8,,Open Ended Schemes,Index Funds - Equity Funds
 154704,Navi Mutual Fund,Navi Nifty Reits & Realty Index fund,INF959L01HT0,,Open Ended Schemes,Index Funds - Equity Funds
 154705,Monarch Mutual Fund,Monarch Overnight Fund,INF2ZSC01085,INF2ZSC01069,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
@@ -14378,6 +14384,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154710,Monarch Mutual Fund,Monarch Overnight Fund,,INF2ZSC01036,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 154711,Monarch Mutual Fund,Monarch Overnight Fund,INF2ZSC01010,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 154734,Helios Mutual Fund,Helios Balanced Advantage Fund,INF0R8701491,INF0R8701509,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
+154750,HDFC Mutual Fund,HDFC BSE REITS and Commercial Real Estate Index Fund,INF179KC1KV0,,Open Ended Schemes,Index Funds - Equity Funds
+154751,HDFC Mutual Fund,HDFC BSE REITS and Commercial Real Estate Index Fund,INF179KC1KY4,,Open Ended Schemes,Index Funds - Equity Funds
+154752,HDFC Mutual Fund,HDFC BSE REITS and Commercial Real Estate Index Fund,INF179KC1KU2,,Open Ended Schemes,Index Funds - Equity Funds
+154753,HDFC Mutual Fund,HDFC BSE REITS and Commercial Real Estate Index Fund,INF179KC1KX6,,Open Ended Schemes,Index Funds - Equity Funds
 100027,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Half Yearly Dividend,,,Open Ended Schemes,Income
 100028,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Quaterly Dividend,,,Open Ended Schemes,Income
 100029,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Growth,,,Open Ended Schemes,Income
@@ -36568,12 +36578,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154668,Motilal Oswal Asset Management Company Limited,MOTILAL OSWAL QUALITY FUND - Direct,INF247L01HI3,,Open Ended,Equity Schemes - Thematic Fund
 154669,Motilal Oswal Asset Management Company Limited,MOTILAL OSWAL QUALITY FUND - Regular IDCW,INF247L01HM5,INF247L01HN3,Open Ended,Equity Schemes - Thematic Fund
 154670,Motilal Oswal Asset Management Company Limited,MOTILAL OSWAL QUALITY FUND - Direct IDCW,INF247L01HJ1,INF247L01HK9,Open Ended,Equity Schemes - Thematic Fund
-154696,Bank of India Investment Managers Private Limited,Bank of India Value Fund - Regular - IDCW,INF761K01HO3,INF761K01HP0,Open Ended,Equity Schemes - Value Fund
-154693,Bank of India Investment Managers Private Limited,Bank of India Value Fund - Direct - Growth,INF761K01HK1,,Open Ended,Equity Schemes - Value Fund
-154694,Bank of India Investment Managers Private Limited,Bank of India Value Fund - Direct - IDCW,INF761K01HL9,INF761K01HM7,Open Ended,Equity Schemes - Value Fund
-154695,Bank of India Investment Managers Private Limited,Bank of India Value Fund - Regular - Growth,INF761K01HN5,,Open Ended,Equity Schemes - Value Fund
-154699,UTI Asset Mgmt. Co. Ltd.,UTI BSE India Sector Leaders Index Fund,INF789F1AH67,,Open Ended,Index Funds - Equity Funds
-154700,UTI Asset Mgmt. Co. Ltd.,UTI BSE India Sector Leaders Index Fund Regular Plan,INF789F1AH59,,Open Ended,Index Funds - Equity Funds
 154701,Jio BlackRock Asset Management Private Limited,JioBlackRock Balanced Advantage Fund,INF22M001366,,Open Ended,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 154702,Jio BlackRock Asset Management Private Limited,JioBlackRock Balanced Advantage Fund - Regular Plan - Growth Option,INF22M001374,,Open Ended,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 154707,Monarch Networth Asset Management Private Limited,Monarch Overnight Fund - Direct Plan-Daily IDCW,INF2ZSC01044,,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
@@ -36614,12 +36618,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154749,Tata Asset Management Limited,Tata CRISIL-IBX Financial Services 3-6 Months Debt Index Fund-Direct Plan-IDCW Reinvestment,INF277KA1FD1,,Open Ended,Index Funds - Debt Funds
 154744,Tata Asset Management Limited,Tata CRISIL-IBX Financial Services 3-6 Months Debt Index Fund-Regular Plan-Growth,INF277KA1EY0,,Open Ended,Index Funds - Debt Funds
 154745,Tata Asset Management Limited,Tata CRISIL-IBX Financial Services 3-6 Months Debt Index Fund-Regular Plan-IDCW Payout,INF277KA1EZ7,,Open Ended,Index Funds - Debt Funds
-154750,HDFC Asset Management Company Limited,HDFC BSE REITS and Commercial Real Estate Index Fund- IDCW Payout Option,INF179KC1KV0,,Open Ended,Index Funds - Equity Funds
-154751,HDFC Asset Management Company Limited,HDFC BSE REITS and Commercial Real Estate Index fund-Direct Plan - IDCW Payout Option,INF179KC1KY4,,Open Ended,Index Funds - Equity Funds
-154752,HDFC Asset Management Company Limited,HDFC BSE REITS and Commercial Real Estate Index Fund-Growth Option,INF179KC1KU2,,Open Ended,Index Funds - Equity Funds
-154753,HDFC Asset Management Company Limited,HDFC BSE REITS and Commercial Real Estate Index Fund-Direct Plan-Growth Option,INF179KC1KX6,,Open Ended,Index Funds - Equity Funds
-154766,HDFC Asset Management Company Limited,HDFC BSE REITS and Commercial Real Estate Index Fund-Direct -IDCW Reinvestment,INF179KC1KZ1,,Open Ended,Index Funds - Equity Funds
-154767,HDFC Asset Management Company Limited,HDFC BSE REITS and Commercial Real Estate Index Fund-Regular-IDCW Reinvestment,INF179KC1KW8,,Open Ended,Index Funds - Equity Funds
 154754,Kotak Mahindra Asset Management Company Limited.,Kotak Nifty Capital Markets Index Fund - Direct Plan - Growth,INF174KA1G07,,Open Ended,Index Funds - Equity Funds
 154755,Kotak Mahindra Asset Management Company Limited.,Kotak Nifty Capital Markets Index Fund - Direct Plan - IDCW,INF174KA1G15,INF174KA1G23,Open Ended,Index Funds - Equity Funds
 154756,Kotak Mahindra Asset Management Company Limited.,Kotak Nifty Capital Markets Index Fund - Regular Plan - Growth,INF174KA1G31,,Open Ended,Index Funds - Equity Funds
@@ -36638,3 +36636,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154771,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life BSE Total Market Index Fund - Direct Plan - Growth Option,INF209KC1753,,Open Ended,Index Funds - Equity Funds
 154772,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life BSE Toatl Market Index Fund - Regular Plan - Growth Option,INF209KC1761,,Open Ended,Index Funds - Equity Funds
 154774,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life BSE Total Market ETF,INF209KC1746,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
+154775,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset Life Cycle Fund 2056 - Direct Plan - Growth,INF769K01RU2,,Open Ended,Life Cycle Funds - Life Cycle Fund with Maturity of 30 Years
+154776,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset Life Cycle Fund 2056 - Direct Plan - IDCW,INF769K01RW8,INF769K01RV0,Open Ended,Life Cycle Funds - Life Cycle Fund with Maturity of 30 Years
+154777,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset Life Cycle Fund 2056 - Regular Plan - Growth,INF769K01RR8,,Open Ended,Life Cycle Funds - Life Cycle Fund with Maturity of 30 Years
+154778,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset Life Cycle Fund 2056 - Regular Plan - IDCW,INF769K01RT4,INF769K01RS6,Open Ended,Life Cycle Funds - Life Cycle Fund with Maturity of 30 Years
