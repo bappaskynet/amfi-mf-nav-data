@@ -14153,6 +14153,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154422,JM Financial Mutual Fund,JM Multi Asset Allocation Fund,INF192K01NV4,INF192K01NU6,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
 154423,JM Financial Mutual Fund,JM Multi Asset Allocation Fund,INF192K01NQ4,,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
 154424,JM Financial Mutual Fund,JM Multi Asset Allocation Fund,INF192K01NT8,,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
+154425,DSP Mutual Fund,DSP Money Market Fund,INF740KA1ZB2,INF740KA1ZC0,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
 154426,DSP Mutual Fund,DSP Money Market Fund,INF740KA1ZD8,INF740KA1ZE6,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
 154427,HDFC Mutual Fund,HDFC Nifty Auto Index Fund,INF179KC1KQ0,,Open Ended Schemes,Index Funds - Equity Funds
 154428,HDFC Mutual Fund,HDFC Nifty Auto Index Fund,INF179KC1KP2,,Open Ended Schemes,Index Funds - Equity Funds
@@ -34740,7 +34741,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 100039,Aditya Birla Sun Life AMC Limited,Birla Income Plus-Institutional (Growth),,,Open Ended,Income/Debt Oriented Schemes - Medium to Long Term Fund
 100040,Aditya Birla Sun Life AMC Limited,Birla Income Plus-Institutional (Dividend),,,Open Ended,Income/Debt Oriented Schemes - Medium to Long Term Fund
 100050,Aditya Birla Sun Life AMC Limited,Birla Cash Plus-Birla Cash Plus (Institutional Premium Weekly Dividend),,,Open Ended,Debt Scheme - Liquid Fund
-154425,DSP Asset Managers Private Limited,DSP Money Market Fund  - Regular Plan - IDCW Weekly,INF740KA1ZB2,INF740KA1ZC0,Open Ended,Income/Debt Oriented Schemes - Money Market Fund
 100125,HDFC Asset Management Company Limited,HDFC Income Fund-Premium Plan Dividend,,,Open Ended,Income/Debt Oriented Schemes - Medium to Long Term Fund
 100126,HDFC Asset Management Company Limited,HDFC Income Fund-Premium Plus Dividend,,,Open Ended,Income/Debt Oriented Schemes - Medium to Long Term Fund
 100127,HDFC Asset Management Company Limited,HDFC Income Fund-Premium Plus Growth,,,Open Ended,Income/Debt Oriented Schemes - Medium to Long Term Fund
