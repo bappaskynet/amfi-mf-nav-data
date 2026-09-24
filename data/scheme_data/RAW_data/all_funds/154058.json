@@ -2,13 +2,25 @@
     "meta": {
         "fund_house": "Groww Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
+        "scheme_category": "Fund of Funds Scheme",
         "scheme_code": 154058,
         "scheme_name": "Groww Multi Asset Omni FOF - Direct Plan - Income Distribution cum capital withdrawal",
         "isin_growth": "INF666M01ND1",
         "isin_div_reinvestment": "INF666M01NE9"
     },
     "data": [
+        {
+            "date": "23-09-2026",
+            "nav": "10.45990"
+        },
+        {
+            "date": "22-09-2026",
+            "nav": "10.41330"
+        },
+        {
+            "date": "21-09-2026",
+            "nav": "10.42090"
+        },
         {
             "date": "18-09-2026",
             "nav": "10.42140"

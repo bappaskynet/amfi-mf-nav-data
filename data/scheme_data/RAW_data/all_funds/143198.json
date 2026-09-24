@@ -4,11 +4,27 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
         "scheme_code": 143198,
-        "scheme_name": "Navi Aggressive Hybrid Fund - Regular Plan - Annual IDCW\t",
+        "scheme_name": "Navi Aggressive Hybrid Fund - Regular Plan - Annual IDCW",
         "isin_growth": "INF959L01DR3",
         "isin_div_reinvestment": "INF959L01DS1"
     },
     "data": [
+        {
+            "date": "24-09-2026",
+            "nav": "22.09730"
+        },
+        {
+            "date": "23-09-2026",
+            "nav": "22.35010"
+        },
+        {
+            "date": "22-09-2026",
+            "nav": "22.24150"
+        },
+        {
+            "date": "21-09-2026",
+            "nav": "22.23690"
+        },
         {
             "date": "18-09-2026",
             "nav": "22.26900"

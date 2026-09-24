@@ -2,13 +2,25 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
+        "scheme_category": "Fund of Funds Scheme",
         "scheme_code": 129197,
         "scheme_name": "HSBC Income Plus Arbitrage Active FOF (erstwhile HSBC Managed Solution India - Conservative Plan) - Direct Plan - Growth",
         "isin_growth": "INF336L01IP7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "23-09-2026",
+            "nav": "24.22260"
+        },
+        {
+            "date": "22-09-2026",
+            "nav": "24.20870"
+        },
+        {
+            "date": "21-09-2026",
+            "nav": "24.20450"
+        },
         {
             "date": "18-09-2026",
             "nav": "24.19490"

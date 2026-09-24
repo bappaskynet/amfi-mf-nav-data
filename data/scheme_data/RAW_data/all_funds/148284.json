@@ -4,11 +4,27 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Medium Term Fund",
         "scheme_code": 148284,
-        "scheme_name": "Nippon India Medium Term Fund (Existing Number of Segregated Portfolios - 1) - Direct Plan - IDCW Option\t",
+        "scheme_name": "Nippon India Medium Term Fund (Existing Number of Segregated Portfolios - 1) - Direct Plan - IDCW Option",
         "isin_growth": "INF204KB16Q0",
         "isin_div_reinvestment": "INF204KB17Q8"
     },
     "data": [
+        {
+            "date": "24-09-2026",
+            "nav": "0.00000"
+        },
+        {
+            "date": "23-09-2026",
+            "nav": "0.00000"
+        },
+        {
+            "date": "22-09-2026",
+            "nav": "0.00000"
+        },
+        {
+            "date": "21-09-2026",
+            "nav": "0.00000"
+        },
         {
             "date": "18-09-2026",
             "nav": "0.00000"

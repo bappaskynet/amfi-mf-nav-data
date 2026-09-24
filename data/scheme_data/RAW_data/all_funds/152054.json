@@ -2,13 +2,25 @@
     "meta": {
         "fund_house": "DSP Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
+        "scheme_category": "Hybrid Schemes - Multi Asset Allocation Fund",
         "scheme_code": 152054,
         "scheme_name": "DSP Multi Asset Allocation Fund - Regular Plan - IDCW",
         "isin_growth": "INF740KA1TC3",
         "isin_div_reinvestment": "INF740KA1TD1"
     },
     "data": [
+        {
+            "date": "23-09-2026",
+            "nav": "14.44210"
+        },
+        {
+            "date": "22-09-2026",
+            "nav": "14.43580"
+        },
+        {
+            "date": "21-09-2026",
+            "nav": "14.45130"
+        },
         {
             "date": "18-09-2026",
             "nav": "14.43040"

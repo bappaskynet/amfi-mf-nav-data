@@ -4,11 +4,27 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 151900,
-        "scheme_name": "HDFC Transportation and Logistics Fund - Regular Plan - Growth Option\t",
+        "scheme_name": "HDFC Transportation and Logistics Fund - Regular Plan - Growth Option",
         "isin_growth": "INF179KC1GX4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "24-09-2026",
+            "nav": "19.45400"
+        },
+        {
+            "date": "23-09-2026",
+            "nav": "19.70000"
+        },
+        {
+            "date": "22-09-2026",
+            "nav": "19.68100"
+        },
+        {
+            "date": "21-09-2026",
+            "nav": "19.50100"
+        },
         {
             "date": "18-09-2026",
             "nav": "19.55400"

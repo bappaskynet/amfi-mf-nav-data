@@ -2,13 +2,25 @@
     "meta": {
         "fund_house": "AlphaGrep Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
+        "scheme_category": "Fund of Funds Scheme",
         "scheme_code": 154565,
         "scheme_name": "ALPHAGREP LIQUID OMNI FOF - Direct Plan - Growth",
         "isin_growth": "INF2VOA01137",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "23-09-2026",
+            "nav": "1007.89430"
+        },
+        {
+            "date": "22-09-2026",
+            "nav": "1007.74950"
+        },
+        {
+            "date": "21-09-2026",
+            "nav": "1007.54450"
+        },
         {
             "date": "18-09-2026",
             "nav": "1007.10650"

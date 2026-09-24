@@ -2,13 +2,25 @@
     "meta": {
         "fund_house": "Kotak Mahindra Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
+        "scheme_category": "Fund of Funds Scheme",
         "scheme_code": 154574,
         "scheme_name": "Kotak Diversified Equity All Cap Omni FOF - Direct Plan - Growth",
         "isin_growth": "INF174KA1D26",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "23-09-2026",
+            "nav": "9.88200"
+        },
+        {
+            "date": "22-09-2026",
+            "nav": "9.83000"
+        },
+        {
+            "date": "21-09-2026",
+            "nav": "9.85400"
+        },
         {
             "date": "18-09-2026",
             "nav": "9.84200"

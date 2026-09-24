@@ -2,13 +2,25 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
+        "scheme_category": "Fund of Funds Scheme",
         "scheme_code": 129201,
         "scheme_name": "HSBC Aggressive Hybrid Active FOF (erstwhile HSBC Managed Solutions India - Growth fund) - Direct Plan - IDCW",
         "isin_growth": "INF336L01IB7",
         "isin_div_reinvestment": "INF336L01IC5"
     },
     "data": [
+        {
+            "date": "23-09-2026",
+            "nav": "33.03140"
+        },
+        {
+            "date": "22-09-2026",
+            "nav": "32.88120"
+        },
+        {
+            "date": "21-09-2026",
+            "nav": "32.85670"
+        },
         {
             "date": "18-09-2026",
             "nav": "32.82700"

@@ -2,13 +2,25 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Exchange Traded Funds (ETFs) - Equity ETF",
+        "scheme_category": "Exchange Traded Funds",
         "scheme_code": 149169,
         "scheme_name": "Mirae Asset S&P 500 Top 50 ETF",
         "isin_growth": "INF769K01HP3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "23-09-2026",
+            "nav": "68.53180"
+        },
+        {
+            "date": "22-09-2026",
+            "nav": "69.25070"
+        },
+        {
+            "date": "21-09-2026",
+            "nav": "69.20690"
+        },
         {
             "date": "18-09-2026",
             "nav": "67.86430"

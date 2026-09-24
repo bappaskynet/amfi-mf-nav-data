@@ -2,13 +2,25 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Exchange Traded Funds (ETFs) - ETFs investing overseas",
+        "scheme_category": "Exchange Traded Funds",
         "scheme_code": 148927,
         "scheme_name": "Mirae Asset NYSE FANG+ ETF",
         "isin_growth": "INF769K01HF4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "23-09-2026",
+            "nav": "180.30850"
+        },
+        {
+            "date": "22-09-2026",
+            "nav": "182.12630"
+        },
+        {
+            "date": "21-09-2026",
+            "nav": "181.63060"
+        },
         {
             "date": "18-09-2026",
             "nav": "176.53710"

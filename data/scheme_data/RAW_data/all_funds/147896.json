@@ -2,13 +2,25 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
+        "scheme_category": "Fund of Funds Scheme",
         "scheme_code": 147896,
         "scheme_name": "Axis Income Plus Arbitrage Omni FOF - Regular Plan - Monthly IDCW Option",
         "isin_growth": "INF846K01V57",
         "isin_div_reinvestment": "INF846K01V40"
     },
     "data": [
+        {
+            "date": "23-09-2026",
+            "nav": "15.41470"
+        },
+        {
+            "date": "22-09-2026",
+            "nav": "15.40150"
+        },
+        {
+            "date": "21-09-2026",
+            "nav": "15.39970"
+        },
         {
             "date": "18-09-2026",
             "nav": "15.40550"

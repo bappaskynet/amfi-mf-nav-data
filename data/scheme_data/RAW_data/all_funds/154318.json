@@ -2,13 +2,25 @@
     "meta": {
         "fund_house": "Kotak Mahindra Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
+        "scheme_category": "Fund of Funds Scheme",
         "scheme_code": 154318,
         "scheme_name": "Kotak Multi Asset Active FOF - Regular Plan - IDCW",
         "isin_growth": "INF174KA1ZS1",
         "isin_div_reinvestment": "INF174KA1ZT9"
     },
     "data": [
+        {
+            "date": "23-09-2026",
+            "nav": "10.22200"
+        },
+        {
+            "date": "22-09-2026",
+            "nav": "10.18800"
+        },
+        {
+            "date": "21-09-2026",
+            "nav": "10.20500"
+        },
         {
             "date": "18-09-2026",
             "nav": "10.21300"

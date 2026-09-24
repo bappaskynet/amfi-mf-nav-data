@@ -4,11 +4,27 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 146514,
-        "scheme_name": "Nippon India Nifty Next 50 Junior BeES FoF - Regular Plan - Growth Option\t",
+        "scheme_name": "Nippon India Nifty Next 50 Junior BeES FoF - Regular Plan - Growth Option",
         "isin_growth": "INF204KB1W91",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "24-09-2026",
+            "nav": "26.55840"
+        },
+        {
+            "date": "23-09-2026",
+            "nav": "26.92850"
+        },
+        {
+            "date": "22-09-2026",
+            "nav": "26.72320"
+        },
+        {
+            "date": "21-09-2026",
+            "nav": "26.85240"
+        },
         {
             "date": "18-09-2026",
             "nav": "26.81190"

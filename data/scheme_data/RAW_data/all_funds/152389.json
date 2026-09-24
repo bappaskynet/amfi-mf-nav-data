@@ -4,11 +4,27 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 152389,
-        "scheme_name": "Nippon India Nifty Bank Index Fund - Direct Plan - Growth Option\t",
+        "scheme_name": "Nippon India Nifty Bank Index Fund - Direct Plan - Growth Option",
         "isin_growth": "INF204KC1BY2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "24-09-2026",
+            "nav": "11.97960"
+        },
+        {
+            "date": "23-09-2026",
+            "nav": "12.21950"
+        },
+        {
+            "date": "22-09-2026",
+            "nav": "12.14760"
+        },
+        {
+            "date": "21-09-2026",
+            "nav": "12.20290"
+        },
         {
             "date": "18-09-2026",
             "nav": "12.17890"

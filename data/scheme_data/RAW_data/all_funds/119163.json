@@ -4,11 +4,27 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 119163,
-        "scheme_name": "Navi Liquid Fund - Direct Plan - Daily IDCW - ReInvestment\t",
+        "scheme_name": "Navi Liquid Fund - Direct Plan - Daily IDCW - ReInvestment",
         "isin_growth": null,
         "isin_div_reinvestment": "INF959L01GK1"
     },
     "data": [
+        {
+            "date": "24-09-2026",
+            "nav": "10.01290"
+        },
+        {
+            "date": "23-09-2026",
+            "nav": "10.01290"
+        },
+        {
+            "date": "22-09-2026",
+            "nav": "10.01290"
+        },
+        {
+            "date": "21-09-2026",
+            "nav": "10.01290"
+        },
         {
             "date": "20-09-2026",
             "nav": "10.01290"

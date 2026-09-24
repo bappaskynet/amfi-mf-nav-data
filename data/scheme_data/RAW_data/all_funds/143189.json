@@ -4,11 +4,27 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
         "scheme_code": 143189,
-        "scheme_name": "Navi Aggressive Hybrid Fund - Regular Plan - Half Yearly IDCW\t",
+        "scheme_name": "Navi Aggressive Hybrid Fund - Regular Plan - Half Yearly IDCW",
         "isin_growth": "INF959L01DP7",
         "isin_div_reinvestment": "INF959L01DQ5"
     },
     "data": [
+        {
+            "date": "24-09-2026",
+            "nav": "22.11430"
+        },
+        {
+            "date": "23-09-2026",
+            "nav": "22.36730"
+        },
+        {
+            "date": "22-09-2026",
+            "nav": "22.25860"
+        },
+        {
+            "date": "21-09-2026",
+            "nav": "22.25400"
+        },
         {
             "date": "18-09-2026",
             "nav": "22.28610"

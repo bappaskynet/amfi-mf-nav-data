@@ -2,13 +2,25 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
+        "scheme_category": "Fund of Funds Scheme",
         "scheme_code": 154298,
         "scheme_name": "HSBC Gold ETF Fund of Fund - Regular Plan - Growth",
         "isin_growth": "INF336L01RY0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "23-09-2026",
+            "nav": "10.32590"
+        },
+        {
+            "date": "22-09-2026",
+            "nav": "10.33380"
+        },
+        {
+            "date": "21-09-2026",
+            "nav": "10.37210"
+        },
         {
             "date": "18-09-2026",
             "nav": "10.47220"
