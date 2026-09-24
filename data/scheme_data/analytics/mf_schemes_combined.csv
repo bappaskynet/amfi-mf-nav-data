@@ -14389,6 +14389,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154710,Monarch Mutual Fund,Monarch Overnight Fund,,INF2ZSC01036,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 154711,Monarch Mutual Fund,Monarch Overnight Fund,INF2ZSC01010,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 154734,Helios Mutual Fund,Helios Balanced Advantage Fund,INF0R8701491,INF0R8701509,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
+154736,Lakshya Mutual Fund,LAKSHYA OVERNIGHT FUND,INF2ZPR01014,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
+154737,Lakshya Mutual Fund,LAKSHYA OVERNIGHT FUND,INF2ZPR01022,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 154750,HDFC Mutual Fund,HDFC BSE REITS and Commercial Real Estate Index Fund,INF179KC1KV0,,Open Ended Schemes,Index Funds - Equity Funds
 154751,HDFC Mutual Fund,HDFC BSE REITS and Commercial Real Estate Index Fund,INF179KC1KY4,,Open Ended Schemes,Index Funds - Equity Funds
 154752,HDFC Mutual Fund,HDFC BSE REITS and Commercial Real Estate Index Fund,INF179KC1KU2,,Open Ended Schemes,Index Funds - Equity Funds
@@ -36604,8 +36606,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154731,Kotak Mahindra Asset Management Company Limited.,Kotak Multi Sector Omni FOF - Regular Plan - Growth,INF174KA1F73,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154732,Kotak Mahindra Asset Management Company Limited.,Kotak Multi Sector Omni FOF - Direct Plan - IDCW - Payout & Reinvestment,INF174KA1F57,INF174KA1F65,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154733,Kotak Mahindra Asset Management Company Limited.,Kotak Multi Sector Omni FOF - Regular Plan - IDCW - Payout & Reinvestment,INF174KA1F81,INF174KA1F99,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
-154736,Lakshya Asset Management Private Limited,LAKSHYA OVERNIGHT FUND-Direct,INF2ZPR01014,,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
-154737,Lakshya Asset Management Private Limited,LAKSHYA OVERNIGHT FUND-Regular,INF2ZPR01022,,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
 154738,Axis Asset Management Co. Ltd.,Axis Nifty500 Low Volatility 50 Index Fund - Direct Plan - Growth Option,INF846KA1614,,Open Ended,Index Funds - Equity Funds
 154739,Axis Asset Management Co. Ltd.,Axis Nifty500 Low Volatility 50 Index Fund - Regular Plan - Growth Option,INF846KA1606,,Open Ended,Index Funds - Equity Funds
 154740,ICICI Prudential Asset Management Company Limited,ICICI Prudential Contra Fund - Direct Plan - Growth,,,Open Ended,Equity Schemes - Contra Fund
