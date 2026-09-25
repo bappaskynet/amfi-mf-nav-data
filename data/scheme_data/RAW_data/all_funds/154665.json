@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "fund_house": "The Wealth Company Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Equity Schemes - Multi Cap Fund",
+        "scheme_code": 154665,
+        "scheme_name": "The Wealth Company Multi Cap Fund - Regular Plan - IDCW",
+        "isin_growth": "INF2F0001693",
+        "isin_div_reinvestment": "INF2F0001701"
+    },
+    "data": [
+        {
+            "date": "24-09-2026",
+            "nav": "9.93280"
+        },
+        {
+            "date": "23-09-2026",
+            "nav": "9.99690"
+        },
+        {
+            "date": "22-09-2026",
+            "nav": "9.96810"
+        },
+        {
+            "date": "21-09-2026",
+            "nav": "10.00050"
+        }
+    ],
+    "status": "SUCCESS"
+}

@@ -2,13 +2,29 @@
     "meta": {
         "fund_house": "Nippon India Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Multi Cap Fund",
+        "scheme_category": "Equity Schemes - Multi Cap Fund",
         "scheme_code": 101163,
         "scheme_name": "Nippon India Multi Cap Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF204K01455",
         "isin_div_reinvestment": "INF204K01463"
     },
     "data": [
+        {
+            "date": "24-09-2026",
+            "nav": "57.87970"
+        },
+        {
+            "date": "23-09-2026",
+            "nav": "58.97130"
+        },
+        {
+            "date": "22-09-2026",
+            "nav": "58.67210"
+        },
+        {
+            "date": "21-09-2026",
+            "nav": "58.81220"
+        },
         {
             "date": "18-09-2026",
             "nav": "58.73630"

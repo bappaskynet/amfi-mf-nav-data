@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "fund_house": "Bank of India Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Equity Schemes - Value Fund",
+        "scheme_code": 154695,
+        "scheme_name": "BANK OF INDIA VALUE FUND - Regular Plan - Growth",
+        "isin_growth": "INF761K01HN5",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "24-09-2026",
+            "nav": "10.01000"
+        },
+        {
+            "date": "23-09-2026",
+            "nav": "10.02000"
+        },
+        {
+            "date": "22-09-2026",
+            "nav": "10.02000"
+        }
+    ],
+    "status": "SUCCESS"
+}

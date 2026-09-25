@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "fund_house": "DSP Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Income/Debt Oriented Schemes - Money Market Fund",
+        "scheme_code": 154425,
+        "scheme_name": "DSP Money Market Fund - Regular Plan - Weekly IDCW",
+        "isin_growth": "INF740KA1ZB2",
+        "isin_div_reinvestment": "INF740KA1ZC0"
+    },
+    "data": [
+        {
+            "date": "24-09-2026",
+            "nav": "10.00000"
+        },
+        {
+            "date": "23-09-2026",
+            "nav": "10.00220"
+        }
+    ],
+    "status": "SUCCESS"
+}

@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "fund_house": "HDFC Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Index Funds - Equity Funds",
+        "scheme_code": 154750,
+        "scheme_name": "HDFC BSE REITS and Commercial Real Estate Index Fund - Regular Plan - IDCW Option",
+        "isin_growth": "INF179KC1KV0",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "24-09-2026",
+            "nav": "9.97210"
+        },
+        {
+            "date": "23-09-2026",
+            "nav": "9.99870"
+        },
+        {
+            "date": "22-09-2026",
+            "nav": "9.98470"
+        }
+    ],
+    "status": "SUCCESS"
+}

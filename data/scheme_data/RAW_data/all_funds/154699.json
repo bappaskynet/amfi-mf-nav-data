@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "fund_house": "UTI Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Index Funds - Equity Funds",
+        "scheme_code": 154699,
+        "scheme_name": "UTI BSE India Sector Leaders Index Fund - Direct Plan - Growth",
+        "isin_growth": "INF789F1AH67",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "24-09-2026",
+            "nav": "9.97580"
+        },
+        {
+            "date": "23-09-2026",
+            "nav": "10.09700"
+        },
+        {
+            "date": "22-09-2026",
+            "nav": "10.04910"
+        }
+    ],
+    "status": "SUCCESS"
+}

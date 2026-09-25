@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "Lakshya Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Income/Debt Oriented Schemes - Overnight Fund",
+        "scheme_code": 154737,
+        "scheme_name": "LAKSHYA OVERNIGHT FUND - Regular Plan - GROWTH",
+        "isin_growth": "INF2ZPR01022",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "24-09-2026",
+            "nav": "1000.86210"
+        }
+    ],
+    "status": "SUCCESS"
+}

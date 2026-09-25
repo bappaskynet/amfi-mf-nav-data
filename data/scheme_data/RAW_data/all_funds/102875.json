@@ -4,11 +4,27 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Small Cap Fund",
         "scheme_code": 102875,
-        "scheme_name": "Kotak Small Cap Fund - Regular Plan - Growth\t",
+        "scheme_name": "Kotak Small Cap Fund - Regular Plan - Growth",
         "isin_growth": "INF174K01211",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "24-09-2026",
+            "nav": "277.01000"
+        },
+        {
+            "date": "23-09-2026",
+            "nav": "279.49000"
+        },
+        {
+            "date": "22-09-2026",
+            "nav": "276.91300"
+        },
+        {
+            "date": "21-09-2026",
+            "nav": "276.35500"
+        },
         {
             "date": "18-09-2026",
             "nav": "276.47600"

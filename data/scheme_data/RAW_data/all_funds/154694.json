@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "fund_house": "Bank of India Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Equity Schemes - Value Fund",
+        "scheme_code": 154694,
+        "scheme_name": "BANK OF INDIA VALUE FUND - Direct Plan - IDCW",
+        "isin_growth": "INF761K01HL9",
+        "isin_div_reinvestment": "INF761K01HM7"
+    },
+    "data": [
+        {
+            "date": "24-09-2026",
+            "nav": "10.01000"
+        },
+        {
+            "date": "23-09-2026",
+            "nav": "10.02000"
+        },
+        {
+            "date": "22-09-2026",
+            "nav": "10.02000"
+        }
+    ],
+    "status": "SUCCESS"
+}
