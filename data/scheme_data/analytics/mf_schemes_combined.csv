@@ -14388,6 +14388,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154706,Monarch Mutual Fund,Monarch Overnight Fund,INF2ZSC01028,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 154710,Monarch Mutual Fund,Monarch Overnight Fund,,INF2ZSC01036,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 154711,Monarch Mutual Fund,Monarch Overnight Fund,INF2ZSC01010,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
+154720,Mirae Asset Mutual Fund,Mirae Asset BSE Information Technology Index Fund,INF769K01RO5,,Open Ended Schemes,Index Funds - Equity Funds
+154721,Mirae Asset Mutual Fund,Mirae Asset BSE Information Technology Index Fund,INF769K01RQ0,INF769K01RP2,Open Ended Schemes,Index Funds - Equity Funds
+154722,Mirae Asset Mutual Fund,Mirae Asset BSE Information Technology Index Fund,INF769K01RL1,,Open Ended Schemes,Index Funds - Equity Funds
+154723,Mirae Asset Mutual Fund,Mirae Asset BSE Information Technology Index Fund,INF769K01RN7,INF769K01RM9,Open Ended Schemes,Index Funds - Equity Funds
 154734,Helios Mutual Fund,Helios Balanced Advantage Fund,INF0R8701491,INF0R8701509,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 154736,Lakshya Mutual Fund,LAKSHYA OVERNIGHT FUND,INF2ZPR01014,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 154737,Lakshya Mutual Fund,LAKSHYA OVERNIGHT FUND,INF2ZPR01022,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
@@ -36598,10 +36602,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154717,Invesco Asset Management (India) Private Limited,Invesco India Nifty Chemical Index Fund - Regular Plan - IDCW,INF205KA1CK0,INF205KA1CL8,Open Ended,Index Funds - Equity Funds
 154718,Invesco Asset Management (India) Private Limited,Invesco India Nifty Chemical Index Fund - Direct Plan - IDCW,INF205KA1CN4,INF205KA1CO2,Open Ended,Index Funds - Equity Funds
 154719,Invesco Asset Management (India) Private Limited,Invesco India Nifty Chemical Index Fund - Direct Plan - Growth,INF205KA1CM6,,Open Ended,Index Funds - Equity Funds
-154720,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset BSE Information Technology Index Fund - Direct Plan - Growth,INF769K01RO5,,Open Ended,Index Funds - Equity Funds
-154721,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset BSE Information Technology Index Fund - Direct Plan - IDCW,INF769K01RQ0,INF769K01RP2,Open Ended,Index Funds - Equity Funds
-154722,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset BSE Information Technology Index Fund - Regular Plan - Growth,INF769K01RL1,,Open Ended,Index Funds - Equity Funds
-154723,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset BSE Information Technology Index Fund - Regular Plan - IDCW,INF769K01RN7,INF769K01RM9,Open Ended,Index Funds - Equity Funds
 154726,Shriram Asset Management Co. Ltd.,Shriram Gold ETF Passive FOF-Direct-IDCWREINVESTMENT,INF680P01695,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154727,Shriram Asset Management Co. Ltd.,Shriram Gold ETF Passive FOF-Direct-Growth,INF680P01653,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154728,Shriram Asset Management Co. Ltd.,Shriram Gold ETF Passive FOF-Regular-IDCWREINVESTMENT,INF680P01703,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
@@ -36631,8 +36631,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154764,Zerodha Asset Management Private Limited,Zerodha Nifty Next 100 ETF,INF0R8F01257,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154765,HDFC Asset Management Company Limited,HDFC FTSE India Equity ETF-Growth Option,INF179KC1LA2,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154768,DSP Asset Managers Private Limited,DSP BSE Insurance ETF,INF740KA1ZR8,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
-154769,WhiteOak Capital Asset Management Limited,WhiteOak Capital Diversified Equity Small Cap Active FOF Regular Plan Growth,INF1J2R01197,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
-154770,WhiteOak Capital Asset Management Limited,WhiteOak Capital Diversified Equity Small Cap Active FOF Direct Plan Growth,INF1J2R01189,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154769,WhiteOak Capital Asset Management Limited,WhiteOak Capital Diversified Equity Small Cap Active FOF Regular Plan Growth,INF03VN01AO0,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154770,WhiteOak Capital Asset Management Limited,WhiteOak Capital Diversified Equity Small Cap Active FOF Direct Plan Growth,INF03VN01AN2,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154771,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life BSE Total Market Index Fund - Direct Plan - Growth Option,INF209KC1753,,Open Ended,Index Funds - Equity Funds
 154772,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life BSE Toatl Market Index Fund - Regular Plan - Growth Option,INF209KC1761,,Open Ended,Index Funds - Equity Funds
 154774,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life BSE Total Market ETF,INF209KC1746,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
