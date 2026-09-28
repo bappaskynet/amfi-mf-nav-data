@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "Tata Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Index Funds - Debt Funds",
+        "scheme_code": 154746,
+        "scheme_name": "Tata CRISIL-IBX Financial Services 3-6 Months Debt Index Fund - Regular Plan - IDCW Reinvestment",
+        "isin_growth": null,
+        "isin_div_reinvestment": "INF277KA1FA7"
+    },
+    "data": [
+        {
+            "date": "25-09-2026",
+            "nav": "10.00330"
+        }
+    ],
+    "status": "SUCCESS"
+}
