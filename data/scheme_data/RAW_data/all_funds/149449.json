@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Samco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Flexi Cap Fund",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 149449,
         "scheme_name": "Samco Flexi Cap Fund - Regular Plan - Growth",
         "isin_growth": "INF0K1H01016",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "28-09-2026",
+            "nav": "9.31000"
+        },
         {
             "date": "25-09-2026",
             "nav": "9.48000"

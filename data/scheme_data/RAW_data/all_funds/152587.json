@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Samco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 152587,
         "scheme_name": "Samco Special Opportunities Fund - Regular Plan - Growth",
         "isin_growth": "INF0K1H01172",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "28-09-2026",
+            "nav": "9.02000"
+        },
         {
             "date": "25-09-2026",
             "nav": "9.15000"

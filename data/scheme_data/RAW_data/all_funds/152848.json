@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Samco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Multi Cap Fund",
+        "scheme_category": "Equity Schemes - Multi Cap Fund",
         "scheme_code": 152848,
         "scheme_name": "Samco Multi Cap Fund - Regular Plan - Growth",
         "isin_growth": "INF0K1H01206",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "28-09-2026",
+            "nav": "8.85000"
+        },
         {
             "date": "25-09-2026",
             "nav": "8.94000"

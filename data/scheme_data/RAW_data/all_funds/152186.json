@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Samco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
+        "scheme_category": "Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation",
         "scheme_code": 152186,
         "scheme_name": "Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF0K1H01149",
         "isin_div_reinvestment": "INF0K1H01156"
     },
     "data": [
+        {
+            "date": "28-09-2026",
+            "nav": "10.50000"
+        },
         {
             "date": "25-09-2026",
             "nav": "10.58000"

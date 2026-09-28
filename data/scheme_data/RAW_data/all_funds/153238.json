@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Samco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Large Cap Fund",
+        "scheme_category": "Equity Schemes - Large Cap Fund",
         "scheme_code": 153238,
         "scheme_name": "Samco Large Cap Fund - Regular Plan - Growth",
         "isin_growth": "INF0K1H01263",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "28-09-2026",
+            "nav": "8.65000"
+        },
         {
             "date": "25-09-2026",
             "nav": "8.67000"

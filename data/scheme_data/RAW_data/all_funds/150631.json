@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Samco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Overnight Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Overnight Fund",
         "scheme_code": 150631,
         "scheme_name": "Samco Overnight Fund - Direct Plan - Growth",
         "isin_growth": "INF0K1H01040",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "28-09-2026",
+            "nav": "1259.66180"
+        },
         {
             "date": "27-09-2026",
             "nav": "1259.50540"
