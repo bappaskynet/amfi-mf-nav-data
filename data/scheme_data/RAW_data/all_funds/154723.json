@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "Mirae Asset Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Index Funds - Equity Funds",
+        "scheme_code": 154723,
+        "scheme_name": "Mirae Asset BSE Information Technology Index Fund - Regular Plan - IDCW",
+        "isin_growth": "INF769K01RN7",
+        "isin_div_reinvestment": "INF769K01RM9"
+    },
+    "data": [
+        {
+            "date": "28-09-2026",
+            "nav": "9.95030"
+        }
+    ],
+    "status": "SUCCESS"
+}

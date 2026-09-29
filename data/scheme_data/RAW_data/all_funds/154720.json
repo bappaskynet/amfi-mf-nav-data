@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "Mirae Asset Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Index Funds - Equity Funds",
+        "scheme_code": 154720,
+        "scheme_name": "Mirae Asset BSE Information Technology Index Fund - Direct Plan - Growth",
+        "isin_growth": "INF769K01RO5",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "28-09-2026",
+            "nav": "9.95120"
+        }
+    ],
+    "status": "SUCCESS"
+}
