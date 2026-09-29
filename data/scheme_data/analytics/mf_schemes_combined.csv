@@ -36590,7 +36590,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154522,Abakkus Investment Managers Private Limited,Abakkus Liquid Fund - Unclaimed IDCW Less than 3 Years,,,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
 154126,Sundaram Asset Management Company Ltd,Sundaram Income Plus Arbitrage Active FoF Fund-Regular-IDCW Reinvestment,INF903JA1ME0,,Open Ended,Other Scheme - FoF Domestic
 154128,Sundaram Asset Management Company Ltd,Sundaram Income Plus Arbitrage Active FoF Fund-Direct-IDCW Reinvestment,INF903JA1MB6,,Open Ended,Other Scheme - FoF Domestic
-154701,Jio BlackRock Asset Management Private Limited,JioBlackRock Balanced Advantage Fund,INF22M001366,,Open Ended,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
+154701,Jio BlackRock Asset Management Private Limited,JioBlackRock Balanced Advantage Fund - Direct Plan - Growth Option,INF22M001366,,Open Ended,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 154702,Jio BlackRock Asset Management Private Limited,JioBlackRock Balanced Advantage Fund - Regular Plan - Growth Option,INF22M001374,,Open Ended,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 154707,Monarch Networth Asset Management Private Limited,Monarch Overnight Fund - Direct Plan-Daily IDCW,INF2ZSC01044,,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
 154709,Monarch Networth Asset Management Private Limited,Monarch Overnight Fund- Regular Plan- Monthly IDCW,INF2ZSC01077,INF2ZSC01051,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
@@ -36661,5 +36661,5 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154799,Kotak Mahindra Asset Management Company Limited.,Kotak Nifty 500 Index Fund - Regular Plan - Growth,INF174KA1G98,,Open Ended,Index Funds - Equity Funds
 154800,Kotak Mahindra Asset Management Company Limited.,Kotak Nifty 500 Index Fund - Regular Plan - IDCW Payout & Reinvestment,INF174KA1H06,INF174KA1H14,Open Ended,Index Funds - Equity Funds
 154801,Kotak Mahindra Asset Management Company Limited.,Kotak Nifty 500 Index Fund - Direct Plan - IDCW Payout & Reinvestment,INF174KA1G72,INF174KA1G80,Open Ended,Index Funds - Equity Funds
-154802,Jio BlackRock Asset Management Private Limited,JioBlackRock Income Plus Arbitrage Omni FOF,,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
-154803,Jio BlackRock Asset Management Private Limited,Jio BlackRock Income Plus Arbitrage Omni FOF,,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154802,Jio BlackRock Asset Management Private Limited,JioBlackRock Income Plus Arbitrage Omni FOF - Direct Plan - Growth Option,,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154803,Jio BlackRock Asset Management Private Limited,JioBlackRock Income Plus Arbitrage Omni FOF - Regular Plan - Growth Option,,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
