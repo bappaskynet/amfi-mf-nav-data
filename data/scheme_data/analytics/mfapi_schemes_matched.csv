@@ -27412,8 +27412,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 149446,Franklin Templeton Mutual Fund,Franklin India Overnight Fund - Regular Plan - Unclaimed Redemption,,,Open Ended Schemes,Debt Scheme - Overnight Fund
 149447,Navi Mutual Fund,Navi Nifty Next 50 Index Fund - Direct Plan - Growth,INF959L01FR8,,Open Ended Schemes,Other Scheme - Index Funds
 149448,Navi Mutual Fund,Navi Nifty Next 50 Index Fund - Regular Plan - Growth,INF959L01FS6,,Open Ended Schemes,Other Scheme - Index Funds
-149449,Samco Mutual Fund,Samco Flexi Cap Fund - Regular Plan - Growth,INF0K1H01016,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
-149450,Samco Mutual Fund,Samco Flexi Cap Fund - Direct Plan - Growth,INF0K1H01024,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
+149449,Samco Mutual Fund,Samco Flexi Cap Fund - Regular Plan - Growth,INF0K1H01016,,Open Ended Schemes,Equity Schemes - Thematic Fund
+149450,Samco Mutual Fund,Samco Flexi Cap Fund - Direct Plan - Growth,INF0K1H01024,,Open Ended Schemes,Equity Schemes - Thematic Fund
 149451,Union Mutual Fund,Union Overnight Fund - Unclaimed Amounts Plan - IDCW Beyond 3 years,,,Open Ended Schemes,Debt Scheme - Overnight Fund
 149452,Union Mutual Fund,Union Overnight Fund - Unclaimed Amounts Plan - IDCW Upto 3 years,,,Open Ended Schemes,Debt Scheme - Overnight Fund
 149453,Union Mutual Fund,Union Overnight Fund - Unclaimed Amounts Plan - Redemption Beyond 3 years,,,Open Ended Schemes,Debt Scheme - Overnight Fund
@@ -28062,8 +28062,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 150628,Nippon India Mutual Fund,Nippon India Fixed Maturity Plan - XLIV - Series 1 - Direct Plan - IDCW Option,INF204KC1642,,Close Ended Schemes,Income
 150629,Nippon India Mutual Fund,Nippon India Fixed Maturity Plan - XLIV - Series 1 - Regular Plan - Growth Option,INF204KC1618,,Close Ended Schemes,Income
 150630,Nippon India Mutual Fund,Nippon India Fixed Maturity Plan - XLIV - Series 1 - Regular Plan - IDCW Option,INF204KC1626,,Close Ended Schemes,Income
-150631,Samco Mutual Fund,Samco Overnight Fund - Direct Plan - Growth,INF0K1H01040,,Open Ended Schemes,Debt Scheme - Overnight Fund
-150632,Samco Mutual Fund,Samco Overnight Fund - Regular Plan - Growth,INF0K1H01032,,Open Ended Schemes,Debt Scheme - Overnight Fund
+150631,Samco Mutual Fund,Samco Overnight Fund - Direct Plan - Growth,INF0K1H01040,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
+150632,Samco Mutual Fund,Samco Overnight Fund - Regular Plan - Growth,INF0K1H01032,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 150633,Bandhan Mutual Fund,BANDHAN Nifty100 Low Volatility 30 Index Fund - Regular Plan - Growth,INF194KB1DY1,,Open Ended Schemes,Other Scheme - Index Funds
 150634,Bandhan Mutual Fund,BANDHAN Nifty100 Low Volatility 30 Index Fund - Direct Plan - IDCW,INF194KB1DW5,INF194KB1DX3,Open Ended Schemes,Other Scheme - Index Funds
 150635,Bandhan Mutual Fund,BANDHAN Nifty100 Low Volatility 30 Index Fund - Regular Plan - IDCW,INF194KB1DZ8,INF194KB1EA9,Open Ended Schemes,Other Scheme - Index Funds
@@ -28229,8 +28229,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 150825,Nippon India Mutual Fund,Nippon India Nifty SDL Plus G-Sec - Jun 2028 Maturity 70:30 Index Fund - Regular Plan - Growth Option,INF204KC1717,,Open Ended Schemes,Other Scheme - Index Funds
 150826,Nippon India Mutual Fund,Nippon India Nifty SDL Plus G-Sec - Jun 2028 Maturity 70:30 Index Fund - Direct Plan - IDCW Option,INF204KC1758,INF204KC1766,Open Ended Schemes,Other Scheme - Index Funds
 150827,Nippon India Mutual Fund,Nippon India Nifty SDL Plus G-Sec - Jun 2028 Maturity 70:30 Index Fund - Regular Plan - IDCW Option,INF204KC1725,INF204KC1733,Open Ended Schemes,Other Scheme - Index Funds
-150838,Samco Mutual Fund,Samco ELSS Tax Saver Fund - Direct Plan - Growth,INF0K1H01065,,Open Ended Schemes,Equity Scheme - ELSS
-150839,Samco Mutual Fund,Samco ELSS Tax Saver Fund - Regular Plan - Growth,INF0K1H01057,,Open Ended Schemes,Equity Scheme - ELSS
+150838,Samco Mutual Fund,Samco ELSS Tax Saver Fund - Direct Plan - Growth,INF0K1H01065,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
+150839,Samco Mutual Fund,Samco ELSS Tax Saver Fund - Regular Plan - Growth,INF0K1H01057,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
 150840,DSP Mutual Fund,DSP FMP Series - 267 - 1246 Days - Direct - IDCW,INF740KA1RK0,INF740KA1RJ2,Close Ended Schemes,Income
 150841,DSP Mutual Fund,DSP FMP Series - 267 - 1246 Days - Regular - IDCW,INF740KA1RH6,INF740KA1RG8,Close Ended Schemes,Income
 150842,DSP Mutual Fund,DSP FMP Series - 267 - 1172 Days,INF740KA1YL4,,Close Ended Schemes,Income
@@ -29115,10 +29115,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 152182,DSP Mutual Fund,DSP Gold ETF Fund of Fund - Regular Plan - Growth,INF740KA1TH2,,Open Ended Schemes,Other Scheme - FoF Domestic
 152183,DSP Mutual Fund,DSP Gold ETF Fund of Fund - Direct Plan - Growth,INF740KA1TK6,,Open Ended Schemes,Other Scheme - FoF Domestic
 152184,DSP Mutual Fund,DSP Gold ETF Fund of Fund - Direct Plan - IDCW,INF740KA1TL4,INF740KA1TM2,Open Ended Schemes,Other Scheme - FoF Domestic
-152185,Samco Mutual Fund,Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option,INF0K1H01107,INF0K1H01115,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
-152186,Samco Mutual Fund,Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option,INF0K1H01149,INF0K1H01156,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
-152187,Samco Mutual Fund,Samco Dynamic Asset Allocation Fund - Regular Plan - Growth,INF0K1H01099,,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
-152188,Samco Mutual Fund,Samco Dynamic Asset Allocation Fund - Direct Plan - Growth,INF0K1H01131,,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
+152185,Samco Mutual Fund,Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option,INF0K1H01107,INF0K1H01115,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
+152186,Samco Mutual Fund,Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option,INF0K1H01149,INF0K1H01156,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
+152187,Samco Mutual Fund,Samco Dynamic Asset Allocation Fund - Regular Plan - Growth,INF0K1H01099,,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
+152188,Samco Mutual Fund,Samco Dynamic Asset Allocation Fund - Direct Plan - Growth,INF0K1H01131,,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 152189,quant Mutual Fund,quant Momentum Fund - Direct Plan - Growth Option,INF966L01CZ3,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 152190,quant Mutual Fund,quant Momentum Fund - Regular Plan - Growth Option,INF966L01CW0,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 152191,quant Mutual Fund,quant Momentum Fund - Regular Plan - IDCW Option,INF966L01CX8,INF966L01CY6,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
@@ -29418,8 +29418,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 152583,Trust Mutual Fund,TRUSTMF Flexi Cap Fund - Regular Plan - IDCW,INF0GCD01727,INF0GCD01735,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
 152584,Trust Mutual Fund,TRUSTMF Flexi Cap Fund - Direct Plan - Growth,INF0GCD01743,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
 152585,Trust Mutual Fund,TRUSTMF Flexi Cap Fund - Direct Plan - IDCW,INF0GCD01750,INF0GCD01768,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
-152586,Samco Mutual Fund,Samco Special Opportunities Fund - Direct Plan - Growth,INF0K1H01180,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-152587,Samco Mutual Fund,Samco Special Opportunities Fund - Regular Plan - Growth,INF0K1H01172,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
+152586,Samco Mutual Fund,Samco Special Opportunities Fund - Direct Plan - Growth,INF0K1H01180,,Open Ended Schemes,Equity Schemes - Thematic Fund
+152587,Samco Mutual Fund,Samco Special Opportunities Fund - Regular Plan - Growth,INF0K1H01172,,Open Ended Schemes,Equity Schemes - Thematic Fund
 152588,Tata Mutual Fund,Tata Nifty500 Multicap India Manufacturing 50:30:20 Index Fund - Direct Plan - Growth Option,INF277KA1BM1,,Open Ended Schemes,Other Scheme - Index Funds
 152589,Tata Mutual Fund,Tata Nifty500 Multicap India Manufacturing 50:30:20 Index Fund - Direct Plan - IDCW Payout Option,INF277KA1BN9,,Open Ended Schemes,Other Scheme - Index Funds
 152590,Tata Mutual Fund,Tata Nifty500 Multicap India Manufacturing 50:30:20 Index Fund - Regular Plan - Growth Option,INF277KA1BJ7,,Open Ended Schemes,Other Scheme - Index Funds
@@ -29663,8 +29663,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 152844,Bandhan Mutual Fund,Bandhan BSE Healthcare Index Fund - Direct Plan - Growth,INF194KB1IS2,,Open Ended Schemes,Other Scheme - Index Funds
 152845,Groww Mutual Fund,Groww Nifty India Defence ETF,INF666M01IO8,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Other ETF
 152846,Motilal Oswal Mutual Fund,Motilal Oswal Nifty India Defence ETF,INF247L01DJ0,,Open Ended Schemes,Other Scheme - Other  ETFs
-152847,Samco Mutual Fund,Samco Multi Cap Fund - Direct Plan - Growth,INF0K1H01198,,Open Ended Schemes,Equity Scheme - Multi Cap Fund
-152848,Samco Mutual Fund,Samco Multi Cap Fund - Regular Plan - Growth,INF0K1H01206,,Open Ended Schemes,Equity Scheme - Multi Cap Fund
+152847,Samco Mutual Fund,Samco Multi Cap Fund - Direct Plan - Growth,INF0K1H01198,,Open Ended Schemes,Equity Schemes - Multi Cap Fund
+152848,Samco Mutual Fund,Samco Multi Cap Fund - Regular Plan - Growth,INF0K1H01206,,Open Ended Schemes,Equity Schemes - Multi Cap Fund
 152849,WhiteOak Capital Mutual Fund,WhiteOak Capital Arbitrage Fund - Direct Plan - Growth Option,INF03VN01910,,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
 152850,WhiteOak Capital Mutual Fund,WhiteOak Capital Arbitrage Fund - Regular Plan - Growth Option,INF03VN01928,,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
 152851,Franklin Templeton Mutual Fund,Franklin India Medium to Long Term Fund - Direct Plan - Growth,INF090I01XG4,,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund
@@ -29828,7 +29828,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153013,SBI Mutual Fund,SBI Nifty India Consumption Index Fund - Regular Plan - IDCW,INF200KB1423,INF200KB1431,Open Ended Schemes,Other Scheme - Index Funds
 153014,SBI Mutual Fund,SBI Nifty India Consumption Index Fund - Direct Plan - IDCW,INF200KB1456,INF200KB1464,Open Ended Schemes,Other Scheme - Index Funds
 153015,SBI Mutual Fund,SBI Nifty India Consumption Index Fund - Direct Plan - Growth,INF200KB1449,,Open Ended Schemes,Other Scheme - Index Funds
-153021,Samco Mutual Fund,Samco Overnight Fund,,,Open Ended Schemes,Debt Scheme - Overnight Fund
+153021,Samco Mutual Fund,Samco Overnight Fund,,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 153022,Motilal Oswal Mutual Fund,Motilal Oswal Nifty MidSmall Healthcare Index Fund - Regular Plan - Growth,INF247L01DT9,,Open Ended Schemes,Other Scheme - Index Funds
 153023,Motilal Oswal Mutual Fund,Motilal Oswal Nifty MidSmall Healthcare Index Fund - Direct Plan - Growth,INF247L01EA7,,Open Ended Schemes,Other Scheme - Index Funds
 153024,Motilal Oswal Mutual Fund,Motilal Oswal Nifty MidSmall India Consumption Index Fund - Regular Plan - Growth,INF247L01DV5,,Open Ended Schemes,Other Scheme - Index Funds
@@ -29897,8 +29897,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153087,UTI Mutual Fund,UTI Nifty Alpha Low-Volatility 30 Index Fund - Regular Plan - Growth,INF789F1AZL1,,Open Ended Schemes,Index Funds - Equity Funds
 153088,UTI Mutual Fund,UTI Nifty Midcap 150 Index Fund - Regular Plan - Growth,INF789F1AZN7,,Open Ended Schemes,Index Funds - Equity Funds
 153089,UTI Mutual Fund,UTI Nifty Midcap 150 Index Fund - Direct Plan - Growth,INF789F1AZO5,,Open Ended Schemes,Index Funds - Equity Funds
-153090,Samco Mutual Fund,Samco Arbitrage Fund - Direct Plan - Growth,INF0K1H01214,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
-153091,Samco Mutual Fund,Samco Arbitrage Fund - Regular Plan - Growth,INF0K1H01222,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
+153090,Samco Mutual Fund,Samco Arbitrage Fund - Direct Plan - Growth,INF0K1H01214,,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
+153091,Samco Mutual Fund,Samco Arbitrage Fund - Regular Plan - Growth,INF0K1H01222,,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
 153092,Samco Mutual Fund,Samco Multi Asset Allocation Fund - Direct Plan - Growth,INF0K1H01230,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
 153093,Samco Mutual Fund,Samco Multi Asset Allocation Fund - Regular Plan - Growth,INF0K1H01248,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
 153094,Quantum Mutual Fund,Quantum Ethical Fund - Direct Plan - Growth Option,INF082J01473,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
@@ -30037,8 +30037,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153235,ICICI Prudential Mutual Fund,ICICI Prudential CRISIL-IBX AAA Bond Financial Services Index -Dec 2026 Fund - Annual IDCW,INF109KC19Z4,INF109K1A013,Open Ended Schemes,Other Scheme - Index Funds
 153236,ICICI Prudential Mutual Fund,ICICI Prudential CRISIL-IBX AAA Bond Financial Services Index -Dec 2026 Fund- Direct Plan - Growth,INF109KC15Z2,,Open Ended Schemes,Other Scheme - Index Funds
 153237,ICICI Prudential Mutual Fund,ICICI Prudential CRISIL-IBX AAA Bond Financial Services Index -Dec 2026 Fund- Direct Plan - Annual IDCW,INF109KC16Z0,INF109KC17Z8,Open Ended Schemes,Other Scheme - Index Funds
-153238,Samco Mutual Fund,Samco Large Cap Fund - Regular Plan - Growth,INF0K1H01263,,Open Ended Schemes,Equity Scheme - Large Cap Fund
-153239,Samco Mutual Fund,Samco Large Cap Fund - Direct Plan - Growth,INF0K1H01255,,Open Ended Schemes,Equity Scheme - Large Cap Fund
+153238,Samco Mutual Fund,Samco Large Cap Fund - Regular Plan - Growth,INF0K1H01263,,Open Ended Schemes,Equity Schemes - Large Cap Fund
+153239,Samco Mutual Fund,Samco Large Cap Fund - Direct Plan - Growth,INF0K1H01255,,Open Ended Schemes,Equity Schemes - Large Cap Fund
 153240,Union Mutual Fund,Union Short Term Fund - Regular Plan - Growth Option,INF582M01KK1,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
 153241,Union Mutual Fund,Union Short Term Fund - Regular Plan - IDCW Option,INF582M01KL9,INF582M01KM7,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
 153242,Union Mutual Fund,Union Short Term Fund - Direct Plan - Growth Option,INF582M01KO3,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
@@ -30313,8 +30313,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153530,Angel One Mutual Fund,ANGEL ONE NIFTY 50 INDEX FUND - Regular Plan - Growth,INF1J2R01080,,Open Ended Schemes,Other Scheme - Index Funds
 153531,Angel One Mutual Fund,ANGEL ONE NIFTY 50 ETF - Direct Plan,INF1J2R01064,,Open Ended Schemes,Other Scheme - Other  ETFs
 153532,Motilal Oswal Mutual Fund,Motilal Oswal Nifty 50 Equal Weight ETF,INF247L01FC0,,Open Ended Schemes,Other Scheme - Other  ETFs
-153533,Samco Mutual Fund,Samco Large & Mid Cap Fund - Regular Plan - Growth,INF0K1H01289,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
-153534,Samco Mutual Fund,Samco Large & Mid Cap Fund - Direct Plan - Growth,INF0K1H01271,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
+153533,Samco Mutual Fund,Samco Large & Mid Cap Fund - Regular Plan - Growth,INF0K1H01289,,Open Ended Schemes,Equity Schemes - Large & Mid Cap Fund
+153534,Samco Mutual Fund,Samco Large & Mid Cap Fund - Direct Plan - Growth,INF0K1H01271,,Open Ended Schemes,Equity Schemes - Large & Mid Cap Fund
 153535,Motilal Oswal Mutual Fund,Motilal Oswal Nifty Next 50 ETF,INF247L01FD8,,Open Ended Schemes,Other Scheme - Other  ETFs
 153536,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Income Plus Arbitrage Active Fund of Funds - Direct Plan - Growth Option,INF251K01UT7,,Open Ended Schemes,Other Scheme - FoF Domestic
 153538,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Income Plus Arbitrage Active Fund of Funds - Regular Plan - IDCW Option,INF251K01UX9,INF251K01US9,Open Ended Schemes,Other Scheme - FoF Domestic
@@ -30613,8 +30613,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153865,ICICI Prudential Mutual Fund,ICICI Prudential Conglomerate Fund - Regular Plan - Growth,INF109K1A393,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 153866,ICICI Prudential Mutual Fund,ICICI Prudential Conglomerate Fund - Direct Plan - IDCW,INF109K1A443,INF109K1A435,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 153867,ICICI Prudential Mutual Fund,ICICI Prudential Conglomerate Fund - Direct Plan - Growth,INF109K1A427,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-153868,Samco Mutual Fund,Samco Small Cap Fund - Direct Plan - Growth,INF0K1H01297,,Open Ended Schemes,Equity Scheme - Small Cap Fund
-153869,Samco Mutual Fund,Samco Small Cap Fund - Regular Plan - Growth,INF0K1H01305,,Open Ended Schemes,Equity Scheme - Small Cap Fund
+153868,Samco Mutual Fund,Samco Small Cap Fund - Direct Plan - Growth,INF0K1H01297,,Open Ended Schemes,Equity Schemes - Small Cap Fund
+153869,Samco Mutual Fund,Samco Small Cap Fund - Regular Plan - Growth,INF0K1H01305,,Open Ended Schemes,Equity Schemes - Small Cap Fund
 153870,The Wealth Company Mutual Fund,The Wealth Company Flexi Cap Fund - Regular Plan - Growth,INF2F0001016,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
 153871,The Wealth Company Mutual Fund,The Wealth Company Flexi Cap Fund - Regular Plan - IDCW,INF2F0001024,INF2F0001032,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
 153872,The Wealth Company Mutual Fund,The Wealth Company Flexi Cap Fund - Direct Plan - Growth,INF2F0001040,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
@@ -30837,8 +30837,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154111,Groww Mutual Fund,Groww Nifty Chemicals ETF,INF666M01NP5,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Other ETF
 154112,Motilal Oswal Mutual Fund,Motilal Oswal Diversified Equity Flexicap Passive Fund of Funds - Direct Plan - Growth,INF247L01GL9,,Open Ended Schemes,Other Scheme - FoF Domestic
 154113,Motilal Oswal Mutual Fund,Motilal Oswal Diversified Equity Flexicap Passive Fund of Funds - Regular Plan - Growth,INF247L01GM7,,Open Ended Schemes,Other Scheme - FoF Domestic
-154114,Samco Mutual Fund,Samco Mid Cap Fund - Direct Plan - Growth,INF0K1H01313,,Open Ended Schemes,Equity Scheme - Mid Cap Fund
-154115,Samco Mutual Fund,Samco Mid Cap Fund - Regular Plan - Growth,INF0K1H01321,,Open Ended Schemes,Equity Scheme - Mid Cap Fund
+154114,Samco Mutual Fund,Samco Mid Cap Fund - Direct Plan - Growth,INF0K1H01313,,Open Ended Schemes,Equity Schemes - Mid Cap Fund
+154115,Samco Mutual Fund,Samco Mid Cap Fund - Regular Plan - Growth,INF0K1H01321,,Open Ended Schemes,Equity Schemes - Mid Cap Fund
 154119,Mahindra Manulife Mutual Fund,Mahindra Manulife Innovation Opportunities Fund - Regular Plan - IDCW,INF174V01CZ3,INF174V01CY6,Open Ended Schemes,Equity Schemes - Thematic Fund
 154120,Mahindra Manulife Mutual Fund,Mahindra Manulife Innovation Opportunities Fund - Regular Plan - Growth,INF174V01CX8,,Open Ended Schemes,Equity Schemes - Thematic Fund
 154121,Mahindra Manulife Mutual Fund,Mahindra Manulife Innovation Opportunities Fund - Direct Plan - Growth,INF174V01DA4,,Open Ended Schemes,Equity Schemes - Thematic Fund
