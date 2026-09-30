@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "ICICI Prudential Mutual Fund",
-        "scheme_type": "IL&FS Mutual Fund",
-        "scheme_category": "IDF",
+        "fund_house": "IL&FS Mutual Fund (IDF)",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
         "scheme_code": 148397,
-        "scheme_name": "IL&FS Infrastructure Debt Fund Series 2A - Growth - Direct",
+        "scheme_name": "IL&FS Infrastructure Debt Fund Series 2A",
         "isin_growth": "INF613Q01140",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "30-09-2026",
+            "nav": "2004851.53470"
+        },
         {
             "date": "30-06-2026",
             "nav": "1979043.42560"
