@@ -32873,9 +32873,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 148388,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Direct Plan - IDCW,INF200KA1Q81,,Close Ended Schemes,Income
 148389,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Regular Plan - Growth,INF200KA1Q57,,Close Ended Schemes,Income
 148390,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Regular Plan - IDCW,INF200KA1Q65,,Close Ended Schemes,Income
-148397,ICICI Prudential Mutual Fund,IL&FS Infrastructure Debt Fund Series 2A - Growth - Direct,INF613Q01140,,IL&FS Mutual Fund,IDF
-148398,ICICI Prudential Mutual Fund,IL&FS Infrastructure Debt Fund Series 2B - Growth - Direct,INF613Q01157,,IL&FS Mutual Fund,IDF
-148399,ICICI Prudential Mutual Fund,IL&FS Infrastructure Debt Fund Series 2C - Growth - Direct,INF613Q01165,,IL&FS Mutual Fund,IDF
+148397,IL&FS Mutual Fund (IDF),IL&FS Infrastructure Debt Fund Series 2A,INF613Q01140,,Close Ended Schemes,Income
+148398,IL&FS Mutual Fund (IDF),IL&FS Infrastructure Debt Fund Series 2B,INF613Q01157,,Close Ended Schemes,Income
+148399,IL&FS Mutual Fund (IDF),IL&FS Infrastructure Debt Fund Series 2C,INF613Q01165,,Close Ended Schemes,Income
 148400,Mirae Asset Mutual Fund,Mirae Asset Arbitrage Fund - Regular Plan - Growth,INF769K01FP7,,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
 148401,Mirae Asset Mutual Fund,Mirae Asset Arbitrage Fund - Direct Plan - Growth,INF769K01FS1,,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
 148402,Mirae Asset Mutual Fund,Mirae Asset Arbitrage Fund - Direct Plan - IDCW,INF769K01FR3,INF769K01FT9,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
