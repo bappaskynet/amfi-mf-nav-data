@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Bank of India Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Medium to Long Duration Fund",
+        "scheme_category": "Hybrid Schemes - Conservative Hybrid Fund",
         "scheme_code": 111715,
         "scheme_name": "BANK OF INDIA CONSERVATIVE HYBRID FUND - Growth",
         "isin_growth": "INF761K01397",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "30-09-2026",
+            "nav": "36.29550"
+        },
         {
             "date": "29-09-2026",
             "nav": "36.34880"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Kotak Mahindra Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Index Funds",
+        "scheme_category": "Index Funds - Equity Funds",
         "scheme_code": 154147,
         "scheme_name": "Kotak Nifty200 Value 30 Index Fund - Regular Plan - IDCW",
         "isin_growth": "INF174KA1YT2",
         "isin_div_reinvestment": "INF174KA1YU0"
     },
     "data": [
+        {
+            "date": "30-09-2026",
+            "nav": "9.13200"
+        },
         {
             "date": "29-09-2026",
             "nav": "9.12700"

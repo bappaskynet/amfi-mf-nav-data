@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Bank of India Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Medium to Long Duration Fund",
+        "scheme_category": "Hybrid Schemes - Conservative Hybrid Fund",
         "scheme_code": 111716,
         "scheme_name": "BANK OF INDIA CONSERVATIVE HYBRID FUND - Regular Plan - Monthly IDCW",
         "isin_growth": "INF761K01488",
         "isin_div_reinvestment": "INF761K01470"
     },
     "data": [
+        {
+            "date": "30-09-2026",
+            "nav": "17.97380"
+        },
         {
             "date": "29-09-2026",
             "nav": "18.00040"
