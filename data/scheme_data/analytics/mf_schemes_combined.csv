@@ -435,7 +435,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 101950,SBI Mutual Fund,SBI GILT FUND,INF200K01AC2,INF200K01AD0,Open Ended Schemes,Debt Scheme - Gilt Fund
 101951,SBI Mutual Fund,SBI GILT FUND,INF200K01AF5,INF200K01AG3,Open Ended Schemes,Debt Scheme - Gilt Fund
 101952,SBI Mutual Fund,SBI GILT FUND,INF200K01AI9,INF200K01AJ7,Open Ended Schemes,Debt Scheme - Gilt Fund
-101972,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Money Market Fund,,INF209K01JZ5,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
 101973,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Money Market Fund,,INF209K01SZ6,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
 101974,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Money Market Fund,,INF209K01SY9,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
 101976,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Money Market Fund,INF209K01RV7,,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
@@ -972,9 +971,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 108249,Nippon India Mutual Fund,Nippon India Quant Fund,INF204K01760,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 108252,Nippon India Mutual Fund,Nippon India Quant Fund,INF204K01745,INF204K01752,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 108258,Nippon India Mutual Fund,Nippon India Quant Fund,INF204K01737,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-108272,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Banking & PSU Debt Fund,INF209K01LX6,INF209KA11Z3,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-108273,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Banking & PSU Debt Fund,INF209K01LV0,,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-108274,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Banking & PSU Debt Fund,INF209K01LN7,,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
+108272,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Banking & PSU Debt Fund,INF209K01LX6,INF209KA11Z3,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+108273,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Banking & PSU Debt Fund,INF209K01LV0,,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+108274,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Banking & PSU Debt Fund,INF209K01LN7,,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
 108377,Invesco Mutual Fund,Invesco India Financial Services Fund,INF205K01171,INF205K01163,Open Ended Schemes,Equity Schemes - Sectoral Fund
 108378,Invesco Mutual Fund,Invesco India Financial Services Fund,INF205K01155,,Open Ended Schemes,Equity Schemes - Sectoral Fund
 108402,Taurus Mutual Fund,Taurus ELSS Tax Saver Fund,INF044D01997,,Open Ended Schemes,Equity Scheme - ELSS
@@ -1109,7 +1108,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 110048,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund V - Monthly Interval Plan A,INF109K01OU8,,Open Ended Schemes,Income
 110203,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund - Quarterly Interval Plan - II,INF109K01LZ3,INF109K01LY6,Open Ended Schemes,Income
 110204,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund - Quarterly Interval Plan - II,INF109K01LX8,,Open Ended Schemes,Income
-110282,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Banking & PSU Debt Fund,INF209K01LU2,,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
+110282,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Banking & PSU Debt Fund,INF209K01LU2,,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
 110345,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund IV - Quarterly Interval Plan B,INF109K01OG7,,Open Ended Schemes,Income
 110346,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund IV - Quarterly Interval Plan B,INF109K01OB8,,Open Ended Schemes,Income
 110347,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund IV - Quarterly Interval Plan B,INF109K01OD4,INF109K01OE2,Open Ended Schemes,Income
@@ -1191,7 +1190,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 111752,Nippon India Mutual Fund,Nippon India Ultra Short to Short Term Fund,INF204K01ET0,INF204K01EU8,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 111753,Nippon India Mutual Fund,Nippon India Ultra Short to Short Term Fund,INF204K01EV6,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 111754,Nippon India Mutual Fund,Nippon India Ultra Short to Short Term Fund,INF204K01OO0,INF204K01EY0,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
-111777,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium to Long Term Fund,INF209K01LD8,,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund
 111786,DSP Mutual Fund,DSP Dynamic Term Fund,,INF740KA1PA5,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
 111787,Taurus Mutual Fund,Taurus Ethical Fund,INF044D01864,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 111788,Taurus Mutual Fund,Taurus Ethical Fund,INF044D01831,INF044D01849,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
@@ -1237,7 +1235,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 112005,ICICI Prudential Mutual Fund,ICICI Prudential Dynamic Bond Fund,INF109K01PK6,INF109K01IY2,Open Ended Schemes,Income
 112012,Edelweiss Mutual Fund,Edelweiss Aggressive Hybrid Fund,INF754K01160,,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
 112013,Edelweiss Mutual Fund,Edelweiss Aggressive Hybrid Fund,INF754K01137,INF754K01145,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
-112016,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Ultra Short Term Fund,INF209K01JT8,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
 112038,Quantum Mutual Fund,Quantum Diversified Equity All Cap Active FOF,INF082J01101,INF082J01119,Open Ended Schemes,Other Scheme - FoF Domestic
 112039,Quantum Mutual Fund,Quantum Diversified Equity All Cap Active FOF,INF082J01093,,Open Ended Schemes,Other Scheme - FoF Domestic
 112076,UTI Mutual Fund,UTI - Money Market Fund,,INF789F01PW0,Open Ended Schemes,Debt Scheme - Money Market Fund
@@ -2217,10 +2214,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 119544,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life ELSS Tax Saver Fund,INF209K01UN8,,Open Ended Schemes,Equity Scheme - ELSS
 119548,Sundaram Mutual Fund,Sundaram Value Fund,INF903J01NL7,INF903J01NM5,Open Ended Schemes,Equity Scheme - Value Fund
 119549,Sundaram Mutual Fund,Sundaram Value Fund,INF903J01NN3,,Open Ended Schemes,Equity Scheme - Value Fund
-119550,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Banking & PSU Debt Fund,INF209K01YN0,,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-119551,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Banking & PSU Debt Fund,INF209KA12Z1,INF209KA13Z9,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-119552,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Banking & PSU Debt Fund,INF209K01YM2,,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-119553,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Banking & PSU Debt Fund,INF209K01YO8,,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
+119550,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Banking & PSU Debt Fund,INF209K01YN0,,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+119551,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Banking & PSU Debt Fund,INF209KA12Z1,INF209KA13Z9,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+119552,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Banking & PSU Debt Fund,INF209K01YM2,,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+119553,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Banking & PSU Debt Fund,INF209K01YO8,,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
 119556,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Small Cap Fund,INF209K01WN4,,Open Ended Schemes,Equity Scheme - Small Cap Fund
 119557,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Small Cap Fund,INF209K01WM6,,Open Ended Schemes,Equity Scheme - Small Cap Fund
 119563,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Focused Fund,INF209K01Q71,INF209K01WF0,Open Ended Schemes,Equity Scheme - Focused Fund
@@ -14363,6 +14360,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154751,HDFC Mutual Fund,HDFC BSE REITS and Commercial Real Estate Index Fund,INF179KC1KY4,,Open Ended Schemes,Index Funds - Equity Funds
 154752,HDFC Mutual Fund,HDFC BSE REITS and Commercial Real Estate Index Fund,INF179KC1KU2,,Open Ended Schemes,Index Funds - Equity Funds
 154753,HDFC Mutual Fund,HDFC BSE REITS and Commercial Real Estate Index Fund,INF179KC1KX6,,Open Ended Schemes,Index Funds - Equity Funds
+154768,DSP Mutual Fund,DSP BSE Insurance ETF,INF740KA1ZR8,,Open Ended Schemes,Exchange Traded Funds
 100027,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Half Yearly Dividend,,,Open Ended Schemes,Income
 100028,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Quaterly Dividend,,,Open Ended Schemes,Income
 100029,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Growth,,,Open Ended Schemes,Income
@@ -14816,6 +14814,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 101969,Aditya Birla Sun Life Mutual Fund,Birla Sun Life Floating Rate - Long Term - Retail - Growth,,,Open Ended Schemes,Income
 101970,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Money Manager Fund - RETAIL - WEEKLY IDCW,,INF209K01JY8,Open Ended Schemes,Debt Scheme - Money Market Fund
 101971,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Money Manager Fund - Retail Growth,INF209K01MJ3,,Open Ended Schemes,Debt Scheme - Money Market Fund
+101972,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Money Manager Fund - Retail - Daily IDCW,,INF209K01JZ5,Open Ended Schemes,Debt Scheme - Money Market Fund
 101975,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Floating Rate Fund-Short Term Plan-Institutional Fortnightly Dividend,,,Open Ended Schemes,Income
 101977,HDFC Mutual Fund,HDFC Prudence Fund - Growth Option,,,Open Ended Schemes,Income
 101978,HDFC Mutual Fund,HDFC Prudence Fund - Dividend Option,,,Open Ended Schemes,Income
@@ -21634,6 +21633,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 111774,HDFC Mutual Fund,HDFC FMP 13M March 2009 (1) - RETAIL PLAN - QUARTERLY DIVIDEND OPTION,,,Close Ended Schemes,Income
 111775,UTI Mutual Fund,UTI-Fixed Term Income Fund Sr.V  Plan X  (12 Mts) - Dividend Option,,,Close Ended Schemes,Income
 111776,UTI Mutual Fund,UTI-Fixed Term Income Fund Sr.V  Plan X  (12 Mts)- Growth Option,,,Close Ended Schemes,Income
+111777,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Income Fund (Discipline Advantage Plan),,,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
 111778,Tata Mutual Fund,Tata Infrastructure Tax Saving Fund - Growth,,,Close Ended Schemes,ELSS
 111779,Tata Mutual Fund,Tata Infrastructure Tax Saving Fund - Dividend,,,Close Ended Schemes,ELSS
 111780,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Corporate Bond Fund - Discipline Advantage Plan,,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
@@ -21798,6 +21798,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 112011,Tata Mutual Fund,Tata Smart Investment Plan - 1 - Scheme B - Dividend,,,Close Ended Schemes,Income
 112014,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Liquid Fund- Discipline Advantage Plan,INF209K01KZ3,,Open Ended Schemes,Debt Scheme - Liquid Fund
 112015,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Treasury Optimizer Plan - Discipline Advantage Plan - Growth,,,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
+112016,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Savings Fund - Discipline Advantage Plan,INF209K01JT8,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
 112017,Mirae Asset Mutual Fund,Mirae Asset Short Term Bond Fund - Regular - Growth Option,,,Open Ended Schemes,Income
 112021,Mirae Asset Mutual Fund,Mirae Asset Short Term Bond Fund - Institutional - Growth Option,,,Open Ended Schemes,Income
 112024,Mirae Asset Mutual Fund,Mirae Asset Short Term Bond Fund - Institutional - Dividend Transfer Option,,,Open Ended Schemes,Income
@@ -34913,7 +34914,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 101865,Nippon Life India Asset Management Limited,Reliance Banking Fund-Dividend Plan-Divi Reinvestment Option,,,Open Ended,Equity Schemes - Sectoral Fund
 154611,Kotak Mahindra Asset Management Company Limited.,Kotak Money Market Fund - Regular - IDCW,INF174KA1F16,INF174KA1F32,Open Ended,Income/Debt Oriented Schemes - Money Market Fund
 101658,Franklin Templeton Asset Management (India) Private Limited,FT India Dynamic PE Ratio Fund of Funds-FT INDIA LIFE STAGE 20 (D),,,Open Ended,Other Scheme - FoF Domestic
-115839,Tata Asset Management Limited,Tata Ethical Fund - Dividend Deleted,,,Open Ended,Equity Scheme - Sectoral/ Thematic
+115839,Tata Asset Management Private Limited,Tata Ethical Fund - Dividend Deleted,,,Open Ended,Equity Scheme - Sectoral/ Thematic
 120701,ICICI Prudential Asset Management Company Limited,ICICI Prudential Very Aggressive - Direct Plan -  Dividend,INF109K01X24,INF109K01X32,Open Ended,Other Scheme - FoF Domestic
 102209,Nippon Life India Asset Management Limited,Reliance Fixed Term Scheme-V-Growth Plan-Growth Option,,,Close Ended,Growth
 102210,Nippon Life India Asset Management Limited,Reliance Fixed Term Scheme-V-Dividend Plan-Dividend,,,Close Ended,Growth
@@ -35019,7 +35020,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 104032,Kotak Mahindra Asset Management Company Limited.,Kotak FMP 6M Series 1,,,Close Ended,Income
 104033,Kotak Mahindra Asset Management Company Limited.,KOtak FMP 6M Series 1 - Dividend,,,Close Ended,Income
 104034,Kotak Mahindra Asset Management Company Limited.,Kotak FMP 6M Series 1 - Growth,,,Close Ended,Income
-104052,Tata Asset Management Limited,Scheme C - Div,,,Close Ended,Income
+104052,Tata Asset Management Private Limited,Scheme C - Div,,,Close Ended,Income
 117994,DSP Asset Managers Private Limited,DSP Ultra Short Term Fund - Regular Plan - IDCW - Reinvest,INF740K01ML3,,Open Ended,Income/Debt Oriented Schemes - Ultra Short Term Fund
 104788,Franklin Templeton Asset Management (India) Private Limited,Templeton Fixed Horizon Fund - Series I - Institutional Plan - Dividend,,,Close Ended,Income
 105004,Kotak Mahindra Asset Management Company Limited.,Kotak FMP 14M Series 1 Institutional Plan - Dividend,,,Close Ended,Income
@@ -35104,27 +35105,27 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 114225,Bandhan AMC Limited,DFC FMP - HYS - 12 (Plan A) - Dividend Option,,,Close Ended,Income
 114586,PGIM India Asset Management Private Limite,Pramerica Short Term Income Fund - Quarterly Dividend Option,,,Open Ended,Income
 114618,Nippon Life India Asset Management Limited,Reliance Gold Savings Fund-Dividend Plan-Dividend Reinvestment Option,,,Open Ended,Other Scheme - FoF Domestic
-114769,Tata Asset Management Limited,TFMP Series 31-Scheme B -Growth Option,,,Close Ended,Income
+114769,Tata Asset Management Private Limited,TFMP Series 31-Scheme B -Growth Option,,,Close Ended,Income
 115102,Navi AMC Limited,PPeerless MF Child Plan-Dividend Option-Monthly Dividendeerless MF Child Plan-Dividend Option-Monthly Dividend,,,Open Ended,Hybrid Scheme - Multi Asset Allocation
 114909,PGIM India Asset Management Private Limite,Pramerica Fixed Duration Fund - Series 1 - Dividend Option,,,Close Ended,Income
 115025,Taurus Asset Management Company Limited,Taurus Fixed Maturity Plan Series E (91 Days) - Growth Option,,,Close Ended,Income
 128948,Axis Asset Management Co. Ltd.,Axis Dynamic Bond Fund - Bonus Option,INF846K01NM4,,Open Ended,Income/Debt Oriented Schemes - Dynamic Term Fund
 128949,Axis Asset Management Co. Ltd.,Axis Dynamic Bond Fund - Direct Plan - Bonus Option,INF846K01NL6,,Open Ended,Income/Debt Oriented Schemes - Dynamic Term Fund
 130941,ICICI Prudential Asset Management Company Limited,ICICI Prudential Ultra Short Term Fund - Bonus,INF109KA1H77,,Open Ended,Debt Scheme - Ultra Short Duration Fund
-115153,Tata Asset Management Limited,TFMP Series  33 Scheme A- Periodic Dividend Payout Option,,,Close Ended,Income
-115276,Tata Asset Management Limited,test nav,,,Close Ended,Income
+115153,Tata Asset Management Private Limited,TFMP Series  33 Scheme A- Periodic Dividend Payout Option,,,Close Ended,Income
+115276,Tata Asset Management Private Limited,test nav,,,Close Ended,Income
 115338,PGIM India Asset Management Private Limite,Pramerica Treasury Advantage Fund - Fortnightly Dividend Option,,,Open Ended,Income
-115473,Tata Asset Management Limited,Test,,,Close Ended,Income
+115473,Tata Asset Management Private Limited,Test,,,Close Ended,Income
 115526,Baroda BNP Paribas Asset Management India Private Limited,Baroda Pioneer 90 Day Fixed Maturity Plan - Series 3 - Dividend Option,,,Close Ended,Income
 128956,Axis Asset Management Co. Ltd.,Axis Gilt Fund - Bonus Option,INF846K01NK8,,Open Ended,Income/Debt Oriented Schemes - Gilt Fund
 128959,Axis Asset Management Co. Ltd.,Axis Strategic Bond Fund - Direct Plan - Bonus Option,INF846K01NN2,,Open Ended,Income/Debt Oriented Schemes - Medium Term Fund
 117548,Baroda BNP Paribas Asset Management India Private Limited,Baroda BNP Paribas Banking and Financial Services Fund - Plan A - Dividend Re-investment Option,INF955L01849,,Open Ended,Equity Scheme - Sectoral/ Thematic
 119335,Baroda BNP Paribas Asset Management India Private Limited,Baroda BNP Paribas Banking and Financial Services Fund - Plan B (Direct) - Dividend Re-investment Option,INF955L01963,,Open Ended,Equity Scheme - Sectoral/ Thematic
 119254,DSP Asset Managers Private Limited,DSP US Specific Equity Omni FoF - Direct Plan - IDCW - Reinvest,,,Open Ended,Other Scheme - FoF Overseas
-149202,Tata Asset Management Limited,Tata Retirement Savings Fund-Progressive Plan-Direct-Growth,,,Open Ended,Solution Oriented Scheme - Retirement Fund
-149203,Tata Asset Management Limited,Tata Retirement Savings Fund-Progressive Plan-Regular-Growth,,,Open Ended,Solution Oriented Scheme - Retirement Fund
-153686,Tata Asset Management Limited,Tata Liquid Fund - Regular Plan - Weekly IDCW Payout,INF277KA1EC6,,Open Ended,Debt Scheme - Liquid Fund
-153687,Tata Asset Management Limited,Tata Liquid Fund - Direct Plan - Weekly IDCW Payout,INF277KA1ED4,,Open Ended,Debt Scheme - Liquid Fund
+149202,Tata Asset Management Private Limited,Tata Retirement Savings Fund-Progressive Plan-Direct-Growth,,,Open Ended,Solution Oriented Scheme - Retirement Fund
+149203,Tata Asset Management Private Limited,Tata Retirement Savings Fund-Progressive Plan-Regular-Growth,,,Open Ended,Solution Oriented Scheme - Retirement Fund
+153686,Tata Asset Management Private Limited,Tata Liquid Fund - Regular Plan - Weekly IDCW Payout,INF277KA1EC6,,Open Ended,Debt Scheme - Liquid Fund
+153687,Tata Asset Management Private Limited,Tata Liquid Fund - Direct Plan - Weekly IDCW Payout,INF277KA1ED4,,Open Ended,Debt Scheme - Liquid Fund
 121128,ICICI Prudential Asset Management Company Limited,ICICI Prudential Interval Fund - Series VI - Annual Interval Plan - A - Dividend,INF109K016G0,,Open Ended,Income
 121179,Nippon Life India Asset Management Limited,Reliance Yearly Interval Fund - Series 3 - Direct Plan - Dividend Plan - Dividend Option,INF204K01S41,INF204K01S58,Close Ended,Income
 121283,Bandhan AMC Limited,Bandhan Banking and PSU Debt Fund-Regular Plan- Default option,,,Open Ended,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
@@ -36536,12 +36537,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 152486,Nippon Life India Asset Management Limited,Nippon India Fixed Maturity Plan XLVI Series 2 - Direct Plan - IDCW Payout,INF204KC1CK9,,Close Ended,Income
 152487,Nippon Life India Asset Management Limited,Nippon India Fixed Maturity Plan XLVI Series 2 - Regular Plan - IDCW,INF204KC1CI3,,Close Ended,Income
 152488,Nippon Life India Asset Management Limited,Nippon India Fixed Maturity Plan XLVI Series 2 - Direct Plan - Growth,INF204KC1CJ1,,Close Ended,Income
-152499,Tata Asset Management Limited,Tata Fixed Maturity Plan Series 61 Scheme B (364 days) - Regular Plan Growth Option,INF277KA1AF7,,Close Ended,Income
-152500,Tata Asset Management Limited,Tata Fixed Maturity Plan Series 61 Scheme B (364 days) - Regular Plan IDCW Reinvestment Option,INF277KA1AG5,,Close Ended,Income
-152501,Tata Asset Management Limited,Tata Fixed Maturity Plan Series 61 Scheme B (364 days) - Direct Plan Growth Option,INF277KA1AI1,,Close Ended,Income
-152502,Tata Asset Management Limited,Tata Fixed Maturity Plan Series 61 Scheme B (364 days) - Direct Plan IDCW Payout Option,INF277KA1AK7,,Close Ended,Income
-152503,Tata Asset Management Limited,Tata Fixed Maturity Plan Series 61 Scheme B (364 days) - Regular Plan IDCW Payout Option,INF277KA1AH3,,Close Ended,Income
-152504,Tata Asset Management Limited,Tata Fixed Maturity Plan Series 61 Scheme B (364 days) - Direct Plan IDCW Reinvestment Option,INF277KA1AJ9,,Close Ended,Income
+152499,Tata Asset Management Private Limited,Tata Fixed Maturity Plan Series 61 Scheme B (364 days) - Regular Plan Growth Option,INF277KA1AF7,,Close Ended,Income
+152500,Tata Asset Management Private Limited,Tata Fixed Maturity Plan Series 61 Scheme B (364 days) - Regular Plan IDCW Reinvestment Option,INF277KA1AG5,,Close Ended,Income
+152501,Tata Asset Management Private Limited,Tata Fixed Maturity Plan Series 61 Scheme B (364 days) - Direct Plan Growth Option,INF277KA1AI1,,Close Ended,Income
+152502,Tata Asset Management Private Limited,Tata Fixed Maturity Plan Series 61 Scheme B (364 days) - Direct Plan IDCW Payout Option,INF277KA1AK7,,Close Ended,Income
+152503,Tata Asset Management Private Limited,Tata Fixed Maturity Plan Series 61 Scheme B (364 days) - Regular Plan IDCW Payout Option,INF277KA1AH3,,Close Ended,Income
+152504,Tata Asset Management Private Limited,Tata Fixed Maturity Plan Series 61 Scheme B (364 days) - Direct Plan IDCW Reinvestment Option,INF277KA1AJ9,,Close Ended,Income
 152505,Nippon Life India Asset Management Limited,Nippon India Fixed Maturity Plan XLVI Series 3 - Regular Plan - Growth,INF204KC1CL7,,Close Ended,Income
 152506,Nippon Life India Asset Management Limited,Nippon India Fixed Maturity Plan XLVI Series 3 - Direct Plan- Growth,INF204KC1CN3,,Close Ended,Income
 152507,Nippon Life India Asset Management Limited,Nippon India Fixed Maturity Plan XLVI Series 3 - Regular Plan -IDCW Payout,INF204KC1CM5,,Close Ended,Income
@@ -36567,10 +36568,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 152622,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Fixed Maturity Plan - Direct Plan- Growth Option,INF209KC1035,,Close Ended,Income
 152623,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Fixed Maturity Plan - Direct Plan- Payout of IDCW Option,INF209KC1043,,Close Ended,Income
 152624,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Fixed Maturity Plan - Regular Plan-Payout of IDCW Option,INF209KC1027,,Close Ended,Income
-152706,Tata Asset Management Limited,Tata Fixed Maturity Plan Series 61 Scheme C (91 days) - Direct Plan Growth Option,INF277KA1BX8,,Close Ended,Income
-152707,Tata Asset Management Limited,Tata Fixed Maturity Plan Series 61 Scheme C (91 days) - Regular Plan Growth Option,INF277KA1BV2,,Close Ended,Income
-152708,Tata Asset Management Limited,Tata Fixed Maturity Plan Series 61 Scheme C (91 days) - Regular Plan IDCW Payout Option,INF277KA1BW0,,Close Ended,Income
-152709,Tata Asset Management Limited,Tata Fixed Maturity Plan Series 61 Scheme C (91 days) - Direct Plan IDCW Payout Option,INF277KA1BY6,,Close Ended,Income
+152706,Tata Asset Management Private Limited,Tata Fixed Maturity Plan Series 61 Scheme C (91 days) - Direct Plan Growth Option,INF277KA1BX8,,Close Ended,Income
+152707,Tata Asset Management Private Limited,Tata Fixed Maturity Plan Series 61 Scheme C (91 days) - Regular Plan Growth Option,INF277KA1BV2,,Close Ended,Income
+152708,Tata Asset Management Private Limited,Tata Fixed Maturity Plan Series 61 Scheme C (91 days) - Regular Plan IDCW Payout Option,INF277KA1BW0,,Close Ended,Income
+152709,Tata Asset Management Private Limited,Tata Fixed Maturity Plan Series 61 Scheme C (91 days) - Direct Plan IDCW Payout Option,INF277KA1BY6,,Close Ended,Income
 153168,Baroda BNP Paribas Asset Management India Private Limited,Baroda BNP Paribas Children's Fund - Direct Plan - IDCW Option,INF251K01UF6,,Open Ended,Solution Oriented Scheme - Children s Fund
 153446,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Crisil-IBX Financial Services 9-12 Months Debt Index Fund-Regular IDCW Payout,INF209KC1522,,Open Ended,Other Scheme - Index Funds
 154071,Jio BlackRock Asset Management Private Limited,JioBlackRock Overnight Fund - Unclaimed Redemption - Above 3 years- Growth Option,,,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
@@ -36617,7 +36618,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154763,Motilal Oswal Asset Management Company Limited,Motilal Oswal Nifty REITs & Realty Index Fund - Regular,INF247L01HP8,,Open Ended,Index Funds - Equity Funds
 154764,Zerodha Asset Management Private Limited,Zerodha Nifty Next 100 ETF,INF0R8F01257,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154765,HDFC Asset Management Company Limited,HDFC FTSE India Equity ETF-Growth Option,INF179KC1LA2,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
-154768,DSP Asset Managers Private Limited,DSP BSE Insurance ETF,INF740KA1ZR8,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154769,WhiteOak Capital Asset Management Limited,WhiteOak Capital Diversified Equity Small Cap Active FOF Regular Plan Growth,INF03VN01AO0,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154770,WhiteOak Capital Asset Management Limited,WhiteOak Capital Diversified Equity Small Cap Active FOF Direct Plan Growth,INF03VN01AN2,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154771,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life BSE Total Market Index Fund - Direct Plan - Growth Option,INF209KC1753,,Open Ended,Index Funds - Equity Funds
@@ -36639,7 +36639,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154787,Carnelian Investment Managers Private Limited,Carnelian Small Cap Fund - Direct Plan - Growth,INF30CN01095,,Open Ended,Equity Schemes - Small Cap Fund
 154789,Nippon Life India Asset Management Limited,Nippon India CRISIL -IBX FAR Gilt ETF,,,Open Ended,Exchange Traded Funds (ETFs) - Other ETF
 154790,HDFC Asset Management Company Limited,HDFC Nifty LargeMidcap250 Plus 8-13 yr G-Sec 70 30 Index Fund-Direct Plan-IDCW Option,INF179KC1LC8,,Open Ended,Index Funds - Hybrid Fund
-154791,HDFC Asset Management Company Limited,HDFC Nifty LargeMidcap250 Plus 8-13 yr G-Sec 70 30 Index Fund-IDCW Option,,,Open Ended,Index Funds - Hybrid Fund
+154791,HDFC Asset Management Company Limited,HDFC Nifty LargeMidcap250 Plus 8-13 yr G-Sec 70 30 Index Fund-IDCW Option,INF179KC1LF1,,Open Ended,Index Funds - Hybrid Fund
 154792,HDFC Asset Management Company Limited,HDFC Nifty LargeMidcap250 Plus 8-13 yr G-Sec 70 30 Index Fund-Growth Option,INF179KC1LE4,,Open Ended,Index Funds - Hybrid Fund
 154793,HDFC Asset Management Company Limited,HDFC Nifty LargeMidcap250 Plus 8-13 yr G-Sec 70 30 Index Fund-Direct Plan-Growth Option,INF179KC1LB0,,Open Ended,Index Funds - Hybrid Fund
 154794,Motilal Oswal Asset Management Company Limited,Motilal Oswal Nifty Midcap150 Plus 8-13 yr G-Sec 70 30 Index Fund - Regular Growth,INF247L01HR4,,Open Ended,Index Funds - Hybrid Fund
@@ -36650,3 +36650,4 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154801,Kotak Mahindra Asset Management Company Limited.,Kotak Nifty 500 Index Fund - Direct Plan - IDCW Payout & Reinvestment,INF174KA1G72,INF174KA1G80,Open Ended,Index Funds - Equity Funds
 154802,Jio BlackRock Asset Management Private Limited,JioBlackRock Income Plus Arbitrage Omni FOF - Direct Plan - Growth Option,INF22M001382,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154803,Jio BlackRock Asset Management Private Limited,JioBlackRock Income Plus Arbitrage Omni FOF - Regular Plan - Growth Option,INF22M001390,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154804,ICICI Prudential Asset Management Company Limited,ICICI Prudential Nifty Pharma ETF,,,Open Ended,Exchange Traded Funds (ETFs) - Other ETF
