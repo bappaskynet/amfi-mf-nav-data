@@ -3,12 +3,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 100034,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Large & Mid Cap Fund,INF209K01157,INF209K01CE5,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
 100037,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium to Long Term Fund,INF209K01587,INF209K01CY3,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund
 100038,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium to Long Term Fund,INF209K01579,,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund
-100041,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Liquid Fund,,INF209K01KN9,Open Ended Schemes,Debt Scheme - Liquid Fund
-100044,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Liquid Fund,,INF209K01KP4,Open Ended Schemes,Debt Scheme - Liquid Fund
-100046,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Liquid Fund,INF209K01KQ2,INF209K01SQ5,Open Ended Schemes,Debt Scheme - Liquid Fund
-100047,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Liquid Fund,INF209K01RU9,,Open Ended Schemes,Debt Scheme - Liquid Fund
-100048,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Liquid Fund,INF209KA1LK7,INF209K01KY6,Open Ended Schemes,Debt Scheme - Liquid Fund
-100051,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Liquid Fund,INF209K01KU4,INF209KA1LJ9,Open Ended Schemes,Debt Scheme - Liquid Fund
+100046,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Liquid Fund,INF209K01KQ2,INF209K01SQ5,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+100047,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Liquid Fund,INF209K01RU9,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+100051,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Liquid Fund,INF209K01KU4,INF209KA1LJ9,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 100057,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Gilt Fund,INF209K01AF6,INF209K01DP9,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
 100058,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Gilt Fund,INF209K01AC3,INF209K01AD1,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
 100063,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life MNC Fund,INF209K01314,INF209K01CL0,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
@@ -692,7 +689,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 103820,DSP Mutual Fund,DSP Large & Mid Cap Fund,INF740K01078,INF740K01086,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
 103883,SBI Mutual Fund,SBI ELSS Tax Saver Fund,INF200K01479,,Open Ended Schemes,Equity Scheme - ELSS
 103884,SBI Mutual Fund,SBI ULTRA SHORT TERM FUND,INF200K01LM8,INF200K01LL0,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
-103885,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Liquid Fund,INF209KA1LI1,,Open Ended Schemes,Debt Scheme - Liquid Fund
+103885,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Liquid Fund,INF209KA1LI1,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 104074,UTI Mutual Fund,UTI - Arbitrage Fund,INF789FB1RH4,INF789FB1RI2,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
 104075,UTI Mutual Fund,UTI - Arbitrage Fund,INF789FB1RJ0,,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
 104138,DSP Mutual Fund,DSP Ultra Short Term Fund,INF740K01QQ3,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
@@ -915,8 +912,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 106871,LIC Mutual Fund,LIC MF Large Cap Fund,INF767K01105,,Open Ended Schemes,Equity Scheme - Large Cap Fund
 106872,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life International Equity Fund,INF209K01512,INF209K01CV9,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 106873,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life International Equity Fund,INF209K01520,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-106875,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life International Equity Fund Plan B,INF209K01538,INF209K01CW7,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-106876,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life International Equity Fund Plan B,INF209K01546,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 106885,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund II - Quarterly Interval Plan - B,INF109K01MW8,,Open Ended Schemes,Income
 106886,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund II - Quarterly Interval Plan - B,INF109K01MV0,,Open Ended Schemes,Income
 106929,Kotak Mahindra Mutual Fund,Kotak Nifty PSU Bank ETF,INF174KA1A86,,Open Ended Schemes,Exchange Traded Funds
@@ -1139,8 +1134,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 111316,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund II - Quarterly Interval Plan - B,INF109K01MZ1,,Open Ended Schemes,Income
 111317,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund II - Quarterly Interval Plan - B,INF109K01NB0,INF109K01NA2,Open Ended Schemes,Income
 111343,Bandhan Mutual Fund,Bandhan 10  year Constant Maturity Gilt Fund,INF194K01FI3,INF194K01FH5,Open Ended Schemes,Income/Debt Oriented Schemes - 10-year Constant Maturity Gilt Fund
-111348,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Commodity Equities Fund - Global Agri Plan,INF209K01199,INF209K01CG0,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-111349,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Commodity Equities Fund - Global Agri Plan,INF209K01207,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 111405,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund - Quarterly Interval Plan - I,INF109K01LP4,,Open Ended Schemes,Income
 111406,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund - Quarterly Interval Plan - I,INF109K01LR0,INF109K01LQ2,Open Ended Schemes,Income
 111521,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Dynamic Term Fund,INF209K01801,INF209K01DG8,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
@@ -2207,8 +2200,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 119515,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Infrastructure Fund,INF209K01WG8,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 119516,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life International Equity Fund,INF209K01Q89,INF209K01WT1,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 119517,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life International Equity Fund,INF209K01WS3,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-119518,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life International Equity Fund Plan B,INF209K01WU9,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-119519,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life International Equity Fund Plan B,INF209K01Q97,INF209K01WV7,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 119522,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Ultra short to short term Fund,,INF209K01XV5,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 119523,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Ultra short to short term Fund,INF209K01XU7,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 119524,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Ultra short to short term Fund,INF209K01XW3,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
@@ -2237,13 +2228,11 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 119565,Sundaram Mutual Fund,Sundaram Large and Midcap Fund,INF903J01PP3,INF903J01PQ1,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
 119566,Sundaram Mutual Fund,Sundaram Large and Midcap Fund,INF903J01PR9,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
 119567,SBI Mutual Fund,SBI Arbitrage Fund,INF200K01QS4,INF200K01QT2,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
-119568,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Liquid Fund,INF209K01VA3,,Open Ended Schemes,Debt Scheme - Liquid Fund
-119569,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Liquid Fund,INF209K01UZ2,,Open Ended Schemes,Debt Scheme - Liquid Fund
-119570,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Liquid Fund,INF209K01VC9,,Open Ended Schemes,Debt Scheme - Liquid Fund
-119571,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Liquid Fund,INF209K01VD7,,Open Ended Schemes,Debt Scheme - Liquid Fund
+119568,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Liquid Fund,INF209K01VA3,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+119569,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Liquid Fund,INF209K01UZ2,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+119570,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Liquid Fund,INF209K01VC9,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+119571,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Liquid Fund,INF209K01VD7,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 119574,SBI Mutual Fund,SBI Arbitrage Fund,INF200K01QU0,,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
-119575,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Commodity Equities Fund - Global Agri Plan,INF209K01P64,INF209K01VM8,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-119576,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Commodity Equities Fund - Global Agri Plan,INF209K01VL0,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 119581,Sundaram Mutual Fund,Sundaram Mid Cap Fund,INF903J01MJ3,,Open Ended Schemes,Equity Scheme - Mid Cap Fund
 119582,Sundaram Mutual Fund,Sundaram Mid Cap Fund,INF903J01MH7,INF903J01MI5,Open Ended Schemes,Equity Scheme - Mid Cap Fund
 119585,SBI Mutual Fund,SBI Large Cap Fund,INF200K01QV8,INF200K01QW6,Open Ended Schemes,Equity Scheme - Large Cap Fund
@@ -11087,10 +11076,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 150660,LIC Mutual Fund,LIC MF Multi Cap Fund,INF767K01RL5,INF767K01RM3,Open Ended Schemes,Equity Scheme - Multi Cap Fund
 150661,LIC Mutual Fund,LIC MF Multi Cap Fund,INF767K01RH3,,Open Ended Schemes,Equity Scheme - Multi Cap Fund
 150662,LIC Mutual Fund,LIC MF Multi Cap Fund,INF767K01RI1,INF767K01RJ9,Open Ended Schemes,Equity Scheme - Multi Cap Fund
-150663,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty SDL SEP 2025 Index Fund,INF209KB10M1,,Open Ended Schemes,Other Scheme - Index Funds
-150664,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty SDL SEP 2025 Index Fund,INF209KB11M9,,Open Ended Schemes,Other Scheme - Index Funds
-150665,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty SDL SEP 2025 Index Fund,INF209KB18L6,,Open Ended Schemes,Other Scheme - Index Funds
-150667,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty SDL SEP 2025 Index Fund,INF209KB19L4,,Open Ended Schemes,Other Scheme - Index Funds
 150671,Edelweiss Mutual Fund,Edelweiss CRISIL IBX 50:50 Gilt Plus SDL April 2037 Index Fund,INF754K01PF9,,Open Ended Schemes,Other Scheme - Index Funds
 150672,SBI Mutual Fund,SBI Nifty Midcap 150 Index Fund,INF200KA17O3,,Open Ended Schemes,Other Scheme - Index Funds
 150673,SBI Mutual Fund,SBI Nifty Midcap 150 Index Fund,INF200KA10P5,,Open Ended Schemes,Other Scheme - Index Funds
@@ -11118,10 +11103,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 150695,Tata Mutual Fund,TATA CRISIL-IBX GILT INDEX - APRIL 2026 INDEX FUND,INF277KA1604,,Open Ended Schemes,Other Scheme - Index Funds
 150696,Tata Mutual Fund,TATA CRISIL-IBX GILT INDEX - APRIL 2026 INDEX FUND,,INF277KA1596,Open Ended Schemes,Other Scheme - Index Funds
 150697,Tata Mutual Fund,TATA CRISIL-IBX GILT INDEX - APRIL 2026 INDEX FUND,,INF277KA1562,Open Ended Schemes,Other Scheme - Index Funds
-150698,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil IBX Gilt-April 2026 Index Fund,INF209KB10N9,,Open Ended Schemes,Other Scheme - Index Funds
-150699,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil IBX Gilt-April 2026 Index Fund,INF209KB11N7,,Open Ended Schemes,Other Scheme - Index Funds
-150700,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil IBX Gilt-April 2026 Index Fund,INF209KB19M2,,Open Ended Schemes,Other Scheme - Index Funds
-150701,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil IBX Gilt-April 2026 Index Fund,INF209KB18M4,,Open Ended Schemes,Other Scheme - Index Funds
 150702,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund,INF209KB14N1,,Open Ended Schemes,Other Scheme - Index Funds
 150703,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund,INF209KB12N5,,Open Ended Schemes,Other Scheme - Index Funds
 150704,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund,INF209KB15N8,,Open Ended Schemes,Other Scheme - Index Funds
@@ -11297,10 +11278,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 150929,ICICI Prudential Mutual Fund,ICICI Prudential Nifty Pharma Index Fund,INF109KC18L6,,Open Ended Schemes,Other Scheme - Index Funds
 150930,ICICI Prudential Mutual Fund,ICICI Prudential Nifty Pharma Index Fund,INF109KC11M9,,Open Ended Schemes,Other Scheme - Index Funds
 150931,ICICI Prudential Mutual Fund,ICICI Prudential Nifty Pharma Index Fund,INF109KC19L4,INF109KC10M1,Open Ended Schemes,Other Scheme - Index Funds
-150936,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil IBX 60:40 SDL+ AAA PSU APR 2026 Index Fund,INF209KB18O0,,Open Ended Schemes,Other Scheme - Index Funds
-150937,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil IBX 60:40 SDL+ AAA PSU APR 2026 Index Fund,INF209KB19O8,,Open Ended Schemes,Other Scheme - Index Funds
-150938,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil IBX 60:40 SDL+ AAA PSU APR 2026 Index Fund,INF209KB10P4,,Open Ended Schemes,Other Scheme - Index Funds
-150939,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil IBX 60:40 SDL+ AAA PSU APR 2026 Index Fund,INF209KB11P2,,Open Ended Schemes,Other Scheme - Index Funds
 150944,Kotak Mahindra Mutual Fund,Kotak FMP Series 299,INF174KA1KQ7,,Close Ended Schemes,Income
 150945,Kotak Mahindra Mutual Fund,Kotak FMP Series 299,INF174KA1KR5,,Close Ended Schemes,Income
 150947,Kotak Mahindra Mutual Fund,Kotak FMP Series 299,INF174KA1KS3,,Close Ended Schemes,Income
@@ -11465,9 +11442,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 151183,HDFC Mutual Fund,HDFC Nifty G-Sec Sep 2032 Index Fund,INF179KC1EL4,,Open Ended Schemes,Other Scheme - Index Funds
 151184,UTI Mutual Fund,UTI CRISIL SDL Maturity April 2033 Index Fund,INF789F1AWW5,,Open Ended Schemes,Index Funds - Debt Funds
 151185,UTI Mutual Fund,UTI CRISIL SDL Maturity April 2033 Index Fund,INF789F1AWX3,,Open Ended Schemes,Index Funds - Debt Funds
-151186,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series UB (1224 days),INF209KB18P7,,Close Ended Schemes,Income
-151188,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series UB (1224 days),INF209KB16P1,,Close Ended Schemes,Income
-151189,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series UB (1224 days),INF209KB17P9,,Close Ended Schemes,Income
 151190,quant Mutual Fund,quant Overnight Fund,INF966L01AZ7,,Open Ended Schemes,Debt Scheme - Overnight Fund
 151191,quant Mutual Fund,quant Overnight Fund,INF966L01BD2,INF966L01BE0,Open Ended Schemes,Debt Scheme - Overnight Fund
 151193,quant Mutual Fund,quant Overnight Fund,INF966L01BA8,INF966L01BB6,Open Ended Schemes,Debt Scheme - Overnight Fund
@@ -11689,10 +11663,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 151508,Kotak Mahindra Mutual Fund,Kotak FMP Series 307,INF174KA1MP5,,Close Ended Schemes,Income
 151509,Kotak Mahindra Mutual Fund,Kotak FMP Series 307,INF174KA1MN0,,Close Ended Schemes,Income
 151510,Kotak Mahindra Mutual Fund,Kotak FMP Series 307,INF174KA1MO8,,Close Ended Schemes,Income
-151519,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series UF (180 days),INF209KB18S1,,Close Ended Schemes,Income
-151520,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series UF (180 days),INF209KB17S3,,Close Ended Schemes,Income
-151521,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series UF (180 days),INF209KB16S5,,Close Ended Schemes,Income
-151522,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series UF (180 days),INF209KB19S9,,Close Ended Schemes,Income
 151523,UTI Mutual Fund,UTI Long Term Fund,INF789F1AYB5,,Open Ended Schemes,Income/Debt Oriented Schemes - Long Term Fund
 151524,UTI Mutual Fund,UTI Long Term Fund,INF789F1AYC3,INF789F1AYD1,Open Ended Schemes,Income/Debt Oriented Schemes - Long Term Fund
 151525,UTI Mutual Fund,UTI Long Term Fund,INF789F1AYG4,INF789F1AYH2,Open Ended Schemes,Income/Debt Oriented Schemes - Long Term Fund
@@ -11783,10 +11753,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 151693,Mirae Asset Mutual Fund,Mirae Asset Nifty SDL June 2028 Index Fund,INF769K01JV7,INF769K01JX3,Open Ended Schemes,Index Funds - Debt Funds
 151694,Mirae Asset Mutual Fund,Mirae Asset Nifty SDL June 2028 Index Fund,INF769K01JW5,,Open Ended Schemes,Index Funds - Debt Funds
 151695,Mirae Asset Mutual Fund,Mirae Asset Nifty 8-13 yr G-Sec ETF,INF769K01KF8,,Open Ended Schemes,Exchange Traded Funds
-151700,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series UJ (1110 days),INF209KB13V6,,Close Ended Schemes,Income
-151701,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series UJ (1110 days),INF209KB12V8,,Close Ended Schemes,Income
-151702,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series UJ (1110 days),INF209KB14V4,,Close Ended Schemes,Income
-151703,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series UJ (1110 days),INF209KB11V0,,Close Ended Schemes,Income
 151708,Nippon India Mutual Fund,Nippon India Fixed Maturity Plan - XLV - Series 5,INF204KC1BJ3,,Close Ended Schemes,Income
 151710,Nippon India Mutual Fund,Nippon India Fixed Maturity Plan - XLV - Series 5,INF204KC1BH7,,Close Ended Schemes,Income
 151711,Nippon India Mutual Fund,Nippon India Fixed Maturity Plan - XLV - Series 5,INF204KC1BI5,,Close Ended Schemes,Income
@@ -12199,19 +12165,11 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 152247,Kotak Mahindra Mutual Fund,Kotak FMP Series 325,INF174KA1QH3,,Close Ended Schemes,Income
 152248,Kotak Mahindra Mutual Fund,Kotak FMP Series 325,INF174KA1QJ9,,Close Ended Schemes,Income
 152249,Kotak Mahindra Mutual Fund,Kotak FMP Series 325,INF174KA1QI1,,Close Ended Schemes,Income
-152250,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan - Series UQ (92 days),INF209KB11Y4,,Close Ended Schemes,Income
-152251,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan - Series UQ (92 days),INF209KB12Y2,,Close Ended Schemes,Income
-152252,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan - Series UQ (92 days),INF209KB10Y6,,Close Ended Schemes,Income
-152253,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan - Series UQ (92 days),INF209KB19X9,,Close Ended Schemes,Income
 152254,Groww Mutual Fund,Groww Banking & Financial Services Fund,INF666M01HS1,,Open Ended Schemes,Equity Schemes - Sectoral Fund
 152255,quant Mutual Fund,quant Commodities Fund,INF966L01DF3,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 152256,quant Mutual Fund,quant Commodities Fund,INF966L01DC0,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 152257,quant Mutual Fund,quant Commodities Fund,INF966L01DG1,INF966L01DH9,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 152258,quant Mutual Fund,quant Commodities Fund,INF966L01DD8,INF966L01DE6,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-152259,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan - Series UR (85 days),INF209KB15Y5,,Close Ended Schemes,Income
-152260,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan - Series UR (85 days),INF209KB13Y0,,Close Ended Schemes,Income
-152261,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan - Series UR (85 days),INF209KB14Y8,,Close Ended Schemes,Income
-152262,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan - Series UR (85 days),INF209KB16Y3,,Close Ended Schemes,Income
 152263,Bandhan Mutual Fund,BANDHAN Nifty Smallcap 250 Index Fund,INF194KB1HH7,INF194KB1HI5,Open Ended Schemes,Other Scheme - Index Funds
 152264,Bandhan Mutual Fund,BANDHAN Nifty Smallcap 250 Index Fund,INF194KB1HG9,,Open Ended Schemes,Other Scheme - Index Funds
 152265,Bandhan Mutual Fund,BANDHAN Nifty Smallcap 250 Index Fund,INF194KB1HE4,INF194KB1HF1,Open Ended Schemes,Other Scheme - Index Funds
@@ -12267,10 +12225,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 152329,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Nifty 50 Index Fund,INF251K01SY1,,Open Ended Schemes,Other Scheme - Index Funds
 152330,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Nifty 50 Index Fund,INF251K01SZ8,INF251K01TA9,Open Ended Schemes,Other Scheme - Index Funds
 152331,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Nifty 50 Index Fund,INF251K01SV7,,Open Ended Schemes,Other Scheme - Index Funds
-152332,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan - Series US (100 days),INF209KB13Z7,,Close Ended Schemes,Income
-152333,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan - Series US (100 days),INF209KB14Z5,,Close Ended Schemes,Income
-152334,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan - Series US (100 days),INF209KB11Z1,,Close Ended Schemes,Income
-152335,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan - Series US (100 days),INF209KB12Z9,,Close Ended Schemes,Income
 152336,quant Mutual Fund,quant Consumption Fund,INF966L01DN7,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 152337,quant Mutual Fund,quant Consumption Fund,INF966L01DL1,INF966L01DM9,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 152338,quant Mutual Fund,quant Consumption Fund,INF966L01DI7,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
@@ -14392,6 +14346,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154721,Mirae Asset Mutual Fund,Mirae Asset BSE Information Technology Index Fund,INF769K01RQ0,INF769K01RP2,Open Ended Schemes,Index Funds - Equity Funds
 154722,Mirae Asset Mutual Fund,Mirae Asset BSE Information Technology Index Fund,INF769K01RL1,,Open Ended Schemes,Index Funds - Equity Funds
 154723,Mirae Asset Mutual Fund,Mirae Asset BSE Information Technology Index Fund,INF769K01RN7,INF769K01RM9,Open Ended Schemes,Index Funds - Equity Funds
+154724,Shriram Mutual Fund,Shriram Gold ETF Passive FOF,INF680P01661,,Open Ended Schemes,Fund of Funds Scheme
+154726,Shriram Mutual Fund,Shriram Gold ETF Passive FOF,,INF680P01695,Open Ended Schemes,Fund of Funds Scheme
+154727,Shriram Mutual Fund,Shriram Gold ETF Passive FOF,INF680P01653,,Open Ended Schemes,Fund of Funds Scheme
+154728,Shriram Mutual Fund,Shriram Gold ETF Passive FOF,,INF680P01703,Open Ended Schemes,Fund of Funds Scheme
 154734,Helios Mutual Fund,Helios Balanced Advantage Fund,INF0R8701491,INF0R8701509,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 154736,Lakshya Mutual Fund,LAKSHYA OVERNIGHT FUND,INF2ZPR01014,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 154737,Lakshya Mutual Fund,LAKSHYA OVERNIGHT FUND,INF2ZPR01022,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
@@ -14413,8 +14371,11 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 100032,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF - ST-Growth,,,Open Ended Schemes,Income
 100035,Aditya Birla Sun Life Mutual Fund,Birla Sun Life Freedom Fund-Plan A (Dividend),,,Open Ended Schemes,Income
 100036,Aditya Birla Sun Life Mutual Fund,Birla Sun Life Freedom Fund-Plan B (Growth),,,Open Ended Schemes,Income
+100041,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Liquid Fund -Institutional - IDCW,,INF209K01KN9,Open Ended Schemes,Debt Scheme - Liquid Fund
 100042,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Liquid Fund-Retail (Growth),INF209K01ME4,,Open Ended Schemes,Debt Scheme - Liquid Fund
 100043,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Liquid Fund-Institutional (Growth),INF209K01RT1,,Open Ended Schemes,Debt Scheme - Liquid Fund
+100044,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Liquid Fund -Retail - IDCW,,INF209K01KP4,Open Ended Schemes,Debt Scheme - Liquid Fund
+100048,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Liquid Fund -Institutional - weekly  IDCW,INF209KA1LK7,INF209K01KY6,Open Ended Schemes,Debt Scheme - Liquid Fund
 100049,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Cash Plus-Institutional - Fortnightly Dividend,,,Open Ended Schemes,Income
 100052,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Cash Plus-Institutional Premium - Fortnightly Dividend,,,Open Ended Schemes,Income
 100053,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Cash Plus-Institutional Premium Plan-Monthly Dividend,,,Open Ended Schemes,Income
@@ -34665,10 +34626,18 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 150565,Shriram Mutual Fund,Shriram Overnight Fund - Regular Growth,INF680P01232,,Open Ended Schemes,Debt Scheme - Overnight Fund
 150566,Shriram Mutual Fund,Shriram Overnight Fund -  Regular Fortnightly IDCW,,,Open Ended Schemes,Debt Scheme - Overnight Fund
 150567,Shriram Mutual Fund,Shriram Overnight Fund - Direct Monthly IDCW,INF680P01380,INF680P01398,Open Ended Schemes,Debt Scheme - Overnight Fund
+150663,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty SDL Sep 2025 Index Fund-Direct Growth,INF209KB10M1,,Open Ended Schemes,Other Scheme - Index Funds
+150664,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty SDL Sep 2025 Index Fund-Direct IDCW,INF209KB11M9,,Open Ended Schemes,Other Scheme - Index Funds
+150665,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty SDL SEP 2025 Index Fund-Regular Growth,INF209KB18L6,,Open Ended Schemes,Other Scheme - Index Funds
 150666,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series TX (91 days) - Direct Plan - Growth Option,,,Close Ended Schemes,Income
+150667,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty SDL Sep 2025 Index Fund-Regular IDCW,INF209KB19L4,,Open Ended Schemes,Other Scheme - Index Funds
 150668,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series TX (91 days) - Direct Plan - Payout of IDCW Option,,,Close Ended Schemes,Income
 150669,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series TX (91 days) - Regular Plan - Growth Option,,,Close Ended Schemes,Income
 150670,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series TX (91 days) - Regular Plan - Payout of IDCW Option,,,Close Ended Schemes,Income
+150698,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil IBX Gilt-April 2026 Index Fund-Direct Growth,INF209KB10N9,,Open Ended Schemes,Other Scheme - Index Funds
+150699,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil IBX Gilt- April 2026 Index Fund-Direct IDCW,INF209KB11N7,,Open Ended Schemes,Other Scheme - Index Funds
+150700,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil IBX Gilt-April 2026 Index Fund-Regular IDCW,INF209KB19M2,,Open Ended Schemes,Other Scheme - Index Funds
+150701,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil IBX Gilt-April 2026 Index Fund-Regular Growth,INF209KB18M4,,Open Ended Schemes,Other Scheme - Index Funds
 150773,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series TY (76 days) - Direct Plan - Growth Option,,,Close Ended Schemes,Income
 150774,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series TY (76 Days) - Direct Plan - Payout of IDCW Option,,,Close Ended Schemes,Income
 150775,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series TY (76 Days) - Regular Plan - Growth Option,,,Close Ended Schemes,Income
@@ -34680,6 +34649,13 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 150875,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series TZ (90 days) - Direct Plan - Growth Option,,,Close Ended Schemes,Income
 150876,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series TZ (90 days)- Direct Plan - Payout of IDCW Option,,,Close Ended Schemes,Income
 150877,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series TZ (90 days) - Regular Plan -Growth Option,,,Close Ended Schemes,Income
+150936,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil IBX 60:40 SDL+AAA PSU APR 2026 Index Fund-Regular Growth,INF209KB18O0,,Open Ended Schemes,Other Scheme - Index Funds
+150937,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil IBX 60:40 SDL+AAA PSU APR 2026 Index Fund-Regular IDCW Payout,INF209KB19O8,,Open Ended Schemes,Other Scheme - Index Funds
+150938,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil IBX 60:40 SDL + AAA PSU APR 2026 Index Fund-Direct Growth,INF209KB10P4,,Open Ended Schemes,Other Scheme - Index Funds
+150939,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil IBX 60:40 SDL+ AAA PSU APR 2026 Index Fund-Direct IDCW Payout,INF209KB11P2,,Open Ended Schemes,Other Scheme - Index Funds
+151186,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series UB (1224 days) - Direct Plan Growth Option,INF209KB18P7,,Close Ended Schemes,Income
+151188,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series UB (1224 days)- Regular Plan - Growth Option,INF209KB16P1,,Close Ended Schemes,Income
+151189,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series UB (1224 days) - Regular Plan - Payout of IDCW Option,INF209KB17P9,,Close Ended Schemes,Income
 151240,DSP Mutual Fund,DSP FMP Series - 269 - 160 Days - Regular IDCW,,,Close Ended Schemes,Income
 151241,DSP Mutual Fund,DSP FMP Series - 269 - 160 Days - Direct IDCW,,,Close Ended Schemes,Income
 151242,DSP Mutual Fund,DSP FMP Series - 269 - 160 Days - Regular Growth,,,Close Ended Schemes,Income
@@ -34692,6 +34668,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 151503,Axis Mutual Fund,Axis Fixed Term Plan - Series 112 (1143 Days) - Regular Plan - Quarterly IDCW Payout,INF846K012P8,,Close Ended Schemes,Income
 151504,Axis Mutual Fund,Axis Fixed Term Plan - Series 112 (1143 Days) - Regular Plan -  Half Yearly IDCW Payout,INF846K013P6,,Close Ended Schemes,Income
 151506,Axis Mutual Fund,Axis Fixed Term Plan - Series 112 (1143 Days) - Regular  Plan - Growth,INF846K011P0,,Close Ended Schemes,Income
+151519,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series UF (180 days) - Direct Plan - Growth Option,,,Close Ended Schemes,Income
+151520,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series UF (180 days) - Regular Plan - Payout of IDCW Option,,,Close Ended Schemes,Income
+151521,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series UF (180 days) - Regular Plan - Growth Option,,,Close Ended Schemes,Income
+151522,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series UF (180 days) - Direct Plan - Payout of IDCW Option,,,Close Ended Schemes,Income
 151550,Motilal Oswal Mutual Fund,Motilal Oswal Nifty G-sec May 2029 Index Fund-  Regualr Plan Growth ption,,,Open Ended Schemes,Other Scheme - Index Funds
 151551,Motilal Oswal Mutual Fund,Motilal Oswal Nifty G-sec May 2029 Index Fund- Direct Plan Growth Option,,,Open Ended Schemes,Other Scheme - Index Funds
 151605,Kotak Mahindra Mutual Fund,Kotak Nifty SDL Jul 2028 Index Fund - Regular Plan - IDCW Payout,,,Open Ended Schemes,Other Scheme - Index Funds
@@ -34702,6 +34682,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 151626,Axis Mutual Fund,Axis Fixed Term Plan - Series 114 (83 Days) - Regular Plan - Quarterly IDCW,,,Close Ended Schemes,Income
 151627,Axis Mutual Fund,Axis Fixed Term Plan - Series 114 (83 Days) - Regular Plan - Growth,,,Close Ended Schemes,Income
 151628,Axis Mutual Fund,Axis Fixed Term Plan - Series 114 (83 Days) - Direct Plan - Quarterly IDCW,,,Close Ended Schemes,Income
+151700,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series UJ (1110 days) - Direct Plan - Growth Option,INF209KB13V6,,Close Ended Schemes,Income
+151701,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series UJ (1110 days) - Regular Plan - Payout of IDCW Option,INF209KB12V8,,Close Ended Schemes,Income
+151702,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series UJ (1110 days) - Direct Plan - Payout of IDCW Option,INF209KB14V4,,Close Ended Schemes,Income
+151703,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series UJ (1110 days) - Regular Plan - Growth Option,INF209KB11V0,,Close Ended Schemes,Income
 151733,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Floater Fund - Regular Plan - Weekly IDCW option,,,Open Ended Schemes,Debt Scheme - Floater Fund
 151734,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Floater Fund - Regular Plan - Growth option,,,Open Ended Schemes,Debt Scheme - Floater Fund
 151735,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Floater Fund - Direct Plan - Growth Option,,,Open Ended Schemes,Debt Scheme - Floater Fund
@@ -34720,6 +34704,18 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 152228,Axis Mutual Fund,Axis Fixed Term Plan - Series 118 (100 Days) - Regular Plan - Quarterly IDCW,,,Close Ended Schemes,Income
 152229,Axis Mutual Fund,Axis Fixed Term Plan - Series 118 (100 Days) - Direct Plan - Quarterly IDCW,,,Close Ended Schemes,Income
 152230,Axis Mutual Fund,Axis Fixed Term Plan - Series 118 (100 Days) - Regular Plan - Growth,,,Close Ended Schemes,Income
+152250,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan - Series UQ (92 days) - Direct Plan - Growth Option,,,Close Ended Schemes,Income
+152251,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan - Series UQ (92 days) - Direct Plan - Payout of IDCW Option,,,Close Ended Schemes,Income
+152252,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan - Series UQ (92 days) - Regular Plan - Payout of IDCW Option,,,Close Ended Schemes,Income
+152253,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan - Series UQ (92 days) - Regular Plan - Growth Option,,,Close Ended Schemes,Income
+152259,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan - Series UR (85 days) - Direct Plan - Growth Option,,,Close Ended Schemes,Income
+152260,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan - Series UR (85 days) - Regular Plan - Growth Option,,,Close Ended Schemes,Income
+152261,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan - Series UR (85 days) - Regular Plan - Payout of IDCW Option,,,Close Ended Schemes,Income
+152262,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan - Series UR (85 days) - Direct Plan - Payout of IDCW Option,,,Close Ended Schemes,Income
+152332,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan - Series US (100 days) - Direct Plan - Growth Option,,,Close Ended Schemes,Income
+152333,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan - Series US (100 days) - Direct Plan - Payout of IDCW Option,,,Close Ended Schemes,Income
+152334,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan - Series US (100 days) - Regular Plan - Growth Option,,,Close Ended Schemes,Income
+152335,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan - Series US (100 days) - Regular Plan - Payout of IDCW Option,,,Close Ended Schemes,Income
 152374,Axis Mutual Fund,Axis Fixed Term Plan - Series 120 (91 Days) - Regular Plan - Quarterly IDCW,,,Close Ended Schemes,Income
 152375,Axis Mutual Fund,Axis Fixed Term Plan - Series 120 (91 Days) - Direct Plan - Growth,,,Close Ended Schemes,Income
 152376,Axis Mutual Fund,Axis Fixed Term Plan - Series 120 (91 Days) - Direct Plan - Quarterly  IDCW,,,Close Ended Schemes,Income
@@ -34752,7 +34748,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 152961,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil-IBX AAA NBFC-HFC Index-Dec 2025 Fund-Regular Growth,INF209KC1274,,Open Ended Schemes,Other Scheme - Index Funds
 100039,Aditya Birla Sun Life AMC Limited,Birla Income Plus-Institutional (Growth),,,Open Ended,Income/Debt Oriented Schemes - Medium to Long Term Fund
 100040,Aditya Birla Sun Life AMC Limited,Birla Income Plus-Institutional (Dividend),,,Open Ended,Income/Debt Oriented Schemes - Medium to Long Term Fund
-100050,Aditya Birla Sun Life AMC Limited,Birla Cash Plus-Birla Cash Plus (Institutional Premium Weekly Dividend),,,Open Ended,Debt Scheme - Liquid Fund
+100050,Aditya Birla Sun Life AMC Limited,Birla Cash Plus-Birla Cash Plus (Institutional Premium Weekly Dividend),,,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
 100125,HDFC Asset Management Company Limited,HDFC Income Fund-Premium Plan Dividend,,,Open Ended,Income/Debt Oriented Schemes - Medium to Long Term Fund
 100126,HDFC Asset Management Company Limited,HDFC Income Fund-Premium Plus Dividend,,,Open Ended,Income/Debt Oriented Schemes - Medium to Long Term Fund
 100127,HDFC Asset Management Company Limited,HDFC Income Fund-Premium Plus Growth,,,Open Ended,Income/Debt Oriented Schemes - Medium to Long Term Fund
@@ -35826,12 +35822,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 144073,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1735 Days Plan P - Direct Plan Dividend Option,,,Close Ended,Income
 144074,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1735 Days Plan P - Dividend Option,,,Close Ended,Income
 144076,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1735 Days Plan P - Direct Plan Half Yearly Dividend Option,INF109KC1HF4,,Close Ended,Income
-144169,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1107 Days Plan Q - Direct Plan Half Yearly Dividend Option,INF109KC1HR9,,Close Ended,Income
-144170,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1107 Days Plan Q - Direct Plan Quarterly Dividend Option,INF109KC1HQ1,,Close Ended,Income
-144165,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1107 Days Plan Q - Direct Plan Dividend Option,,,Close Ended,Income
 144166,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1107 Days Plan Q - Dividend Option,,,Close Ended,Income
 144167,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1107 Days Plan Q - Quarterly Dividend Option,INF109KC1HN8,,Close Ended,Income
 144168,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1107 Days Plan Q - Half Yearly Dividend Option,INF109KC1HO6,,Close Ended,Income
+144169,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1107 Days Plan Q - Direct Plan Half Yearly Dividend Option,INF109KC1HR9,,Close Ended,Income
+144170,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1107 Days Plan Q - Direct Plan Quarterly Dividend Option,INF109KC1HQ1,,Close Ended,Income
+144165,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1107 Days Plan Q - Direct Plan Dividend Option,,,Close Ended,Income
 144280,Kotak Mahindra Asset Management Company Limited.,Kotak FMP Series 234 - Direct Plan - Dividend Option,INF174KA1111,,Close Ended,Income
 144285,Kotak Mahindra Asset Management Company Limited.,Kotak FMP Series 235 - Direct Plan - Dividend Option,INF174KA1152,,Close Ended,Income
 144303,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1100 Days Plan R - Direct Plan Dividend Option,,,Close Ended,Income
@@ -36474,7 +36470,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 150980,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 88 - 182 Days Plan J - Direct Plan - Growth,,,Close Ended,Income
 150981,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 88 - 182 Days Plan J - Direct Plan - IDCW,,,Close Ended,Income
 150982,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 88 - 182 Days Plan J - IDCW,,,Close Ended,Income
-151187,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Fixed Term Plan - Series UB (1224 days) - Direct Plan - Payout of IDCW Option,INF209KB19P5,,Close Ended,Income
 151248,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 88 - 93 Days Plan P - Growth,,,Close Ended,Income
 151249,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 88 - 93 Days Plan P - Quarterly IDCW,,,Close Ended,Income
 151250,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 88 - 93 Days Plan P - Direct Plan - Growth,,,Close Ended,Income
@@ -36537,10 +36532,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 151825,Kotak Mahindra Asset Management Company Limited.,Kotak FMP Series 313 - Regular Plan - IDCW Payout,INF174KA1OF2,,Close Ended,Income
 152210,Samco Asset Management Private Limited,Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Transfer,INF0K1H01123,,Open Ended,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 152211,Samco Asset Management Private Limited,Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Transfer,INF0K1H01164,,Open Ended,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
-152425,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Fixed Maturity Plan - Series UT (91 days) - Direct Plan - Growth Option,INF209KB17Z8,,Close Ended,Income
-152426,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Fixed Maturity Plan - Series UT (91 days) - Regular Plan - Payout of IDCW Option,INF209KB16Z0,,Close Ended,Income
-152427,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Fixed Maturity Plan - Series UT (91 days) - Direct Plan - Payout of IDCW Option,INF209KB18Z6,,Close Ended,Income
-152428,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Fixed Maturity Plan - Series UT (91 days) - Regular Plan - Growth Option,INF209KB15Z2,,Close Ended,Income
 152485,Nippon Life India Asset Management Limited,Nippon India Fixed Maturity Plan XLVI Series 2 - Regular Plan - Growth,INF204KC1CH5,,Close Ended,Income
 152486,Nippon Life India Asset Management Limited,Nippon India Fixed Maturity Plan XLVI Series 2 - Direct Plan - IDCW Payout,INF204KC1CK9,,Close Ended,Income
 152487,Nippon Life India Asset Management Limited,Nippon India Fixed Maturity Plan XLVI Series 2 - Regular Plan - IDCW,INF204KC1CI3,,Close Ended,Income
@@ -36602,11 +36593,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154717,Invesco Asset Management (India) Private Limited,Invesco India Nifty Chemical Index Fund - Regular Plan - IDCW,INF205KA1CK0,INF205KA1CL8,Open Ended,Index Funds - Equity Funds
 154718,Invesco Asset Management (India) Private Limited,Invesco India Nifty Chemical Index Fund - Direct Plan - IDCW,INF205KA1CN4,INF205KA1CO2,Open Ended,Index Funds - Equity Funds
 154719,Invesco Asset Management (India) Private Limited,Invesco India Nifty Chemical Index Fund - Direct Plan - Growth,INF205KA1CM6,,Open Ended,Index Funds - Equity Funds
-154726,Shriram Asset Management Co. Ltd.,Shriram Gold ETF Passive FOF-Direct-IDCWREINVESTMENT,INF680P01695,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
-154727,Shriram Asset Management Co. Ltd.,Shriram Gold ETF Passive FOF-Direct-Growth,INF680P01653,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
-154728,Shriram Asset Management Co. Ltd.,Shriram Gold ETF Passive FOF-Regular-IDCWREINVESTMENT,INF680P01703,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154729,Shriram Asset Management Co. Ltd.,Shriram Gold ETF Passive FOF-Direct-IDCWPAYOUT,INF680P01679,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
-154724,Shriram Asset Management Co. Ltd.,Shriram Gold ETF Passive FOF-Regular-Growth,INF680P01661,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154725,Shriram Asset Management Co. Ltd.,Shriram Gold ETF Passive FOF-Regular-IDCWPAYOUT,INF680P01687,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154730,Kotak Mahindra Asset Management Company Limited.,Kotak Multi Sector Omni FOF - Direct Plan - Growth,INF174KA1F40,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154731,Kotak Mahindra Asset Management Company Limited.,Kotak Multi Sector Omni FOF - Regular Plan - Growth,INF174KA1F73,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
@@ -36651,10 +36638,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154786,Carnelian Investment Managers Private Limited,Carnelian Small Cap Fund - Regular Plan - IDCW,INF30CN01137,INF30CN01145,Open Ended,Equity Schemes - Small Cap Fund
 154787,Carnelian Investment Managers Private Limited,Carnelian Small Cap Fund - Direct Plan - Growth,INF30CN01095,,Open Ended,Equity Schemes - Small Cap Fund
 154789,Nippon Life India Asset Management Limited,Nippon India CRISIL -IBX FAR Gilt ETF,,,Open Ended,Exchange Traded Funds (ETFs) - Other ETF
-154790,HDFC Asset Management Company Limited,HDFC Nifty LargeMidcap250 Plus 8-13 yr G-Sec 70 30 Index Fund-Direct Plan-IDCW Option,,,Open Ended,Index Funds - Hybrid Fund
+154790,HDFC Asset Management Company Limited,HDFC Nifty LargeMidcap250 Plus 8-13 yr G-Sec 70 30 Index Fund-Direct Plan-IDCW Option,INF179KC1LC8,,Open Ended,Index Funds - Hybrid Fund
 154791,HDFC Asset Management Company Limited,HDFC Nifty LargeMidcap250 Plus 8-13 yr G-Sec 70 30 Index Fund-IDCW Option,,,Open Ended,Index Funds - Hybrid Fund
-154792,HDFC Asset Management Company Limited,HDFC Nifty LargeMidcap250 Plus 8-13 yr G-Sec 70 30 Index Fund-Growth Option,,,Open Ended,Index Funds - Hybrid Fund
-154793,HDFC Asset Management Company Limited,HDFC Nifty LargeMidcap250 Plus 8-13 yr G-Sec 70 30 Index Fund-Direct Plan-Growth Option,,,Open Ended,Index Funds - Hybrid Fund
+154792,HDFC Asset Management Company Limited,HDFC Nifty LargeMidcap250 Plus 8-13 yr G-Sec 70 30 Index Fund-Growth Option,INF179KC1LE4,,Open Ended,Index Funds - Hybrid Fund
+154793,HDFC Asset Management Company Limited,HDFC Nifty LargeMidcap250 Plus 8-13 yr G-Sec 70 30 Index Fund-Direct Plan-Growth Option,INF179KC1LB0,,Open Ended,Index Funds - Hybrid Fund
 154794,Motilal Oswal Asset Management Company Limited,Motilal Oswal Nifty Midcap150 Plus 8-13 yr G-Sec 70 30 Index Fund - Regular Growth,INF247L01HR4,,Open Ended,Index Funds - Hybrid Fund
 154795,Motilal Oswal Asset Management Company Limited,Motilal Oswal Nifty Midcap150 Plus 8-13 yr G-Sec 70 30 Index Fund - Direct Growth,INF247L01HQ6,,Open Ended,Index Funds - Hybrid Fund
 154798,Kotak Mahindra Asset Management Company Limited.,Kotak Nifty 500 Index Fund - Direct Plan - Growth,INF174KA1G64,,Open Ended,Index Funds - Equity Funds

@@ -8480,12 +8480,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 111709,Bank of India Mutual Fund,BANK OF INDIA ELSS TAX SAVER FUND - Growth,INF761K01157,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
 111710,Bank of India Mutual Fund,BANK OF INDIA ELSS TAX SAVER FUND - Regular Plan - Growth,INF761K01181,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
 111711,Bank of India Mutual Fund,BANK OF INDIA ELSS TAX SAVER FUND - IDCW,INF761K01132,INF761K01140,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
-111712,Bank of India Mutual Fund,BANK OF INDIA CONSERVATIVE HYBRID FUND - Regular Plan - Growth,INF761K01462,,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
-111713,Bank of India Mutual Fund,BANK OF INDIA CONSERVATIVE HYBRID FUND - Regular Plan - Quarterly IDCW,INF761K01504,INF761K01496,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
-111714,Bank of India Mutual Fund,BANK OF INDIA CONSERVATIVE HYBRID FUND - Regular Plan - Annual IDCW,INF761K01454,INF761K01447,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
-111715,Bank of India Mutual Fund,BANK OF INDIA CONSERVATIVE HYBRID FUND - Growth,INF761K01397,,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
-111716,Bank of India Mutual Fund,BANK OF INDIA CONSERVATIVE HYBRID FUND - Regular Plan - Monthly IDCW,INF761K01488,INF761K01470,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
-111717,Bank of India Mutual Fund,BANK OF INDIA CONSERVATIVE HYBRID FUND - Monthly IDCW,INF761K01413,INF761K01405,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
+111712,Bank of India Mutual Fund,BANK OF INDIA CONSERVATIVE HYBRID FUND - Regular Plan - Growth,INF761K01462,,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
+111713,Bank of India Mutual Fund,BANK OF INDIA CONSERVATIVE HYBRID FUND - Regular Plan - Quarterly IDCW,INF761K01504,INF761K01496,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
+111714,Bank of India Mutual Fund,BANK OF INDIA CONSERVATIVE HYBRID FUND - Regular Plan - Annual IDCW,INF761K01454,INF761K01447,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
+111715,Bank of India Mutual Fund,BANK OF INDIA CONSERVATIVE HYBRID FUND - Growth,INF761K01397,,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
+111716,Bank of India Mutual Fund,BANK OF INDIA CONSERVATIVE HYBRID FUND - Regular Plan - Monthly IDCW,INF761K01488,INF761K01470,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
+111717,Bank of India Mutual Fund,BANK OF INDIA CONSERVATIVE HYBRID FUND - Monthly IDCW,INF761K01413,INF761K01405,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
 111718,BOI AXA Mutual Fund,BOI AXA Conservative Hybrid  Fund-ECO Plan-Quarterly Dividend,,,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
 111719,BOI AXA Mutual Fund,BOI AXA Conservative Hybrid Fund-ECO Plan-Annual Dividend,,,119362;INF955L01BQ7;-;BARODA PIONEER INCOME FUND - Plan B,Direct
 111720,JM Financial Mutual Fund,JM Nifty Plus Fund - Dividend Option,,,Open Ended Schemes,Income
@@ -14339,10 +14339,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 119390,Baroda Mutual Fund,BARODA CONSERVATIVE HYBRID FUND - Plan B (Direct)- Monthly IDCW Option,,,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund
 119391,Baroda Mutual Fund,BARODA CONSERVATIVE HYBRID FUND - Plan B (Direct) - Quarterly IDCW Option,,,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund
 119392,Baroda Mutual Fund,Baroda Mid-cap Fund- Plan B (Direct) - Growth Option,,,Open Ended Schemes,Equity Scheme - Mid Cap Fund
-119393,Bank of India Mutual Fund,BANK OF INDIA CONSERVATIVE HYBRID FUND - Direct Plan - Growth,INF761K01819,,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
-119394,Bank of India Mutual Fund,BANK OF INDIA CONSERVATIVE HYBRID FUND - Direct Plan - Monthly IDCW,INF761K01835,INF761K01827,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
-119395,Bank of India Mutual Fund,BANK OF INDIA CONSERVATIVE HYBRID FUND - Direct Plan - Quarterly IDCW,INF761K01850,INF761K01843,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
-119396,Bank of India Mutual Fund,BANK OF INDIA CONSERVATIVE HYBRID FUND - Direct Plan - Annual IDCW,INF761K01793,INF761K01801,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
+119393,Bank of India Mutual Fund,BANK OF INDIA CONSERVATIVE HYBRID FUND - Direct Plan - Growth,INF761K01819,,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
+119394,Bank of India Mutual Fund,BANK OF INDIA CONSERVATIVE HYBRID FUND - Direct Plan - Monthly IDCW,INF761K01835,INF761K01827,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
+119395,Bank of India Mutual Fund,BANK OF INDIA CONSERVATIVE HYBRID FUND - Direct Plan - Quarterly IDCW,INF761K01850,INF761K01843,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
+119396,Bank of India Mutual Fund,BANK OF INDIA CONSERVATIVE HYBRID FUND - Direct Plan - Annual IDCW,INF761K01793,INF761K01801,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
 119397,L&T Mutual Fund,L&T Large and Midcap Fund-Direct Plan-Growth,,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
 119398,L&T Mutual Fund,L&T Large and Midcap Fund- Direct Plan -IDCW,,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
 119399,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Term Fund (the scheme has 2 segregated portfolios) - Direct Plan - Monthly IDCW Option,INF955L01BB9,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
@@ -37411,10 +37411,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154142,Motilal Oswal Mutual Fund,Motilal Oswal Financial Services Fund - Direct Plan - Growth,INF247L01GN5,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 154143,Shriram Mutual Fund,Shriram Money Market Fund - Regular Plan - Growth,INF680P01489,,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
 154144,Shriram Mutual Fund,Shriram Money Market Fund - Direct Plan - Growth,INF680P01471,,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
-154145,Kotak Mahindra Mutual Fund,Kotak Nifty200 Value 30 Index Fund - Direct Plan - Growth,INF174KA1YP0,,Open Ended Schemes,Other Scheme - Index Funds
-154146,Kotak Mahindra Mutual Fund,Kotak Nifty200 Value 30 Index Fund - Direct Plan - IDCW,INF174KA1YQ8,INF174KA1YR6,Open Ended Schemes,Other Scheme - Index Funds
-154147,Kotak Mahindra Mutual Fund,Kotak Nifty200 Value 30 Index Fund - Regular Plan - IDCW,INF174KA1YT2,INF174KA1YU0,Open Ended Schemes,Other Scheme - Index Funds
-154148,Kotak Mahindra Mutual Fund,Kotak Nifty200 Value 30 Index Fund - Regular Plan - Growth,INF174KA1YS4,,Open Ended Schemes,Other Scheme - Index Funds
+154145,Kotak Mahindra Mutual Fund,Kotak Nifty200 Value 30 Index Fund - Direct Plan - Growth,INF174KA1YP0,,Open Ended Schemes,Index Funds - Equity Funds
+154146,Kotak Mahindra Mutual Fund,Kotak Nifty200 Value 30 Index Fund - Direct Plan - IDCW,INF174KA1YQ8,INF174KA1YR6,Open Ended Schemes,Index Funds - Equity Funds
+154147,Kotak Mahindra Mutual Fund,Kotak Nifty200 Value 30 Index Fund - Regular Plan - IDCW,INF174KA1YT2,INF174KA1YU0,Open Ended Schemes,Index Funds - Equity Funds
+154148,Kotak Mahindra Mutual Fund,Kotak Nifty200 Value 30 Index Fund - Regular Plan - Growth,INF174KA1YS4,,Open Ended Schemes,Index Funds - Equity Funds
 154149,Kotak Mahindra Mutual Fund,Kotak Services Fund - Direct Plan - Growth,INF174KA1YV8,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 154150,Kotak Mahindra Mutual Fund,Kotak Services Fund - Direct Plan - IDCW,INF174KA1YW6,INF174KA1YX4,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 154151,Kotak Mahindra Mutual Fund,Kotak Services Fund - Regular Plan - Growth,INF174KA1YY2,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
@@ -37913,6 +37913,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154721,Mirae Asset Mutual Fund,Mirae Asset BSE Information Technology Index Fund - Direct Plan - IDCW,INF769K01RQ0,INF769K01RP2,Open Ended Schemes,Index Funds - Equity Funds
 154722,Mirae Asset Mutual Fund,Mirae Asset BSE Information Technology Index Fund - Regular Plan - Growth,INF769K01RL1,,Open Ended Schemes,Index Funds - Equity Funds
 154723,Mirae Asset Mutual Fund,Mirae Asset BSE Information Technology Index Fund - Regular Plan - IDCW,INF769K01RN7,INF769K01RM9,Open Ended Schemes,Index Funds - Equity Funds
+154724,Shriram Mutual Fund,Shriram Gold ETF Passive FOF - Regular Plan - Growth,INF680P01661,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154726,Shriram Mutual Fund,Shriram Gold ETF Passive FOF - Direct Plan - IDCWREINVESTMENT,,INF680P01695,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154727,Shriram Mutual Fund,Shriram Gold ETF Passive FOF - Direct Plan - Growth,INF680P01653,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154728,Shriram Mutual Fund,Shriram Gold ETF Passive FOF - Regular Plan - REINVESTMENT,,INF680P01703,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154734,Helios Mutual Fund,Helios Balanced Advantage Fund - Direct Plan - Monthly IDCW,INF0R8701491,INF0R8701509,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 154736,Lakshya Mutual Fund,LAKSHYA OVERNIGHT FUND - Direct Plan - GROWTH,INF2ZPR01014,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 154737,Lakshya Mutual Fund,LAKSHYA OVERNIGHT FUND - Regular Plan - GROWTH,INF2ZPR01022,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
