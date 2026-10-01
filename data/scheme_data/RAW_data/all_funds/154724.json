@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "Shriram Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
+        "scheme_code": 154724,
+        "scheme_name": "Shriram Gold ETF Passive FOF - Regular Plan - Growth",
+        "isin_growth": "INF680P01661",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "30-09-2026",
+            "nav": "10.04000"
+        }
+    ],
+    "status": "SUCCESS"
+}
