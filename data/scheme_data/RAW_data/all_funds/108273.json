@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Aditya Birla Sun Life Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Banking and PSU Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Banking and PSU Debt Fund",
         "scheme_code": 108273,
         "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund - Regular Plan - GROWTH",
         "isin_growth": "INF209K01LV0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "01-10-2026",
+            "nav": "387.45080"
+        },
         {
             "date": "30-09-2026",
             "nav": "387.58390"

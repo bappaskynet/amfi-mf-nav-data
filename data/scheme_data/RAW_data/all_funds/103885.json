@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Aditya Birla Sun Life Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Liquid Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 103885,
         "scheme_name": "Aditya Birla Sun Life Liquid Fund - Regular Plan - IDCW",
         "isin_growth": "INF209KA1LI1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "01-10-2026",
+            "nav": "105.31950"
+        },
         {
             "date": "30-09-2026",
             "nav": "105.27470"

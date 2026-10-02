@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "Kotak Mahindra Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
+        "scheme_code": 154733,
+        "scheme_name": "Kotak Multi Sector Omni FOF - Regular Plan - IDCW - Dividend Payout & Reinvestment",
+        "isin_growth": "INF174KA1F81",
+        "isin_div_reinvestment": "INF174KA1F99"
+    },
+    "data": [
+        {
+            "date": "01-10-2026",
+            "nav": "10.01000"
+        }
+    ],
+    "status": "SUCCESS"
+}
