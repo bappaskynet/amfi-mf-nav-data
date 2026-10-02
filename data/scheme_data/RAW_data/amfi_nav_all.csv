@@ -703,12 +703,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 104458,SBI Mutual Fund,SBI Arbitrage Fund,INF200K01131,INF200K01149,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund,19.1032,01-Oct-2026
 104481,DSP Mutual Fund,DSP Midcap Fund,INF740K01128,,Open Ended Schemes,Equity Scheme - Mid Cap Fund,146.0680,01-Oct-2026
 104482,DSP Mutual Fund,DSP Midcap Fund,INF740K01102,INF740K01110,Open Ended Schemes,Equity Scheme - Mid Cap Fund,27.8220,01-Oct-2026
-104484,Invesco Mutual Fund,Invesco India Liquid Fund,,INF205K01HN3,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1002.7594,03-Oct-2026
-104485,Invesco Mutual Fund,Invesco India Liquid Fund,INF205KA1BD7,INF205K01HO1,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1019.6613,03-Oct-2026
-104486,Invesco Mutual Fund,Invesco India Liquid Fund,INF205K01HM5,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,3876.4322,03-Oct-2026
-104488,Invesco Mutual Fund,Invesco India Liquid Fund,INF205K01HG7,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,3411.2295,03-Oct-2026
-104489,Invesco Mutual Fund,Invesco India Liquid Fund,,INF205K01HH5,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1005.0941,03-Oct-2026
-104492,Invesco Mutual Fund,Invesco India Liquid Fund,INF205K01HQ6,INF205K01HP8,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1004.0364,03-Oct-2026
+104484,Invesco Mutual Fund,Invesco India Liquid Fund,,INF205K01HN3,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1002.7594,04-Oct-2026
+104485,Invesco Mutual Fund,Invesco India Liquid Fund,INF205KA1BD7,INF205K01HO1,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1019.8241,04-Oct-2026
+104486,Invesco Mutual Fund,Invesco India Liquid Fund,INF205K01HM5,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,3877.0511,04-Oct-2026
+104488,Invesco Mutual Fund,Invesco India Liquid Fund,INF205K01HG7,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,3411.732,04-Oct-2026
+104489,Invesco Mutual Fund,Invesco India Liquid Fund,,INF205K01HH5,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1005.2421,04-Oct-2026
+104492,Invesco Mutual Fund,Invesco India Liquid Fund,INF205K01HQ6,INF205K01HP8,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1004.1967,04-Oct-2026
 104513,quant Mutual Fund,Quant Large & Mid Cap Fund,INF966L01341,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund,119.2766,01-Oct-2026
 104514,quant Mutual Fund,Quant Large & Mid Cap Fund,INF966L01325,INF966L01333,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund,72.8063,01-Oct-2026
 104523,SBI Mutual Fund,SBI ESG Exclusionary Strategy Fund,INF200K01214,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,225.3291,01-Oct-2026
@@ -2633,10 +2633,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 120524,Axis Mutual Fund,Axis Multi Asset Allocation Fund,INF846K01EV4,,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund,51.2083,01-Oct-2026
 120530,Invesco Mutual Fund,Invesco India Gold ETF Fund of Fund,INF205K01NH3,INF205K01NI1,Open Ended Schemes,Fund of Funds Scheme,42.7276,01-Oct-2026
 120531,Invesco Mutual Fund,Invesco India Gold ETF Fund of Fund,INF205K01NJ9,,Open Ended Schemes,Fund of Funds Scheme,42.7931,01-Oct-2026
-120534,Invesco Mutual Fund,Invesco India Liquid Fund,,INF205K01ME2,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1005.8604,03-Oct-2026
-120535,Invesco Mutual Fund,Invesco India Liquid Fund,INF205KA1BE5,INF205K01MI3,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1073.5211,03-Oct-2026
-120536,Invesco Mutual Fund,Invesco India Liquid Fund,INF205K01MG7,INF205K01MH5,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1083.086,03-Oct-2026
-120537,Invesco Mutual Fund,Invesco India Liquid Fund,INF205K01MF9,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,3912.6974,03-Oct-2026
+120534,Invesco Mutual Fund,Invesco India Liquid Fund,,INF205K01ME2,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1005.8604,04-Oct-2026
+120535,Invesco Mutual Fund,Invesco India Liquid Fund,INF205KA1BE5,INF205K01MI3,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1073.6946,04-Oct-2026
+120536,Invesco Mutual Fund,Invesco India Liquid Fund,INF205K01MG7,INF205K01MH5,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1083.261,04-Oct-2026
+120537,Invesco Mutual Fund,Invesco India Liquid Fund,INF205K01MF9,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,3913.3296,04-Oct-2026
 120538,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Digital India Fund,INF209K01P49,INF209K01VE5,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,47.45,01-Oct-2026
 120539,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Digital India Fund,INF209K01VF2,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,170.14,01-Oct-2026
 120541,Invesco Mutual Fund,Invesco India Ultra Short Term Fund,INF205K01TH0,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund,3124.2945,01-Oct-2026
@@ -5802,10 +5802,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 139378,Nippon India Mutual Fund,Reliance Fixed Horizon Fund XXXI- Series 1,INF204KB1593,,Close Ended Schemes,Income,10.0000,24-Jun-2019
 139379,Nippon India Mutual Fund,Reliance Fixed Horizon Fund XXXI- Series 1,INF204KB1585,,Close Ended Schemes,Income,12.6459,24-Jun-2019
 139386,Navi Mutual Fund,Navi Liquid Fund,INF959L01CN4,,Open Ended Schemes,Debt Scheme - Liquid Fund,30.6288,04-Oct-2026
-139387,Invesco Mutual Fund,Invesco India Liquid Fund,,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1854.1219,03-Oct-2026
-139388,Invesco Mutual Fund,Invesco India Liquid Fund,,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1000,03-Oct-2026
-139389,Invesco Mutual Fund,Invesco India Liquid Fund,,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1854.5403,03-Oct-2026
-139390,Invesco Mutual Fund,Invesco India Liquid Fund,,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1000,03-Oct-2026
+139387,Invesco Mutual Fund,Invesco India Liquid Fund,,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1854.4215,04-Oct-2026
+139388,Invesco Mutual Fund,Invesco India Liquid Fund,,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1000,04-Oct-2026
+139389,Invesco Mutual Fund,Invesco India Liquid Fund,,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1854.84,04-Oct-2026
+139390,Invesco Mutual Fund,Invesco India Liquid Fund,,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1000,04-Oct-2026
 139393,UTI Mutual Fund,UTI - FTIF Series XXIV - XIV (1831 Days),INF789FC1AD8,,Close Ended Schemes,Income,10,07-Jun-2021
 139395,UTI Mutual Fund,UTI - FTIF Series XXIV - XIV (1831 Days),INF789FC1AG1,,Close Ended Schemes,Income,14.596,07-Jun-2021
 139397,UTI Mutual Fund,UTI - FTIF Series XXIV - XIV (1831 Days),INF789FC1972,,Close Ended Schemes,Income,10,07-Jun-2021
@@ -9371,14 +9371,14 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 147867,Tata Mutual Fund,Tata Quant Fund,INF277K016Y9,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,0.0000,01-Apr-2025
 147868,Tata Mutual Fund,Tata Quant Fund,INF277K018Y5,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,0.0000,01-Apr-2025
 147869,Tata Mutual Fund,Tata Quant Fund,INF277K015Y1,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,0.0000,01-Apr-2025
-147878,Invesco Mutual Fund,Invesco India Overnight Fund,INF205KA1114,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1391.1589,03-Oct-2026
-147879,Invesco Mutual Fund,Invesco India Overnight Fund,INF205KA1106,INF205KA1098,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1001.5507,03-Oct-2026
-147880,Invesco Mutual Fund,Invesco India Overnight Fund,,INF205KA1072,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1000.1395,03-Oct-2026
-147881,Invesco Mutual Fund,Invesco India Overnight Fund,,INF205KA1080,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1001.0019,03-Oct-2026
-147883,Invesco Mutual Fund,Invesco India Overnight Fund,INF205KA1163,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1396.4498,03-Oct-2026
-147884,Invesco Mutual Fund,Invesco India Overnight Fund,,INF205KA1122,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1000.5303,03-Oct-2026
+147878,Invesco Mutual Fund,Invesco India Overnight Fund,INF205KA1114,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1391.3597,04-Oct-2026
+147879,Invesco Mutual Fund,Invesco India Overnight Fund,INF205KA1106,INF205KA1098,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1001.6949,04-Oct-2026
+147880,Invesco Mutual Fund,Invesco India Overnight Fund,,INF205KA1072,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1000.1395,04-Oct-2026
+147881,Invesco Mutual Fund,Invesco India Overnight Fund,,INF205KA1080,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1001.1464,04-Oct-2026
+147883,Invesco Mutual Fund,Invesco India Overnight Fund,INF205KA1163,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1396.6536,04-Oct-2026
+147884,Invesco Mutual Fund,Invesco India Overnight Fund,,INF205KA1122,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1000.5303,04-Oct-2026
 147885,Invesco Mutual Fund,Invesco India Overnight Fund,,INF205KA1130,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1001.7173,22-Apr-2025
-147886,Invesco Mutual Fund,Invesco India Overnight Fund,INF205KA1155,INF205KA1148,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1000.6167,03-Oct-2026
+147886,Invesco Mutual Fund,Invesco India Overnight Fund,INF205KA1155,INF205KA1148,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1000.7628,04-Oct-2026
 147888,Axis Mutual Fund,Axis Income Plus Arbitrage Omni FOF,INF846K01W07,INF846K01W15,Open Ended Schemes,Fund of Funds Scheme,15.4082,01-Oct-2026
 147889,Axis Mutual Fund,Axis Income Plus Arbitrage Omni FOF,INF846K01U09,,Open Ended Schemes,Fund of Funds Scheme,15.7486,01-Oct-2026
 147890,Axis Mutual Fund,Axis Income Plus Arbitrage Omni FOF,INF846K01V16,,Open Ended Schemes,Fund of Funds Scheme,15.4038,01-Oct-2026
