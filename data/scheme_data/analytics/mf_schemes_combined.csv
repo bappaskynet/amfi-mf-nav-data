@@ -11239,10 +11239,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 150873,Bandhan Mutual Fund,BANDHAN CRISIL IBX 90:10 SDL PLUS GILT - APRIL 2032 INDEX FUND,INF194KB1EQ5,,Open Ended Schemes,Other Scheme - Index Funds
 150874,Bandhan Mutual Fund,BANDHAN CRISIL IBX 90:10 SDL PLUS GILT - APRIL 2032 INDEX FUND,INF194KB1ER3,INF194KB1ES1,Open Ended Schemes,Other Scheme - Index Funds
 150879,ICICI Prudential Mutual Fund,ICICI Prudential Nifty Financial Services Ex-Bank ETF,INF109KC17L8,,Open Ended Schemes,Other Scheme - Other  ETFs
-150884,DSP Mutual Fund,DSP FMP Series - 268 - 1281 Days,INF740KA1RL8,,Close Ended Schemes,Income
-150885,DSP Mutual Fund,DSP FMP Series - 268 - 1281 Days,INF740KA1RO2,,Close Ended Schemes,Income
-150886,DSP Mutual Fund,DSP FMP Series - 268 - 1281 Days,INF740KA1RQ7,INF740KA1RP9,Close Ended Schemes,Income
-150887,DSP Mutual Fund,DSP FMP Series - 268 - 1281 Days,INF740KA1RN4,INF740KA1RM6,Close Ended Schemes,Income
 150888,Bandhan Mutual Fund,BANDHAN CRISIL IBX 90:10 SDL PLUS GILT - SEPTEMBER 2027 INDEX FUND,INF194KB1EZ6,,Open Ended Schemes,Other Scheme - Index Funds
 150889,Bandhan Mutual Fund,BANDHAN CRISIL IBX 90:10 SDL PLUS GILT - SEPTEMBER 2027 INDEX FUND,INF194KB1FA6,INF194KB1FB4,Open Ended Schemes,Other Scheme - Index Funds
 150890,Bandhan Mutual Fund,BANDHAN CRISIL IBX 90:10 SDL PLUS GILT - SEPTEMBER 2027 INDEX FUND,INF194KB1FC2,,Open Ended Schemes,Other Scheme - Index Funds
@@ -13616,10 +13612,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153888,The Wealth Company Mutual Fund,The Wealth Company Liquid Fund,INF2F0001149,,Open Ended Schemes,Debt Scheme - Liquid Fund
 153889,The Wealth Company Mutual Fund,The Wealth Company Liquid Fund,INF2F0001123,INF2F0001115,Open Ended Schemes,Debt Scheme - Liquid Fund
 153890,The Wealth Company Mutual Fund,The Wealth Company Liquid Fund,INF2F0001164,INF2F0001156,Open Ended Schemes,Debt Scheme - Liquid Fund
-153891,The Wealth Company Mutual Fund,The Wealth Company Arbitrage Fund,INF2F0001271,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
-153892,The Wealth Company Mutual Fund,The Wealth Company Arbitrage Fund,INF2F0001305,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
-153893,The Wealth Company Mutual Fund,The Wealth Company Arbitrage Fund,INF2F0001263,INF2F0001255,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
-153894,The Wealth Company Mutual Fund,The Wealth Company Arbitrage Fund,INF2F0001289,INF2F0001297,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
+153891,The Wealth Company Mutual Fund,The Wealth Company Arbitrage Fund,INF2F0001271,,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
+153892,The Wealth Company Mutual Fund,The Wealth Company Arbitrage Fund,INF2F0001305,,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
+153893,The Wealth Company Mutual Fund,The Wealth Company Arbitrage Fund,INF2F0001263,INF2F0001255,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
+153894,The Wealth Company Mutual Fund,The Wealth Company Arbitrage Fund,INF2F0001289,INF2F0001297,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
 153895,The Wealth Company Mutual Fund,THE WEALTH COMPANY ETHICAL FUND,INF2F0001214,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 153896,The Wealth Company Mutual Fund,THE WEALTH COMPANY ETHICAL FUND,INF2F0001230,INF2F0001222,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 153897,The Wealth Company Mutual Fund,THE WEALTH COMPANY ETHICAL FUND,INF2F0001248,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
@@ -14346,6 +14342,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154734,Helios Mutual Fund,Helios Balanced Advantage Fund,INF0R8701491,INF0R8701509,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 154736,Lakshya Mutual Fund,LAKSHYA OVERNIGHT FUND,INF2ZPR01014,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 154737,Lakshya Mutual Fund,LAKSHYA OVERNIGHT FUND,INF2ZPR01022,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
+154738,Axis Mutual Fund,Axis Nifty500 Low Volatility 50 Index Fund,INF846KA1614,,Open Ended Schemes,Index Funds - Equity Funds
+154739,Axis Mutual Fund,Axis Nifty500 Low Volatility 50 Index Fund,INF846KA1606,,Open Ended Schemes,Index Funds - Equity Funds
 154744,Tata Mutual Fund,Tata CRISIL-IBX Financial Services 3-6 Months Debt Index Fund,INF277KA1EY0,,Open Ended Schemes,Index Funds - Debt Funds
 154745,Tata Mutual Fund,Tata CRISIL-IBX Financial Services 3-6 Months Debt Index Fund,INF277KA1EZ7,,Open Ended Schemes,Index Funds - Debt Funds
 154746,Tata Mutual Fund,Tata CRISIL-IBX Financial Services 3-6 Months Debt Index Fund,,INF277KA1FA7,Open Ended Schemes,Index Funds - Debt Funds
@@ -34646,6 +34644,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 150875,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series TZ (90 days) - Direct Plan - Growth Option,,,Close Ended Schemes,Income
 150876,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series TZ (90 days)- Direct Plan - Payout of IDCW Option,,,Close Ended Schemes,Income
 150877,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series TZ (90 days) - Regular Plan -Growth Option,,,Close Ended Schemes,Income
+150884,DSP Mutual Fund,DSP FMP Series - 268 - 1281 Days - Regular - Growth,INF740KA1RL8,,Close Ended Schemes,Income
+150885,DSP Mutual Fund,DSP FMP Series - 268 - 1281 Days - Direct - Growth,INF740KA1RO2,,Close Ended Schemes,Income
+150886,DSP Mutual Fund,DSP FMP Series - 268 - 1281 Days - Direct - IDCW,INF740KA1RQ7,INF740KA1RP9,Close Ended Schemes,Income
+150887,DSP Mutual Fund,DSP FMP Series - 268 - 1281 Days - Regular - IDCW,INF740KA1RN4,INF740KA1RM6,Close Ended Schemes,Income
 150936,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil IBX 60:40 SDL+AAA PSU APR 2026 Index Fund-Regular Growth,INF209KB18O0,,Open Ended Schemes,Other Scheme - Index Funds
 150937,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil IBX 60:40 SDL+AAA PSU APR 2026 Index Fund-Regular IDCW Payout,INF209KB19O8,,Open Ended Schemes,Other Scheme - Index Funds
 150938,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil IBX 60:40 SDL + AAA PSU APR 2026 Index Fund-Direct Growth,INF209KB10P4,,Open Ended Schemes,Other Scheme - Index Funds
@@ -36600,8 +36602,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154719,Invesco Asset Management (India) Private Limited,Invesco India Nifty Chemical Index Fund - Direct Plan - Growth,INF205KA1CM6,,Open Ended,Index Funds - Equity Funds
 154729,Shriram Asset Management Co. Ltd.,Shriram Gold ETF Passive FOF-Direct-IDCWPAYOUT,INF680P01679,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154725,Shriram Asset Management Co. Ltd.,Shriram Gold ETF Passive FOF-Regular-IDCWPAYOUT,INF680P01687,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
-154738,Axis Asset Management Co. Ltd.,Axis Nifty500 Low Volatility 50 Index Fund - Direct Plan - Growth Option,INF846KA1614,,Open Ended,Index Funds - Equity Funds
-154739,Axis Asset Management Co. Ltd.,Axis Nifty500 Low Volatility 50 Index Fund - Regular Plan - Growth Option,INF846KA1606,,Open Ended,Index Funds - Equity Funds
 154740,ICICI Prudential Asset Management Company Limited,ICICI Prudential Contra Fund - Direct Plan - Growth,,,Open Ended,Equity Schemes - Contra Fund
 154741,ICICI Prudential Asset Management Company Limited,ICICI Prudential Contra Fund - Growth,,,Open Ended,Equity Schemes - Contra Fund
 154742,ICICI Prudential Asset Management Company Limited,ICICI Prudential Contra Fund - IDCW,,,Open Ended,Equity Schemes - Contra Fund
@@ -36651,3 +36651,4 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154802,Jio BlackRock Asset Management Private Limited,JioBlackRock Income Plus Arbitrage Omni FOF - Direct Plan - Growth Option,INF22M001382,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154803,Jio BlackRock Asset Management Private Limited,JioBlackRock Income Plus Arbitrage Omni FOF - Regular Plan - Growth Option,INF22M001390,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154804,ICICI Prudential Asset Management Company Limited,ICICI Prudential Nifty Pharma ETF,,,Open Ended,Exchange Traded Funds (ETFs) - Other ETF
+154805,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Financial Services Sectoral Debt Fund,,,Open Ended,Income/Debt Oriented Schemes - Sectoral Fund
