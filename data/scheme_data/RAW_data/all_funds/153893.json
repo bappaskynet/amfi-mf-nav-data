@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "The Wealth Company Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Arbitrage Fund",
+        "scheme_category": "Hybrid Schemes - Arbitrage Fund",
         "scheme_code": 153893,
         "scheme_name": "The Wealth Company Arbitrage Fund - Direct Plan - IDCW",
         "isin_growth": "INF2F0001263",
         "isin_div_reinvestment": "INF2F0001255"
     },
     "data": [
+        {
+            "date": "05-10-2026",
+            "nav": "10.62610"
+        },
         {
             "date": "01-10-2026",
             "nav": "10.61420"

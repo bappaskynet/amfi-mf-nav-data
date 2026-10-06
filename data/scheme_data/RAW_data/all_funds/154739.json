@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "Axis Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Index Funds - Equity Funds",
+        "scheme_code": 154739,
+        "scheme_name": "Axis Nifty500 Low Volatility 50 Index Fund - Regular Plan - Growth",
+        "isin_growth": "INF846KA1606",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "05-10-2026",
+            "nav": "9.78520"
+        }
+    ],
+    "status": "SUCCESS"
+}
