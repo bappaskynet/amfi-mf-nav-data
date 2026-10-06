@@ -30639,10 +30639,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153888,The Wealth Company Mutual Fund,The Wealth Company Liquid Fund - Regular Plan - Growth,INF2F0001149,,Open Ended Schemes,Debt Scheme - Liquid Fund
 153889,The Wealth Company Mutual Fund,The Wealth Company Liquid Fund - Direct Plan - Weekly IDCW,INF2F0001123,INF2F0001115,Open Ended Schemes,Debt Scheme - Liquid Fund
 153890,The Wealth Company Mutual Fund,The Wealth Company Liquid Fund - Regular Plan - Monthly IDCW,INF2F0001164,INF2F0001156,Open Ended Schemes,Debt Scheme - Liquid Fund
-153891,The Wealth Company Mutual Fund,The Wealth Company Arbitrage Fund - Direct Plan - Growth,INF2F0001271,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
-153892,The Wealth Company Mutual Fund,The Wealth Company Arbitrage Fund - Regular Plan - Growth,INF2F0001305,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
-153893,The Wealth Company Mutual Fund,The Wealth Company Arbitrage Fund - Direct Plan - IDCW,INF2F0001263,INF2F0001255,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
-153894,The Wealth Company Mutual Fund,The Wealth Company Arbitrage Fund - Regular Plan - IDCW,INF2F0001289,INF2F0001297,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
+153891,The Wealth Company Mutual Fund,The Wealth Company Arbitrage Fund - Direct Plan - Growth,INF2F0001271,,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
+153892,The Wealth Company Mutual Fund,The Wealth Company Arbitrage Fund - Regular Plan - Growth,INF2F0001305,,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
+153893,The Wealth Company Mutual Fund,The Wealth Company Arbitrage Fund - Direct Plan - IDCW,INF2F0001263,INF2F0001255,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
+153894,The Wealth Company Mutual Fund,The Wealth Company Arbitrage Fund - Regular Plan - IDCW,INF2F0001289,INF2F0001297,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
 153895,The Wealth Company Mutual Fund,THE WEALTH COMPANY ETHICAL FUND - Direct Plan - Growth,INF2F0001214,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 153896,The Wealth Company Mutual Fund,THE WEALTH COMPANY ETHICAL FUND - Regular Plan - IDCW,INF2F0001230,INF2F0001222,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 153897,The Wealth Company Mutual Fund,THE WEALTH COMPANY ETHICAL FUND - Regular Plan - Growth,INF2F0001248,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
@@ -31377,6 +31377,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154734,Helios Mutual Fund,Helios Balanced Advantage Fund - Direct Plan - Monthly IDCW,INF0R8701491,INF0R8701509,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 154736,Lakshya Mutual Fund,LAKSHYA OVERNIGHT FUND - Direct Plan - GROWTH,INF2ZPR01014,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 154737,Lakshya Mutual Fund,LAKSHYA OVERNIGHT FUND - Regular Plan - GROWTH,INF2ZPR01022,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
+154738,Axis Mutual Fund,Axis Nifty500 Low Volatility 50 Index Fund - Direct Plan - Growth,INF846KA1614,,Open Ended Schemes,Index Funds - Equity Funds
+154739,Axis Mutual Fund,Axis Nifty500 Low Volatility 50 Index Fund - Regular Plan - Growth,INF846KA1606,,Open Ended Schemes,Index Funds - Equity Funds
 154744,Tata Mutual Fund,Tata CRISIL-IBX Financial Services 3-6 Months Debt Index Fund - Regular Plan - Growth Option,INF277KA1EY0,,Open Ended Schemes,Index Funds - Debt Funds
 154745,Tata Mutual Fund,Tata CRISIL-IBX Financial Services 3-6 Months Debt Index Fund - Regular Plan - IDCW Payout,INF277KA1EZ7,,Open Ended Schemes,Index Funds - Debt Funds
 154746,Tata Mutual Fund,Tata CRISIL-IBX Financial Services 3-6 Months Debt Index Fund - Regular Plan - IDCW Reinvestment,,INF277KA1FA7,Open Ended Schemes,Index Funds - Debt Funds
