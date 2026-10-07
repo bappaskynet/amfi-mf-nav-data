@@ -13815,6 +13815,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154113,Motilal Oswal Mutual Fund,Motilal Oswal Diversified Equity Flexicap Passive Fund of Funds,INF247L01GM7,,Open Ended Schemes,Other Scheme - FoF Domestic
 154114,Samco Mutual Fund,Samco Mid Cap Fund,INF0K1H01313,,Open Ended Schemes,Equity Schemes - Mid Cap Fund
 154115,Samco Mutual Fund,Samco Mid Cap Fund,INF0K1H01321,,Open Ended Schemes,Equity Schemes - Mid Cap Fund
+154117,Jio BlackRock Mutual Fund,JioBlackRock Liquid Fund,INF22M001127,INF22M001135,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 154119,Mahindra Manulife Mutual Fund,Mahindra Manulife Innovation Opportunities Fund,INF174V01CZ3,INF174V01CY6,Open Ended Schemes,Equity Schemes - Thematic Fund
 154120,Mahindra Manulife Mutual Fund,Mahindra Manulife Innovation Opportunities Fund,INF174V01CX8,,Open Ended Schemes,Equity Schemes - Thematic Fund
 154121,Mahindra Manulife Mutual Fund,Mahindra Manulife Innovation Opportunities Fund,INF174V01DA4,,Open Ended Schemes,Equity Schemes - Thematic Fund
@@ -36582,7 +36583,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153446,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Crisil-IBX Financial Services 9-12 Months Debt Index Fund-Regular IDCW Payout,INF209KC1522,,Open Ended,Other Scheme - Index Funds
 154071,Jio BlackRock Asset Management Private Limited,JioBlackRock Overnight Fund - Unclaimed Redemption - Above 3 years- Growth Option,,,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
 154116,Jio BlackRock Asset Management Private Limited,JioBlackRock Liquid Fund - Direct Plan - Daily IDCW Reinvestment Option,INF22M001119,,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
-154117,Jio BlackRock Asset Management Private Limited,JioBlackRock Liquid Fund - Direct Plan - Weekly IDCW Option,INF22M001127,INF22M001135,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
 154650,Jio BlackRock Asset Management Private Limited,JioBlackRock Liquid Fund - Regular Plan - Daily IDCW Reinvestment Option,INF22M001275,,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
 154656,Jio BlackRock Asset Management Private Limited,JioBlackRock Liquid Fund - Regular Plan - Weekly IDCW Option,INF22M001283,INF22M001291,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
 154522,Abakkus Investment Managers Private Limited,Abakkus Liquid Fund - Unclaimed IDCW Less than 3 Years,,,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
@@ -36660,3 +36660,15 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154808,Bajaj Finserv Asset Management Limited,Bajaj Finserv Business Cycle Fund - Direct- Growth,,,Open Ended,Equity Schemes - Thematic Fund
 154809,Bajaj Finserv Asset Management Limited,Bajaj Finserv Business Cycle Fund - Regular - IDCW,,,Open Ended,Equity Schemes - Thematic Fund
 154813,Zerodha Asset Management Private Limited,Zerodha BSE TOP 10 BANKS ETF,INF0R8F01265,,Open Ended,Index Funds - Equity Funds
+154814,quant Money Managers Limited,quant Nifty 50 Index Fund - Growth Option - Direct Plan,,,Open Ended,Index Funds - Equity Funds
+154815,quant Money Managers Limited,quant Nifty 50 Index Fund - IDCW Option - Direct Plan,,,Open Ended,Index Funds - Equity Funds
+154816,quant Money Managers Limited,quant Nifty 50 Index Fund - Growth Option - Regular Plan,,,Open Ended,Index Funds - Equity Funds
+154817,quant Money Managers Limited,quant Nifty 50 Index Fund - IDCW Option - Regular Plan,,,Open Ended,Index Funds - Equity Funds
+154818,quant Money Managers Limited,quant Nifty Midcap 150 Index Fund - Growth Option - Direct Plan,,,Open Ended,Index Funds - Equity Funds
+154819,quant Money Managers Limited,quant Nifty Midcap 150 Index Fund - Growth Option - RegularPlan,,,Open Ended,Index Funds - Equity Funds
+154820,quant Money Managers Limited,quant Nifty Midcap 150 Index Fund - IDCW Option - Regular Plan,,,Open Ended,Index Funds - Equity Funds
+154821,quant Money Managers Limited,quant Nifty Midcap 150 Index Fund - IDCW Option - Direct Plan,,,Open Ended,Index Funds - Equity Funds
+154822,quant Money Managers Limited,quant Nifty 100 Index Fund - Growth Option - Direct Plan,,,Open Ended,Index Funds - Equity Funds
+154823,quant Money Managers Limited,quant Nifty 100 Index Fund - Growth Option - Regular Plan,,,Open Ended,Index Funds - Equity Funds
+154824,quant Money Managers Limited,quant Nifty 100 Index Fund - IDCW Option - Direct Plan,,,Open Ended,Index Funds - Equity Funds
+154825,quant Money Managers Limited,quant Nifty 100 Index Fund - IDCW Option - Regular Plan,,,Open Ended,Index Funds - Equity Funds
