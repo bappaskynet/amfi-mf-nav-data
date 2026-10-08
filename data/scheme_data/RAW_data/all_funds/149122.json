@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Money Market Fund",
         "scheme_code": 149122,
-        "scheme_name": "Union Money Market Fund - Regular Plan -  Monthly IDCW Option",
+        "scheme_name": "Union Money Market Fund - Regular Plan - Monthly IDCW Option",
         "isin_growth": "INF582M01HS0",
         "isin_div_reinvestment": "INF582M01HR2"
     },
     "data": [
+        {
+            "date": "07-10-2026",
+            "nav": "1000.14820"
+        },
         {
             "date": "30-03-2026",
             "nav": "1000.92950"

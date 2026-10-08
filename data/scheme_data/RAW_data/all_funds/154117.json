@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "Jio BlackRock Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
+        "scheme_code": 154117,
+        "scheme_name": "JioBlackRock Liquid Fund - Direct Plan - Weekly IDCW Option",
+        "isin_growth": "INF22M001127",
+        "isin_div_reinvestment": "INF22M001135"
+    },
+    "data": [
+        {
+            "date": "07-10-2026",
+            "nav": "1000.19820"
+        }
+    ],
+    "status": "SUCCESS"
+}
