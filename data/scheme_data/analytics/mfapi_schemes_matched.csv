@@ -27169,7 +27169,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 149119,Union Mutual Fund,Union Money Market Fund - Direct Plan - Daily IDCW Option,,,Open Ended Schemes,Debt Scheme - Money Market Fund
 149120,Union Mutual Fund,Union Money Market Fund - Regular Plan -  Weekly IDCW Option,,INF582M01HQ4,Open Ended Schemes,Debt Scheme - Money Market Fund
 149121,Union Mutual Fund,Union Money Market Fund - Direct Plan -  Weekly IDCW Option,,,Open Ended Schemes,Debt Scheme - Money Market Fund
-149122,Union Mutual Fund,Union Money Market Fund - Regular Plan -  Monthly IDCW Option,INF582M01HS0,INF582M01HR2,Open Ended Schemes,Debt Scheme - Money Market Fund
+149122,Union Mutual Fund,Union Money Market Fund - Regular Plan - Monthly IDCW Option,INF582M01HS0,INF582M01HR2,Open Ended Schemes,Debt Scheme - Money Market Fund
 149123,Union Mutual Fund,Union Money Market Fund - Direct Plan - Monthly IDCW Option,INF582M01HK7,INF582M01HJ9,Open Ended Schemes,Debt Scheme - Money Market Fund
 149132,SBI Mutual Fund,SBI Balanced Advantage Fund - Regular Plan - Growth,INF200KA1Y40,,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
 149133,SBI Mutual Fund,SBI Balanced Advantage Fund - Regular Plan - IDCW,INF200KA1Y57,INF200KA1Y65,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
@@ -30842,6 +30842,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154113,Motilal Oswal Mutual Fund,Motilal Oswal Diversified Equity Flexicap Passive Fund of Funds - Regular Plan - Growth,INF247L01GM7,,Open Ended Schemes,Other Scheme - FoF Domestic
 154114,Samco Mutual Fund,Samco Mid Cap Fund - Direct Plan - Growth,INF0K1H01313,,Open Ended Schemes,Equity Schemes - Mid Cap Fund
 154115,Samco Mutual Fund,Samco Mid Cap Fund - Regular Plan - Growth,INF0K1H01321,,Open Ended Schemes,Equity Schemes - Mid Cap Fund
+154117,Jio BlackRock Mutual Fund,JioBlackRock Liquid Fund - Direct Plan - Weekly IDCW Option,INF22M001127,INF22M001135,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 154119,Mahindra Manulife Mutual Fund,Mahindra Manulife Innovation Opportunities Fund - Regular Plan - IDCW,INF174V01CZ3,INF174V01CY6,Open Ended Schemes,Equity Schemes - Thematic Fund
 154120,Mahindra Manulife Mutual Fund,Mahindra Manulife Innovation Opportunities Fund - Regular Plan - Growth,INF174V01CX8,,Open Ended Schemes,Equity Schemes - Thematic Fund
 154121,Mahindra Manulife Mutual Fund,Mahindra Manulife Innovation Opportunities Fund - Direct Plan - Growth,INF174V01DA4,,Open Ended Schemes,Equity Schemes - Thematic Fund
