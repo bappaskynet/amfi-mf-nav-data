@@ -14322,12 +14322,22 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154698,UTI Mutual Fund,UTI BSE India Sector Leaders Exchange Traded Fund,INF789F1AH42,,Open Ended Schemes,Exchange Traded Funds
 154699,UTI Mutual Fund,UTI BSE India Sector Leaders Index Fund,INF789F1AH67,,Open Ended Schemes,Index Funds - Equity Funds
 154700,UTI Mutual Fund,UTI BSE India Sector Leaders Index Fund,INF789F1AH59,,Open Ended Schemes,Index Funds - Equity Funds
+154701,Jio BlackRock Mutual Fund,JioBlackRock Balanced Advantage Fund,INF22M001366,,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
+154702,Jio BlackRock Mutual Fund,JioBlackRock Balanced Advantage Fund,INF22M001374,,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 154703,Navi Mutual Fund,Navi Nifty Reits & Realty Index fund,INF959L01HU8,,Open Ended Schemes,Index Funds - Equity Funds
 154704,Navi Mutual Fund,Navi Nifty Reits & Realty Index fund,INF959L01HT0,,Open Ended Schemes,Index Funds - Equity Funds
 154705,Monarch Mutual Fund,Monarch Overnight Fund,INF2ZSC01085,INF2ZSC01069,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 154706,Monarch Mutual Fund,Monarch Overnight Fund,INF2ZSC01028,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 154710,Monarch Mutual Fund,Monarch Overnight Fund,,INF2ZSC01036,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 154711,Monarch Mutual Fund,Monarch Overnight Fund,INF2ZSC01010,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
+154712,Invesco Mutual Fund,Invesco India Nifty India Defence Index Fund,INF205KA1CG8,,Open Ended Schemes,Index Funds - Equity Funds
+154713,Invesco Mutual Fund,Invesco India Nifty India Defence Index Fund,INF205KA1CD5,,Open Ended Schemes,Index Funds - Equity Funds
+154714,Invesco Mutual Fund,Invesco India Nifty India Defence Index Fund,INF205KA1CH6,INF205KA1CI4,Open Ended Schemes,Index Funds - Equity Funds
+154715,Invesco Mutual Fund,Invesco India Nifty India Defence Index Fund,INF205KA1CE3,INF205KA1CF0,Open Ended Schemes,Index Funds - Equity Funds
+154716,Invesco Mutual Fund,Invesco India Nifty Chemical Index Fund,INF205KA1CJ2,,Open Ended Schemes,Index Funds - Equity Funds
+154717,Invesco Mutual Fund,Invesco India Nifty Chemical Index Fund,INF205KA1CK0,INF205KA1CL8,Open Ended Schemes,Index Funds - Equity Funds
+154718,Invesco Mutual Fund,Invesco India Nifty Chemical Index Fund,INF205KA1CN4,INF205KA1CO2,Open Ended Schemes,Index Funds - Equity Funds
+154719,Invesco Mutual Fund,Invesco India Nifty Chemical Index Fund,INF205KA1CM6,,Open Ended Schemes,Index Funds - Equity Funds
 154720,Mirae Asset Mutual Fund,Mirae Asset BSE Information Technology Index Fund,INF769K01RO5,,Open Ended Schemes,Index Funds - Equity Funds
 154721,Mirae Asset Mutual Fund,Mirae Asset BSE Information Technology Index Fund,INF769K01RQ0,INF769K01RP2,Open Ended Schemes,Index Funds - Equity Funds
 154722,Mirae Asset Mutual Fund,Mirae Asset BSE Information Technology Index Fund,INF769K01RL1,,Open Ended Schemes,Index Funds - Equity Funds
@@ -14355,6 +14365,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154751,HDFC Mutual Fund,HDFC BSE REITS and Commercial Real Estate Index Fund,INF179KC1KY4,,Open Ended Schemes,Index Funds - Equity Funds
 154752,HDFC Mutual Fund,HDFC BSE REITS and Commercial Real Estate Index Fund,INF179KC1KU2,,Open Ended Schemes,Index Funds - Equity Funds
 154753,HDFC Mutual Fund,HDFC BSE REITS and Commercial Real Estate Index Fund,INF179KC1KX6,,Open Ended Schemes,Index Funds - Equity Funds
+154754,Kotak Mahindra Mutual Fund,Kotak Nifty Capital Markets Index Fund,INF174KA1G07,,Open Ended Schemes,Index Funds - Equity Funds
+154755,Kotak Mahindra Mutual Fund,Kotak Nifty Capital Markets Index Fund,INF174KA1G15,INF174KA1G23,Open Ended Schemes,Index Funds - Equity Funds
+154756,Kotak Mahindra Mutual Fund,Kotak Nifty Capital Markets Index Fund,INF174KA1G31,,Open Ended Schemes,Index Funds - Equity Funds
+154757,Kotak Mahindra Mutual Fund,Kotak Nifty Capital Markets Index Fund,INF174KA1G49,INF174KA1G56,Open Ended Schemes,Index Funds - Equity Funds
 154768,DSP Mutual Fund,DSP BSE Insurance ETF,INF740KA1ZR8,,Open Ended Schemes,Exchange Traded Funds
 100027,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Half Yearly Dividend,,,Open Ended Schemes,Income
 100028,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Quaterly Dividend,,,Open Ended Schemes,Income
@@ -36588,28 +36602,14 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154522,Abakkus Investment Managers Private Limited,Abakkus Liquid Fund - Unclaimed IDCW Less than 3 Years,,,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
 154126,Sundaram Asset Management Company Ltd,Sundaram Income Plus Arbitrage Active FoF Fund-Regular-IDCW Reinvestment,INF903JA1ME0,,Open Ended,Other Scheme - FoF Domestic
 154128,Sundaram Asset Management Company Ltd,Sundaram Income Plus Arbitrage Active FoF Fund-Direct-IDCW Reinvestment,INF903JA1MB6,,Open Ended,Other Scheme - FoF Domestic
-154701,Jio BlackRock Asset Management Private Limited,JioBlackRock Balanced Advantage Fund - Direct Plan - Growth Option,INF22M001366,,Open Ended,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
-154702,Jio BlackRock Asset Management Private Limited,JioBlackRock Balanced Advantage Fund - Regular Plan - Growth Option,INF22M001374,,Open Ended,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 154707,Monarch Networth Asset Management Private Limited,Monarch Overnight Fund - Direct Plan-Daily IDCW,INF2ZSC01044,,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
 154709,Monarch Networth Asset Management Private Limited,Monarch Overnight Fund- Regular Plan- Monthly IDCW,INF2ZSC01077,INF2ZSC01051,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
-154712,Invesco Asset Management (India) Private Limited,Invesco India Nifty India Defence Index Fund - Direct Plan - Growth,INF205KA1CG8,,Open Ended,Index Funds - Equity Funds
-154713,Invesco Asset Management (India) Private Limited,Invesco India Nifty India Defence Index Fund - Regular Plan - Growth,INF205KA1CD5,,Open Ended,Index Funds - Equity Funds
-154714,Invesco Asset Management (India) Private Limited,Invesco India Nifty India Defence Index Fund - Direct Plan - IDCW,INF205KA1CH6,INF205KA1CI4,Open Ended,Index Funds - Equity Funds
-154715,Invesco Asset Management (India) Private Limited,Invesco India Nifty India Defence Index Fund - Regular Plan - IDCW,INF205KA1CE3,INF205KA1CF0,Open Ended,Index Funds - Equity Funds
-154716,Invesco Asset Management (India) Private Limited,Invesco India Nifty Chemical Index Fund - Regular Plan - Growth,INF205KA1CJ2,,Open Ended,Index Funds - Equity Funds
-154717,Invesco Asset Management (India) Private Limited,Invesco India Nifty Chemical Index Fund - Regular Plan - IDCW,INF205KA1CK0,INF205KA1CL8,Open Ended,Index Funds - Equity Funds
-154718,Invesco Asset Management (India) Private Limited,Invesco India Nifty Chemical Index Fund - Direct Plan - IDCW,INF205KA1CN4,INF205KA1CO2,Open Ended,Index Funds - Equity Funds
-154719,Invesco Asset Management (India) Private Limited,Invesco India Nifty Chemical Index Fund - Direct Plan - Growth,INF205KA1CM6,,Open Ended,Index Funds - Equity Funds
 154729,Shriram Asset Management Co. Ltd.,Shriram Gold ETF Passive FOF-Direct-IDCWPAYOUT,INF680P01679,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154725,Shriram Asset Management Co. Ltd.,Shriram Gold ETF Passive FOF-Regular-IDCWPAYOUT,INF680P01687,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154740,ICICI Prudential Asset Management Company Limited,ICICI Prudential Contra Fund - Direct Plan - Growth,,,Open Ended,Equity Schemes - Contra Fund
 154741,ICICI Prudential Asset Management Company Limited,ICICI Prudential Contra Fund - Growth,,,Open Ended,Equity Schemes - Contra Fund
 154742,ICICI Prudential Asset Management Company Limited,ICICI Prudential Contra Fund - IDCW,,,Open Ended,Equity Schemes - Contra Fund
 154743,ICICI Prudential Asset Management Company Limited,ICICI Prudential Contra Fund - Direct Plan - IDCW,,,Open Ended,Equity Schemes - Contra Fund
-154754,Kotak Mahindra Asset Management Company Limited.,Kotak Nifty Capital Markets Index Fund - Direct Plan - Growth,INF174KA1G07,,Open Ended,Index Funds - Equity Funds
-154755,Kotak Mahindra Asset Management Company Limited.,Kotak Nifty Capital Markets Index Fund - Direct Plan - IDCW,INF174KA1G15,INF174KA1G23,Open Ended,Index Funds - Equity Funds
-154756,Kotak Mahindra Asset Management Company Limited.,Kotak Nifty Capital Markets Index Fund - Regular Plan - Growth,INF174KA1G31,,Open Ended,Index Funds - Equity Funds
-154757,Kotak Mahindra Asset Management Company Limited.,Kotak Nifty Capital Markets Index Fund - Regular Plan - IDCW,INF174KA1G49,INF174KA1G56,Open Ended,Index Funds - Equity Funds
 154758,SBI Funds Management Limited,SBI Nifty200 Value 30 ETF FOF - Regular Plan - Growth,INF200KB1CD9,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154759,SBI Funds Management Limited,SBI Nifty200 Value 30 ETF FOF - Regular Plan - IDCW,INF200KB1CE7,INF200KB1CF4,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154760,SBI Funds Management Limited,SBI Nifty200 Value 30 ETF FOF - Direct Plan - Growth,INF200KB1CG2,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
@@ -36673,3 +36673,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154824,quant Money Managers Limited,quant Nifty 100 Index Fund - IDCW Option - Direct Plan,,,Open Ended,Index Funds - Equity Funds
 154825,quant Money Managers Limited,quant Nifty 100 Index Fund - IDCW Option - Regular Plan,,,Open Ended,Index Funds - Equity Funds
 154826,SBI Funds Management Limited,SBI BSE India Defence ETF,,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
+154827,Motilal Oswal Asset Management Company Limited,Motilal Oswal Multi Asset - Omni Fund of Funds - Direct Growth,INF247L01HS2,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154828,Motilal Oswal Asset Management Company Limited,Motilal Oswal Multi Asset - Omni Fund of Funds - Direct IDCW Payout,INF247L01HT0,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154829,Motilal Oswal Asset Management Company Limited,Motilal Oswal Multi Asset - Omni Fund of Funds - Direct IDCW Reinvestment,INF247L01HU8,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154830,Motilal Oswal Asset Management Company Limited,Motilal Oswal Multi Asset - Omni Fund of Funds - Regular Growth,INF247L01HV6,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154831,Motilal Oswal Asset Management Company Limited,Motilal Oswal Multi Asset - Omni Fund of Funds - Regular IDCW Reinvestment,INF247L01HX2,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154833,Motilal Oswal Asset Management Company Limited,Motilal Oswal Multi Asset - Omni Fund of Funds - Regular IDCW Payout,INF247L01HW4,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
