@@ -36672,12 +36672,16 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154823,quant Money Managers Limited,quant Nifty 100 Index Fund - Growth Option - Regular Plan,INF966L01FE1,,Open Ended,Index Funds - Equity Funds
 154824,quant Money Managers Limited,quant Nifty 100 Index Fund - IDCW Option - Direct Plan,INF966L01FC5,INF966L01FD3,Open Ended,Index Funds - Equity Funds
 154825,quant Money Managers Limited,quant Nifty 100 Index Fund - IDCW Option - Regular Plan,INF966L01FF8,INF966L01FG6,Open Ended,Index Funds - Equity Funds
-154826,SBI Funds Management Limited,SBI BSE India Defence ETF,,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
+154826,SBI Funds Management Limited,SBI BSE India Defence ETF,INF200KB1CJ6,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154827,Motilal Oswal Asset Management Company Limited,Motilal Oswal Multi Asset - Omni Fund of Funds - Direct Growth,INF247L01HS2,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154828,Motilal Oswal Asset Management Company Limited,Motilal Oswal Multi Asset - Omni Fund of Funds - Direct IDCW Payout,INF247L01HT0,INF247L01HU8,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154830,Motilal Oswal Asset Management Company Limited,Motilal Oswal Multi Asset - Omni Fund of Funds - Regular Growth,INF247L01HV6,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154833,Motilal Oswal Asset Management Company Limited,Motilal Oswal Multi Asset - Omni Fund of Funds - Regular IDCW Payout,INF247L01HW4,INF247L01HX2,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
-154836,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset Fixed Maturity Plan   Series VI  3 to 6 Months - Regular Plan - Growth,,,Close Ended,Income/Debt Oriented Schemes - Fixed Term Plan
-154837,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset Fixed Maturity Plan   Series VI  3 to 6 Months - Regular Plan - IDCW,,,Close Ended,Income/Debt Oriented Schemes - Fixed Term Plan
-154834,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset Fixed Maturity Plan   Series VI  3 to 6 Months - Direct Plan - Growth,,,Close Ended,Income/Debt Oriented Schemes - Fixed Term Plan
-154835,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset Fixed Maturity Plan   Series VI  3 to 6 Months - Direct Plan - IDCW,,,Close Ended,Income/Debt Oriented Schemes - Fixed Term Plan
+154836,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset Fixed Maturity Plan   Series VI  3 to 6 Months - Regular Plan - Growth,INF769K01RX6,,Close Ended,Income/Debt Oriented Schemes - Fixed Term Plan
+154837,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset Fixed Maturity Plan   Series VI  3 to 6 Months - Regular Plan - IDCW,INF769K01RY4,,Close Ended,Income/Debt Oriented Schemes - Fixed Term Plan
+154834,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset Fixed Maturity Plan   Series VI  3 to 6 Months - Direct Plan - Growth,INF769K01RZ1,,Close Ended,Income/Debt Oriented Schemes - Fixed Term Plan
+154835,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset Fixed Maturity Plan   Series VI  3 to 6 Months - Direct Plan - IDCW,INF769K01SA2,,Close Ended,Income/Debt Oriented Schemes - Fixed Term Plan
+154838,Axis Asset Management Co. Ltd.,Axis Nifty EV & New Age Automotive Index Fund,,,Open Ended,Index Funds - Equity Funds
+154839,Axis Asset Management Co. Ltd.,Axis Nifty EV & New Automotive Index Fund,,,Open Ended,Index Funds - Equity Funds
+154840,Choice AMC Private Limited,Choice Large & Mid Cap Fund - Growth - Regular Plan,,,Open Ended,Equity Schemes - Large & Mid Cap Fund
+154841,Choice AMC Private Limited,Choice Large & Mid Cap Fund - Growth - Direct Plan,,,Open Ended,Equity Schemes - Large & Mid Cap Fund
