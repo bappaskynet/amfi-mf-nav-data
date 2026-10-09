@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "Kotak Mahindra Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Index Funds - Equity Funds",
+        "scheme_code": 154757,
+        "scheme_name": "Kotak Nifty Capital Markets Index Fund - Regular Plan - IDCW",
+        "isin_growth": "INF174KA1G49",
+        "isin_div_reinvestment": "INF174KA1G56"
+    },
+    "data": [
+        {
+            "date": "08-10-2026",
+            "nav": "10.07000"
+        }
+    ],
+    "status": "SUCCESS"
+}

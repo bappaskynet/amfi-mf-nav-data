@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "Invesco Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Index Funds - Equity Funds",
+        "scheme_code": 154714,
+        "scheme_name": "Invesco India Nifty India Defence Index Fund - Direct Plan - IDCW",
+        "isin_growth": "INF205KA1CH6",
+        "isin_div_reinvestment": "INF205KA1CI4"
+    },
+    "data": [
+        {
+            "date": "08-10-2026",
+            "nav": "9.63560"
+        }
+    ],
+    "status": "SUCCESS"
+}

@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "Invesco Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Index Funds - Equity Funds",
+        "scheme_code": 154719,
+        "scheme_name": "Invesco India Nifty Chemical Index Fund - Direct Plan - Growth",
+        "isin_growth": "INF205KA1CM6",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "08-10-2026",
+            "nav": "9.78360"
+        }
+    ],
+    "status": "SUCCESS"
+}
