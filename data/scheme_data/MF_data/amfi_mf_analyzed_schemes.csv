@@ -36249,7 +36249,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 154357,DSP Mutual Fund,DSP Nifty FMCG ETF,INF740KA1ZA4,Open Ended,Other,ETF,Other,Other,
 154358,Kotak Mahindra Mutual Fund,Kotak Ultra Short to Short Term Fund,INF174KA1ZW3,Open Ended,Income/Debt Orienteds,Ultra Short to Short Term Fund,Other,Other,
 154359,Kotak Mahindra Mutual Fund,Kotak Ultra Short to Short Term Fund,INF174KA1ZZ6,Open Ended,Income/Debt Orienteds,Ultra Short to Short Term Fund,Other,Other,
-154360,Kotak Mahindra Asset Management Company Limited.,Kotak Ultra Short to Short Term Fund - Regular Plan - Weekly - Reinvestment & Payout of Income Distribution cum Capital Withdrawal Option,INF174KA1ZV5,Open Ended,Income/Debt Orienteds,Ultra Short to Short Term Fund,Regular,IDCW,Reinvestment
+154360,Kotak Mahindra Mutual Fund,Kotak Ultra Short to Short Term Fund,INF174KA1ZV5,Open Ended,Income/Debt Orienteds,Ultra Short to Short Term Fund,Other,Other,
 154361,Kotak Mahindra Mutual Fund,Kotak Ultra Short to Short Term Fund,INF174KA1A03,Open Ended,Income/Debt Orienteds,Ultra Short to Short Term Fund,Other,Other,
 154362,SBI Mutual Fund,SBI Nifty G-sec Jul 2031 Index Fund,INF200KB1AZ6,Open Ended,Other,Index Funds,Other,Other,
 154363,SBI Mutual Fund,SBI CRISIL-IBX 10:90 Gilt + SDL Index - Dec 2029 Index Fund,INF200KB1BF6,Open Ended,Other,Index Funds,Other,Other,
@@ -36659,7 +36659,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 154810,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Financial Services Sectoral Debt Fund Regular Growth,INF209KC1803,Open Ended,Income/Debt Orienteds,Sectoral Fund,Regular,Growth,
 154811,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Financial Services Sectoral Debt Fund Direct IDCW,INF209KC1787,Open Ended,Income/Debt Orienteds,Sectoral Fund,Direct,IDCW,
 154812,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Financial Services Sectoral Debt Fund Regular IDCW,INF209KC1811,Open Ended,Income/Debt Orienteds,Sectoral Fund,Regular,IDCW,
-154813,Zerodha Asset Management Private Limited,Zerodha BSE TOP 10 BANKS ETF,INF0R8F01265,Open Ended,Index Funds,Equity Funds,Other,Other,
+154813,Zerodha Asset Management Private Limited,Zerodha BSE TOP 10 BANKS ETF,INF0R8F01265,Open Ended,Exchange Traded Funds (ETFs),ETF,Other,Other,
 154814,quant Money Managers Limited,quant Nifty 50 Index Fund - Growth Option - Direct Plan,INF966L01EV8,Open Ended,Index Funds,Equity Funds,Direct,Growth,
 154815,quant Money Managers Limited,quant Nifty 50 Index Fund - IDCW Option - Direct Plan,INF966L01EW6,Open Ended,Index Funds,Equity Funds,Direct,IDCW,
 154816,quant Money Managers Limited,quant Nifty 50 Index Fund - Growth Option - Regular Plan,INF966L01EY2,Open Ended,Index Funds,Equity Funds,Regular,Growth,
