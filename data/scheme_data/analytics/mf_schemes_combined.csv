@@ -14370,6 +14370,11 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154755,Kotak Mahindra Mutual Fund,Kotak Nifty Capital Markets Index Fund,INF174KA1G15,INF174KA1G23,Open Ended Schemes,Index Funds - Equity Funds
 154756,Kotak Mahindra Mutual Fund,Kotak Nifty Capital Markets Index Fund,INF174KA1G31,,Open Ended Schemes,Index Funds - Equity Funds
 154757,Kotak Mahindra Mutual Fund,Kotak Nifty Capital Markets Index Fund,INF174KA1G49,INF174KA1G56,Open Ended Schemes,Index Funds - Equity Funds
+154758,SBI Mutual Fund,SBI Nifty200 Value 30 ETF FOF,INF200KB1CD9,,Open Ended Schemes,Fund of Funds Scheme
+154759,SBI Mutual Fund,SBI Nifty200 Value 30 ETF FOF,INF200KB1CE7,INF200KB1CF4,Open Ended Schemes,Fund of Funds Scheme
+154760,SBI Mutual Fund,SBI Nifty200 Value 30 ETF FOF,INF200KB1CG2,,Open Ended Schemes,Fund of Funds Scheme
+154761,SBI Mutual Fund,SBI Nifty200 Value 30 ETF FOF,INF200KB1CH0,INF200KB1CI8,Open Ended Schemes,Fund of Funds Scheme
+154765,HDFC Mutual Fund,HDFC FTSE India Equity ETF,INF179KC1LA2,,Open Ended Schemes,Exchange Traded Funds
 154768,DSP Mutual Fund,DSP BSE Insurance ETF,INF740KA1ZR8,,Open Ended Schemes,Exchange Traded Funds
 100027,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Half Yearly Dividend,,,Open Ended Schemes,Income
 100028,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Quaterly Dividend,,,Open Ended Schemes,Income
@@ -36610,14 +36615,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154741,ICICI Prudential Asset Management Company Limited,ICICI Prudential Contra Fund - Growth,,,Open Ended,Equity Schemes - Contra Fund
 154742,ICICI Prudential Asset Management Company Limited,ICICI Prudential Contra Fund - IDCW,,,Open Ended,Equity Schemes - Contra Fund
 154743,ICICI Prudential Asset Management Company Limited,ICICI Prudential Contra Fund - Direct Plan - IDCW,,,Open Ended,Equity Schemes - Contra Fund
-154758,SBI Funds Management Limited,SBI Nifty200 Value 30 ETF FOF - Regular Plan - Growth,INF200KB1CD9,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
-154759,SBI Funds Management Limited,SBI Nifty200 Value 30 ETF FOF - Regular Plan - IDCW,INF200KB1CE7,INF200KB1CF4,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
-154760,SBI Funds Management Limited,SBI Nifty200 Value 30 ETF FOF - Direct Plan - Growth,INF200KB1CG2,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
-154761,SBI Funds Management Limited,SBI Nifty200 Value 30 ETF FOF - Direct Plan - IDCW,INF200KB1CH0,INF200KB1CI8,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154762,Motilal Oswal Asset Management Company Limited,Motilal Oswal Nifty REITs & Realty Index Fund - Direct,INF247L01HO1,,Open Ended,Index Funds - Equity Funds
 154763,Motilal Oswal Asset Management Company Limited,Motilal Oswal Nifty REITs & Realty Index Fund - Regular,INF247L01HP8,,Open Ended,Index Funds - Equity Funds
 154764,Zerodha Asset Management Private Limited,Zerodha Nifty Next 100 ETF,INF0R8F01257,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
-154765,HDFC Asset Management Company Limited,HDFC FTSE India Equity ETF-Growth Option,INF179KC1LA2,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154769,WhiteOak Capital Asset Management Limited,WhiteOak Capital Diversified Equity Small Cap Active FOF Regular Plan Growth,INF03VN01AO0,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154770,WhiteOak Capital Asset Management Limited,WhiteOak Capital Diversified Equity Small Cap Active FOF Direct Plan Growth,INF03VN01AN2,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154771,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life BSE Total Market Index Fund - Direct Plan - Growth Option,INF209KC1753,,Open Ended,Index Funds - Equity Funds
@@ -36655,10 +36655,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154812,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Financial Services Sectoral Debt Fund Regular IDCW,INF209KC1811,INF209KC1829,Open Ended,Income/Debt Oriented Schemes - Sectoral Fund
 154805,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Financial Services Sectoral Debt Fund Direct Growth,INF209KC1779,,Open Ended,Income/Debt Oriented Schemes - Sectoral Fund
 154810,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Financial Services Sectoral Debt Fund Regular Growth,INF209KC1803,,Open Ended,Income/Debt Oriented Schemes - Sectoral Fund
-154806,Bajaj Finserv Asset Management Limited,Bajaj Finserv Business Cycle Fund - Regular - Growth,,,Open Ended,Equity Schemes - Thematic Fund
-154807,Bajaj Finserv Asset Management Limited,Bajaj Finserv Business Cycle Fund - Direct - IDCW,,,Open Ended,Equity Schemes - Thematic Fund
-154808,Bajaj Finserv Asset Management Limited,Bajaj Finserv Business Cycle Fund - Direct- Growth,,,Open Ended,Equity Schemes - Thematic Fund
-154809,Bajaj Finserv Asset Management Limited,Bajaj Finserv Business Cycle Fund - Regular - IDCW,,,Open Ended,Equity Schemes - Thematic Fund
+154806,Bajaj Finserv Asset Management Limited,Bajaj Finserv Business Cycle Fund - Regular - Growth,INF0QA701CL4,,Open Ended,Equity Schemes - Thematic Fund
+154807,Bajaj Finserv Asset Management Limited,Bajaj Finserv Business Cycle Fund - Direct - IDCW,INF0QA701CP5,INF0QA701CQ3,Open Ended,Equity Schemes - Thematic Fund
+154808,Bajaj Finserv Asset Management Limited,Bajaj Finserv Business Cycle Fund - Direct- Growth,INF0QA701CO8,,Open Ended,Equity Schemes - Thematic Fund
+154809,Bajaj Finserv Asset Management Limited,Bajaj Finserv Business Cycle Fund - Regular - IDCW,INF0QA701CM2,INF0QA701CN0,Open Ended,Equity Schemes - Thematic Fund
 154813,Zerodha Asset Management Private Limited,Zerodha BSE TOP 10 BANKS ETF,INF0R8F01265,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154814,quant Money Managers Limited,quant Nifty 50 Index Fund - Growth Option - Direct Plan,INF966L01EV8,,Open Ended,Index Funds - Equity Funds
 154815,quant Money Managers Limited,quant Nifty 50 Index Fund - IDCW Option - Direct Plan,INF966L01EW6,INF966L01EX4,Open Ended,Index Funds - Equity Funds
