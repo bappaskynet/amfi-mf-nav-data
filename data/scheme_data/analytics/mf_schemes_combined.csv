@@ -5891,9 +5891,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 139599,Nippon India Mutual Fund,Nippon India Dual Advantage Fixed Tenure Fund IX- Plan F,INF204KB1AS7,,Close Ended Schemes,Income
 139600,Nippon India Mutual Fund,Nippon India Dual Advantage Fixed Tenure Fund IX- Plan F,INF204KB1AT5,,Close Ended Schemes,Income
 139601,Nippon India Mutual Fund,Nippon India Dual Advantage Fixed Tenure Fund IX- Plan F,INF204KB1AR9,,Close Ended Schemes,Income
-139617,Taurus Mutual Fund,Taurus Unclaimed Dividend & Redemption Liability (Less than 3 yrs),,,Open Ended Schemes,Money Market
-139618,Taurus Mutual Fund,Taurus Investor Education Pool (Greater than 3 yrs),,,Open Ended Schemes,Money Market
-139619,Taurus Mutual Fund,Taurus Investor Education Pool (Greater than 3 yrs),,,Open Ended Schemes,Money Market
 139642,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 79 - 1120 Days Plan J,INF109KB1YO2,,Close Ended Schemes,Income
 139643,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 79 - 1120 Days Plan J,INF109KB1YQ7,,Close Ended Schemes,Income
 139645,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 79 - 1120 Days Plan J,INF109KB1YP9,,Close Ended Schemes,Income
@@ -32767,6 +32764,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 139614,Axis Mutual Fund,Axis Hybrid Fund Series - 32 (1367 Days) Dividend,,,Close Ended Schemes,Income
 139615,Axis Mutual Fund,Axis Hybrid Fund Series - 32 (1367 Days) Growth,,,Close Ended Schemes,Income
 139616,Taurus Mutual Fund,Taurus Unclaimed Dividend - Growth,,,Open Ended Schemes,Money Market
+139617,Taurus Mutual Fund,Taurus Unclaimed Dividend & Redemption Liability (Less than 3 yrs) - Growth,,,Open Ended Schemes,Money Market
+139618,Taurus Mutual Fund,Taurus Investor Education Pool (Greater than 3 yrs) - Growth,,,Open Ended Schemes,Money Market
+139619,Taurus Mutual Fund,Taurus Investor Education Pool (Greater than 3 yrs),,,Open Ended Schemes,Money Market
 139620,Edelweiss Mutual Fund,Edelweiss Liquid Fund - Unclaimed Redemption Plan - Upto 3 Years,,,Open Ended Schemes,Income
 139621,Edelweiss Mutual Fund,Edelweiss Liquid Fund - Unclaimed Dividend Plan - Upto 3 Years,,,Open Ended Schemes,Income
 139687,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series NR (1099 days) - Regular Plan-Growth,,,Close Ended Schemes,Income
