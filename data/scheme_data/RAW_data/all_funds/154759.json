@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "SBI Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
+        "scheme_code": 154759,
+        "scheme_name": "SBI Nifty200 Value 30 ETF FOF - Regular Plan - IDCW",
+        "isin_growth": "INF200KB1CE7",
+        "isin_div_reinvestment": "INF200KB1CF4"
+    },
+    "data": [
+        {
+            "date": "12-10-2026",
+            "nav": "9.88810"
+        }
+    ],
+    "status": "SUCCESS"
+}
