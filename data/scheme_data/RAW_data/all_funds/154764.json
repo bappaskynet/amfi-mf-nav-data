@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "Zerodha Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Exchange Traded Funds (ETFs) - Equity ETF",
+        "scheme_code": 154764,
+        "scheme_name": "Zerodha Nifty Next 100 ETF - Growth",
+        "isin_growth": "INF0R8F01257",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "14-10-2026",
+            "nav": "10.21850"
+        }
+    ],
+    "status": "SUCCESS"
+}
