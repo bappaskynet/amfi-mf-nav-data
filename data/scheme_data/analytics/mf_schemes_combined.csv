@@ -14375,6 +14375,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154764,Zerodha Mutual Fund,Zerodha Nifty Next 100 ETF,INF0R8F01257,,Open Ended Schemes,Exchange Traded Funds
 154765,HDFC Mutual Fund,HDFC FTSE India Equity ETF,INF179KC1LA2,,Open Ended Schemes,Exchange Traded Funds
 154768,DSP Mutual Fund,DSP BSE Insurance ETF,INF740KA1ZR8,,Open Ended Schemes,Exchange Traded Funds
+154789,Nippon India Mutual Fund,Nippon India CRISIL-IBX FAR Gilt ETF,,,Open Ended Schemes,Exchange Traded Funds
 100027,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Half Yearly Dividend,,,Open Ended Schemes,Income
 100028,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Quaterly Dividend,,,Open Ended Schemes,Income
 100029,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Growth,,,Open Ended Schemes,Income
@@ -36647,7 +36648,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154785,Carnelian Investment Managers Private Limited,Carnelian Small Cap Fund - Regular Plan - Growth,INF30CN01129,,Open Ended,Equity Schemes - Small Cap Fund
 154786,Carnelian Investment Managers Private Limited,Carnelian Small Cap Fund - Regular Plan - IDCW,INF30CN01137,INF30CN01145,Open Ended,Equity Schemes - Small Cap Fund
 154787,Carnelian Investment Managers Private Limited,Carnelian Small Cap Fund - Direct Plan - Growth,INF30CN01095,,Open Ended,Equity Schemes - Small Cap Fund
-154789,Nippon Life India Asset Management Limited,Nippon India CRISIL -IBX FAR Gilt ETF,,,Open Ended,Exchange Traded Funds (ETFs) - Other ETF
 154790,HDFC Asset Management Company Limited,HDFC Nifty LargeMidcap250 Plus 8-13 yr G-Sec 70 30 Index Fund-Direct Plan-IDCW Option,INF179KC1LC8,,Open Ended,Index Funds - Hybrid Fund
 154791,HDFC Asset Management Company Limited,HDFC Nifty LargeMidcap250 Plus 8-13 yr G-Sec 70 30 Index Fund-IDCW Option,INF179KC1LF1,,Open Ended,Index Funds - Hybrid Fund
 154792,HDFC Asset Management Company Limited,HDFC Nifty LargeMidcap250 Plus 8-13 yr G-Sec 70 30 Index Fund-Growth Option,INF179KC1LE4,,Open Ended,Index Funds - Hybrid Fund
