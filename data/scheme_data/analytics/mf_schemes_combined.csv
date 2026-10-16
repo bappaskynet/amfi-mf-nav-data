@@ -36623,10 +36623,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154709,Monarch Networth Asset Management Private Limited,Monarch Overnight Fund- Regular Plan- Monthly IDCW,INF2ZSC01077,INF2ZSC01051,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
 154729,Shriram Asset Management Co. Ltd.,Shriram Gold ETF Passive FOF-Direct-IDCWPAYOUT,INF680P01679,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154725,Shriram Asset Management Co. Ltd.,Shriram Gold ETF Passive FOF-Regular-IDCWPAYOUT,INF680P01687,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
-154740,ICICI Prudential Asset Management Company Limited,ICICI Prudential Contra Fund - Direct Plan - Growth,,,Open Ended,Equity Schemes - Contra Fund
-154741,ICICI Prudential Asset Management Company Limited,ICICI Prudential Contra Fund - Growth,,,Open Ended,Equity Schemes - Contra Fund
-154742,ICICI Prudential Asset Management Company Limited,ICICI Prudential Contra Fund - IDCW,,,Open Ended,Equity Schemes - Contra Fund
-154743,ICICI Prudential Asset Management Company Limited,ICICI Prudential Contra Fund - Direct Plan - IDCW,,,Open Ended,Equity Schemes - Contra Fund
+154740,ICICI Prudential Asset Management Company Limited,ICICI Prudential Contra Fund - Direct Plan - Growth,INF109K1A682,,Open Ended,Equity Schemes - Contra Fund
+154741,ICICI Prudential Asset Management Company Limited,ICICI Prudential Contra Fund - Growth,INF109K1A658,,Open Ended,Equity Schemes - Contra Fund
+154742,ICICI Prudential Asset Management Company Limited,ICICI Prudential Contra Fund - IDCW,INF109K1A674,INF109K1A666,Open Ended,Equity Schemes - Contra Fund
+154743,ICICI Prudential Asset Management Company Limited,ICICI Prudential Contra Fund - Direct Plan - IDCW,INF109K1A708,INF109K1A690,Open Ended,Equity Schemes - Contra Fund
 154762,Motilal Oswal Asset Management Company Limited,Motilal Oswal Nifty REITs & Realty Index Fund - Direct,INF247L01HO1,,Open Ended,Index Funds - Equity Funds
 154763,Motilal Oswal Asset Management Company Limited,Motilal Oswal Nifty REITs & Realty Index Fund - Regular,INF247L01HP8,,Open Ended,Index Funds - Equity Funds
 154769,WhiteOak Capital Asset Management Limited,WhiteOak Capital Diversified Equity Small Cap Active FOF Regular Plan Growth,INF03VN01AO0,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
@@ -36698,3 +36698,5 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154852,ICICI Prudential Asset Management Company Limited,ICICI Prudential BSE Power ETF,,,Open Ended,Exchange Traded Funds (ETFs) - Other ETF
 154853,Navi AMC Limited,Navi Multi Asset Omni Fund of Fund Direct Growth,INF959L01HV6,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154854,Navi AMC Limited,Navi Multi Asset Omni Funf of Fund Regular Growth,INF959L01HW4,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154855,UTI Asset Mgmt. Co. Ltd.,UTI Nifty India New Age Consumption Index Fund - Direct Growth Option,,,Open Ended,Index Funds - Equity Funds
+154856,UTI Asset Mgmt. Co. Ltd.,UTI Nifty India New Age Consumption Index Fund - Regular Growth Option,,,Open Ended,Index Funds - Equity Funds
