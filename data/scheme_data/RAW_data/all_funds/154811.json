@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "Aditya Birla Sun Life Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Income/Debt Oriented Schemes - Sectoral Fund",
+        "scheme_code": 154811,
+        "scheme_name": "Aditya Birla Sun Life Financial Services Sectoral Debt Fund - Direct Plan - IDCW",
+        "isin_growth": "INF209KC1787",
+        "isin_div_reinvestment": "INF209KC1795"
+    },
+    "data": [
+        {
+            "date": "16-10-2026",
+            "nav": "10.00250"
+        }
+    ],
+    "status": "SUCCESS"
+}

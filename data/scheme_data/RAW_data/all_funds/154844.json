@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "WhiteOak Capital Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation",
+        "scheme_code": 154844,
+        "scheme_name": "WhiteOak Capital Balanced Advantage Fund - Direct Plan - IDCW Option",
+        "isin_growth": "INF03VN01AT9",
+        "isin_div_reinvestment": "INF03VN01AU7"
+    },
+    "data": [
+        {
+            "date": "16-10-2026",
+            "nav": "15.36800"
+        }
+    ],
+    "status": "SUCCESS"
+}

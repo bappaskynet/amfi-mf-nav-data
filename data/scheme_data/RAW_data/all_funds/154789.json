@@ -5,10 +5,14 @@
         "scheme_category": "Exchange Traded Funds (ETFs) - Other ETF",
         "scheme_code": 154789,
         "scheme_name": "Nippon India CRISIL-IBX FAR Gilt ETF - Growth",
-        "isin_growth": null,
+        "isin_growth": "INF204KC1HS1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "16-10-2026",
+            "nav": "132.24300"
+        },
         {
             "date": "15-10-2026",
             "nav": "132.07440"
