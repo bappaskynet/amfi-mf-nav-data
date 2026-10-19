@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Zerodha Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Other  ETFs",
+        "scheme_category": "Exchange Traded Funds (ETFs) - Equity ETF",
         "scheme_code": 153905,
         "scheme_name": "Zerodha Nifty 50 ETF - Direct Plan",
         "isin_growth": "INF0R8F01166",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "19-10-2026",
+            "nav": "9.20650"
+        },
         {
             "date": "16-10-2026",
             "nav": "9.30980"

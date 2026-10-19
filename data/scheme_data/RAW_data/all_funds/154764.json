@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Exchange Traded Funds (ETFs) - Equity ETF",
         "scheme_code": 154764,
-        "scheme_name": "Zerodha Nifty Next 100 ETF - Growth",
+        "scheme_name": "Zerodha Nifty Next 100 ETF - Direct Plan - Growth",
         "isin_growth": "INF0R8F01257",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "19-10-2026",
+            "nav": "10.12790"
+        },
         {
             "date": "16-10-2026",
             "nav": "10.20310"

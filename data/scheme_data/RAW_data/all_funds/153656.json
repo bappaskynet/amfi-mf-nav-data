@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Zerodha Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
         "scheme_code": 153656,
         "scheme_name": "Zerodha Silver ETF FoF - Direct Plan - Growth Option",
         "isin_growth": "INF0R8F01109",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "19-10-2026",
+            "nav": "18.79940"
+        },
         {
             "date": "16-10-2026",
             "nav": "19.02440"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Zerodha Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Index Funds",
+        "scheme_category": "Index Funds - Debt Funds",
         "scheme_code": 154109,
         "scheme_name": "Zerodha Nifty Short Duration G-Sec Index Fund - Direct Plan - Growth Option",
         "isin_growth": "INF0R8F01182",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "19-10-2026",
+            "nav": "1025.18400"
+        },
         {
             "date": "16-10-2026",
             "nav": "1025.58910"
