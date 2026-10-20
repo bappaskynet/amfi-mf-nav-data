@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Zerodha Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Other  ETFs",
+        "scheme_category": "Exchange Traded Funds (ETFs) - Silver ETF",
         "scheme_code": 153413,
         "scheme_name": "Zerodha Silver ETF - Direct Plan",
         "isin_growth": "INF0R8F01091",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "19-10-2026",
+            "nav": "20.92050"
+        },
         {
             "date": "16-10-2026",
             "nav": "21.14700"
