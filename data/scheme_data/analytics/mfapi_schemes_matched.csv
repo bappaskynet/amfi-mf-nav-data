@@ -29093,8 +29093,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 152153,Helios Mutual Fund,Helios Overnight Fund - Regular Plan - Growth,INF0R8701095,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 152154,Helios Mutual Fund,Helios Overnight Fund - Regular Plan - Daily IDCW,INF0R8701103,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 152155,Mirae Asset Mutual Fund,Mirae Asset Nifty IT ETF,INF769K01KV5,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Equity ETF
-152156,Zerodha Mutual Fund,Zerodha Nifty LargeMidcap 250 Index Fund - Direct Plan - Growth Option,INF0R8F01018,,Open Ended Schemes,Other Scheme - Index Funds
-152157,Zerodha Mutual Fund,Zerodha ELSS Tax Saver Nifty LargeMidcap 250 Index Fund - Direct Plan - Growth Option,INF0R8F01026,,Open Ended Schemes,Other Scheme - Index Funds
+152156,Zerodha Mutual Fund,Zerodha Nifty LargeMidcap 250 Index Fund - Direct Plan - Growth Option,INF0R8F01018,,Open Ended Schemes,Index Funds - Equity Funds
+152157,Zerodha Mutual Fund,Zerodha ELSS Tax Saver Nifty LargeMidcap 250 Index Fund - Direct Plan - Growth Option,INF0R8F01026,,Open Ended Schemes,Index Funds - Equity Funds
 152158,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Transportation and Logistics Fund - Direct Plan - GROWTH,INF209KB15X7,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 152159,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Transportation and Logistics Fund - Direct Plan - IDCW,INF209KB16X5,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 152160,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Transportation and Logistics Fund - Regular Plan - IDCW,INF209KB18X1,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
@@ -29228,7 +29228,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 152324,Bandhan Mutual Fund,BANDHAN MULTI ASSET ALLOCATION FUND - Direct Plan - Growth,INF194KB1HM7,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
 152325,Bandhan Mutual Fund,BANDHAN MULTI ASSET ALLOCATION FUND - Regular Plan - IDCW,INF194KB1HK1,INF194KB1HL9,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
 152326,Bandhan Mutual Fund,BANDHAN MULTI ASSET ALLOCATION FUND - Regular Plan - Growth,INF194KB1HJ3,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
-152327,Zerodha Mutual Fund,Zerodha Nifty 1D Rate Liquid ETF - Direct Plan - Growth Option,INF0R8F01034,,Open Ended Schemes,Other Scheme - Other  ETFs
+152327,Zerodha Mutual Fund,Zerodha Nifty 1D Rate Liquid ETF - Direct Plan - Growth Option,INF0R8F01034,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Debt ETF
 152328,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Nifty 50 Index Fund - Regular Plan - IDCW Option,INF251K01SW5,INF251K01SX3,Open Ended Schemes,Other Scheme - Index Funds
 152329,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Nifty 50 Index Fund - Direct Plan - Growth Option,INF251K01SY1,,Open Ended Schemes,Other Scheme - Index Funds
 152330,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Nifty 50 Index Fund - Direct Plan - IDCW Option,INF251K01SZ8,INF251K01TA9,Open Ended Schemes,Other Scheme - Index Funds
@@ -29494,8 +29494,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 152664,Kotak Mahindra Mutual Fund,Kotak NIFTY 100 Low Volatility 30 Index Fund - Regular Plan - Growth,INF174KA1RW0,,Open Ended Schemes,Other Scheme - Index Funds
 152665,Kotak Mahindra Mutual Fund,Kotak NIFTY 100 Low Volatility 30 Index Fund - Direct Plan - IDCW,INF174KA1SA4,INF174KA1SB2,Open Ended Schemes,Other Scheme - Index Funds
 152666,Kotak Mahindra Mutual Fund,Kotak NIFTY 100 Low Volatility 30 Index Fund - Regular Plan - IDCW,INF174KA1RX8,INF174KA1RY6,Open Ended Schemes,Other Scheme - Index Funds
-152667,Zerodha Mutual Fund,Zerodha Nifty 100 ETF - Direct Plan,INF0R8F01067,,Open Ended Schemes,Other Scheme - Other  ETFs
-152668,Zerodha Mutual Fund,Zerodha Nifty Midcap 150 ETF - Direct Plan,INF0R8F01059,,Open Ended Schemes,Other Scheme - Other  ETFs
+152667,Zerodha Mutual Fund,Zerodha Nifty 100 ETF - Direct Plan,INF0R8F01067,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Equity ETF
+152668,Zerodha Mutual Fund,Zerodha Nifty Midcap 150 ETF - Direct Plan,INF0R8F01059,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Equity ETF
 152669,Mahindra Manulife Mutual Fund,Mahindra Manulife Manufacturing Fund - Regular Plan - IDCW,INF174V01CA6,INF174V01CB4,Open Ended Schemes,Equity Schemes - Thematic Fund
 152670,Mahindra Manulife Mutual Fund,Mahindra Manulife Manufacturing Fund - Direct Plan - IDCW,INF174V01CD0,INF174V01CE8,Open Ended Schemes,Equity Schemes - Thematic Fund
 152671,Mahindra Manulife Mutual Fund,Mahindra Manulife Manufacturing Fund - Regular Plan - Growth,INF174V01BZ5,,Open Ended Schemes,Equity Schemes - Thematic Fund
@@ -29826,7 +29826,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153008,Mirae Asset Mutual Fund,Mirae Asset Gold ETF Fund of Fund - Direct Plan - IDCW,INF769K01MW9,INF769K01MX7,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 153009,Mirae Asset Mutual Fund,Mirae Asset Gold ETF Fund of Fund - Regular Plan - Growth,INF769K01MS7,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 153010,Mirae Asset Mutual Fund,Mirae Asset Gold ETF Fund of Fund - Regular Plan - IDCW,INF769K01MT5,INF769K01MU3,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
-153011,Zerodha Mutual Fund,Zerodha Gold ETF FoF - Direct Plan - Growth Option,INF0R8F01083,,Open Ended Schemes,Other Scheme - FoF Domestic
+153011,Zerodha Mutual Fund,Zerodha Gold ETF FoF - Direct Plan - Growth Option,INF0R8F01083,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 153012,SBI Mutual Fund,SBI Nifty India Consumption Index Fund - Regular Plan - Growth,INF200KB1415,,Open Ended Schemes,Other Scheme - Index Funds
 153013,SBI Mutual Fund,SBI Nifty India Consumption Index Fund - Regular Plan - IDCW,INF200KB1423,INF200KB1431,Open Ended Schemes,Other Scheme - Index Funds
 153014,SBI Mutual Fund,SBI Nifty India Consumption Index Fund - Direct Plan - IDCW,INF200KB1456,INF200KB1464,Open Ended Schemes,Other Scheme - Index Funds
@@ -31417,6 +31417,11 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154764,Zerodha Mutual Fund,Zerodha Nifty Next 100 ETF - Direct Plan - Growth,INF0R8F01257,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Equity ETF
 154765,HDFC Mutual Fund,HDFC FTSE India Equity ETF - Direct Plan - Growth Option,INF179KC1LA2,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Equity ETF
 154768,DSP Mutual Fund,DSP BSE Insurance ETF,INF740KA1ZR8,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Equity ETF
+154780,Carnelian Mutual Fund,Carnelian Liquid Fund - Regular Plan - Growth,INF30CN01061,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+154781,Carnelian Mutual Fund,Carnelian Liquid Fund - Regular Plan - Daily IDCW Reinvest,,INF30CN01079,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+154782,Carnelian Mutual Fund,Carnelian Liquid Fund - Direct Plan - Growth,INF30CN01038,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+154783,Carnelian Mutual Fund,Carnelian Liquid Fund - Direct Plan - Weekly IDCW Reinvest,,INF30CN01053,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+154784,Carnelian Mutual Fund,Carnelian Liquid Fund - Direct Plan - Daily IDCW Reinvest,,INF30CN01046,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 154789,Nippon India Mutual Fund,Nippon India CRISIL-IBX FAR Gilt ETF - Growth,INF204KC1HS1,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Other ETF
 154805,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Financial Services Sectoral Debt Fund - Direct Plan - Growth,INF209KC1779,,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
 154810,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Financial Services Sectoral Debt Fund - Regular Plan - Growth,INF209KC1803,,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
