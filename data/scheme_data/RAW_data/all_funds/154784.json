@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "Carnelian Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
+        "scheme_code": 154784,
+        "scheme_name": "Carnelian Liquid Fund - Direct Plan - Daily IDCW Reinvest",
+        "isin_growth": null,
+        "isin_div_reinvestment": "INF30CN01046"
+    },
+    "data": [
+        {
+            "date": "19-10-2026",
+            "nav": "1000.00000"
+        }
+    ],
+    "status": "SUCCESS"
+}

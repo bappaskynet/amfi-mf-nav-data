@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "Carnelian Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
+        "scheme_code": 154780,
+        "scheme_name": "Carnelian Liquid Fund - Regular Plan - Growth",
+        "isin_growth": "INF30CN01061",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "19-10-2026",
+            "nav": "1001.01170"
+        }
+    ],
+    "status": "SUCCESS"
+}
