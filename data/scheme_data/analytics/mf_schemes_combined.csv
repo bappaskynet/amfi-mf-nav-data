@@ -14379,6 +14379,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154764,Zerodha Mutual Fund,Zerodha Nifty Next 100 ETF,INF0R8F01257,,Open Ended Schemes,Exchange Traded Funds
 154765,HDFC Mutual Fund,HDFC FTSE India Equity ETF,INF179KC1LA2,,Open Ended Schemes,Exchange Traded Funds
 154768,DSP Mutual Fund,DSP BSE Insurance ETF,INF740KA1ZR8,,Open Ended Schemes,Exchange Traded Funds
+154769,WhiteOak Capital Mutual Fund,WhiteOak Capital Diversified Equity Small Cap Active FOF,INF03VN01AO0,,Open Ended Schemes,Fund of Funds Scheme
+154770,WhiteOak Capital Mutual Fund,WhiteOak Capital Diversified Equity Small Cap Active FOF,INF03VN01AN2,,Open Ended Schemes,Fund of Funds Scheme
 154775,Mirae Asset Mutual Fund,Mirae Asset Life Cycle Fund 2056,INF769K01RU2,,Open Ended Schemes,Life Cycle Funds - Life Cycle Fund with Maturity of 30 Years
 154776,Mirae Asset Mutual Fund,Mirae Asset Life Cycle Fund 2056,INF769K01RW8,INF769K01RV0,Open Ended Schemes,Life Cycle Funds - Life Cycle Fund with Maturity of 30 Years
 154777,Mirae Asset Mutual Fund,Mirae Asset Life Cycle Fund 2056,INF769K01RR8,,Open Ended Schemes,Life Cycle Funds - Life Cycle Fund with Maturity of 30 Years
@@ -36642,8 +36644,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154725,Shriram Asset Management Co. Ltd.,Shriram Gold ETF Passive FOF-Regular-IDCWPAYOUT,INF680P01687,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154762,Motilal Oswal Asset Management Company Limited,Motilal Oswal Nifty REITs & Realty Index Fund - Direct,INF247L01HO1,,Open Ended,Index Funds - Equity Funds
 154763,Motilal Oswal Asset Management Company Limited,Motilal Oswal Nifty REITs & Realty Index Fund - Regular,INF247L01HP8,,Open Ended,Index Funds - Equity Funds
-154769,WhiteOak Capital Asset Management Limited,WhiteOak Capital Diversified Equity Small Cap Active FOF Regular Plan Growth,INF03VN01AO0,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
-154770,WhiteOak Capital Asset Management Limited,WhiteOak Capital Diversified Equity Small Cap Active FOF Direct Plan Growth,INF03VN01AN2,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154771,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life BSE Total Market Index Fund - Direct Plan - Growth Option,INF209KC1753,,Open Ended,Index Funds - Equity Funds
 154772,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life BSE Toatl Market Index Fund - Regular Plan - Growth Option,INF209KC1761,,Open Ended,Index Funds - Equity Funds
 154774,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life BSE Total Market ETF,INF209KC1746,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
