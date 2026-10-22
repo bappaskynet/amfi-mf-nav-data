@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "Mirae Asset Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Life Cycle Funds - Life Cycle Fund with Maturity of 30 Years",
+        "scheme_code": 154776,
+        "scheme_name": "Mirae Asset Life Cycle Fund 2056 - Direct Plan - IDCW",
+        "isin_growth": "INF769K01RW8",
+        "isin_div_reinvestment": "INF769K01RV0"
+    },
+    "data": [
+        {
+            "date": "21-10-2026",
+            "nav": "9.94900"
+        }
+    ],
+    "status": "SUCCESS"
+}

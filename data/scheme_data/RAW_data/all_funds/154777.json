@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "Mirae Asset Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Life Cycle Funds - Life Cycle Fund with Maturity of 30 Years",
+        "scheme_code": 154777,
+        "scheme_name": "Mirae Asset Life Cycle Fund 2056 - Regular Plan - Growth",
+        "isin_growth": "INF769K01RR8",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "21-10-2026",
+            "nav": "9.94700"
+        }
+    ],
+    "status": "SUCCESS"
+}
