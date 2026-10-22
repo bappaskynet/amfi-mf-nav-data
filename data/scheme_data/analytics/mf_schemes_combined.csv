@@ -14376,6 +14376,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154759,SBI Mutual Fund,SBI Nifty200 Value 30 ETF FOF,INF200KB1CE7,INF200KB1CF4,Open Ended Schemes,Fund of Funds Scheme
 154760,SBI Mutual Fund,SBI Nifty200 Value 30 ETF FOF,INF200KB1CG2,,Open Ended Schemes,Fund of Funds Scheme
 154761,SBI Mutual Fund,SBI Nifty200 Value 30 ETF FOF,INF200KB1CH0,INF200KB1CI8,Open Ended Schemes,Fund of Funds Scheme
+154762,Motilal Oswal Mutual Fund,Motilal Oswal Nifty REITs & Realty Index Fund,INF247L01HO1,,Open Ended Schemes,Index Funds - Equity Funds
+154763,Motilal Oswal Mutual Fund,Motilal Oswal Nifty REITs & Realty Index Fund,INF247L01HP8,,Open Ended Schemes,Index Funds - Equity Funds
 154764,Zerodha Mutual Fund,Zerodha Nifty Next 100 ETF,INF0R8F01257,,Open Ended Schemes,Exchange Traded Funds
 154765,HDFC Mutual Fund,HDFC FTSE India Equity ETF,INF179KC1LA2,,Open Ended Schemes,Exchange Traded Funds
 154768,DSP Mutual Fund,DSP BSE Insurance ETF,INF740KA1ZR8,,Open Ended Schemes,Exchange Traded Funds
@@ -14395,6 +14397,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154810,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Financial Services Sectoral Debt Fund,INF209KC1803,,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
 154811,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Financial Services Sectoral Debt Fund,INF209KC1787,INF209KC1795,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
 154812,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Financial Services Sectoral Debt Fund,INF209KC1811,INF209KC1829,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
+154842,WhiteOak Capital Mutual Fund,WhiteOak Capital Equity Savings Fund,INF03VN01AP7,INF03VN01AQ5,Open Ended Schemes,Hybrid Schemes - Equity Savings Fund
 154844,WhiteOak Capital Mutual Fund,WhiteOak Capital Balanced Advantage Fund,INF03VN01AT9,INF03VN01AU7,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 154845,WhiteOak Capital Mutual Fund,WhiteOak Capital Balanced Advantage Fund,INF03VN01AV5,INF03VN01AW3,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 154846,WhiteOak Capital Mutual Fund,WhiteOak Capital Balanced Hybrid Fund,INF03VN01AX1,INF03VN01AY9,Open Ended Schemes,Hybrid Schemes - Balanced Hybrid Fund
@@ -36628,7 +36631,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 152708,Tata Asset Management Private Limited,Tata Fixed Maturity Plan Series 61 Scheme C (91 days) - Regular Plan IDCW Payout Option,INF277KA1BW0,,Close Ended,Income
 152709,Tata Asset Management Private Limited,Tata Fixed Maturity Plan Series 61 Scheme C (91 days) - Direct Plan IDCW Payout Option,INF277KA1BY6,,Close Ended,Income
 153168,Baroda BNP Paribas Asset Management India Private Limited,Baroda BNP Paribas Children's Fund - Direct Plan - IDCW Option,INF251K01UF6,,Open Ended,Solution Oriented Scheme - Children s Fund
-154842,WhiteOak Capital Asset Management Limited,WhiteOak Capital Equity Savings Fund Direct Plan IDCW,INF03VN01AP7,INF03VN01AQ5,Open Ended,Hybrid Schemes - Equity Savings Fund
 154843,WhiteOak Capital Asset Management Limited,WhiteOak Capital Equity Savings Fund Regular Plan IDCW,INF03VN01AR3,INF03VN01AS1,Open Ended,Hybrid Schemes - Equity Savings Fund
 153446,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Crisil-IBX Financial Services 9-12 Months Debt Index Fund-Regular IDCW Payout,INF209KC1522,,Open Ended,Other Scheme - Index Funds
 154071,Jio BlackRock Asset Management Private Limited,JioBlackRock Overnight Fund - Unclaimed Redemption - Above 3 years- Growth Option,,,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
@@ -36642,8 +36644,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154709,Monarch Networth Asset Management Private Limited,Monarch Overnight Fund- Regular Plan- Monthly IDCW,INF2ZSC01077,INF2ZSC01051,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
 154729,Shriram Asset Management Co. Ltd.,Shriram Gold ETF Passive FOF-Direct-IDCWPAYOUT,INF680P01679,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154725,Shriram Asset Management Co. Ltd.,Shriram Gold ETF Passive FOF-Regular-IDCWPAYOUT,INF680P01687,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
-154762,Motilal Oswal Asset Management Company Limited,Motilal Oswal Nifty REITs & Realty Index Fund - Direct,INF247L01HO1,,Open Ended,Index Funds - Equity Funds
-154763,Motilal Oswal Asset Management Company Limited,Motilal Oswal Nifty REITs & Realty Index Fund - Regular,INF247L01HP8,,Open Ended,Index Funds - Equity Funds
 154771,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life BSE Total Market Index Fund - Direct Plan - Growth Option,INF209KC1753,,Open Ended,Index Funds - Equity Funds
 154772,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life BSE Toatl Market Index Fund - Regular Plan - Growth Option,INF209KC1761,,Open Ended,Index Funds - Equity Funds
 154774,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life BSE Total Market ETF,INF209KC1746,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
