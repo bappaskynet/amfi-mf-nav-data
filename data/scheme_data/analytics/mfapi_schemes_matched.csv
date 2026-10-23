@@ -31414,6 +31414,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154759,SBI Mutual Fund,SBI Nifty200 Value 30 ETF FOF - Regular Plan - IDCW,INF200KB1CE7,INF200KB1CF4,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154760,SBI Mutual Fund,SBI Nifty200 Value 30 ETF FOF - Direct Plan - Growth,INF200KB1CG2,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154761,SBI Mutual Fund,SBI Nifty200 Value 30 ETF FOF - Direct Plan - IDCW,INF200KB1CH0,INF200KB1CI8,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154762,Motilal Oswal Mutual Fund,Motilal Oswal Nifty REITs & Realty Index Fund - Direct Plan - Growth,INF247L01HO1,,Open Ended Schemes,Index Funds - Equity Funds
+154763,Motilal Oswal Mutual Fund,Motilal Oswal Nifty REITs & Realty Index Fund - Regular Plan - Growth,INF247L01HP8,,Open Ended Schemes,Index Funds - Equity Funds
 154764,Zerodha Mutual Fund,Zerodha Nifty Next 100 ETF - Direct Plan - Growth,INF0R8F01257,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Equity ETF
 154765,HDFC Mutual Fund,HDFC FTSE India Equity ETF - Direct Plan - Growth Option,INF179KC1LA2,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Equity ETF
 154768,DSP Mutual Fund,DSP BSE Insurance ETF,INF740KA1ZR8,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Equity ETF
@@ -31433,6 +31435,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154810,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Financial Services Sectoral Debt Fund - Regular Plan - Growth,INF209KC1803,,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
 154811,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Financial Services Sectoral Debt Fund - Direct Plan - IDCW,INF209KC1787,INF209KC1795,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
 154812,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Financial Services Sectoral Debt Fund - Regular Plan - IDCW,INF209KC1811,INF209KC1829,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
+154842,WhiteOak Capital Mutual Fund,WhiteOak Capital Equity Savings Fund - Direct Plan - IDCW Option,INF03VN01AP7,INF03VN01AQ5,Open Ended Schemes,Hybrid Schemes - Equity Savings Fund
 154844,WhiteOak Capital Mutual Fund,WhiteOak Capital Balanced Advantage Fund - Direct Plan - IDCW Option,INF03VN01AT9,INF03VN01AU7,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 154845,WhiteOak Capital Mutual Fund,WhiteOak Capital Balanced Advantage Fund - Regular Plan - IDCW Option,INF03VN01AV5,INF03VN01AW3,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 154846,WhiteOak Capital Mutual Fund,WhiteOak Capital Balanced Hybrid Fund - Direct Plan - IDCW Option,INF03VN01AX1,INF03VN01AY9,Open Ended Schemes,Hybrid Schemes - Balanced Hybrid Fund
