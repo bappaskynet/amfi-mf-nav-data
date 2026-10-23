@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "WhiteOak Capital Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Hybrid Schemes - Equity Savings Fund",
+        "scheme_code": 154842,
+        "scheme_name": "WhiteOak Capital Equity Savings Fund - Direct Plan - IDCW Option",
+        "isin_growth": "INF03VN01AP7",
+        "isin_div_reinvestment": "INF03VN01AQ5"
+    },
+    "data": [
+        {
+            "date": "22-10-2026",
+            "nav": "11.65700"
+        }
+    ],
+    "status": "SUCCESS"
+}
