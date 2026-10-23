@@ -14383,6 +14383,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154768,DSP Mutual Fund,DSP BSE Insurance ETF,INF740KA1ZR8,,Open Ended Schemes,Exchange Traded Funds
 154769,WhiteOak Capital Mutual Fund,WhiteOak Capital Diversified Equity Small Cap Active FOF,INF03VN01AO0,,Open Ended Schemes,Fund of Funds Scheme
 154770,WhiteOak Capital Mutual Fund,WhiteOak Capital Diversified Equity Small Cap Active FOF,INF03VN01AN2,,Open Ended Schemes,Fund of Funds Scheme
+154771,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life BSE Total Market Index Fund,INF209KC1753,,Open Ended Schemes,Index Funds - Equity Funds
+154772,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life BSE Total Market Index Fund,INF209KC1761,,Open Ended Schemes,Index Funds - Equity Funds
 154775,Mirae Asset Mutual Fund,Mirae Asset Life Cycle Fund 2056,INF769K01RU2,,Open Ended Schemes,Life Cycle Funds - Life Cycle Fund with Maturity of 30 Years
 154776,Mirae Asset Mutual Fund,Mirae Asset Life Cycle Fund 2056,INF769K01RW8,INF769K01RV0,Open Ended Schemes,Life Cycle Funds - Life Cycle Fund with Maturity of 30 Years
 154777,Mirae Asset Mutual Fund,Mirae Asset Life Cycle Fund 2056,INF769K01RR8,,Open Ended Schemes,Life Cycle Funds - Life Cycle Fund with Maturity of 30 Years
@@ -14393,6 +14395,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154783,Carnelian Mutual Fund,Carnelian Liquid Fund,,INF30CN01053,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 154784,Carnelian Mutual Fund,Carnelian Liquid Fund,,INF30CN01046,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 154789,Nippon India Mutual Fund,Nippon India CRISIL-IBX FAR Gilt ETF,INF204KC1HS1,,Open Ended Schemes,Exchange Traded Funds
+154790,HDFC Mutual Fund,HDFC Nifty LargeMidcap250 Plus 8-13 yr G-sec 70:30 Index Fund,INF179KC1LC8,,Open Ended Schemes,Index Funds - Hybrid Fund
+154791,HDFC Mutual Fund,HDFC Nifty LargeMidcap250 Plus 8-13 yr G-sec 70:30 Index Fund,INF179KC1LF1,,Open Ended Schemes,Index Funds - Hybrid Fund
+154792,HDFC Mutual Fund,HDFC Nifty LargeMidcap250 Plus 8-13 yr G-sec 70:30 Index Fund,INF179KC1LE4,,Open Ended Schemes,Index Funds - Hybrid Fund
+154793,HDFC Mutual Fund,HDFC Nifty LargeMidcap250 Plus 8-13 yr G-sec 70:30 Index Fund,INF179KC1LB0,,Open Ended Schemes,Index Funds - Hybrid Fund
 154805,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Financial Services Sectoral Debt Fund,INF209KC1779,,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
 154810,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Financial Services Sectoral Debt Fund,INF209KC1803,,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
 154811,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Financial Services Sectoral Debt Fund,INF209KC1787,INF209KC1795,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
@@ -36644,18 +36650,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154709,Monarch Networth Asset Management Private Limited,Monarch Overnight Fund- Regular Plan- Monthly IDCW,INF2ZSC01077,INF2ZSC01051,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
 154729,Shriram Asset Management Co. Ltd.,Shriram Gold ETF Passive FOF-Direct-IDCWPAYOUT,INF680P01679,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154725,Shriram Asset Management Co. Ltd.,Shriram Gold ETF Passive FOF-Regular-IDCWPAYOUT,INF680P01687,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
-154771,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life BSE Total Market Index Fund - Direct Plan - Growth Option,INF209KC1753,,Open Ended,Index Funds - Equity Funds
-154772,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life BSE Toatl Market Index Fund - Regular Plan - Growth Option,INF209KC1761,,Open Ended,Index Funds - Equity Funds
 154774,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life BSE Total Market ETF,INF209KC1746,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154779,Carnelian Investment Managers Private Limited,Carnelian Liquid Fund - Regular Plan - Weekly IDCW Reinvest,INF30CN01087,,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
 154788,Carnelian Investment Managers Private Limited,Carnelian Small Cap Fund - Direct Plan - IDCW,INF30CN01103,INF30CN01111,Open Ended,Equity Schemes - Small Cap Fund
 154785,Carnelian Investment Managers Private Limited,Carnelian Small Cap Fund - Regular Plan - Growth,INF30CN01129,,Open Ended,Equity Schemes - Small Cap Fund
 154786,Carnelian Investment Managers Private Limited,Carnelian Small Cap Fund - Regular Plan - IDCW,INF30CN01137,INF30CN01145,Open Ended,Equity Schemes - Small Cap Fund
 154787,Carnelian Investment Managers Private Limited,Carnelian Small Cap Fund - Direct Plan - Growth,INF30CN01095,,Open Ended,Equity Schemes - Small Cap Fund
-154790,HDFC Asset Management Company Limited,HDFC Nifty LargeMidcap250 Plus 8-13 yr G-Sec 70 30 Index Fund-Direct Plan-IDCW Option,INF179KC1LC8,,Open Ended,Index Funds - Hybrid Fund
-154791,HDFC Asset Management Company Limited,HDFC Nifty LargeMidcap250 Plus 8-13 yr G-Sec 70 30 Index Fund-IDCW Option,INF179KC1LF1,,Open Ended,Index Funds - Hybrid Fund
-154792,HDFC Asset Management Company Limited,HDFC Nifty LargeMidcap250 Plus 8-13 yr G-Sec 70 30 Index Fund-Growth Option,INF179KC1LE4,,Open Ended,Index Funds - Hybrid Fund
-154793,HDFC Asset Management Company Limited,HDFC Nifty LargeMidcap250 Plus 8-13 yr G-Sec 70 30 Index Fund-Direct Plan-Growth Option,INF179KC1LB0,,Open Ended,Index Funds - Hybrid Fund
 154794,Motilal Oswal Asset Management Company Limited,Motilal Oswal Nifty Midcap150 Plus 8-13 yr G-Sec 70 30 Index Fund - Regular Growth,INF247L01HR4,,Open Ended,Index Funds - Hybrid Fund
 154795,Motilal Oswal Asset Management Company Limited,Motilal Oswal Nifty Midcap150 Plus 8-13 yr G-Sec 70 30 Index Fund - Direct Growth,INF247L01HQ6,,Open Ended,Index Funds - Hybrid Fund
 154798,Kotak Mahindra Asset Management Company Limited.,Kotak Nifty 500 Index Fund - Direct Plan - Growth,INF174KA1G64,,Open Ended,Index Funds - Equity Funds
@@ -36700,7 +36700,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154854,Navi AMC Limited,Navi Multi Asset Omni Funf of Fund Regular Growth,INF959L01HW4,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154855,UTI Asset Mgmt. Co. Ltd.,UTI Nifty India New Age Consumption Index Fund - Direct Growth Option,,,Open Ended,Index Funds - Equity Funds
 154856,UTI Asset Mgmt. Co. Ltd.,UTI Nifty India New Age Consumption Index Fund - Regular Growth Option,,,Open Ended,Index Funds - Equity Funds
-154857,Jio BlackRock Asset Management Private Limited,JioBlackRock Silver ETF,,,Open Ended,Exchange Traded Funds (ETFs) - Silver ETF
 154858,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Fixed Maturity Plan-Series VB (136 Days) - Direct IDCW Reinvest,INF209KC1852,INF209KC1845,Close Ended,Income/Debt Oriented Schemes - Other Debt Scheme
 154859,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Fixed Maturity Plan- Series VB (136 Days)- Direct Growth,INF209KC1837,,Close Ended,Income/Debt Oriented Schemes - Other Debt Scheme
 154860,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Fixed Maturity Plan-Series VB (136 Days)- Regular Growth,INF209KC1860,,Close Ended,Income/Debt Oriented Schemes - Other Debt Scheme
