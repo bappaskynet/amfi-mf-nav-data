@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "HDFC Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Index Funds - Hybrid Fund",
+        "scheme_code": 154790,
+        "scheme_name": "HDFC Nifty LargeMidcap250 Plus 8-13 yr G-sec 70:30 Index Fund - Direct Plan - IDCW Option",
+        "isin_growth": "INF179KC1LC8",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "23-10-2026",
+            "nav": "9.99800"
+        }
+    ],
+    "status": "SUCCESS"
+}

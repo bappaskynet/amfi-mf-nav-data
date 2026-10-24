@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "Aditya Birla Sun Life Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Index Funds - Equity Funds",
+        "scheme_code": 154771,
+        "scheme_name": "Aditya Birla Sun Life BSE Total Market Index Fund - Direct Plan - Growth Option",
+        "isin_growth": "INF209KC1753",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "23-10-2026",
+            "nav": "9.88180"
+        }
+    ],
+    "status": "SUCCESS"
+}
