@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Bandhan Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Medium Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Medium Term Fund",
         "scheme_code": 118404,
-        "scheme_name": "BANDHAN Bond Fund - Medium Term Plan-Direct Plan-Fortnightly IDCW",
+        "scheme_name": "Bandhan Medium Term Fund - Direct Plan - Fortnightly IDCW",
         "isin_growth": "INF194K01T83",
         "isin_div_reinvestment": "INF194K01T75"
     },
     "data": [
+        {
+            "date": "26-10-2026",
+            "nav": "10.24020"
+        },
         {
             "date": "24-11-2025",
             "nav": "10.26590"
