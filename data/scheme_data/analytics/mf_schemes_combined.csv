@@ -14385,6 +14385,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154770,WhiteOak Capital Mutual Fund,WhiteOak Capital Diversified Equity Small Cap Active FOF,INF03VN01AN2,,Open Ended Schemes,Fund of Funds Scheme
 154771,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life BSE Total Market Index Fund,INF209KC1753,,Open Ended Schemes,Index Funds - Equity Funds
 154772,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life BSE Total Market Index Fund,INF209KC1761,,Open Ended Schemes,Index Funds - Equity Funds
+154774,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life BSE Total Market ETF,INF209KC1746,,Open Ended Schemes,Exchange Traded Funds
 154775,Mirae Asset Mutual Fund,Mirae Asset Life Cycle Fund 2056,INF769K01RU2,,Open Ended Schemes,Life Cycle Funds - Life Cycle Fund with Maturity of 30 Years
 154776,Mirae Asset Mutual Fund,Mirae Asset Life Cycle Fund 2056,INF769K01RW8,INF769K01RV0,Open Ended Schemes,Life Cycle Funds - Life Cycle Fund with Maturity of 30 Years
 154777,Mirae Asset Mutual Fund,Mirae Asset Life Cycle Fund 2056,INF769K01RR8,,Open Ended Schemes,Life Cycle Funds - Life Cycle Fund with Maturity of 30 Years
@@ -36651,7 +36652,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154709,Monarch Networth Asset Management Private Limited,Monarch Overnight Fund- Regular Plan- Monthly IDCW,INF2ZSC01077,INF2ZSC01051,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
 154729,Shriram Asset Management Co. Ltd.,Shriram Gold ETF Passive FOF-Direct-IDCWPAYOUT,INF680P01679,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154725,Shriram Asset Management Co. Ltd.,Shriram Gold ETF Passive FOF-Regular-IDCWPAYOUT,INF680P01687,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
-154774,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life BSE Total Market ETF,INF209KC1746,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154779,Carnelian Investment Managers Private Limited,Carnelian Liquid Fund - Regular Plan - Weekly IDCW Reinvest,INF30CN01087,,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
 154788,Carnelian Investment Managers Private Limited,Carnelian Small Cap Fund - Direct Plan - IDCW,INF30CN01103,INF30CN01111,Open Ended,Equity Schemes - Small Cap Fund
 154785,Carnelian Investment Managers Private Limited,Carnelian Small Cap Fund - Regular Plan - Growth,INF30CN01129,,Open Ended,Equity Schemes - Small Cap Fund
