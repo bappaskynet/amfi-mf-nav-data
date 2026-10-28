@@ -14405,6 +14405,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154810,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Financial Services Sectoral Debt Fund,INF209KC1803,,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
 154811,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Financial Services Sectoral Debt Fund,INF209KC1787,INF209KC1795,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
 154812,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Financial Services Sectoral Debt Fund,INF209KC1811,INF209KC1829,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
+154826,SBI Mutual Fund,SBI BSE India Defence ETF,INF200KB1CJ6,,Open Ended Schemes,Exchange Traded Funds
 154842,WhiteOak Capital Mutual Fund,WhiteOak Capital Equity Savings Fund,INF03VN01AP7,INF03VN01AQ5,Open Ended Schemes,Hybrid Schemes - Equity Savings Fund
 154844,WhiteOak Capital Mutual Fund,WhiteOak Capital Balanced Advantage Fund,INF03VN01AT9,INF03VN01AU7,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 154845,WhiteOak Capital Mutual Fund,WhiteOak Capital Balanced Advantage Fund,INF03VN01AV5,INF03VN01AW3,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
@@ -14413,6 +14414,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154849,WhiteOak Capital Mutual Fund,WhiteOak Capital Aggressive Hybrid Fund,INF03VN01BD1,INF03VN01BE9,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
 154850,WhiteOak Capital Mutual Fund,WhiteOak Capital Multi Asset Allocation Fund,INF03VN01BF6,INF03VN01BG4,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
 154851,WhiteOak Capital Mutual Fund,WhiteOak Capital Multi Asset Allocation Fund,INF03VN01BH2,INF03VN01BI0,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
+154858,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan-Series VB (136 Days),INF209KC1852,INF209KC1845,Close Ended Schemes,Income/Debt Oriented Schemes - Other Debt Scheme
+154859,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan-Series VB (136 Days),INF209KC1837,,Close Ended Schemes,Income/Debt Oriented Schemes - Other Debt Scheme
+154860,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan-Series VB (136 Days),INF209KC1860,,Close Ended Schemes,Income/Debt Oriented Schemes - Other Debt Scheme
+154861,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan-Series VB (136 Days),INF209KC1886,INF209KC1878,Close Ended Schemes,Income/Debt Oriented Schemes - Other Debt Scheme
 100027,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Half Yearly Dividend,,,Open Ended Schemes,Income
 100028,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Quaterly Dividend,,,Open Ended Schemes,Income
 100029,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Growth,,,Open Ended Schemes,Income
@@ -36682,7 +36687,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154823,quant Money Managers Limited,quant Nifty 100 Index Fund - Growth Option - Regular Plan,INF966L01FE1,,Open Ended,Index Funds - Equity Funds
 154824,quant Money Managers Limited,quant Nifty 100 Index Fund - IDCW Option - Direct Plan,INF966L01FC5,INF966L01FD3,Open Ended,Index Funds - Equity Funds
 154825,quant Money Managers Limited,quant Nifty 100 Index Fund - IDCW Option - Regular Plan,INF966L01FF8,INF966L01FG6,Open Ended,Index Funds - Equity Funds
-154826,SBI Funds Management Limited,SBI BSE India Defence ETF,INF200KB1CJ6,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154827,Motilal Oswal Asset Management Company Limited,Motilal Oswal Multi Asset - Omni Fund of Funds - Direct Growth,INF247L01HS2,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154828,Motilal Oswal Asset Management Company Limited,Motilal Oswal Multi Asset - Omni Fund of Funds - Direct IDCW Payout,INF247L01HT0,INF247L01HU8,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154830,Motilal Oswal Asset Management Company Limited,Motilal Oswal Multi Asset - Omni Fund of Funds - Regular Growth,INF247L01HV6,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
@@ -36700,10 +36704,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154854,Navi AMC Limited,Navi Multi Asset Omni Funf of Fund Regular Growth,INF959L01HW4,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154855,UTI Asset Mgmt. Co. Ltd.,UTI Nifty India New Age Consumption Index Fund - Direct Growth Option,,,Open Ended,Index Funds - Equity Funds
 154856,UTI Asset Mgmt. Co. Ltd.,UTI Nifty India New Age Consumption Index Fund - Regular Growth Option,,,Open Ended,Index Funds - Equity Funds
-154858,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Fixed Maturity Plan-Series VB (136 Days) - Direct IDCW Reinvest,INF209KC1852,INF209KC1845,Close Ended,Income/Debt Oriented Schemes - Other Debt Scheme
-154859,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Fixed Maturity Plan- Series VB (136 Days)- Direct Growth,INF209KC1837,,Close Ended,Income/Debt Oriented Schemes - Other Debt Scheme
-154860,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Fixed Maturity Plan-Series VB (136 Days)- Regular Growth,INF209KC1860,,Close Ended,Income/Debt Oriented Schemes - Other Debt Scheme
-154861,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Fixed Maturity Plan-Series VB (136 Days) - Regular IDCW Reinvest,INF209KC1886,INF209KC1878,Close Ended,Income/Debt Oriented Schemes - Other Debt Scheme
 154864,Kotak Mahindra Asset Management Company Limited.,Kotak Nifty Realty Index Fund - Regular Plan - Growth,INF174KA1H55,,Open Ended,Index Funds - Equity Funds
 154865,Kotak Mahindra Asset Management Company Limited.,Kotak Nifty Realty Index Fund - Regular Plan - IDCW Payout & Reinvestment,INF174KA1H63,INF174KA1H71,Open Ended,Index Funds - Equity Funds
 154862,Kotak Mahindra Asset Management Company Limited.,Kotak Nifty Realty Index Fund - Direct Plan - Growth,INF174KA1H22,,Open Ended,Index Funds - Equity Funds
