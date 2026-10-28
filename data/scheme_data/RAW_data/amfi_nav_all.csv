@@ -1256,8 +1256,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 112101,ICICI Prudential Mutual Fund,ICICI Prudential R.I.G.H.T (Rewards of Investing & Generation of Healthy Tax-Savings) Fund,INF109KA1XQ0,,Close Ended Schemes,ELSS,22.73,26-Sep-2019
 112108,Edelweiss Mutual Fund,Edelweiss Aggressive Hybrid Fund,INF754K01202,,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund,62.42,27-Oct-2026
 112109,Edelweiss Mutual Fund,Edelweiss Aggressive Hybrid Fund,INF754K01178,INF754K01186,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund,24.09,27-Oct-2026
-112117,Edelweiss Mutual Fund,Edelweiss Balanced Advantage Fund,INF754K01285,,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage,51.17,26-Oct-2026
-112118,Edelweiss Mutual Fund,Edelweiss Balanced Advantage Fund,INF754K01251,INF754K01269,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage,20.55,26-Oct-2026
+112117,Edelweiss Mutual Fund,Edelweiss Balanced Advantage Fund,INF754K01285,,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage,51.52,27-Oct-2026
+112118,Edelweiss Mutual Fund,Edelweiss Balanced Advantage Fund,INF754K01251,INF754K01269,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage,20.69,27-Oct-2026
 112119,ICICI Prudential Mutual Fund,ICICI Prudential Liquid Fund -,INF109K01VD9,INF109K01VC1,Open Ended Schemes,Debt Scheme - Liquid Fund,103.8506,16-Sep-2022
 112120,Invesco Mutual Fund,Invesco India Money Market Fund,INF205K01SG4,,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund,2887.3391,27-Oct-2026
 112122,Invesco Mutual Fund,Invesco India Money Market Fund,INF205K01SH2,INF205K01SI0,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund,1533.5493,27-Oct-2026
@@ -1811,8 +1811,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 118588,Nippon India Mutual Fund,Nippon India Banking & Financial Services Fund,INF204K01D22,,Open Ended Schemes,Equity Schemes - Sectoral Fund,650.9905,27-Oct-2026
 118589,Nippon India Mutual Fund,Nippon India Banking & Financial Services Fund,INF204K01XO1,,Open Ended Schemes,Equity Schemes - Sectoral Fund,650.9905,27-Oct-2026
 118591,Nippon India Mutual Fund,Nippon India Banking & Financial Services Fund,INF204K01XM5,INF204K01XN3,Open Ended Schemes,Equity Schemes - Sectoral Fund,94.5518,27-Oct-2026
-118614,Edelweiss Mutual Fund,Edelweiss Balanced Advantage Fund,INF754K01BP8,INF754K01BQ6,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage,28.33,26-Oct-2026
-118615,Edelweiss Mutual Fund,Edelweiss Balanced Advantage Fund,INF754K01BS2,,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage,59.04,26-Oct-2026
+118614,Edelweiss Mutual Fund,Edelweiss Balanced Advantage Fund,INF754K01BP8,INF754K01BQ6,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage,28.52,27-Oct-2026
+118615,Edelweiss Mutual Fund,Edelweiss Balanced Advantage Fund,INF754K01BS2,,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage,59.44,27-Oct-2026
 118616,Edelweiss Mutual Fund,Edelweiss Large Cap Fund,INF754K01BT0,INF754K01BU8,Open Ended Schemes,Equity Scheme - Large Cap Fund,36.66,27-Oct-2026
 118617,Edelweiss Mutual Fund,Edelweiss Large Cap Fund,INF754K01BW4,,Open Ended Schemes,Equity Scheme - Large Cap Fund,92.89,27-Oct-2026
 118619,Edelweiss Mutual Fund,Edelweiss ELSS Tax Saver Fund,INF754K01BX2,INF754K01BY0,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund,44.36,27-Oct-2026
@@ -4211,11 +4211,11 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 130194,Nippon India Mutual Fund,Reliance Fixed Horizon Fund - XXVI - Series 30,INF204KA1QR6,,Close Ended Schemes,Income,14.148,02-Jul-2018
 130195,Nippon India Mutual Fund,Reliance Fixed Horizon Fund - XXVI - Series 30,INF204KA1QQ8,,Close Ended Schemes,Income,11.6397,02-Jul-2018
 130196,Nippon India Mutual Fund,Reliance Fixed Horizon Fund - XXVI - Series 30,INF204KA1QS4,,Close Ended Schemes,Income,11.7218,02-Jul-2018
-130205,Edelweiss Mutual Fund,Edelweiss Arbitrage Fund,INF754K01EF3,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,20.8835,26-Oct-2026
-130206,Edelweiss Mutual Fund,Edelweiss Arbitrage Fund,INF754K01EA4,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,22.6103,26-Oct-2026
-130207,Edelweiss Mutual Fund,Edelweiss Arbitrage Fund,INF754K01EG1,INF754K01EH9,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,15.3252,26-Oct-2026
-130208,Edelweiss Mutual Fund,Edelweiss Arbitrage Fund,INF754K01EJ5,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,20.9963,26-Oct-2026
-130209,Edelweiss Mutual Fund,Edelweiss Arbitrage Fund,INF754K01EB2,INF754K01EC0,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,16.1643,26-Oct-2026
+130205,Edelweiss Mutual Fund,Edelweiss Arbitrage Fund,INF754K01EF3,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,20.895,27-Oct-2026
+130206,Edelweiss Mutual Fund,Edelweiss Arbitrage Fund,INF754K01EA4,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,22.6233,27-Oct-2026
+130207,Edelweiss Mutual Fund,Edelweiss Arbitrage Fund,INF754K01EG1,INF754K01EH9,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,15.3337,27-Oct-2026
+130208,Edelweiss Mutual Fund,Edelweiss Arbitrage Fund,INF754K01EJ5,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,21.0016,27-Oct-2026
+130209,Edelweiss Mutual Fund,Edelweiss Arbitrage Fund,INF754K01EB2,INF754K01EC0,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,16.1736,27-Oct-2026
 130219,ICICI Prudential Mutual Fund,ICICI Prudential Capital Protection Oriented Fund VI - PLAN C - 1825 Days,INF109KA1XH9,,Close Ended Schemes,Income,14.5695,02-Jul-2019
 130220,ICICI Prudential Mutual Fund,ICICI Prudential Capital Protection Oriented Fund VI - PLAN C - 1825 Days,INF109KA1XJ5,,Close Ended Schemes,Income,15.3491,02-Jul-2019
 130221,ICICI Prudential Mutual Fund,ICICI Prudential Capital Protection Oriented Fund VI - PLAN C - 1825 Days,INF109KA1XK3,,Close Ended Schemes,Income,15.3491,02-Jul-2019
@@ -6121,16 +6121,16 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 140310,Edelweiss Mutual Fund,Edelweiss Gilt Fund,INF843K01HL5,INF843K01HK7,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund,22.7978,27-Oct-2026
 140327,Edelweiss Mutual Fund,Edelweiss Emerging Markets Opportunities Equity Offshore Fund,INF843K01IZ3,,Open Ended Schemes,Other Scheme - FoF Overseas,28.4875,26-Oct-2026
 140328,Edelweiss Mutual Fund,Edelweiss Emerging Markets Opportunities Equity Offshore Fund,INF843K01IY6,,Open Ended Schemes,Other Scheme - FoF Overseas,25.9385,26-Oct-2026
-140347,Edelweiss Mutual Fund,Edelweiss Equity Savings Fund,INF843K01KC8,,Open Ended Schemes,Hybrid Scheme - Equity Savings,30.1105,26-Oct-2026
-140348,Edelweiss Mutual Fund,Edelweiss Equity Savings Fund,INF843K01KE4,INF843K01KF1,Open Ended Schemes,Hybrid Scheme - Equity Savings,21.2882,26-Oct-2026
-140349,Edelweiss Mutual Fund,Edelweiss Equity Savings Fund,INF843K01KI5,INF843K01KJ3,Open Ended Schemes,Hybrid Scheme - Equity Savings,18.0209,26-Oct-2026
-140350,Edelweiss Mutual Fund,Edelweiss Equity Savings Fund,INF843K01KD6,,Open Ended Schemes,Hybrid Scheme - Equity Savings,30.1204,26-Oct-2026
-140351,Edelweiss Mutual Fund,Edelweiss Equity Savings Fund,INF843K01KG9,,Open Ended Schemes,Hybrid Scheme - Equity Savings,26.9401,26-Oct-2026
+140347,Edelweiss Mutual Fund,Edelweiss Equity Savings Fund,INF843K01KC8,,Open Ended Schemes,Hybrid Scheme - Equity Savings,30.1640,27-Oct-2026
+140348,Edelweiss Mutual Fund,Edelweiss Equity Savings Fund,INF843K01KE4,INF843K01KF1,Open Ended Schemes,Hybrid Scheme - Equity Savings,21.3260,27-Oct-2026
+140349,Edelweiss Mutual Fund,Edelweiss Equity Savings Fund,INF843K01KI5,INF843K01KJ3,Open Ended Schemes,Hybrid Scheme - Equity Savings,18.0525,27-Oct-2026
+140350,Edelweiss Mutual Fund,Edelweiss Equity Savings Fund,INF843K01KD6,,Open Ended Schemes,Hybrid Scheme - Equity Savings,30.1740,27-Oct-2026
+140351,Edelweiss Mutual Fund,Edelweiss Equity Savings Fund,INF843K01KG9,,Open Ended Schemes,Hybrid Scheme - Equity Savings,26.9873,27-Oct-2026
 140352,Edelweiss Mutual Fund,Edelweiss Equity Savings Fund,INF843K01KH7,,Open Ended Schemes,Hybrid Scheme - Equity Savings,23.6102,18-Nov-2024
-140353,Edelweiss Mutual Fund,Edelweiss Flexi Cap Fund,INF843K01KK1,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,42.66,26-Oct-2026
-140354,Edelweiss Mutual Fund,Edelweiss Flexi Cap Fund,INF843K01KL9,INF843K01KM7,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,34.55,26-Oct-2026
-140355,Edelweiss Mutual Fund,Edelweiss Flexi Cap Fund,INF843K01KN5,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,36.217,26-Oct-2026
-140356,Edelweiss Mutual Fund,Edelweiss Flexi Cap Fund,INF843K01KO3,INF843K01KP0,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,29.266,26-Oct-2026
+140353,Edelweiss Mutual Fund,Edelweiss Flexi Cap Fund,INF843K01KK1,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,42.986,27-Oct-2026
+140354,Edelweiss Mutual Fund,Edelweiss Flexi Cap Fund,INF843K01KL9,INF843K01KM7,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,34.814,27-Oct-2026
+140355,Edelweiss Mutual Fund,Edelweiss Flexi Cap Fund,INF843K01KN5,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,36.493,27-Oct-2026
+140356,Edelweiss Mutual Fund,Edelweiss Flexi Cap Fund,INF843K01KO3,INF843K01KP0,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,29.488,27-Oct-2026
 140363,ICICI Prudential Mutual Fund,ICICI Prudential Capital Protection Oriented Fund - Series XI - Plan B 1222 Days,INF109KB1L46,,Close Ended Schemes,Income,11.8841,27-Apr-2020
 140364,ICICI Prudential Mutual Fund,ICICI Prudential Capital Protection Oriented Fund - Series XI - Plan B 1222 Days,INF109KB1L53,,Close Ended Schemes,Income,11.8841,27-Apr-2020
 140365,ICICI Prudential Mutual Fund,ICICI Prudential Capital Protection Oriented Fund - Series XI - Plan B 1222 Days,INF109KB1L79,,Close Ended Schemes,Income,12.2923,27-Apr-2020
@@ -6703,8 +6703,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 141602,ICICI Prudential Mutual Fund,ICICI Prudential Value Fund - Series 15,INF109KB19S1,,Close Ended Schemes,Growth,12.70,04-Feb-2021
 141603,ICICI Prudential Mutual Fund,ICICI Prudential Value Fund - Series 15,INF109KB17S5,,Close Ended Schemes,Growth,12.39,04-Feb-2021
 141604,ICICI Prudential Mutual Fund,ICICI Prudential Value Fund - Series 15,INF109KB18S3,,Close Ended Schemes,Growth,13.18,04-Feb-2021
-141605,Edelweiss Mutual Fund,Edelweiss Arbitrage Fund,INF754K01HT7,INF754K01HU5,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,16.7288,26-Oct-2026
-141606,Edelweiss Mutual Fund,Edelweiss Arbitrage Fund,INF754K01HW1,INF754K01HX9,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,18.2413,26-Oct-2026
+141605,Edelweiss Mutual Fund,Edelweiss Arbitrage Fund,INF754K01HT7,INF754K01HU5,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,16.6281,27-Oct-2026
+141606,Edelweiss Mutual Fund,Edelweiss Arbitrage Fund,INF754K01HW1,INF754K01HX9,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,18.1417,27-Oct-2026
 141611,Nippon India Mutual Fund,Nippon India Fixed Horizon Fund XXXIV- Series 8,INF204KB1PR7,,Close Ended Schemes,Income,10.0000,20-Oct-2020
 141612,Nippon India Mutual Fund,Nippon India Fixed Horizon Fund XXXIV- Series 8,INF204KB1PQ9,,Close Ended Schemes,Income,11.4426,20-Oct-2020
 141613,Nippon India Mutual Fund,Nippon India Fixed Horizon Fund XXXIV- Series 8,INF204KB1PT3,,Close Ended Schemes,Income,10.0000,20-Oct-2020
@@ -6776,8 +6776,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 141755,UTI Mutual Fund,UTI - FTIF - Series XXVII - Plan VI (1113 Days),INF789FC1Q71,,Close Ended Schemes,Income,9.8784,15-Sep-2020
 141756,UTI Mutual Fund,UTI - FTIF - Series XXVII - Plan VI (1113 Days),INF789FC1R47,,Close Ended Schemes,Income,10,15-Sep-2020
 141757,UTI Mutual Fund,UTI - FTIF - Series XXVII - Plan VI (1113 Days),INF789FC1R54,,Close Ended Schemes,Income,11.3005,15-Sep-2020
-141766,Edelweiss Mutual Fund,Edelweiss Balanced Advantage Fund,INF754K01IK4,INF754K01IL2,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage,19.52,26-Oct-2026
-141767,Edelweiss Mutual Fund,Edelweiss Balanced Advantage Fund,INF754K01IH0,INF754K01II8,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage,25.01,26-Oct-2026
+141766,Edelweiss Mutual Fund,Edelweiss Balanced Advantage Fund,INF754K01IK4,INF754K01IL2,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage,19.47,27-Oct-2026
+141767,Edelweiss Mutual Fund,Edelweiss Balanced Advantage Fund,INF754K01IH0,INF754K01II8,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage,25,27-Oct-2026
 141768,UTI Mutual Fund,UTI - Liquid Fund,INF789F1AE60,INF789F1AE78,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,169.8757,27-Oct-2026
 141769,UTI Mutual Fund,UTI - FTIF - Series XXVII - Plan VII (1104 Days),INF789FC1S38,,Close Ended Schemes,Income,10,15-Sep-2020
 141770,UTI Mutual Fund,UTI - FTIF - Series XXVII - Plan VII (1104 Days),INF789FC1S20,,Close Ended Schemes,Income,10,15-Sep-2020
@@ -6885,8 +6885,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 141926,Axis Mutual Fund,Axis Flexi Cap Fund,INF846K01B02,INF846K01B10,Open Ended Schemes,Equity Schemes - Flexi Cap Fund,18.47,27-Oct-2026
 141927,Axis Mutual Fund,Axis Flexi Cap Fund,INF846K01B51,,Open Ended Schemes,Equity Schemes - Flexi Cap Fund,26.69,27-Oct-2026
 141928,Axis Mutual Fund,Axis Flexi Cap Fund,INF846K01B36,INF846K01B44,Open Ended Schemes,Equity Schemes - Flexi Cap Fund,16.68,27-Oct-2026
-141933,Edelweiss Mutual Fund,Edelweiss Equity Savings Fund,INF754K01IN8,INF754K01IO6,Open Ended Schemes,Hybrid Scheme - Equity Savings,16.4578,26-Oct-2026
-141934,Edelweiss Mutual Fund,Edelweiss Equity Savings Fund,INF754K01IP3,INF754K01IQ1,Open Ended Schemes,Hybrid Scheme - Equity Savings,14.1939,26-Oct-2026
+141933,Edelweiss Mutual Fund,Edelweiss Equity Savings Fund,INF754K01IN8,INF754K01IO6,Open Ended Schemes,Hybrid Scheme - Equity Savings,16.3971,27-Oct-2026
+141934,Edelweiss Mutual Fund,Edelweiss Equity Savings Fund,INF754K01IP3,INF754K01IQ1,Open Ended Schemes,Hybrid Scheme - Equity Savings,14.1288,27-Oct-2026
 141935,Kotak Mahindra Mutual Fund,Kotak FMP Series 212,INF174K017Q7,,Close Ended Schemes,Income,12.54734186,02-May-2021
 141936,Kotak Mahindra Mutual Fund,Kotak FMP Series 212,INF174K018Q5,,Close Ended Schemes,Income,12.54734151,02-May-2021
 141937,Kotak Mahindra Mutual Fund,Kotak FMP Series 212,INF174K019Q3,,Close Ended Schemes,Income,12.67795851,02-May-2021
@@ -7954,12 +7954,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 144816,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 84 - 1101 Days Plan A,INF109KC1KI2,,Close Ended Schemes,Income,12.6371,13-Sep-2021
 144817,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 84 - 1101 Days Plan A,INF109KC1KD3,,Close Ended Schemes,Income,12.5495,13-Sep-2021
 144819,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 84 - 1101 Days Plan A,INF109KC1KG6,,Close Ended Schemes,Income,12.6372,13-Sep-2021
-144834,Sundaram Mutual Fund,Sundaram Services Fund,,INF903JA1EZ2,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,20.1402,26-Oct-2026
-144835,Sundaram Mutual Fund,Sundaram Services Fund,INF903JA1FA2,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,37.2070,26-Oct-2026
-144836,Sundaram Mutual Fund,Sundaram Services Fund,INF903JA1FB0,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,22.1597,26-Oct-2026
-144837,Sundaram Mutual Fund,Sundaram Services Fund,,INF903JA1FC8,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,22.1597,26-Oct-2026
-144838,Sundaram Mutual Fund,Sundaram Services Fund,INF903JA1EX7,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,33.8804,26-Oct-2026
-144839,Sundaram Mutual Fund,Sundaram Services Fund,INF903JA1EY5,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,20.1402,26-Oct-2026
+144834,Sundaram Mutual Fund,Sundaram Services Fund,,INF903JA1EZ2,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,20.2594,27-Oct-2026
+144835,Sundaram Mutual Fund,Sundaram Services Fund,INF903JA1FA2,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,37.4283,27-Oct-2026
+144836,Sundaram Mutual Fund,Sundaram Services Fund,INF903JA1FB0,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,22.2915,27-Oct-2026
+144837,Sundaram Mutual Fund,Sundaram Services Fund,,INF903JA1FC8,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,22.2915,27-Oct-2026
+144838,Sundaram Mutual Fund,Sundaram Services Fund,INF903JA1EX7,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,34.0809,27-Oct-2026
+144839,Sundaram Mutual Fund,Sundaram Services Fund,INF903JA1EY5,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,20.2594,27-Oct-2026
 144848,Kotak Mahindra Mutual Fund,Kotak FMP Series 243,INF174KA1541,,Close Ended Schemes,Income,13.30003554,11-Apr-2022
 144849,Kotak Mahindra Mutual Fund,Kotak FMP Series 243,INF174KA1558,,Close Ended Schemes,Income,13.30003773,11-Apr-2022
 144850,Kotak Mahindra Mutual Fund,Kotak FMP Series 243,INF174KA1566,,Close Ended Schemes,Income,13.43717344,11-Apr-2022
@@ -11807,10 +11807,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 151789,quant Mutual Fund,quant BFSI Fund,INF966L01CB4,INF966L01CC2,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,18.448,27-Oct-2026
 151790,quant Mutual Fund,quant BFSI Fund,INF966L01BY8,INF966L01BZ5,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,19.4908,27-Oct-2026
 151791,quant Mutual Fund,quant BFSI Fund,INF966L01BX0,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,19.4693,27-Oct-2026
-151792,Edelweiss Mutual Fund,Edelweiss Multi Asset Allocation Fund,INF754K01RS8,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,12.7063,26-Oct-2026
-151793,Edelweiss Mutual Fund,Edelweiss Multi Asset Allocation Fund,INF754K01RT6,INF754K01RU4,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,12.2996,26-Oct-2026
-151794,Edelweiss Mutual Fund,Edelweiss Multi Asset Allocation Fund,INF754K01RP4,INF754K01RQ2,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,12.1632,26-Oct-2026
-151795,Edelweiss Mutual Fund,Edelweiss Multi Asset Allocation Fund,INF754K01RO7,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,12.5688,26-Oct-2026
+151792,Edelweiss Mutual Fund,Edelweiss Multi Asset Allocation Fund,INF754K01RS8,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,12.7050,27-Oct-2026
+151793,Edelweiss Mutual Fund,Edelweiss Multi Asset Allocation Fund,INF754K01RT6,INF754K01RU4,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,12.2984,27-Oct-2026
+151794,Edelweiss Mutual Fund,Edelweiss Multi Asset Allocation Fund,INF754K01RP4,INF754K01RQ2,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,12.1618,27-Oct-2026
+151795,Edelweiss Mutual Fund,Edelweiss Multi Asset Allocation Fund,INF754K01RO7,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,12.5674,27-Oct-2026
 151796,360 ONE Mutual Fund,360 ONE Flexicap Fund,INF579M01AS1,,Open Ended Schemes,Equity Schemes - Flexi Cap Fund,16.2912,27-Oct-2026
 151797,360 ONE Mutual Fund,360 ONE Flexicap Fund,INF579M01AQ5,INF579M01AR3,Open Ended Schemes,Equity Schemes - Flexi Cap Fund,15.4727,27-Oct-2026
 151798,360 ONE Mutual Fund,360 ONE Flexicap Fund,INF579M01AT9,INF579M01AU7,Open Ended Schemes,Equity Schemes - Flexi Cap Fund,16.2912,27-Oct-2026
@@ -12515,7 +12515,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 152702,Kotak Mahindra Mutual Fund,Kotak Special Opportunities Fund,INF174KA1SF3,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,10.851,27-Oct-2026
 152703,Kotak Mahindra Mutual Fund,Kotak Special Opportunities Fund,INF174KA1SC0,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,10.511,27-Oct-2026
 152704,Kotak Mahindra Mutual Fund,Kotak Special Opportunities Fund,INF174KA1SG1,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,10.851,27-Oct-2026
-152710,Edelweiss Mutual Fund,Edelweiss Business Cycle Fund,INF754K01TA2,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,8.7683,26-Oct-2026
+152710,Edelweiss Mutual Fund,Edelweiss Business Cycle Fund,INF754K01TA2,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,8.9167,27-Oct-2026
 152711,Motilal Oswal Mutual Fund,Motilal Oswal Nifty India Defence Index Fund,INF247L01CV7,,Open Ended Schemes,Other Scheme - Index Funds,11.3669,27-Oct-2026
 152712,Motilal Oswal Mutual Fund,Motilal Oswal Nifty India Defence Index Fund,INF247L01CW5,,Open Ended Schemes,Other Scheme - Index Funds,11.5473,27-Oct-2026
 152713,HDFC Mutual Fund,HDFC NIFTY100 Low Volatility 30 Index Fund,INF179KC1IM3,HDFCNIVODG,Open Ended Schemes,Other Scheme - Index Funds,9.7046,27-Oct-2026
@@ -12527,9 +12527,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 152719,Mirae Asset Mutual Fund,Mirae Asset Nifty200 Alpha 30 ETF Fund of Fund,INF769K01LV3,INF769K01LW1,Open Ended Schemes,Fund of Funds Scheme,8.498,27-Oct-2026
 152720,Mirae Asset Mutual Fund,Mirae Asset Nifty200 Alpha 30 ETF Fund of Fund,INF769K01LR1,,Open Ended Schemes,Fund of Funds Scheme,8.403,27-Oct-2026
 152721,Mirae Asset Mutual Fund,Mirae Asset Nifty200 Alpha 30 ETF Fund of Fund,INF769K01LS9,INF769K01LT7,Open Ended Schemes,Fund of Funds Scheme,8.397,27-Oct-2026
-152722,Edelweiss Mutual Fund,Edelweiss Business Cycle Fund,INF754K01SX6,INF754K01SY4,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,8.462,26-Oct-2026
-152723,Edelweiss Mutual Fund,Edelweiss Business Cycle Fund,INF754K01TB0,INF754K01TC8,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,8.7683,26-Oct-2026
-152724,Edelweiss Mutual Fund,Edelweiss Business Cycle Fund,INF754K01SW8,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,8.462,26-Oct-2026
+152722,Edelweiss Mutual Fund,Edelweiss Business Cycle Fund,INF754K01SX6,INF754K01SY4,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,8.6049,27-Oct-2026
+152723,Edelweiss Mutual Fund,Edelweiss Business Cycle Fund,INF754K01TB0,INF754K01TC8,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,8.9167,27-Oct-2026
+152724,Edelweiss Mutual Fund,Edelweiss Business Cycle Fund,INF754K01SW8,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,8.6049,27-Oct-2026
 152725,SBI Mutual Fund,SBI Silver ETF,INF200KB1217,,Open Ended Schemes,Other Scheme - Other  ETFs,187.2871,27-Oct-2026
 152726,ICICI Prudential Mutual Fund,ICICI PRUDENTIAL ENERGY OPPORTUNITIES FUND,INF109KC15W9,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,10.59,27-Oct-2026
 152727,ICICI Prudential Mutual Fund,ICICI PRUDENTIAL ENERGY OPPORTUNITIES FUND,INF109KC16W7,INF109KC17W5,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,10.59,27-Oct-2026
@@ -13817,10 +13817,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 154120,Mahindra Manulife Mutual Fund,Mahindra Manulife Innovation Opportunities Fund,INF174V01CX8,,Open Ended Schemes,Equity Schemes - Thematic Fund,10.2680,27-Oct-2026
 154121,Mahindra Manulife Mutual Fund,Mahindra Manulife Innovation Opportunities Fund,INF174V01DA4,,Open Ended Schemes,Equity Schemes - Thematic Fund,10.4012,27-Oct-2026
 154122,Mahindra Manulife Mutual Fund,Mahindra Manulife Innovation Opportunities Fund,INF174V01DC0,INF174V01DB2,Open Ended Schemes,Equity Schemes - Thematic Fund,10.4012,27-Oct-2026
-154123,Sundaram Mutual Fund,Sundaram Income Plus Arbitrage Active FoF,INF903JA1LZ7,,Open Ended Schemes,Other Scheme - FoF Domestic,10.4327,26-Oct-2026
-154124,Sundaram Mutual Fund,Sundaram Income Plus Arbitrage Active FoF,INF903JA1MA8,,Open Ended Schemes,Other Scheme - FoF Domestic,10.4327,26-Oct-2026
-154125,Sundaram Mutual Fund,Sundaram Income Plus Arbitrage Active FoF,INF903JA1MD2,,Open Ended Schemes,Other Scheme - FoF Domestic,10.4113,26-Oct-2026
-154127,Sundaram Mutual Fund,Sundaram Income Plus Arbitrage Active FoF,INF903JA1MC4,,Open Ended Schemes,Other Scheme - FoF Domestic,10.4113,26-Oct-2026
+154123,Sundaram Mutual Fund,Sundaram Income Plus Arbitrage Active FoF,INF903JA1LZ7,,Open Ended Schemes,Other Scheme - FoF Domestic,10.4382,27-Oct-2026
+154124,Sundaram Mutual Fund,Sundaram Income Plus Arbitrage Active FoF,INF903JA1MA8,,Open Ended Schemes,Other Scheme - FoF Domestic,10.4382,27-Oct-2026
+154125,Sundaram Mutual Fund,Sundaram Income Plus Arbitrage Active FoF,INF903JA1MD2,,Open Ended Schemes,Other Scheme - FoF Domestic,10.4167,27-Oct-2026
+154127,Sundaram Mutual Fund,Sundaram Income Plus Arbitrage Active FoF,INF903JA1MC4,,Open Ended Schemes,Other Scheme - FoF Domestic,10.4167,27-Oct-2026
 154129,Bandhan Mutual Fund,Bandhan Gold ETF FOF,INF194KB1KL3,,Open Ended Schemes,Other Scheme - FoF Domestic,9.1462,27-Oct-2026
 154130,Bandhan Mutual Fund,Bandhan Gold ETF FOF,INF194KB1KK5,,Open Ended Schemes,Other Scheme - FoF Domestic,9.1132,27-Oct-2026
 154131,The Wealth Company Mutual Fund,The Wealth Company Gold ETF FOF,INF2F0001412,,Open Ended Schemes,Other Scheme - FoF Domestic,8.8993,27-Oct-2026
