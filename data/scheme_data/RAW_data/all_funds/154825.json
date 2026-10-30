@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "quant Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Index Funds - Equity Funds",
+        "scheme_code": 154825,
+        "scheme_name": "quant Nifty 100 Index Fund - Regular Plan - IDCW Option",
+        "isin_growth": "INF966L01FF8",
+        "isin_div_reinvestment": "INF966L01FG6"
+    },
+    "data": [
+        {
+            "date": "29-10-2026",
+            "nav": "10.09030"
+        }
+    ],
+    "status": "SUCCESS"
+}

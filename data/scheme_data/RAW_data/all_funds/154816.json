@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "quant Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Index Funds - Equity Funds",
+        "scheme_code": 154816,
+        "scheme_name": "quant Nifty 50 Index Fund - Regular Plan - Growth Option",
+        "isin_growth": "INF966L01EY2",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "29-10-2026",
+            "nav": "10.08590"
+        }
+    ],
+    "status": "SUCCESS"
+}

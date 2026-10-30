@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "fund_house": "Aditya Birla Sun Life Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income/Debt Oriented Schemes - Other Debt Scheme",
+        "scheme_code": 154858,
+        "scheme_name": "Aditya Birla Sun Life Fixed Maturity Plan-Series VB (136 Days) - Direct Plan - IDCW",
+        "isin_growth": "INF209KC1852",
+        "isin_div_reinvestment": "INF209KC1845"
+    },
+    "data": [
+        {
+            "date": "29-10-2026",
+            "nav": "10.00500"
+        },
+        {
+            "date": "28-10-2026",
+            "nav": "10.00290"
+        }
+    ],
+    "status": "SUCCESS"
+}

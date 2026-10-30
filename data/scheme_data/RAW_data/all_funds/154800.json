@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "Kotak Mahindra Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Index Funds - Equity Funds",
+        "scheme_code": 154800,
+        "scheme_name": "Kotak Nifty 500 Index Fund - Regular Plan - IDCW - Dividend Payout & Reinvestment",
+        "isin_growth": "INF174KA1H06",
+        "isin_div_reinvestment": "INF174KA1H14"
+    },
+    "data": [
+        {
+            "date": "29-10-2026",
+            "nav": "10.15000"
+        }
+    ],
+    "status": "SUCCESS"
+}

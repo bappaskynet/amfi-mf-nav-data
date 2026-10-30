@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "Mirae Asset Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income/Debt Oriented Schemes - Fixed Term Plan",
+        "scheme_code": 154836,
+        "scheme_name": "Mirae Asset Fixed Maturity Plan \u2013 Series VI\u2013 3 to 6 Months - Regular Plan - Growth",
+        "isin_growth": "INF769K01RX6",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "29-10-2026",
+            "nav": "10.00330"
+        }
+    ],
+    "status": "SUCCESS"
+}
