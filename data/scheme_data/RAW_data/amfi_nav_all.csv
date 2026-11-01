@@ -1541,10 +1541,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 117366,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan-Series 63-3 Year Plan K,INF109K01D28,,Close Ended Schemes,Income,10.4976,08-Jun-2015
 117367,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan-Series 63-3 Year Plan K,INF109K01D10,,Close Ended Schemes,Income,12.9573,08-Jun-2015
 117368,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund II - Quarterly Interval Plan - A,INF109K01MQ0,,Open Ended Schemes,Income,10.2240,19-Aug-2014
-117446,Axis Mutual Fund,Axis Banking and PSU Debt Fund,INF846K01CB0,,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund,2790.0283,30-Oct-2026
-117447,Axis Mutual Fund,Axis Banking and PSU Debt Fund,,INF846K01CC8,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund,1033.5860,30-Oct-2026
-117448,Axis Mutual Fund,Axis Banking and PSU Debt Fund,INF846K01CD6,INF846K01CE4,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund,1033.1847,30-Oct-2026
-117449,Axis Mutual Fund,Axis Banking and PSU Debt Fund,INF846K01CF1,INF846K01CG9,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund,1030.6122,30-Oct-2026
+117446,Axis Mutual Fund,Axis Banking and PSU Debt Fund,INF846K01CB0,,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund,2790.3836,30-Oct-2026
+117447,Axis Mutual Fund,Axis Banking and PSU Debt Fund,,INF846K01CC8,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund,1033.7176,30-Oct-2026
+117448,Axis Mutual Fund,Axis Banking and PSU Debt Fund,INF846K01CD6,INF846K01CE4,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund,1033.3162,30-Oct-2026
+117449,Axis Mutual Fund,Axis Banking and PSU Debt Fund,INF846K01CF1,INF846K01CG9,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund,1030.7435,30-Oct-2026
 117471,ICICI Prudential Mutual Fund,ICICI Prudential Capital Protection Oriented Fund II - Series X - 36 Months,INF109K01D77,,Close Ended Schemes,Income,13.8439,30-Jun-2015
 117472,ICICI Prudential Mutual Fund,ICICI Prudential Capital Protection Oriented Fund II - Series X - 36 Months,INF109K01D85,,Close Ended Schemes,Income,13.8439,30-Jun-2015
 117547,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Banking and Financial Services Fund,INF955L01831,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,18.7988,30-Oct-2026
@@ -2556,10 +2556,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 120433,JM Financial Mutual Fund,JM Dynamic Term Fund,,INF192K01DA9,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund,10.496,30-Oct-2026
 120434,JM Financial Mutual Fund,JM Dynamic Term Fund,INF192K01DB7,INF192K01DC5,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund,46.5811,30-Oct-2026
 120435,JM Financial Mutual Fund,JM Dynamic Term Fund,INF192K01DD3,,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund,46.332,30-Oct-2026
-120436,Axis Mutual Fund,Axis Banking and PSU Debt Fund,INF846K01CV8,INF846K01CW6,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund,1033.7804,30-Oct-2026
-120437,Axis Mutual Fund,Axis Banking and PSU Debt Fund,,INF846K01CU0,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund,1034.2042,30-Oct-2026
-120438,Axis Mutual Fund,Axis Banking and PSU Debt Fund,INF846K01CR6,,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund,2887.8469,30-Oct-2026
-120439,Axis Mutual Fund,Axis Banking and PSU Debt Fund,INF846K01CT2,INF846K01CS4,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund,1031.0041,30-Oct-2026
+120436,Axis Mutual Fund,Axis Banking and PSU Debt Fund,INF846K01CV8,INF846K01CW6,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund,1033.9120,30-Oct-2026
+120437,Axis Mutual Fund,Axis Banking and PSU Debt Fund,,INF846K01CU0,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund,1034.3359,30-Oct-2026
+120438,Axis Mutual Fund,Axis Banking and PSU Debt Fund,INF846K01CR6,,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund,2888.2147,30-Oct-2026
+120439,Axis Mutual Fund,Axis Banking and PSU Debt Fund,INF846K01CT2,INF846K01CS4,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund,1031.1354,30-Oct-2026
 120443,Invesco Mutual Fund,Invesco India Banking and PSU Debt Fund,,INF205K01KS6,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund,1056.5088,30-Oct-2026
 120444,Invesco Mutual Fund,Invesco India Banking and PSU Debt Fund,INF205K01KT4,,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund,2568.4635,30-Oct-2026
 120445,Invesco Mutual Fund,Invesco India Banking and PSU Debt Fund,INF205K01KU2,INF205K01KV0,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund,1006.0856,30-Oct-2026
@@ -8597,12 +8597,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 146194,Edelweiss Mutual Fund,Edelweiss Small Cap Fund,INF754K01JK2,INF754K01JL0,Open Ended Schemes,Equity Scheme - Small Cap Fund,37.949,30-Oct-2026
 146196,Edelweiss Mutual Fund,Edelweiss Small Cap Fund,INF754K01JN6,,Open Ended Schemes,Equity Scheme - Small Cap Fund,49.122,30-Oct-2026
 146197,Edelweiss Mutual Fund,Edelweiss Small Cap Fund,INF754K01JO4,INF754K01JP1,Open Ended Schemes,Equity Scheme - Small Cap Fund,42.973,30-Oct-2026
-146207,SBI Mutual Fund,SBI Corporate Bond Fund,INF200KA1YM5,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund,16.3982,31-Oct-2026
-146208,SBI Mutual Fund,SBI Corporate Bond Fund,INF200KA1YN3,INF200KA1YO1,Open Ended Schemes,Debt Scheme - Corporate Bond Fund,15.4757,31-Oct-2026
-146210,SBI Mutual Fund,SBI Corporate Bond Fund,INF200KA1YP8,INF200KA1YQ6,Open Ended Schemes,Debt Scheme - Corporate Bond Fund,15.9326,31-Oct-2026
-146212,SBI Mutual Fund,SBI Corporate Bond Fund,INF200KA1YS2,INF200KA1YT0,Open Ended Schemes,Debt Scheme - Corporate Bond Fund,16.0326,31-Oct-2026
-146215,SBI Mutual Fund,SBI Corporate Bond Fund,INF200KA1YR4,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund,16.9855,31-Oct-2026
-146216,SBI Mutual Fund,SBI Corporate Bond Fund,INF200KA1YU8,INF200KA1YV6,Open Ended Schemes,Debt Scheme - Corporate Bond Fund,16.5122,31-Oct-2026
+146207,SBI Mutual Fund,SBI Corporate Bond Fund,INF200KA1YM5,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund,16.3938,30-Oct-2026
+146208,SBI Mutual Fund,SBI Corporate Bond Fund,INF200KA1YN3,INF200KA1YO1,Open Ended Schemes,Debt Scheme - Corporate Bond Fund,15.4716,30-Oct-2026
+146210,SBI Mutual Fund,SBI Corporate Bond Fund,INF200KA1YP8,INF200KA1YQ6,Open Ended Schemes,Debt Scheme - Corporate Bond Fund,15.9284,30-Oct-2026
+146212,SBI Mutual Fund,SBI Corporate Bond Fund,INF200KA1YS2,INF200KA1YT0,Open Ended Schemes,Debt Scheme - Corporate Bond Fund,16.0282,30-Oct-2026
+146215,SBI Mutual Fund,SBI Corporate Bond Fund,INF200KA1YR4,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund,16.9808,30-Oct-2026
+146216,SBI Mutual Fund,SBI Corporate Bond Fund,INF200KA1YU8,INF200KA1YV6,Open Ended Schemes,Debt Scheme - Corporate Bond Fund,16.5077,30-Oct-2026
 146218,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund,INF247L01791,INF247L01783,Open Ended Schemes,Debt Scheme - Liquid Fund,10.4567,01-Nov-2026
 146220,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund,INF247L01841,INF247L01833,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0336,01-Nov-2026
 146222,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund,INF247L01866,INF247L01858,Open Ended Schemes,Debt Scheme - Liquid Fund,10.4392,01-Nov-2026
@@ -13254,10 +13254,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 153495,Edelweiss Mutual Fund,Edelweiss BSE Internet Economy Index Fund,INF754K01VB6,,Open Ended Schemes,Other Scheme - Index Funds,10.903,30-Oct-2026
 153496,Edelweiss Mutual Fund,Edelweiss BSE Internet Economy Index Fund,INF754K01VC4,INF754K01VD2,Open Ended Schemes,Other Scheme - Index Funds,10.903,30-Oct-2026
 153497,Edelweiss Mutual Fund,Edelweiss BSE Internet Economy Index Fund,INF754K01UX2,,Open Ended Schemes,Other Scheme - Index Funds,11.0074,30-Oct-2026
-153498,SBI Mutual Fund,SBI Income Plus Arbitrage Active FOF,INF200KB1753,,Open Ended Schemes,Other Scheme - FoF Domestic,10.8067,31-Oct-2026
-153499,SBI Mutual Fund,SBI Income Plus Arbitrage Active FOF,INF200KB1738,INF200KB1746,Open Ended Schemes,Other Scheme - FoF Domestic,10.7825,31-Oct-2026
-153500,SBI Mutual Fund,SBI Income Plus Arbitrage Active FOF,INF200KB1720,,Open Ended Schemes,Other Scheme - FoF Domestic,10.7824,31-Oct-2026
-153501,SBI Mutual Fund,SBI Income Plus Arbitrage Active FOF,INF200KB1761,INF200KB1779,Open Ended Schemes,Other Scheme - FoF Domestic,10.8065,31-Oct-2026
+153498,SBI Mutual Fund,SBI Income Plus Arbitrage Active FOF,INF200KB1753,,Open Ended Schemes,Other Scheme - FoF Domestic,10.8053,30-Oct-2026
+153499,SBI Mutual Fund,SBI Income Plus Arbitrage Active FOF,INF200KB1738,INF200KB1746,Open Ended Schemes,Other Scheme - FoF Domestic,10.7811,30-Oct-2026
+153500,SBI Mutual Fund,SBI Income Plus Arbitrage Active FOF,INF200KB1720,,Open Ended Schemes,Other Scheme - FoF Domestic,10.7810,30-Oct-2026
+153501,SBI Mutual Fund,SBI Income Plus Arbitrage Active FOF,INF200KB1761,INF200KB1779,Open Ended Schemes,Other Scheme - FoF Domestic,10.8050,30-Oct-2026
 153502,Groww Mutual Fund,Groww Gilt Fund,INF666M01KL0,INF666M01KM8,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund,10.0154,30-Oct-2026
 153503,Groww Mutual Fund,Groww Gilt Fund,INF666M01KN6,,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund,9.8632,30-Oct-2026
 153504,Groww Mutual Fund,Groww Gilt Fund,INF666M01KO4,INF666M01KP1,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund,9.8634,30-Oct-2026
@@ -13556,10 +13556,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 153828,Angel One Mutual Fund,ANGEL ONE GOLD ETF FOF,INF1J2R01106,,Open Ended Schemes,Other Scheme - FoF Domestic,12.6263,30-Oct-2026
 153829,Axis Mutual Fund,Axis Nifty500 Quality 50 Index Fund,INF846KA1200,,Open Ended Schemes,Index Funds - Equity Funds,9.3774,30-Oct-2026
 153830,Axis Mutual Fund,Axis Nifty500 Quality 50 Index Fund,INF846KA1192,,Open Ended Schemes,Index Funds - Equity Funds,9.2869,30-Oct-2026
-153831,SBI Mutual Fund,SBI Dynamic Asset Allocation Active FoF,INF200KB1977,,Open Ended Schemes,Other Scheme - FoF Domestic,9.9376,31-Oct-2026
-153832,SBI Mutual Fund,SBI Dynamic Asset Allocation Active FoF,INF200KB1AA9,,Open Ended Schemes,Other Scheme - FoF Domestic,10.0557,31-Oct-2026
-153833,SBI Mutual Fund,SBI Dynamic Asset Allocation Active FoF,INF200KB1AB7,INF200KB1AC5,Open Ended Schemes,Other Scheme - FoF Domestic,10.0550,31-Oct-2026
-153834,SBI Mutual Fund,SBI Dynamic Asset Allocation Active FoF,INF200KB1985,INF200KB1993,Open Ended Schemes,Other Scheme - FoF Domestic,9.9376,31-Oct-2026
+153831,SBI Mutual Fund,SBI Dynamic Asset Allocation Active FoF,INF200KB1977,,Open Ended Schemes,Other Scheme - FoF Domestic,9.9372,30-Oct-2026
+153832,SBI Mutual Fund,SBI Dynamic Asset Allocation Active FoF,INF200KB1AA9,,Open Ended Schemes,Other Scheme - FoF Domestic,10.0550,30-Oct-2026
+153833,SBI Mutual Fund,SBI Dynamic Asset Allocation Active FoF,INF200KB1AB7,INF200KB1AC5,Open Ended Schemes,Other Scheme - FoF Domestic,10.0543,30-Oct-2026
+153834,SBI Mutual Fund,SBI Dynamic Asset Allocation Active FoF,INF200KB1985,INF200KB1993,Open Ended Schemes,Other Scheme - FoF Domestic,9.9372,30-Oct-2026
 153837,Zerodha Mutual Fund,Zerodha Nifty Smallcap 100 ETF,INF0R8F01141,,Open Ended Schemes,Exchange Traded Funds,10.4784,30-Oct-2026
 153838,Bandhan Mutual Fund,Bandhan BSE India Sector Leaders Index Fund,INF194KB1KB4,,Open Ended Schemes,Other Scheme - Index Funds,9.2302,31-Oct-2026
 153839,Bandhan Mutual Fund,Bandhan BSE India Sector Leaders Index Fund,INF194KB1KA6,,Open Ended Schemes,Other Scheme - Index Funds,9.1547,31-Oct-2026
