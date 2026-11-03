@@ -11215,10 +11215,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 150848,Edelweiss Mutual Fund,Edelweiss CRISIL IBX 50:50 Gilt Plus SDL Sep 2028 Index Fund,INF754K01PR4,,Open Ended Schemes,Other Scheme - Index Funds
 150849,Edelweiss Mutual Fund,Edelweiss CRISIL IBX 50:50 Gilt Plus SDL Sep 2028 Index Fund,INF754K01PS2,INF754K01PT0,Open Ended Schemes,Other Scheme - Index Funds
 150850,Edelweiss Mutual Fund,Edelweiss CRISIL IBX 50:50 Gilt Plus SDL Sep 2028 Index Fund,INF754K01PW4,INF754K01PX2,Open Ended Schemes,Other Scheme - Index Funds
-150851,Axis Mutual Fund,Axis Nifty SDL September 2026 Debt Index Fund,INF846K011L9,,Open Ended Schemes,Index Funds - Debt Funds
-150852,Axis Mutual Fund,Axis Nifty SDL September 2026 Debt Index Fund,INF846K019K4,INF846K010L1,Open Ended Schemes,Index Funds - Debt Funds
-150853,Axis Mutual Fund,Axis Nifty SDL September 2026 Debt Index Fund,INF846K012L7,INF846K013L5,Open Ended Schemes,Index Funds - Debt Funds
-150854,Axis Mutual Fund,Axis Nifty SDL September 2026 Debt Index Fund,INF846K018K6,,Open Ended Schemes,Index Funds - Debt Funds
 150855,Union Mutual Fund,Union Multicap Fund,INF582M01IS8,,Open Ended Schemes,Equity Scheme - Multi Cap Fund
 150856,Union Mutual Fund,Union Multicap Fund,INF582M01IT6,INF582M01IU4,Open Ended Schemes,Equity Scheme - Multi Cap Fund
 150857,Union Mutual Fund,Union Multicap Fund,INF582M01IP4,INF582M01IQ2,Open Ended Schemes,Equity Scheme - Multi Cap Fund
@@ -12826,10 +12822,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153047,Invesco Mutual Fund,Invesco India Multi Asset Allocation Fund,INF205KA1AC1,,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
 153048,Invesco Mutual Fund,Invesco India Multi Asset Allocation Fund,INF205KA1AA5,INF205KA1AB3,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
 153049,Invesco Mutual Fund,Invesco India Multi Asset Allocation Fund,INF205KA1AD9,INF205KA1AE7,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
-153050,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond Financial Services - Sep 2027 Index Fund,INF846K014Y6,,Open Ended Schemes,Index Funds - Debt Funds
-153051,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond Financial Services - Sep 2027 Index Fund,INF846K015Y3,,Open Ended Schemes,Index Funds - Debt Funds
-153052,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond Financial Services - Sep 2027 Index Fund,INF846K017Y9,INF846K019Y5,Open Ended Schemes,Index Funds - Debt Funds
-153053,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond Financial Services - Sep 2027 Index Fund,INF846K016Y1,INF846K018Y7,Open Ended Schemes,Index Funds - Debt Funds
 153054,Tata Mutual Fund,Tata India Innovation Fund,INF277KA1CT4,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 153055,Tata Mutual Fund,Tata India Innovation Fund,INF277KA1CU2,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 153056,Tata Mutual Fund,Tata India Innovation Fund,,INF277KA1CV0,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
@@ -12946,10 +12938,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153169,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Children's Fund,INF251K01UD1,,Open Ended Schemes,Solution Oriented Scheme - Childrenâs Fund
 153170,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Children's Fund,INF251K01UC3,,Open Ended Schemes,Solution Oriented Scheme - Childrenâs Fund
 153171,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Children's Fund,INF251K01UE9,,Open Ended Schemes,Solution Oriented Scheme - Childrenâs Fund
-153172,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond NBFC-HFC - Jun 2027 Index Fund,INF846KA1028,,Open Ended Schemes,Index Funds - Debt Funds
-153173,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond NBFC-HFC - Jun 2027 Index Fund,INF846K018Z4,INF846KA1010,Open Ended Schemes,Index Funds - Debt Funds
-153174,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond NBFC-HFC - Jun 2027 Index Fund,INF846K016Z8,,Open Ended Schemes,Index Funds - Debt Funds
-153175,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond NBFC-HFC - Jun 2027 Index Fund,INF846K017Z6,INF846K019Z2,Open Ended Schemes,Index Funds - Debt Funds
 153176,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil-IBX Financial Services 3 to 6 months Debt Index Fund,INF209KC1464,,Open Ended Schemes,Other Scheme - Index Funds
 153177,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil-IBX Financial Services 3 to 6 months Debt Index Fund,INF209KC1472,,Open Ended Schemes,Other Scheme - Index Funds
 153178,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil-IBX Financial Services 3 to 6 months Debt Index Fund,INF209KC1480,,Open Ended Schemes,Other Scheme - Index Funds
@@ -34729,6 +34717,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 150786,Mirae Asset Mutual Fund,Mirae Asset Nifty AAA PSU Bond Plus SDL Apr 2026 50:50 Index Fund - Regular Plan - Growth,INF769K01JA1,,Open Ended Schemes,Other Scheme - Index Funds
 150787,Mirae Asset Mutual Fund,Mirae Asset Nifty AAA PSU Bond Plus SDL Apr 2026 50:50 Index Fund - Direct Plan - IDCW,INF769K01JC7,INF769K01JE3,Open Ended Schemes,Other Scheme - Index Funds
 150788,Mirae Asset Mutual Fund,Mirae Asset Nifty AAA PSU Bond Plus SDL Apr 2026 50:50 Index Fund - Direct Plan - Growth,INF769K01JD5,,Open Ended Schemes,Other Scheme - Index Funds
+150851,Axis Mutual Fund,Axis Nifty SDL September 2026 Debt Index Fund - Regular Plan - Growth Option,INF846K011L9,,Open Ended Schemes,Index Funds - Debt Funds
+150852,Axis Mutual Fund,Axis Nifty SDL September 2026 Debt Index Fund - Direct Plan - IDCW Option,INF846K019K4,INF846K010L1,Open Ended Schemes,Index Funds - Debt Funds
+150853,Axis Mutual Fund,Axis Nifty SDL September 2026 Debt Index Fund - Regular Plan - IDCW Option,INF846K012L7,INF846K013L5,Open Ended Schemes,Index Funds - Debt Funds
+150854,Axis Mutual Fund,Axis Nifty SDL September 2026 Debt Index Fund - Direct Plan - Growth Option,INF846K018K6,,Open Ended Schemes,Index Funds - Debt Funds
 150875,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series TZ (90 days) - Direct Plan - Growth Option,,,Close Ended Schemes,Income
 150876,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series TZ (90 days)- Direct Plan - Payout of IDCW Option,,,Close Ended Schemes,Income
 150877,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series TZ (90 days) - Regular Plan -Growth Option,,,Close Ended Schemes,Income
@@ -34833,6 +34825,14 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 152959,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil-IBX AAA NBFC--HFC Index-Dec 2025 Fund-Direct IDCW Payout,INF209KC1266,,Open Ended Schemes,Other Scheme - Index Funds
 152960,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil-IBX AAA NBFC-HFC Index-Dec 2025 Fund-Regular IDCW Payout,INF209KC1282,,Open Ended Schemes,Other Scheme - Index Funds
 152961,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil-IBX AAA NBFC-HFC Index-Dec 2025 Fund-Regular Growth,INF209KC1274,,Open Ended Schemes,Other Scheme - Index Funds
+153050,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond Financial Services - Sep 2027 Index Fund - Regular Plan - Growth Option,INF846K014Y6,,Open Ended Schemes,Index Funds - Debt Funds
+153051,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond Financial Services - Sep 2027 Index Fund - Direct Plan - Growth Option,INF846K015Y3,,Open Ended Schemes,Index Funds - Debt Funds
+153052,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond Financial Services - Sep 2027 Index Fund - Direct Plan - IDCW Option,INF846K017Y9,INF846K019Y5,Open Ended Schemes,Index Funds - Debt Funds
+153053,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond Financial Services - Sep 2027 Index Fund - Regular Plan - IDCW Option,INF846K016Y1,INF846K018Y7,Open Ended Schemes,Index Funds - Debt Funds
+153172,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond NBFC-HFC - Jun 2027 Index Fund - Direct Plan - Growth option,INF846KA1028,,Open Ended Schemes,Index Funds - Debt Funds
+153173,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond NBFC-HFC - Jun 2027 Index Fund - Direct Plan - IDCW option,INF846K018Z4,INF846KA1010,Open Ended Schemes,Index Funds - Debt Funds
+153174,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond NBFC-HFC - Jun 2027 Index Fund - Regular Plan - Growth option,INF846K016Z8,,Open Ended Schemes,Index Funds - Debt Funds
+153175,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond NBFC-HFC - Jun 2027 Index Fund - Regular Plan - IDCW option,INF846K017Z6,INF846K019Z2,Open Ended Schemes,Index Funds - Debt Funds
 154240,Axis Mutual Fund,Axis Fixed Maturity Plan - Series 129 (108 Days) - Direct Plan - Growth,INF846KA1440,,Close Ended Schemes,Income
 154241,Axis Mutual Fund,Axis Fixed Maturity Plan - Series 129 (108 Days) - Regular Plan - Growth,INF846KA1432,,Close Ended Schemes,Income
 154242,Axis Mutual Fund,Axis Fixed Maturity Plan - Series 129 (108 Days) - Regular Plan - IDCW,INF846KA1457,,Close Ended Schemes,Income
@@ -36728,3 +36728,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154883,quant Money Managers Limited,quant Silver ETF FOF- Growth Option - Regular Plan,INF966L01FK8,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154884,quant Money Managers Limited,quant Silver ETF FOF- IDCW Option - Direct Plan,INF966L01FI2,INF966L01FJ0,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154885,quant Money Managers Limited,quant Silver ETF FOF- IDCW Option - Regular Plan,INF966L01FL6,INF966L01FM4,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154889,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Fixed Maturity Plan- Series VC (114 Days)- Direct Plan- IDCW,,,Close Ended,Income/Debt Oriented Schemes - Fixed Term Plan
+154886,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Fixed Maturity Plan- Series VC (114 Days)- Direct Plan- Growth,,,Close Ended,Income/Debt Oriented Schemes - Fixed Term Plan
+154887,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Fixed Maturity Plan- Series VC (114 Days) Regular Plan- Growth,,,Close Ended,Income/Debt Oriented Schemes - Fixed Term Plan
+154888,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Fixed Maturity Plan- Series VC (114 Days)- Regular Plan-IDCW,,,Close Ended,Income/Debt Oriented Schemes - Fixed Term Plan
