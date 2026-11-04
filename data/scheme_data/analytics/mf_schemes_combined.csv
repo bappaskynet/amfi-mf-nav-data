@@ -14399,6 +14399,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154810,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Financial Services Sectoral Debt Fund,INF209KC1803,,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
 154811,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Financial Services Sectoral Debt Fund,INF209KC1787,INF209KC1795,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
 154812,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Financial Services Sectoral Debt Fund,INF209KC1811,INF209KC1829,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
+154813,Zerodha Mutual Fund,Zerodha BSE TOP 10 BANKS ETF,INF0R8F01265,,Open Ended Schemes,Exchange Traded Funds
 154814,quant Mutual Fund,quant Nifty 50 Index Fund,INF966L01EV8,,Open Ended Schemes,Index Funds - Equity Funds
 154815,quant Mutual Fund,quant Nifty 50 Index Fund,INF966L01EW6,INF966L01EX4,Open Ended Schemes,Index Funds - Equity Funds
 154816,quant Mutual Fund,quant Nifty 50 Index Fund,INF966L01EY2,,Open Ended Schemes,Index Funds - Equity Funds
@@ -14424,10 +14425,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154849,WhiteOak Capital Mutual Fund,WhiteOak Capital Aggressive Hybrid Fund,INF03VN01BD1,INF03VN01BE9,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
 154850,WhiteOak Capital Mutual Fund,WhiteOak Capital Multi Asset Allocation Fund,INF03VN01BF6,INF03VN01BG4,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
 154851,WhiteOak Capital Mutual Fund,WhiteOak Capital Multi Asset Allocation Fund,INF03VN01BH2,INF03VN01BI0,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
-154858,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan-Series VB (136 Days),INF209KC1852,INF209KC1845,Close Ended Schemes,Income/Debt Oriented Schemes - Other Debt Scheme
-154859,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan-Series VB (136 Days),INF209KC1837,,Close Ended Schemes,Income/Debt Oriented Schemes - Other Debt Scheme
-154860,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan-Series VB (136 Days),INF209KC1860,,Close Ended Schemes,Income/Debt Oriented Schemes - Other Debt Scheme
-154861,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan-Series VB (136 Days),INF209KC1886,INF209KC1878,Close Ended Schemes,Income/Debt Oriented Schemes - Other Debt Scheme
+154858,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan-Series VB (136 Days),INF209KC1852,INF209KC1845,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
+154859,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan-Series VB (136 Days),INF209KC1837,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
+154860,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan-Series VB (136 Days),INF209KC1860,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
+154861,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan-Series VB (136 Days),INF209KC1886,INF209KC1878,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
 100027,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Half Yearly Dividend,,,Open Ended Schemes,Income
 100028,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Quaterly Dividend,,,Open Ended Schemes,Income
 100029,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Growth,,,Open Ended Schemes,Income
@@ -36690,7 +36691,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154807,Bajaj Finserv Asset Management Limited,Bajaj Finserv Business Cycle Fund - Direct - IDCW,INF0QA701CP5,INF0QA701CQ3,Open Ended,Equity Schemes - Thematic Fund
 154808,Bajaj Finserv Asset Management Limited,Bajaj Finserv Business Cycle Fund - Direct- Growth,INF0QA701CO8,,Open Ended,Equity Schemes - Thematic Fund
 154809,Bajaj Finserv Asset Management Limited,Bajaj Finserv Business Cycle Fund - Regular - IDCW,INF0QA701CM2,INF0QA701CN0,Open Ended,Equity Schemes - Thematic Fund
-154813,Zerodha Asset Management Private Limited,Zerodha BSE TOP 10 BANKS ETF,INF0R8F01265,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154827,Motilal Oswal Asset Management Company Limited,Motilal Oswal Multi Asset - Omni Fund of Funds - Direct Growth,INF247L01HS2,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154828,Motilal Oswal Asset Management Company Limited,Motilal Oswal Multi Asset - Omni Fund of Funds - Direct IDCW Payout,INF247L01HT0,INF247L01HU8,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154830,Motilal Oswal Asset Management Company Limited,Motilal Oswal Multi Asset - Omni Fund of Funds - Regular Growth,INF247L01HV6,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
@@ -36737,9 +36737,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154892,HDFC Asset Management Company Limited,HDFC Charity Fund for Cancer Cure (Feb 2030)-50% IDCW Donation Option,,,Close Ended,Income/Debt Oriented Schemes - Fixed Term Plan
 154893,HDFC Asset Management Company Limited,HDFC Charity Fund for Cancer Cure (Feb 2030)-75% IDCW Donation Option,,,Close Ended,Income/Debt Oriented Schemes - Fixed Term Plan
 154894,Invesco Asset Management (India) Private Limited,Invesco India BSE Top 10 Banks ETF,INF205KA1CW5,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
-154899,Invesco Asset Management (India) Private Limited,Invesco India Nifty Metal Index Fund - Regular - IDCW Reinvestment,INF205KA1CZ8,,Open Ended,Index Funds - Equity Funds
-154900,Invesco Asset Management (India) Private Limited,Invesco India Nifty Metal Index Fund - Direct - IDCW Payout,INF205KA1DB7,,Open Ended,Index Funds - Equity Funds
-154895,Invesco Asset Management (India) Private Limited,Invesco India Nifty Metal Index Fund - Regular - Growth,INF205KA1CX3,,Open Ended,Index Funds - Equity Funds
-154896,Invesco Asset Management (India) Private Limited,Invesco India Nifty Metal Index Fund,INF205KA1CY1,,Open Ended,Index Funds - Equity Funds
-154897,Invesco Asset Management (India) Private Limited,Invesco India Nifty Metal Index Fund - Direct - Growth,INF205KA1DA9,,Open Ended,Index Funds - Equity Funds
-154898,Invesco Asset Management (India) Private Limited,Invesco India Nifty Metal Index Fund - Direct - IDCW Reinvestment,INF205KA1DC5,,Open Ended,Index Funds - Equity Funds
+154895,Invesco Asset Management (India) Private Limited,Invesco India Nifty Metal Index Fund - Regular Plan - Growth,INF205KA1CX3,,Open Ended,Index Funds - Equity Funds
+154896,Invesco Asset Management (India) Private Limited,Invesco India Nifty Metal Index Fund - Regular Plan - IDCW,INF205KA1CY1,INF205KA1CZ8,Open Ended,Index Funds - Equity Funds
+154897,Invesco Asset Management (India) Private Limited,Invesco India Nifty Metal Index Fund - Direct Plan - Growth,INF205KA1DA9,,Open Ended,Index Funds - Equity Funds
+154900,Invesco Asset Management (India) Private Limited,Invesco India Nifty Metal Index Fund - Direct Plan - IDCW,INF205KA1DB7,INF205KA1DC5,Open Ended,Index Funds - Equity Funds
