@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "Zerodha Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Exchange Traded Funds (ETFs) - Equity ETF",
+        "scheme_code": 154813,
+        "scheme_name": "Zerodha BSE TOP 10 BANKS ETF - Direct Plan - Growth",
+        "isin_growth": "INF0R8F01265",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "04-11-2026",
+            "nav": "102.89440"
+        }
+    ],
+    "status": "SUCCESS"
+}
