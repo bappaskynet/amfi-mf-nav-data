@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "UTI Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Income/Debt Oriented Schemes - Sectoral Fund",
+        "scheme_code": 154867,
+        "scheme_name": "UTI Financial Services Debt Fund - Regular Plan - Growth Option",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "05-11-2026",
+            "nav": "10.00640"
+        }
+    ],
+    "status": "SUCCESS"
+}

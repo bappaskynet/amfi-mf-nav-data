@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Exchange Traded Funds (ETFs) - Other ETF",
+        "scheme_code": 154852,
+        "scheme_name": "ICICI Prudential BSE Power ETF",
+        "isin_growth": "INF109K1A724",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "05-11-2026",
+            "nav": "71.33530"
+        }
+    ],
+    "status": "SUCCESS"
+}
