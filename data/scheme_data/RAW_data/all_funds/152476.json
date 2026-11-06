@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Zerodha Mutual Fund",
+        "fund_house": "Zerodha CASE Mutual Fund",
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Exchange Traded Funds (ETFs) - Gold ETF",
         "scheme_code": 152476,
-        "scheme_name": "Zerodha Gold ETF - Direct Plan",
+        "scheme_name": "Zerodha CASE Gold ETF - Direct Plan",
         "isin_growth": "INF0R8F01042",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "05-11-2026",
+            "nav": "22.42090"
+        },
         {
             "date": "04-11-2026",
             "nav": "22.12550"

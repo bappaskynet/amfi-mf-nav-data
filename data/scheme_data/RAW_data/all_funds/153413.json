@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Zerodha Mutual Fund",
+        "fund_house": "Zerodha CASE Mutual Fund",
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Exchange Traded Funds (ETFs) - Silver ETF",
         "scheme_code": 153413,
-        "scheme_name": "Zerodha Silver ETF - Direct Plan",
+        "scheme_name": "Zerodha CASE Silver ETF - Direct Plan",
         "isin_growth": "INF0R8F01091",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "05-11-2026",
+            "nav": "18.82210"
+        },
         {
             "date": "04-11-2026",
             "nav": "18.64620"
