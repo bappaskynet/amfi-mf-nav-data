@@ -31438,6 +31438,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154791,HDFC Mutual Fund,HDFC Nifty LargeMidcap250 Plus 8-13 yr G-sec 70:30 Index Fund - Regular Plan - IDCW Option,INF179KC1LF1,,Open Ended Schemes,Index Funds - Hybrid Fund
 154792,HDFC Mutual Fund,HDFC Nifty LargeMidcap250 Plus 8-13 yr G-sec 70:30 Index Fund - Regular Plan - Growth Option,INF179KC1LE4,,Open Ended Schemes,Index Funds - Hybrid Fund
 154793,HDFC Mutual Fund,HDFC Nifty LargeMidcap250 Plus 8-13 yr G-sec 70:30 Index Fund - Direct Plan - Growth Option,INF179KC1LB0,,Open Ended Schemes,Index Funds - Hybrid Fund
+154794,Motilal Oswal Mutual Fund,Motilal Oswal Nifty Midcap150 Plus 8-13 yr G-Sec 70:30 Index Fund - Regular Plan - GROWTH,INF247L01HR4,,Open Ended Schemes,Index Funds - Hybrid Fund
+154795,Motilal Oswal Mutual Fund,Motilal Oswal Nifty Midcap150 Plus 8-13 yr G-Sec 70:30 Index Fund - Direct Plan - GROWTH,INF247L01HQ6,,Open Ended Schemes,Index Funds - Hybrid Fund
 154798,Kotak Mahindra Mutual Fund,Kotak Nifty 500 Index Fund - Direct Plan - Growth,INF174KA1G64,,Open Ended Schemes,Index Funds - Equity Funds
 154799,Kotak Mahindra Mutual Fund,Kotak Nifty 500 Index Fund - Regular Plan - Growth,INF174KA1G98,,Open Ended Schemes,Index Funds - Equity Funds
 154800,Kotak Mahindra Mutual Fund,Kotak Nifty 500 Index Fund - Regular Plan - IDCW - Dividend Payout & Reinvestment,INF174KA1H06,INF174KA1H14,Open Ended Schemes,Index Funds - Equity Funds
@@ -31475,7 +31477,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154849,WhiteOak Capital Mutual Fund,WhiteOak Capital Aggressive Hybrid Fund - Regular Plan - IDCW Option,INF03VN01BD1,INF03VN01BE9,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
 154850,WhiteOak Capital Mutual Fund,WhiteOak Capital Multi Asset Allocation Fund - Direct Plan - IDCW Option,INF03VN01BF6,INF03VN01BG4,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
 154851,WhiteOak Capital Mutual Fund,WhiteOak Capital Multi Asset Allocation Fund - Regular Plan - IDCW Option,INF03VN01BH2,INF03VN01BI0,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
+154852,ICICI Prudential Mutual Fund,ICICI Prudential BSE Power ETF,INF109K1A724,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Other ETF
 154858,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan-Series VB (136 Days) - Direct Plan - IDCW,INF209KC1852,INF209KC1845,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
 154859,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan-Series VB (136 Days) - Direct Plan - Growth,INF209KC1837,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
 154860,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan-Series VB (136 Days) - Regular Plan - Growth,INF209KC1860,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
 154861,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan-Series VB (136 Days) - Regular Plan - IDCW,INF209KC1886,INF209KC1878,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
+154866,UTI Mutual Fund,UTI Financial Services Debt Fund - Direct Plan - Growth Option,,,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
+154867,UTI Mutual Fund,UTI Financial Services Debt Fund - Regular Plan - Growth Option,,,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
+154868,UTI Mutual Fund,UTI Financial Services Debt Fund - Direct Plan - Payout of IDCW Option,,,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
+154869,UTI Mutual Fund,UTI Financial Services Debt Fund - Regular Plan - Payout of IDCW Option,,,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
