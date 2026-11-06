@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Zerodha Mutual Fund",
+        "fund_house": "Zerodha CASE Mutual Fund",
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Life Cycle Funds - Life Cycle Fund with Maturity of 10 Years",
         "scheme_code": 154436,
-        "scheme_name": "Zerodha Life Cycle Fund 2036 - Direct Plan - Growth Option",
+        "scheme_name": "Zerodha CASE Life Cycle Fund 2036 - Direct Plan - Growth Option",
         "isin_growth": "INF0R8F01224",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "05-11-2026",
+            "nav": "9.84120"
+        },
         {
             "date": "04-11-2026",
             "nav": "9.69230"

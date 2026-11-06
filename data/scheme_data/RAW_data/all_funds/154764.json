@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Zerodha Mutual Fund",
+        "fund_house": "Zerodha CASE Mutual Fund",
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Exchange Traded Funds (ETFs) - Equity ETF",
         "scheme_code": 154764,
-        "scheme_name": "Zerodha Nifty Next 100 ETF - Direct Plan - Growth",
+        "scheme_name": "Zerodha CASE Nifty Next 100 ETF - Direct Plan - Growth",
         "isin_growth": "INF0R8F01257",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "05-11-2026",
+            "nav": "10.56230"
+        },
         {
             "date": "04-11-2026",
             "nav": "10.38990"

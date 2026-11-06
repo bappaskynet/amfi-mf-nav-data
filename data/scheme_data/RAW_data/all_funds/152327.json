@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Zerodha Mutual Fund",
+        "fund_house": "Zerodha CASE Mutual Fund",
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Exchange Traded Funds (ETFs) - Debt ETF",
         "scheme_code": 152327,
-        "scheme_name": "Zerodha Nifty 1D Rate Liquid ETF - Direct Plan - Growth Option",
+        "scheme_name": "Zerodha CASE Nifty 1D Rate Liquid ETF - Direct Plan - Growth Option",
         "isin_growth": "INF0R8F01034",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "05-11-2026",
+            "nav": "116.74750"
+        },
         {
             "date": "04-11-2026",
             "nav": "116.73090"

@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Zerodha Mutual Fund",
+        "fund_house": "Zerodha CASE Mutual Fund",
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Schemes - Arbitrage Fund",
         "scheme_code": 154619,
-        "scheme_name": "Zerodha Arbitrage Fund - Direct Plan - Growth Option",
+        "scheme_name": "Zerodha CASE Arbitrage Fund - Direct Plan - Growth Option",
         "isin_growth": "INF0R8F01232",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "05-11-2026",
+            "nav": "10.12860"
+        },
         {
             "date": "04-11-2026",
             "nav": "10.13190"

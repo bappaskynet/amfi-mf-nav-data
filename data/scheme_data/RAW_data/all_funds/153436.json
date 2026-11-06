@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Zerodha Mutual Fund",
+        "fund_house": "Zerodha CASE Mutual Fund",
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Overnight Fund",
         "scheme_code": 153436,
-        "scheme_name": "Zerodha Overnight Fund - Direct Plan - Growth Option",
+        "scheme_name": "Zerodha CASE Overnight Fund - Direct Plan - Growth Option",
         "isin_growth": "INF0R8F01075",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "05-11-2026",
+            "nav": "10.86330"
+        },
         {
             "date": "04-11-2026",
             "nav": "10.86170"
