@@ -14419,6 +14419,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154835,Mirae Asset Mutual Fund,Mirae Asset Fixed Maturity Plan â Series VIâ 3 to 6 Months,INF769K01SA2,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
 154836,Mirae Asset Mutual Fund,Mirae Asset Fixed Maturity Plan â Series VIâ 3 to 6 Months,INF769K01RX6,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
 154837,Mirae Asset Mutual Fund,Mirae Asset Fixed Maturity Plan â Series VIâ 3 to 6 Months,INF769K01RY4,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
+154840,Choice Mutual Fund,Choice Large & Mid Cap Fund,INF2KCX01111,,Open Ended Schemes,Equity Schemes - Large & Mid Cap Fund
+154841,Choice Mutual Fund,Choice Large & Mid Cap Fund,INF2KCX01103,,Open Ended Schemes,Equity Schemes - Large & Mid Cap Fund
 154842,WhiteOak Capital Mutual Fund,WhiteOak Capital Equity Savings Fund,INF03VN01AP7,INF03VN01AQ5,Open Ended Schemes,Hybrid Schemes - Equity Savings Fund
 154844,WhiteOak Capital Mutual Fund,WhiteOak Capital Balanced Advantage Fund,INF03VN01AT9,INF03VN01AU7,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 154845,WhiteOak Capital Mutual Fund,WhiteOak Capital Balanced Advantage Fund,INF03VN01AV5,INF03VN01AW3,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
@@ -14428,6 +14430,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154850,WhiteOak Capital Mutual Fund,WhiteOak Capital Multi Asset Allocation Fund,INF03VN01BF6,INF03VN01BG4,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
 154851,WhiteOak Capital Mutual Fund,WhiteOak Capital Multi Asset Allocation Fund,INF03VN01BH2,INF03VN01BI0,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
 154852,ICICI Prudential Mutual Fund,ICICI Prudential BSE Power ETF,INF109K1A724,,Open Ended Schemes,Exchange Traded Funds
+154853,Navi Mutual Fund,Navi Multi Asset Omni FoF,INF959L01HV6,,Open Ended Schemes,Fund of Funds Scheme
+154854,Navi Mutual Fund,Navi Multi Asset Omni FoF,INF959L01HW4,,Open Ended Schemes,Fund of Funds Scheme
 154858,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan-Series VB (136 Days),INF209KC1852,INF209KC1845,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
 154859,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan-Series VB (136 Days),INF209KC1837,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
 154860,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan-Series VB (136 Days),INF209KC1860,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
@@ -36702,10 +36706,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154833,Motilal Oswal Asset Management Company Limited,Motilal Oswal Multi Asset - Omni Fund of Funds - Regular IDCW Payout,INF247L01HW4,INF247L01HX2,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154838,Axis Asset Management Co. Ltd.,Axis Nifty EV & New Age Automotive Index Fund,INF846KA1630,,Open Ended,Index Funds - Equity Funds
 154839,Axis Asset Management Co. Ltd.,Axis Nifty EV & New Automotive Index Fund,INF846KA1622,,Open Ended,Index Funds - Equity Funds
-154840,Choice AMC Private Limited,Choice Large & Mid Cap Fund - Growth - Regular Plan,INF2KCX01111,,Open Ended,Equity Schemes - Large & Mid Cap Fund
-154841,Choice AMC Private Limited,Choice Large & Mid Cap Fund - Growth - Direct Plan,INF2KCX01103,,Open Ended,Equity Schemes - Large & Mid Cap Fund
-154853,Navi AMC Limited,Navi Multi Asset Omni Fund of Fund Direct Growth,INF959L01HV6,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
-154854,Navi AMC Limited,Navi Multi Asset Omni Funf of Fund Regular Growth,INF959L01HW4,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154855,UTI Asset Mgmt. Co. Ltd.,UTI Nifty India New Age Consumption Index Fund - Direct Growth Option,,,Open Ended,Index Funds - Equity Funds
 154856,UTI Asset Mgmt. Co. Ltd.,UTI Nifty India New Age Consumption Index Fund - Regular Growth Option,,,Open Ended,Index Funds - Equity Funds
 154864,Kotak Mahindra Asset Management Company Limited.,Kotak Nifty Realty Index Fund - Regular Plan - Growth,INF174KA1H55,,Open Ended,Index Funds - Equity Funds
