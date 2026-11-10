@@ -4,11 +4,15 @@
         "scheme_type": "Close Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Fixed Term Plan",
         "scheme_code": 154835,
-        "scheme_name": "Mirae Asset Fixed Maturity Plan \u2013 Series VI\u2013 3 to 6 Months - Direct Plan - IDCW",
+        "scheme_name": "Mirae Asset Fixed Maturity Plan - Series VI- 3 to 6 Months - Direct Plan - IDCW",
         "isin_growth": "INF769K01SA2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "09-11-2026",
+            "nav": "10.03170"
+        },
         {
             "date": "06-11-2026",
             "nav": "10.02350"
