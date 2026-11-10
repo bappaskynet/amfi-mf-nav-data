@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "Carnelian Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Equity Schemes - Small Cap Fund",
+        "scheme_code": 154788,
+        "scheme_name": "Carnelian Small Cap Fund - Direct Plan - Payout and Reinvest",
+        "isin_growth": "INF30CN01103",
+        "isin_div_reinvestment": "INF30CN01111"
+    },
+    "data": [
+        {
+            "date": "09-11-2026",
+            "nav": "10.03270"
+        }
+    ],
+    "status": "SUCCESS"
+}
