@@ -36696,6 +36696,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154729,Shriram Asset Management Co. Ltd.,Shriram Gold ETF Passive FOF-Direct-IDCWPAYOUT,INF680P01679,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154725,Shriram Asset Management Co. Ltd.,Shriram Gold ETF Passive FOF-Regular-IDCWPAYOUT,INF680P01687,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154779,Carnelian Investment Managers Private Limited,Carnelian Liquid Fund - Regular Plan - Weekly IDCW Reinvest,INF30CN01087,,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
+154796,Samco Asset Management Private Limited,Samco Equity Savings Fund - Regular Plan,INF0K1H01347,,Open Ended,Hybrid Schemes - Equity Savings Fund
+154797,Samco Asset Management Private Limited,Samco Equity Savings Fund - Direct Plan,INF0K1H01339,,Open Ended,Hybrid Schemes - Equity Savings Fund
 154806,Bajaj Finserv Asset Management Limited,Bajaj Finserv Business Cycle Fund - Regular - Growth,INF0QA701CL4,,Open Ended,Equity Schemes - Thematic Fund
 154807,Bajaj Finserv Asset Management Limited,Bajaj Finserv Business Cycle Fund - Direct - IDCW,INF0QA701CP5,INF0QA701CQ3,Open Ended,Equity Schemes - Thematic Fund
 154808,Bajaj Finserv Asset Management Limited,Bajaj Finserv Business Cycle Fund - Direct- Growth,INF0QA701CO8,,Open Ended,Equity Schemes - Thematic Fund
@@ -36743,4 +36745,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154900,Invesco Asset Management (India) Private Limited,Invesco India Nifty Metal Index Fund - Direct Plan - IDCW,INF205KA1DB7,INF205KA1DC5,Open Ended,Index Funds - Equity Funds
 154901,DSP Asset Managers Private Limited,DSP Fixed Maturity Plan (FMP) - Series 280 - 90 Days Direct Growth,INF740KA1ZT4,,Close Ended,Income/Debt Oriented Schemes - Fixed Term Plan
 154902,DSP Asset Managers Private Limited,DSP Fixed Maturity Plan (FMP) - Series 280 - 90 Days,INF740KA1ZS6,,Close Ended,Income/Debt Oriented Schemes - Fixed Term Plan
-154903,SBI Funds Management Limited,SBI BSE India Defence ETF FOF,,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154903,SBI Funds Management Limited,SBI BSE India Defence ETF FOF - Direct Plan - IDCW,,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154908,SBI Funds Management Limited,SBI BSE India Defence ETF FOF - Direct Plan - Growth,,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154909,SBI Funds Management Limited,SBI BSE India Defence ETF FOF - Regular Plan - Growth,,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154910,SBI Funds Management Limited,SBI BSE India Defence ETF FOF - Regular Plan - IDCW,,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154911,WhiteOak Capital Asset Management Limited,WhiteOak Capital Contra Fund Direct Plan Growth,INF03VN01BJ8,,Open Ended,Equity Schemes - Contra Fund
+154912,WhiteOak Capital Asset Management Limited,WhiteOak Capital Contra Fund Regular Plan Growth,INF03VN01BK6,,Open Ended,Equity Schemes - Contra Fund
