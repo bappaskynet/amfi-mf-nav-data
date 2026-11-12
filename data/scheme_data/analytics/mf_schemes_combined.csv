@@ -13805,10 +13805,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154120,Mahindra Manulife Mutual Fund,Mahindra Manulife Innovation Opportunities Fund,INF174V01CX8,,Open Ended Schemes,Equity Schemes - Thematic Fund
 154121,Mahindra Manulife Mutual Fund,Mahindra Manulife Innovation Opportunities Fund,INF174V01DA4,,Open Ended Schemes,Equity Schemes - Thematic Fund
 154122,Mahindra Manulife Mutual Fund,Mahindra Manulife Innovation Opportunities Fund,INF174V01DC0,INF174V01DB2,Open Ended Schemes,Equity Schemes - Thematic Fund
-154123,Sundaram Mutual Fund,Sundaram Income Plus Arbitrage Active FoF,INF903JA1LZ7,,Open Ended Schemes,Other Scheme - FoF Domestic
-154124,Sundaram Mutual Fund,Sundaram Income Plus Arbitrage Active FoF,INF903JA1MA8,,Open Ended Schemes,Other Scheme - FoF Domestic
-154125,Sundaram Mutual Fund,Sundaram Income Plus Arbitrage Active FoF,INF903JA1MD2,,Open Ended Schemes,Other Scheme - FoF Domestic
-154127,Sundaram Mutual Fund,Sundaram Income Plus Arbitrage Active FoF,INF903JA1MC4,,Open Ended Schemes,Other Scheme - FoF Domestic
+154123,Sundaram Mutual Fund,Sundaram Income Plus Arbitrage Active FoF,INF903JA1LZ7,,Open Ended Schemes,Fund of Funds Scheme
+154124,Sundaram Mutual Fund,Sundaram Income Plus Arbitrage Active FoF,INF903JA1MA8,INF903JA1MB6,Open Ended Schemes,Fund of Funds Scheme
+154125,Sundaram Mutual Fund,Sundaram Income Plus Arbitrage Active FoF,INF903JA1MD2,INF903JA1ME0,Open Ended Schemes,Fund of Funds Scheme
+154127,Sundaram Mutual Fund,Sundaram Income Plus Arbitrage Active FoF,INF903JA1MC4,,Open Ended Schemes,Fund of Funds Scheme
 154129,Bandhan Mutual Fund,Bandhan Gold ETF FOF,INF194KB1KL3,,Open Ended Schemes,Other Scheme - FoF Domestic
 154130,Bandhan Mutual Fund,Bandhan Gold ETF FOF,INF194KB1KK5,,Open Ended Schemes,Other Scheme - FoF Domestic
 154131,The Wealth Company Mutual Fund,The Wealth Company Gold ETF FOF,INF2F0001412,,Open Ended Schemes,Other Scheme - FoF Domestic
@@ -36691,8 +36691,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154650,Jio BlackRock Asset Management Private Limited,JioBlackRock Liquid Fund - Regular Plan - Daily IDCW Reinvestment Option,INF22M001275,,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
 154656,Jio BlackRock Asset Management Private Limited,JioBlackRock Liquid Fund - Regular Plan - Weekly IDCW Option,INF22M001283,INF22M001291,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
 154522,Abakkus Investment Managers Private Limited,Abakkus Liquid Fund - Unclaimed IDCW Less than 3 Years,,,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
-154126,Sundaram Asset Management Company Ltd,Sundaram Income Plus Arbitrage Active FoF Fund-Regular-IDCW Reinvestment,INF903JA1ME0,,Open Ended,Other Scheme - FoF Domestic
-154128,Sundaram Asset Management Company Ltd,Sundaram Income Plus Arbitrage Active FoF Fund-Direct-IDCW Reinvestment,INF903JA1MB6,,Open Ended,Other Scheme - FoF Domestic
 154707,Monarch Networth Asset Management Private Limited,Monarch Overnight Fund - Direct Plan-Daily IDCW,INF2ZSC01044,,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
 154709,Monarch Networth Asset Management Private Limited,Monarch Overnight Fund- Regular Plan- Monthly IDCW,INF2ZSC01077,INF2ZSC01051,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
 154729,Shriram Asset Management Co. Ltd.,Shriram Gold ETF Passive FOF-Direct-IDCWPAYOUT,INF680P01679,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
@@ -36751,3 +36749,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154910,SBI Funds Management Limited,SBI BSE India Defence ETF FOF - Regular Plan - IDCW,,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154911,WhiteOak Capital Asset Management Limited,WhiteOak Capital Contra Fund Direct Plan Growth,INF03VN01BJ8,,Open Ended,Equity Schemes - Contra Fund
 154912,WhiteOak Capital Asset Management Limited,WhiteOak Capital Contra Fund Regular Plan Growth,INF03VN01BK6,,Open Ended,Equity Schemes - Contra Fund
+154913,Kotak Mahindra Asset Management Company Limited.,Kotak Nifty Pharma Index Fund - Direct Plan - Growth,INF174KA1I21,,Open Ended,Index Funds - Equity Funds
+154914,Kotak Mahindra Asset Management Company Limited.,Kotak Nifty Pharma Index Fund - Direct Plan - IDCW Option,INF174KA1I39,INF174KA1I47,Open Ended,Index Funds - Equity Funds
+154915,Kotak Mahindra Asset Management Company Limited.,Kotak Nifty Pharma Index Fund - Regular Plan - Growth,INF174KA1I54,,Open Ended,Index Funds - Equity Funds
+154916,Kotak Mahindra Asset Management Company Limited.,Kotak Nifty Pharma Index Fund - Regular Plan - IDCW Option,INF174KA1I62,INF174KA1I70,Open Ended,Index Funds - Equity Funds
+154917,Bandhan AMC Limited,Bandhan Nifty Commodities Index Fund - Direct Plan - Growth,INF194KB1LF3,,Open Ended,Index Funds - Equity Funds
+154918,Bandhan AMC Limited,Bandhan Nifty Commodities Index Fund - Regular Plan - Growth,INF194KB1LE6,,Open Ended,Index Funds - Equity Funds
