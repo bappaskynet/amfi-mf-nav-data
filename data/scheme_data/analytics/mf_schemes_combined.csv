@@ -14425,12 +14425,16 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154835,Mirae Asset Mutual Fund,Mirae Asset Fixed Maturity Plan - Series VI- 3 to 6 Months,INF769K01SA2,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
 154836,Mirae Asset Mutual Fund,Mirae Asset Fixed Maturity Plan - Series VI- 3 to 6 Months,INF769K01RX6,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
 154837,Mirae Asset Mutual Fund,Mirae Asset Fixed Maturity Plan - Series VI- 3 to 6 Months,INF769K01RY4,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
+154838,Axis Mutual Fund,Axis Nifty EV & New Age Automotive Index Fund,INF846KA1630,,Open Ended Schemes,Index Funds - Equity Funds
+154839,Axis Mutual Fund,Axis Nifty EV & New Age Automotive Index Fund,INF846KA1622,,Open Ended Schemes,Index Funds - Equity Funds
 154840,Choice Mutual Fund,Choice Large & Mid Cap Fund,INF2KCX01111,,Open Ended Schemes,Equity Schemes - Large & Mid Cap Fund
 154841,Choice Mutual Fund,Choice Large & Mid Cap Fund,INF2KCX01103,,Open Ended Schemes,Equity Schemes - Large & Mid Cap Fund
 154842,WhiteOak Capital Mutual Fund,WhiteOak Capital Equity Savings Fund,INF03VN01AP7,INF03VN01AQ5,Open Ended Schemes,Hybrid Schemes - Equity Savings Fund
+154843,WhiteOak Capital Mutual Fund,WhiteOak Capital Equity Savings Fund,INF03VN01AR3,INF03VN01AS1,Open Ended Schemes,Hybrid Schemes - Equity Savings Fund
 154844,WhiteOak Capital Mutual Fund,WhiteOak Capital Balanced Advantage Fund,INF03VN01AT9,INF03VN01AU7,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 154845,WhiteOak Capital Mutual Fund,WhiteOak Capital Balanced Advantage Fund,INF03VN01AV5,INF03VN01AW3,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 154846,WhiteOak Capital Mutual Fund,WhiteOak Capital Balanced Hybrid Fund,INF03VN01AX1,INF03VN01AY9,Open Ended Schemes,Hybrid Schemes - Balanced Hybrid Fund
+154847,WhiteOak Capital Mutual Fund,WhiteOak Capital Balanced Hybrid Fund,INF03VN01AZ6,INF03VN01BA7,Open Ended Schemes,Hybrid Schemes - Balanced Hybrid Fund
 154848,WhiteOak Capital Mutual Fund,WhiteOak Capital Aggressive Hybrid Fund,INF03VN01BB5,INF03VN01BC3,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
 154849,WhiteOak Capital Mutual Fund,WhiteOak Capital Aggressive Hybrid Fund,INF03VN01BD1,INF03VN01BE9,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
 154850,WhiteOak Capital Mutual Fund,WhiteOak Capital Multi Asset Allocation Fund,INF03VN01BF6,INF03VN01BG4,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
@@ -14446,6 +14450,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154867,UTI Mutual Fund,UTI Financial Services Debt Fund,,,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
 154868,UTI Mutual Fund,UTI Financial Services Debt Fund,,,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
 154869,UTI Mutual Fund,UTI Financial Services Debt Fund,,,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
+154882,quant Mutual Fund,quant Silver ETF FOF,INF966L01FH4,,Open Ended Schemes,Fund of Funds Scheme
+154883,quant Mutual Fund,quant Silver ETF FOF,INF966L01FK8,,Open Ended Schemes,Fund of Funds Scheme
+154884,quant Mutual Fund,quant Silver ETF FOF,INF966L01FI2,INF966L01FJ0,Open Ended Schemes,Fund of Funds Scheme
+154885,quant Mutual Fund,quant Silver ETF FOF,INF966L01FL6,INF966L01FM4,Open Ended Schemes,Fund of Funds Scheme
 100027,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Half Yearly Dividend,,,Open Ended Schemes,Income
 100028,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Quaterly Dividend,,,Open Ended Schemes,Income
 100029,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Growth,,,Open Ended Schemes,Income
@@ -36642,7 +36650,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 151827,Kotak Mahindra Asset Management Company Limited.,Kotak FMP Series 313 - Direct Plan - IDCW Payout,INF174KA1OH8,,Close Ended,Income
 151828,Kotak Mahindra Asset Management Company Limited.,Kotak FMP Series 313 - Regular Plan - Growth Option,INF174KA1OE5,,Close Ended,Income
 151825,Kotak Mahindra Asset Management Company Limited.,Kotak FMP Series 313 - Regular Plan - IDCW Payout,INF174KA1OF2,,Close Ended,Income
-154847,WhiteOak Capital Asset Management Limited,WhiteOak Capital Balanced Hybrid Fund Regular Plan IDCW,INF03VN01AZ6,INF03VN01BA7,Open Ended,Hybrid Schemes - Balanced Hybrid Fund
 152210,Samco Asset Management Private Limited,Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Transfer,INF0K1H01123,,Open Ended,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 152211,Samco Asset Management Private Limited,Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Transfer,INF0K1H01164,,Open Ended,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 152485,Nippon Life India Asset Management Limited,Nippon India Fixed Maturity Plan XLVI Series 2 - Regular Plan - Growth,INF204KC1CH5,,Close Ended,Income
@@ -36684,7 +36691,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 152708,Tata Asset Management Private Limited,Tata Fixed Maturity Plan Series 61 Scheme C (91 days) - Regular Plan IDCW Payout Option,INF277KA1BW0,,Close Ended,Income
 152709,Tata Asset Management Private Limited,Tata Fixed Maturity Plan Series 61 Scheme C (91 days) - Direct Plan IDCW Payout Option,INF277KA1BY6,,Close Ended,Income
 153168,Baroda BNP Paribas Asset Management India Private Limited,Baroda BNP Paribas Children's Fund - Direct Plan - IDCW Option,INF251K01UF6,,Open Ended,Solution Oriented Scheme - Children s Fund
-154843,WhiteOak Capital Asset Management Limited,WhiteOak Capital Equity Savings Fund Regular Plan IDCW,INF03VN01AR3,INF03VN01AS1,Open Ended,Hybrid Schemes - Equity Savings Fund
 153446,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Crisil-IBX Financial Services 9-12 Months Debt Index Fund-Regular IDCW Payout,INF209KC1522,,Open Ended,Other Scheme - Index Funds
 154071,Jio BlackRock Asset Management Private Limited,JioBlackRock Overnight Fund - Unclaimed Redemption - Above 3 years- Growth Option,,,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
 154116,Jio BlackRock Asset Management Private Limited,JioBlackRock Liquid Fund - Direct Plan - Daily IDCW Reinvestment Option,INF22M001119,,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
@@ -36704,8 +36710,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154828,Motilal Oswal Asset Management Company Limited,Motilal Oswal Multi Asset - Omni Fund of Funds - Direct IDCW Payout,INF247L01HT0,INF247L01HU8,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154830,Motilal Oswal Asset Management Company Limited,Motilal Oswal Multi Asset - Omni Fund of Funds - Regular Growth,INF247L01HV6,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154833,Motilal Oswal Asset Management Company Limited,Motilal Oswal Multi Asset - Omni Fund of Funds - Regular IDCW Payout,INF247L01HW4,INF247L01HX2,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
-154838,Axis Asset Management Co. Ltd.,Axis Nifty EV & New Age Automotive Index Fund,INF846KA1630,,Open Ended,Index Funds - Equity Funds
-154839,Axis Asset Management Co. Ltd.,Axis Nifty EV & New Automotive Index Fund,INF846KA1622,,Open Ended,Index Funds - Equity Funds
 154855,UTI Asset Mgmt. Co. Ltd.,UTI Nifty India New Age Consumption Index Fund - Direct Growth Option,,,Open Ended,Index Funds - Equity Funds
 154856,UTI Asset Mgmt. Co. Ltd.,UTI Nifty India New Age Consumption Index Fund - Regular Growth Option,,,Open Ended,Index Funds - Equity Funds
 154864,Kotak Mahindra Asset Management Company Limited.,Kotak Nifty Realty Index Fund - Regular Plan - Growth,INF174KA1H55,,Open Ended,Index Funds - Equity Funds
@@ -36724,10 +36728,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154879,Kotak Mahindra Asset Management Company Limited.,Kotak Fixed Maturity Plan Series 336 - Direct Plan - IDCW Payout,INF174KA1H97,,Close Ended,Income/Debt Oriented Schemes - Fixed Term Plan
 154880,Kotak Mahindra Asset Management Company Limited.,Kotak Fixed Maturity Plan Series 336 - Regular Plan - IDCW Payout,INF174KA1I13,,Close Ended,Income/Debt Oriented Schemes - Fixed Term Plan
 154881,Kotak Mahindra Asset Management Company Limited.,Kotak Fixed Maturity Plan Series 336 - Regular Plan - Growth,INF174KA1I05,,Close Ended,Income/Debt Oriented Schemes - Fixed Term Plan
-154882,quant Money Managers Limited,quant Silver ETF FOF- Growth Option - Direct Plan,INF966L01FH4,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
-154883,quant Money Managers Limited,quant Silver ETF FOF- Growth Option - Regular Plan,INF966L01FK8,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
-154884,quant Money Managers Limited,quant Silver ETF FOF- IDCW Option - Direct Plan,INF966L01FI2,INF966L01FJ0,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
-154885,quant Money Managers Limited,quant Silver ETF FOF- IDCW Option - Regular Plan,INF966L01FL6,INF966L01FM4,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154889,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Fixed Maturity Plan- Series VC (114 Days)- Direct Plan- IDCW,INF209KC1910,INF209KC1902,Close Ended,Income/Debt Oriented Schemes - Fixed Term Plan
 154886,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Fixed Maturity Plan- Series VC (114 Days)- Direct Plan- Growth,INF209KC1894,,Close Ended,Income/Debt Oriented Schemes - Fixed Term Plan
 154887,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Fixed Maturity Plan- Series VC (114 Days) Regular Plan- Growth,INF209KC1928,,Close Ended,Income/Debt Oriented Schemes - Fixed Term Plan
