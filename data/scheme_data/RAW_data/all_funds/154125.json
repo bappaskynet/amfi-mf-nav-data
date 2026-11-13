@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Sundaram Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
         "scheme_code": 154125,
         "scheme_name": "Sundaram Income Plus Arbitrage Active FoF - Regular Plan - IDCW (Income Distribution CUM Capital Withdrawal)",
         "isin_growth": "INF903JA1MD2",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": "INF903JA1ME0"
     },
     "data": [
+        {
+            "date": "12-11-2026",
+            "nav": "10.46570"
+        },
         {
             "date": "11-11-2026",
             "nav": "10.47060"
