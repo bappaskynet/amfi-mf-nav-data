@@ -31475,12 +31475,16 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154835,Mirae Asset Mutual Fund,Mirae Asset Fixed Maturity Plan - Series VI- 3 to 6 Months - Direct Plan - IDCW,INF769K01SA2,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
 154836,Mirae Asset Mutual Fund,Mirae Asset Fixed Maturity Plan - Series VI- 3 to 6 Months - Regular Plan - Growth,INF769K01RX6,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
 154837,Mirae Asset Mutual Fund,Mirae Asset Fixed Maturity Plan - Series VI- 3 to 6 Months - Regular Plan - IDCW,INF769K01RY4,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
+154838,Axis Mutual Fund,Axis Nifty EV & New Age Automotive Index Fund - Direct Plan - Growth,INF846KA1630,,Open Ended Schemes,Index Funds - Equity Funds
+154839,Axis Mutual Fund,Axis Nifty EV & New Age Automotive Index Fund - Regular Plan - Growth,INF846KA1622,,Open Ended Schemes,Index Funds - Equity Funds
 154840,Choice Mutual Fund,Choice Large & Mid Cap Fund - Regular Plan - Growth,INF2KCX01111,,Open Ended Schemes,Equity Schemes - Large & Mid Cap Fund
 154841,Choice Mutual Fund,Choice Large & Mid Cap Fund - Direct Plan - Growth,INF2KCX01103,,Open Ended Schemes,Equity Schemes - Large & Mid Cap Fund
 154842,WhiteOak Capital Mutual Fund,WhiteOak Capital Equity Savings Fund - Direct Plan - IDCW Option,INF03VN01AP7,INF03VN01AQ5,Open Ended Schemes,Hybrid Schemes - Equity Savings Fund
+154843,WhiteOak Capital Mutual Fund,WhiteOak Capital Equity Savings Fund - Regular Plan - IDCW Option,INF03VN01AR3,INF03VN01AS1,Open Ended Schemes,Hybrid Schemes - Equity Savings Fund
 154844,WhiteOak Capital Mutual Fund,WhiteOak Capital Balanced Advantage Fund - Direct Plan - IDCW Option,INF03VN01AT9,INF03VN01AU7,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 154845,WhiteOak Capital Mutual Fund,WhiteOak Capital Balanced Advantage Fund - Regular Plan - IDCW Option,INF03VN01AV5,INF03VN01AW3,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 154846,WhiteOak Capital Mutual Fund,WhiteOak Capital Balanced Hybrid Fund - Direct Plan - IDCW Option,INF03VN01AX1,INF03VN01AY9,Open Ended Schemes,Hybrid Schemes - Balanced Hybrid Fund
+154847,WhiteOak Capital Mutual Fund,WhiteOak Capital Balanced Hybrid Fund - Regular Plan - IDCW Option,INF03VN01AZ6,INF03VN01BA7,Open Ended Schemes,Hybrid Schemes - Balanced Hybrid Fund
 154848,WhiteOak Capital Mutual Fund,WhiteOak Capital Aggressive Hybrid Fund - Direct Plan - IDCW Option,INF03VN01BB5,INF03VN01BC3,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
 154849,WhiteOak Capital Mutual Fund,WhiteOak Capital Aggressive Hybrid Fund - Regular Plan - IDCW Option,INF03VN01BD1,INF03VN01BE9,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
 154850,WhiteOak Capital Mutual Fund,WhiteOak Capital Multi Asset Allocation Fund - Direct Plan - IDCW Option,INF03VN01BF6,INF03VN01BG4,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
@@ -31496,3 +31500,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154867,UTI Mutual Fund,UTI Financial Services Debt Fund - Regular Plan - Growth Option,,,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
 154868,UTI Mutual Fund,UTI Financial Services Debt Fund - Direct Plan - Payout of IDCW Option,,,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
 154869,UTI Mutual Fund,UTI Financial Services Debt Fund - Regular Plan - Payout of IDCW Option,,,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
+154882,quant Mutual Fund,quant Silver ETF FOF - Direct Plan - Growth Option,INF966L01FH4,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154883,quant Mutual Fund,quant Silver ETF FOF - Regular Plan - Growth Option,INF966L01FK8,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154884,quant Mutual Fund,quant Silver ETF FOF - Direct Plan - IDCW Payout Option,INF966L01FI2,INF966L01FJ0,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154885,quant Mutual Fund,quant Silver ETF FOF - Regular Plan - IDCW Payout Option,INF966L01FL6,INF966L01FM4,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
