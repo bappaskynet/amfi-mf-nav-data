@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "WhiteOak Capital Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Hybrid Schemes - Balanced Hybrid Fund",
+        "scheme_code": 154847,
+        "scheme_name": "WhiteOak Capital Balanced Hybrid Fund - Regular Plan - IDCW Option",
+        "isin_growth": "INF03VN01AZ6",
+        "isin_div_reinvestment": "INF03VN01BA7"
+    },
+    "data": [
+        {
+            "date": "12-11-2026",
+            "nav": "13.60100"
+        }
+    ],
+    "status": "SUCCESS"
+}

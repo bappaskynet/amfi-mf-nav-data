@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "quant Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
+        "scheme_code": 154882,
+        "scheme_name": "quant Silver ETF FOF - Direct Plan - Growth Option",
+        "isin_growth": "INF966L01FH4",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "12-11-2026",
+            "nav": "10.00540"
+        }
+    ],
+    "status": "SUCCESS"
+}
