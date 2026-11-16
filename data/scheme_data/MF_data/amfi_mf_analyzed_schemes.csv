@@ -35752,7 +35752,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 153823,Union Mutual Fund,Union Diversified Equity All Cap Active FOF,INF582M01LW4,Open Ended,Other,FoF Domestic,Other,Other,
 153824,Union Mutual Fund,Union Diversified Equity All Cap Active FOF,INF582M01LZ7,Open Ended,Other,FoF Domestic,Other,Other,
 153825,Union Mutual Fund,Union Diversified Equity All Cap Active FOF,INF582M01MA8,Open Ended,Other,FoF Domestic,Other,Other,
-153826,Angel One Mutual Fund,ANGEL ONE GOLD ETF,INF1J2R01114,Open Ended,Other,ETF,Other,Other,
+153826,Angel One Mutual Fund,ANGEL ONE GOLD ETF,INF1J2R01114,Open Ended,Exchange Traded Funds,Exchange Traded Funds,Other,Other,
 153827,Angel One Mutual Fund,ANGEL ONE GOLD ETF FOF,INF1J2R01098,Open Ended,Other,FoF Domestic,Other,Other,
 153828,Angel One Mutual Fund,ANGEL ONE GOLD ETF FOF,INF1J2R01106,Open Ended,Other,FoF Domestic,Other,Other,
 153829,Axis Mutual Fund,Axis Nifty500 Quality 50 Index Fund,INF846KA1200,Open Ended,Index Funds,Equity Funds,Other,Other,
@@ -36762,17 +36762,21 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 154923,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset Contra Fund - Regular Plan - IDCW,,Open Ended,Equitys,Contra Fund,Regular,IDCW,
 154924,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset Contra Fund - Regular Plan - Growth,,Open Ended,Equitys,Contra Fund,Regular,Growth,
 154925,Invesco Asset Management (India) Private Limited,Invesco India Financial Services Debt Fund - Regular Plan - Growth,INF205KA1DD3,Open Ended,Income/Debt Orienteds,Sectoral Fund,Regular,Growth,
-154926,Invesco Asset Management (India) Private Limited,Invesco India Financial Services Debt Fund - Regular Plan - Weekly IDCW,INF205KA1DE1,Open Ended,Income/Debt Orienteds,Sectoral Fund,Regular,IDCW,Weekly
-154927,Invesco Asset Management (India) Private Limited,Invesco India Financial Services Debt Fund - Regular Plan - Daily IDCW,INF205KA1DH4,Open Ended,Income/Debt Orienteds,Sectoral Fund,Regular,IDCW,Daily
-154928,Invesco Asset Management (India) Private Limited,Invesco India Financial Services Debt Fund - Regular Plan - Monthly IDCW,INF205KA1DF8,Open Ended,Income/Debt Orienteds,Sectoral Fund,Regular,IDCW,Monthly
-154929,Invesco Asset Management (India) Private Limited,Invesco India Financial Services Debt Fund - Regular Plan - Discretionary IDCW,INF205KA1DG6,Open Ended,Income/Debt Orienteds,Sectoral Fund,Regular,IDCW,
+154926,Invesco Asset Management (India) Private Limited,Invesco India Financial Services Debt Fund - Regular Plan - Weekly IDCW (Payout/Reinvestment),INF205KA1DE1,Open Ended,Income/Debt Orienteds,Sectoral Fund,Regular,IDCW,Reinvestment
+154927,Invesco Asset Management (India) Private Limited,Invesco India Financial Services Debt Fund - Regular Plan - Daily IDCW (Reinvestment),INF205KA1DH4,Open Ended,Income/Debt Orienteds,Sectoral Fund,Regular,IDCW,Reinvestment
+154928,Invesco Asset Management (India) Private Limited,Invesco India Financial Services Debt Fund - Regular Plan - Monthly IDCW (Payout/Reinvestment),INF205KA1DF8,Open Ended,Income/Debt Orienteds,Sectoral Fund,Regular,IDCW,Reinvestment
+154929,Invesco Asset Management (India) Private Limited,Invesco India Financial Services Debt Fund - Regular Plan - Discretionary IDCW (Payout/Reinvestment),INF205KA1DG6,Open Ended,Income/Debt Orienteds,Sectoral Fund,Regular,IDCW,Reinvestment
 154930,Invesco Asset Management (India) Private Limited,Invesco India Financial Services Debt Fund - Direct Plan - Growth,INF205KA1DL6,Open Ended,Income/Debt Orienteds,Sectoral Fund,Direct,Growth,
-154931,Invesco Asset Management (India) Private Limited,Invesco India Financial Services Debt Fund - Direct Plan - Daily IDCW,INF205KA1DP7,Open Ended,Income/Debt Orienteds,Sectoral Fund,Direct,IDCW,Daily
-154932,Invesco Asset Management (India) Private Limited,Invesco India Financial Services Debt Fund - Direct Plan - Weekly IDCW,INF205KA1DM4,Open Ended,Income/Debt Orienteds,Sectoral Fund,Direct,IDCW,Weekly
-154933,Invesco Asset Management (India) Private Limited,Invesco India Financial Services Debt Fund - Direct Plan - Monthly IDCW,INF205KA1DN2,Open Ended,Income/Debt Orienteds,Sectoral Fund,Direct,IDCW,Monthly
-154934,Invesco Asset Management (India) Private Limited,Invesco India Financial Services Debt Fund - Direct Plan - Discretionary IDCW,INF205KA1DO0,Open Ended,Income/Debt Orienteds,Sectoral Fund,Direct,IDCW,
+154931,Invesco Asset Management (India) Private Limited,Invesco India Financial Services Debt Fund - Direct Plan - Daily IDCW (Reinvestment),INF205KA1DP7,Open Ended,Income/Debt Orienteds,Sectoral Fund,Direct,IDCW,Reinvestment
+154932,Invesco Asset Management (India) Private Limited,Invesco India Financial Services Debt Fund - Direct Plan - Weekly IDCW (Payout/Reinvestment),INF205KA1DM4,Open Ended,Income/Debt Orienteds,Sectoral Fund,Direct,IDCW,Reinvestment
+154933,Invesco Asset Management (India) Private Limited,Invesco India Financial Services Debt Fund - Direct Plan - Monthly IDCW (Payout/Reinvestment),INF205KA1DN2,Open Ended,Income/Debt Orienteds,Sectoral Fund,Direct,IDCW,Reinvestment
+154934,Invesco Asset Management (India) Private Limited,Invesco India Financial Services Debt Fund - Direct Plan - Discretionary IDCW (Payout/Reinvestment),INF205KA1DO0,Open Ended,Income/Debt Orienteds,Sectoral Fund,Direct,IDCW,Reinvestment
 154935,quant Money Managers Limited,quant Nifty Next 50 Index Fund - Growth Option - Direct Plan,,Open Ended,Index Funds,Equity Funds,Direct,Growth,
 154936,quant Money Managers Limited,quant Nifty Next 50 Index Fund - Growth Option - Regular Plan,,Open Ended,Index Funds,Equity Funds,Regular,Growth,
 154937,quant Money Managers Limited,quant Nifty Next 50 Index Fund - IDCW Option - Direct Plan,,Open Ended,Index Funds,Equity Funds,Direct,IDCW,
 154938,quant Money Managers Limited,quant Nifty Next 50 Index Fund - IDCW Option - Regular Plan,,Open Ended,Index Funds,Equity Funds,Regular,IDCW,
 154939,Motilal Oswal Asset Management Company Limited,Motilal Oswal Nifty 10 yr Benchmark G-Sec ETF,INF247L01HY0,Open Ended,Exchange Traded Funds (ETFs),ETF,Other,Other,
+154940,Motilal Oswal Asset Management Company Limited,MOTILAL OSWAL NIFTY500 GROWTH 50 ETF,INF247L01HZ7,Open Ended,Exchange Traded Funds (ETFs),ETF,Other,Growth,
+154941,Motilal Oswal Asset Management Company Limited,MOTILAL OSWAL NIFTY PSU BANK ETF,INF247L01IA8,Open Ended,Exchange Traded Funds (ETFs),ETF,Other,Other,
+154942,Motilal Oswal Asset Management Company Limited,MOTILAL OSWAL NIFTY PRIVATE BANK ETF,INF247L01IB6,Open Ended,Exchange Traded Funds (ETFs),ETF,Other,Other,
+154943,Motilal Oswal Asset Management Company Limited,MOTILAL OSWAL NIFTY REITS & REALTY ETF,INF247L01IC4,Open Ended,Exchange Traded Funds (ETFs),ETF,Other,Other,
