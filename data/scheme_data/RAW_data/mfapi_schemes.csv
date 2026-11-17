@@ -37128,7 +37128,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153823,Union Mutual Fund,Union Diversified Equity All Cap Active FOF - Regular Plan - IDCW Option,INF582M01LW4,INF582M01LX2,Open Ended Schemes,Other Scheme - FoF Domestic
 153824,Union Mutual Fund,Union Diversified Equity All Cap Active FOF - Direct Plan - Growth Option,INF582M01LZ7,,Open Ended Schemes,Other Scheme - FoF Domestic
 153825,Union Mutual Fund,Union Diversified Equity All Cap Active FOF - Direct Plan - IDCW Option,INF582M01MA8,INF582M01MB6,Open Ended Schemes,Other Scheme - FoF Domestic
-153826,Angel One Mutual Fund,ANGEL ONE GOLD ETF - Direct Plan,INF1J2R01114,,Open Ended Schemes,Other Scheme - Gold ETF
+153826,Angel One Mutual Fund,ANGEL ONE GOLD ETF - Direct Plan,INF1J2R01114,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Gold ETF
 153827,Angel One Mutual Fund,ANGEL ONE GOLD ETF FOF - Direct Plan - Growth,INF1J2R01098,,Open Ended Schemes,Other Scheme - FoF Domestic
 153828,Angel One Mutual Fund,ANGEL ONE GOLD ETF FOF - Regular Plan - Growth,INF1J2R01106,,Open Ended Schemes,Other Scheme - FoF Domestic
 153829,Axis Mutual Fund,Axis Nifty500 Quality 50 Index Fund - Direct Plan - Growth Option,INF846KA1200,,Open Ended Schemes,Index Funds - Equity Funds
@@ -38039,6 +38039,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154852,ICICI Prudential Mutual Fund,ICICI Prudential BSE Power ETF,INF109K1A724,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Other ETF
 154853,Navi Mutual Fund,Navi Multi Asset Omni FoF - Growth,INF959L01HV6,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154854,Navi Mutual Fund,Navi Multi Asset Omni FoF - Growth,INF959L01HW4,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154855,UTI Mutual Fund,UTI Nifty India New Age Consumption Index Fund - Direct Plan - Growth Option,,,Open Ended Schemes,Index Funds - Equity Funds
+154856,UTI Mutual Fund,UTI Nifty India New Age Consumption Index Fund - Regular Plan - Growth Option,,,Open Ended Schemes,Index Funds - Equity Funds
 154858,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan-Series VB (136 Days) - Direct Plan - IDCW,INF209KC1852,INF209KC1845,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
 154859,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan-Series VB (136 Days) - Direct Plan - Growth,INF209KC1837,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
 154860,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan-Series VB (136 Days) - Regular Plan - Growth,INF209KC1860,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
@@ -38047,6 +38049,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154867,UTI Mutual Fund,UTI Financial Services Debt Fund - Regular Plan - Growth Option,,,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
 154868,UTI Mutual Fund,UTI Financial Services Debt Fund - Direct Plan - Payout of IDCW Option,,,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
 154869,UTI Mutual Fund,UTI Financial Services Debt Fund - Regular Plan - Payout of IDCW Option,,,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
+154878,Kotak Mahindra Mutual Fund,Kotak Fixed Maturity Plan Series 336 - Direct Plan - Growth,INF174KA1H89,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
+154879,Kotak Mahindra Mutual Fund,Kotak Fixed Maturity Plan Series 336 - Direct Plan - IDCW Payout,INF174KA1H97,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
+154880,Kotak Mahindra Mutual Fund,Kotak Fixed Maturity Plan Series 336 - Regular Plan - IDCW Payout,INF174KA1I13,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
+154881,Kotak Mahindra Mutual Fund,Kotak Fixed Maturity Plan Series 336 - Regular Plan - Growth,INF174KA1I05,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
 154882,quant Mutual Fund,quant Silver ETF FOF - Direct Plan - Growth Option,INF966L01FH4,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154883,quant Mutual Fund,quant Silver ETF FOF - Regular Plan - Growth Option,INF966L01FK8,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154884,quant Mutual Fund,quant Silver ETF FOF - Direct Plan - IDCW Payout Option,INF966L01FI2,INF966L01FJ0,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
