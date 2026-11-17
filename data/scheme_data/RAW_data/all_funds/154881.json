@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "Kotak Mahindra Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income/Debt Oriented Schemes - Fixed Term Plan",
+        "scheme_code": 154881,
+        "scheme_name": "Kotak Fixed Maturity Plan Series 336 - Regular Plan - Growth",
+        "isin_growth": "INF174KA1I05",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "16-11-2026",
+            "nav": "10.02910"
+        }
+    ],
+    "status": "SUCCESS"
+}

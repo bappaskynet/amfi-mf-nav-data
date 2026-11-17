@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "UTI Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Index Funds - Equity Funds",
+        "scheme_code": 154855,
+        "scheme_name": "UTI Nifty India New Age Consumption Index Fund - Direct Plan - Growth Option",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "16-11-2026",
+            "nav": "9.99860"
+        }
+    ],
+    "status": "SUCCESS"
+}
