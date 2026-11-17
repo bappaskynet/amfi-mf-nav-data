@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Angel One Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
         "scheme_code": 153828,
         "scheme_name": "ANGEL ONE GOLD ETF FOF - Regular Plan - Growth",
         "isin_growth": "INF1J2R01106",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "17-11-2026",
+            "nav": "12.03260"
+        },
         {
             "date": "16-11-2026",
             "nav": "12.05220"
