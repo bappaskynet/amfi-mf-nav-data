@@ -36675,9 +36675,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153327,Helios Mutual Fund,Helios Mid Cap Fund - Regular Plan - Growth,INF0R8701293,,Open Ended Schemes,Equity Schemes - Mid Cap Fund
 153328,Groww Mutual Fund,Groww Nifty 200 ETF FOF - Direct Plan - Growth,INF666M01JQ1,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 153329,Groww Mutual Fund,Groww Nifty 200 ETF,INF666M01JV1,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Other ETF
-153330,Angel One Mutual Fund,ANGEL ONE NIFTY TOTAL MARKET INDEX FUND - Direct Plan - Growth,INF1J2R01023,,Open Ended Schemes,Other Scheme - Index Funds
-153331,Angel One Mutual Fund,ANGEL ONE NIFTY TOTAL MARKET INDEX FUND - Regular Plan - Growth,INF1J2R01031,,Open Ended Schemes,Other Scheme - Index Funds
-153332,Angel One Mutual Fund,ANGEL ONE NIFTY TOTAL MARKET ETF - Direct Plan,INF1J2R01015,,Open Ended Schemes,Other Scheme - Other  ETFs
+153330,Angel One Mutual Fund,ANGEL ONE NIFTY TOTAL MARKET INDEX FUND - Direct Plan - Growth,INF1J2R01023,,Open Ended Schemes,Index Funds - Equity Funds
+153331,Angel One Mutual Fund,ANGEL ONE NIFTY TOTAL MARKET INDEX FUND - Regular Plan - Growth,INF1J2R01031,,Open Ended Schemes,Index Funds - Equity Funds
+153332,Angel One Mutual Fund,ANGEL ONE NIFTY TOTAL MARKET ETF - Direct Plan,INF1J2R01015,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Equity ETF
 153333,Edelweiss Mutual Fund,Edelweiss CRISIL IBX AAA Bond NBFC HFC Jun 2027 Index Fund - Direct Plan - IDCW,INF754K01UH5,INF754K01UI3,Open Ended Schemes,Other Scheme - Index Funds
 153334,Edelweiss Mutual Fund,Edelweiss CRISIL IBX AAA Bond NBFC HFC Jun 2027 Index Fund - Regular Plan - Growth,INF754K01UK9,,Open Ended Schemes,Other Scheme - Index Funds
 153335,Edelweiss Mutual Fund,Edelweiss CRISIL IBX AAA Bond NBFC HFC Jun 2027 Index Fund - Direct Plan - Growth,INF754K01UG7,,Open Ended Schemes,Other Scheme - Index Funds
@@ -36788,7 +36788,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153448,Kotak Mahindra Mutual Fund,Kotak Energy Opportunities Fund - Direct Plan - IDCW-Payout & Reinvestment,INF174KA1VY8,INF174KA1VZ5,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 153449,Kotak Mahindra Mutual Fund,Kotak Energy Opportunities Fund - Regular Plan - Growth,INF174KA1WA6,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 153450,Kotak Mahindra Mutual Fund,Kotak Energy Opportunities Fund - Regular Plan - IDCW-Payout & Reinvestment,INF174KA1WB4,INF174KA1WC2,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-153451,Angel One Mutual Fund,ANGEL ONE NIFTY 1D RATE LIQUID ETF - GROWTH - Direct Plan - Growth,INF1J2R01056,,Open Ended Schemes,Other Scheme - Other  ETFs
+153451,Angel One Mutual Fund,ANGEL ONE NIFTY 1D RATE LIQUID ETF - GROWTH - Direct Plan - Growth,INF1J2R01056,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Other ETF
 153452,Groww Mutual Fund,Groww Nifty 500 Momentum 50 ETF,INF666M01KJ4,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Other ETF
 153453,Groww Mutual Fund,Groww Nifty 500 Momentum 50 ETF FOF - Direct Plan - Growth,INF666M01JX7,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 153454,Groww Mutual Fund,Groww Nifty 500 Momentum 50 ETF FOF - Direct Plan - Income Distribution cum capital withdrawal,INF666M01JY5,INF666M01KB1,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
@@ -36859,9 +36859,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153526,Groww Mutual Fund,Groww Silver ETF FOF - Direct Plan - Income Distribution cum capital withdrawal,INF666M01KR7,INF666M01KS5,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 153527,Groww Mutual Fund,Groww Silver ETF FOF - Regular Plan - Growth,INF666M01KX5,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 153528,Groww Mutual Fund,Groww Silver ETF FOF - Regular Plan - Income Distribution cum capital withdrawal,INF666M01KY3,INF666M01KZ0,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
-153529,Angel One Mutual Fund,ANGEL ONE NIFTY 50 INDEX FUND - Direct Plan - Growth,INF1J2R01072,,Open Ended Schemes,Other Scheme - Index Funds
-153530,Angel One Mutual Fund,ANGEL ONE NIFTY 50 INDEX FUND - Regular Plan - Growth,INF1J2R01080,,Open Ended Schemes,Other Scheme - Index Funds
-153531,Angel One Mutual Fund,ANGEL ONE NIFTY 50 ETF - Direct Plan,INF1J2R01064,,Open Ended Schemes,Other Scheme - Other  ETFs
+153529,Angel One Mutual Fund,ANGEL ONE NIFTY 50 INDEX FUND - Direct Plan - Growth,INF1J2R01072,,Open Ended Schemes,Index Funds - Equity Funds
+153530,Angel One Mutual Fund,ANGEL ONE NIFTY 50 INDEX FUND - Regular Plan - Growth,INF1J2R01080,,Open Ended Schemes,Index Funds - Equity Funds
+153531,Angel One Mutual Fund,ANGEL ONE NIFTY 50 ETF - Direct Plan,INF1J2R01064,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Equity ETF
 153532,Motilal Oswal Mutual Fund,Motilal Oswal Nifty 50 Equal Weight ETF,INF247L01FC0,,Open Ended Schemes,Other Scheme - Other  ETFs
 153533,Samco Mutual Fund,Samco Large & Mid Cap Fund - Regular Plan - Growth,INF0K1H01289,,Open Ended Schemes,Equity Schemes - Large & Mid Cap Fund
 153534,Samco Mutual Fund,Samco Large & Mid Cap Fund - Direct Plan - Growth,INF0K1H01271,,Open Ended Schemes,Equity Schemes - Large & Mid Cap Fund
@@ -37129,8 +37129,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153824,Union Mutual Fund,Union Diversified Equity All Cap Active FOF - Direct Plan - Growth Option,INF582M01LZ7,,Open Ended Schemes,Other Scheme - FoF Domestic
 153825,Union Mutual Fund,Union Diversified Equity All Cap Active FOF - Direct Plan - IDCW Option,INF582M01MA8,INF582M01MB6,Open Ended Schemes,Other Scheme - FoF Domestic
 153826,Angel One Mutual Fund,ANGEL ONE GOLD ETF - Direct Plan,INF1J2R01114,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Gold ETF
-153827,Angel One Mutual Fund,ANGEL ONE GOLD ETF FOF - Direct Plan - Growth,INF1J2R01098,,Open Ended Schemes,Other Scheme - FoF Domestic
-153828,Angel One Mutual Fund,ANGEL ONE GOLD ETF FOF - Regular Plan - Growth,INF1J2R01106,,Open Ended Schemes,Other Scheme - FoF Domestic
+153827,Angel One Mutual Fund,ANGEL ONE GOLD ETF FOF - Direct Plan - Growth,INF1J2R01098,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+153828,Angel One Mutual Fund,ANGEL ONE GOLD ETF FOF - Regular Plan - Growth,INF1J2R01106,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 153829,Axis Mutual Fund,Axis Nifty500 Quality 50 Index Fund - Direct Plan - Growth Option,INF846KA1200,,Open Ended Schemes,Index Funds - Equity Funds
 153830,Axis Mutual Fund,Axis Nifty500 Quality 50 Index Fund - Regular Plan - Growth Option,INF846KA1192,,Open Ended Schemes,Index Funds - Equity Funds
 153831,SBI Mutual Fund,SBI Dynamic Asset Allocation Active FoF - Regular Plan - Growth,INF200KB1977,,Open Ended Schemes,Other Scheme - FoF Domestic
@@ -37250,9 +37250,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153952,Groww Mutual Fund,Groww Nifty Midcap 150 Index Fund - Direct Plan - Income Distribution cum capital withdrawal,INF666M01MQ5,INF666M01MR3,Open Ended Schemes,Index Funds - Equity Funds
 153953,Groww Mutual Fund,Groww Nifty Midcap 150 Index Fund - Regular Plan - Growth,INF666M01MS1,,Open Ended Schemes,Index Funds - Equity Funds
 153954,Groww Mutual Fund,Groww Nifty Midcap 150 Index Fund - Regular Plan - Income Distribution cum capital withdrawal,INF666M01MT9,INF666M01MU7,Open Ended Schemes,Index Funds - Equity Funds
-153955,Angel One Mutual Fund,ANGEL ONE NIFTY TOTAL MARKET MOMENTUM QUALITY 50 INDEX FUND - Regular Plan - Growth,INF1J2R01130,,Open Ended Schemes,Other Scheme - Index Funds
-153956,Angel One Mutual Fund,ANGEL ONE NIFTY TOTAL MARKET MOMENTUM QUALITY 50 INDEX FUND - Direct Plan - Growth,INF1J2R01122,,Open Ended Schemes,Other Scheme - Index Funds
-153957,Angel One Mutual Fund,ANGEL ONE NIFTY TOTAL MARKET MOMENTUM QUALITY 50 ETF - Direct Plan,INF1J2R01148,,Open Ended Schemes,Other Scheme - Other  ETFs
+153955,Angel One Mutual Fund,ANGEL ONE NIFTY TOTAL MARKET MOMENTUM QUALITY 50 INDEX FUND - Regular Plan - Growth,INF1J2R01130,,Open Ended Schemes,Index Funds - Equity Funds
+153956,Angel One Mutual Fund,ANGEL ONE NIFTY TOTAL MARKET MOMENTUM QUALITY 50 INDEX FUND - Direct Plan - Growth,INF1J2R01122,,Open Ended Schemes,Index Funds - Equity Funds
+153957,Angel One Mutual Fund,ANGEL ONE NIFTY TOTAL MARKET MOMENTUM QUALITY 50 ETF - Direct Plan,INF1J2R01148,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Equity ETF
 153958,HDFC Mutual Fund,HDFC BSE India Sector Leaders Index Fund - Regular Plan - Growth Option,INF179KC1JX8,,Open Ended Schemes,Other Scheme - Index Funds
 153959,HDFC Mutual Fund,HDFC BSE India Sector Leaders Index Fund - Direct Plan - Growth Option,INF179KC1JY6,,Open Ended Schemes,Other Scheme - Index Funds
 153960,Axis Mutual Fund,Axis Multi-Asset Omni FoF - Direct Plan - Growth Option,INF846KA1366,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
@@ -37471,8 +37471,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154203,Bajaj Finserv Mutual Fund,Bajaj Finserv Ultra Short to Short Term Fund - Regular Plan - Growth,INF0QA701CC3,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 154204,Bajaj Finserv Mutual Fund,Bajaj Finserv Ultra Short to Short Term Fund - Direct Plan - Growth,INF0QA701CF6,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 154205,Angel One Mutual Fund,ANGEL ONE SILVER ETF - Direct Plan,INF1J2R01171,,Open Ended Schemes,Other Scheme - Other  ETFs
-154206,Angel One Mutual Fund,ANGEL ONE SILVER ETF FOF - Direct Plan - Growth,INF1J2R01155,,Open Ended Schemes,Other Scheme - FoF Domestic
-154207,Angel One Mutual Fund,ANGEL ONE SILVER ETF FOF - Regular Plan - Growth,INF1J2R01163,,Open Ended Schemes,Other Scheme - FoF Domestic
+154206,Angel One Mutual Fund,ANGEL ONE SILVER ETF FOF - Direct Plan - Growth,INF1J2R01155,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154207,Angel One Mutual Fund,ANGEL ONE SILVER ETF FOF - Regular Plan - Growth,INF1J2R01163,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154208,Edelweiss Mutual Fund,Edelweiss Gold ETF Fund of Fund - Direct Plan - Growth,INF754K01WP4,,Open Ended Schemes,Other Scheme - FoF Domestic
 154209,Edelweiss Mutual Fund,Edelweiss Gold ETF Fund of Fund - Regular Plan - Growth,INF754K01WQ2,,Open Ended Schemes,Other Scheme - FoF Domestic
 154210,Trust Mutual Fund,TRUSTMF MID CAP FUND - Direct Plan - Growth,INF0GCD01875,,Open Ended Schemes,Equity Scheme - Mid Cap Fund
