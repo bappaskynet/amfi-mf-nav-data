@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "Kotak Mahindra Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Index Funds - Equity Funds",
+        "scheme_code": 154862,
+        "scheme_name": "Kotak Nifty Realty Index Fund - Direct Plan - Growth",
+        "isin_growth": "INF174KA1H22",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "18-11-2026",
+            "nav": "9.96800"
+        }
+    ],
+    "status": "SUCCESS"
+}

@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "Invesco Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
+        "scheme_code": 154874,
+        "scheme_name": "Invesco India Silver ETF Fund of Fund - Regular Plan - IDCW",
+        "isin_growth": "INF205KA1CR5",
+        "isin_div_reinvestment": "INF205KA1CS3"
+    },
+    "data": [
+        {
+            "date": "18-11-2026",
+            "nav": "10.01690"
+        }
+    ],
+    "status": "SUCCESS"
+}
