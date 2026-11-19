@@ -38018,10 +38018,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154824,quant Mutual Fund,quant Nifty 100 Index Fund - Direct Plan - IDCW Option,INF966L01FC5,INF966L01FD3,Open Ended Schemes,Index Funds - Equity Funds
 154825,quant Mutual Fund,quant Nifty 100 Index Fund - Regular Plan - IDCW Option,INF966L01FF8,INF966L01FG6,Open Ended Schemes,Index Funds - Equity Funds
 154826,SBI Mutual Fund,SBI BSE India Defence ETF - Regular Plan - Growth,INF200KB1CJ6,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Equity ETF
-154827,Motilal Oswal Mutual Fund,Motilal Oswal Multi Asset Omni Fund of Funds - Direct Plan - GROWTH,INF247L01HS2,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
-154828,Motilal Oswal Mutual Fund,Motilal Oswal Multi Asset Omni Fund of Funds - Direct Plan - IDCW,INF247L01HT0,INF247L01HU8,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
-154830,Motilal Oswal Mutual Fund,Motilal Oswal Multi Asset Omni Fund of Funds - Regular Plan - GROWTH,INF247L01HV6,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
-154833,Motilal Oswal Mutual Fund,Motilal Oswal Multi Asset Omni Fund of Funds - Regular Plan - IDCW,INF247L01HW4,INF247L01HX2,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154827,Motilal Oswal Mutual Fund,Motilal Oswal Multi Asset - Omni Fund of Funds - Direct Plan - GROWTH,INF247L01HS2,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154828,Motilal Oswal Mutual Fund,Motilal Oswal Multi Asset - Omni Fund of Funds - Direct Plan - IDCW,INF247L01HT0,INF247L01HU8,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154830,Motilal Oswal Mutual Fund,Motilal Oswal Multi Asset - Omni Fund of Funds - Regular Plan - GROWTH,INF247L01HV6,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154833,Motilal Oswal Mutual Fund,Motilal Oswal Multi Asset - Omni Fund of Funds - Regular Plan - IDCW,INF247L01HW4,INF247L01HX2,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154834,Mirae Asset Mutual Fund,Mirae Asset Fixed Maturity Plan - Series VI- 3 to 6 Months - Direct Plan - Growth,INF769K01RZ1,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
 154835,Mirae Asset Mutual Fund,Mirae Asset Fixed Maturity Plan - Series VI- 3 to 6 Months - Direct Plan - IDCW,INF769K01SA2,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
 154836,Mirae Asset Mutual Fund,Mirae Asset Fixed Maturity Plan - Series VI- 3 to 6 Months - Regular Plan - Growth,INF769K01RX6,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
@@ -38043,16 +38043,16 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154852,ICICI Prudential Mutual Fund,ICICI Prudential BSE Power ETF,INF109K1A724,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Other ETF
 154853,Navi Mutual Fund,Navi Multi Asset Omni FoF - Growth,INF959L01HV6,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154854,Navi Mutual Fund,Navi Multi Asset Omni FoF - Growth,INF959L01HW4,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
-154855,UTI Mutual Fund,UTI Nifty India New Age Consumption Index Fund - Direct Plan - Growth Option,,,Open Ended Schemes,Index Funds - Equity Funds
-154856,UTI Mutual Fund,UTI Nifty India New Age Consumption Index Fund - Regular Plan - Growth Option,,,Open Ended Schemes,Index Funds - Equity Funds
+154855,UTI Mutual Fund,UTI Nifty India New Age Consumption Index Fund - Direct Plan - Growth Option,INF789F1AI09,,Open Ended Schemes,Index Funds - Equity Funds
+154856,UTI Mutual Fund,UTI Nifty India New Age Consumption Index Fund - Regular Plan - Growth Option,INF789F1AH91,,Open Ended Schemes,Index Funds - Equity Funds
 154858,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan-Series VB (136 Days) - Direct Plan - IDCW,INF209KC1852,INF209KC1845,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
 154859,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan-Series VB (136 Days) - Direct Plan - Growth,INF209KC1837,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
 154860,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan-Series VB (136 Days) - Regular Plan - Growth,INF209KC1860,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
 154861,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan-Series VB (136 Days) - Regular Plan - IDCW,INF209KC1886,INF209KC1878,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
-154866,UTI Mutual Fund,UTI Financial Services Debt Fund - Direct Plan - Growth Option,,,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
-154867,UTI Mutual Fund,UTI Financial Services Debt Fund - Regular Plan - Growth Option,,,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
-154868,UTI Mutual Fund,UTI Financial Services Debt Fund - Direct Plan - Payout of IDCW Option,,,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
-154869,UTI Mutual Fund,UTI Financial Services Debt Fund - Regular Plan - Payout of IDCW Option,,,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
+154866,UTI Mutual Fund,UTI Financial Services Debt Fund - Direct Plan - Growth Option,INF789F1AI25,,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
+154867,UTI Mutual Fund,UTI Financial Services Debt Fund - Regular Plan - Growth Option,INF789F1AI17,,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
+154868,UTI Mutual Fund,UTI Financial Services Debt Fund - Direct Plan - Payout of IDCW Option,INF789F1AI41,,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
+154869,UTI Mutual Fund,UTI Financial Services Debt Fund - Regular Plan - Payout of IDCW Option,INF789F1AI33,,Open Ended Schemes,Income/Debt Oriented Schemes - Sectoral Fund
 154878,Kotak Mahindra Mutual Fund,Kotak Fixed Maturity Plan Series 336 - Direct Plan - Growth,INF174KA1H89,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
 154879,Kotak Mahindra Mutual Fund,Kotak Fixed Maturity Plan Series 336 - Direct Plan - IDCW Payout,INF174KA1H97,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
 154880,Kotak Mahindra Mutual Fund,Kotak Fixed Maturity Plan Series 336 - Regular Plan - IDCW Payout,INF174KA1I13,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
