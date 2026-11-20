@@ -14478,6 +14478,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154887,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan- Series VC (114 Days),INF209KC1928,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
 154888,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan- Series VC (114 Days),INF209KC1944,INF209KC1936,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
 154889,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan- Series VC (114 Days),INF209KC1910,INF209KC1902,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
+154901,DSP Mutual Fund,DSP Fixed Maturity Plan (FMP) - Series 280 - 90 Days,INF740KA1ZT4,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
+154902,DSP Mutual Fund,DSP Fixed Maturity Plan (FMP) - Series 280 - 90 Days,INF740KA1ZS6,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
 100027,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Half Yearly Dividend,,,Open Ended Schemes,Income
 100028,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Quaterly Dividend,,,Open Ended Schemes,Income
 100029,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Growth,,,Open Ended Schemes,Income
@@ -36741,8 +36743,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154896,Invesco Asset Management (India) Private Limited,Invesco India Nifty Metal Index Fund - Regular Plan - IDCW,INF205KA1CY1,INF205KA1CZ8,Open Ended,Index Funds - Equity Funds
 154897,Invesco Asset Management (India) Private Limited,Invesco India Nifty Metal Index Fund - Direct Plan - Growth,INF205KA1DA9,,Open Ended,Index Funds - Equity Funds
 154900,Invesco Asset Management (India) Private Limited,Invesco India Nifty Metal Index Fund - Direct Plan - IDCW,INF205KA1DB7,INF205KA1DC5,Open Ended,Index Funds - Equity Funds
-154901,DSP Asset Managers Private Limited,DSP Fixed Maturity Plan (FMP) - Series 280 - 90 Days Direct Growth,INF740KA1ZT4,,Close Ended,Income/Debt Oriented Schemes - Fixed Term Plan
-154902,DSP Asset Managers Private Limited,DSP Fixed Maturity Plan (FMP) - Series 280 - 90 Days,INF740KA1ZS6,,Close Ended,Income/Debt Oriented Schemes - Fixed Term Plan
 154903,SBI Funds Management Limited,SBI BSE India Defence ETF FOF - Direct Plan - IDCW,,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154908,SBI Funds Management Limited,SBI BSE India Defence ETF FOF - Direct Plan - Growth,,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154909,SBI Funds Management Limited,SBI BSE India Defence ETF FOF - Regular Plan - Growth,,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
@@ -36798,3 +36798,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154952,Shriram Asset Management Co. Ltd.,Shriram Large & Mid Cap Fund-Direct-IDCW,INF680P01729,,Open Ended,Equity Schemes - Large & Mid Cap Fund
 154961,Jio BlackRock Asset Management Private Limited,JioBlackRock Life Cycle Fund 2056 - Regular Plan - Growth Option,,,Open Ended,Life Cycle Funds - Life Cycle Fund with Maturity of 30 Years
 154962,Jio BlackRock Asset Management Private Limited,JioBlackRock Life Cycle Fund 2056 - Direct Plan - Growth Option,,,Open Ended,Life Cycle Funds - Life Cycle Fund with Maturity of 30 Years
+154963,Jio BlackRock Asset Management Private Limited,JioBlackRock CRISIL-IBX AAA NBFC Index - Jun 2027 Fund - Regular Plan - Growth Option,,,Open Ended,Index Funds - Debt Funds
+154964,Jio BlackRock Asset Management Private Limited,JioBlackRock CRISIL-IBX AAA NBFC Index - Jun 2027 Fund - Direct Plan - Growth Plan,,,Open Ended,Index Funds - Debt Funds
+154965,Jio BlackRock Asset Management Private Limited,JioBlackRock CRISIL-IBX AAA Financial Services Index - Sep 2027 Fund - Regular Plan - Growth Option,,,Open Ended,Index Funds - Debt Funds
+154966,Jio BlackRock Asset Management Private Limited,JioBlackRock CRISIL-IBX AAA Financial Services Index - Sep 2027 Fund - Direct Plan - Growth Option,,,Open Ended,Index Funds - Debt Funds
