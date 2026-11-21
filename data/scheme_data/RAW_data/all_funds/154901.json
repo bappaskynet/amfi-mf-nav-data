@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "DSP Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income/Debt Oriented Schemes - Fixed Term Plan",
+        "scheme_code": 154901,
+        "scheme_name": "DSP Fixed Maturity Plan (FMP) - Series 280 - 90 Days - Direct Plan - Growth",
+        "isin_growth": "INF740KA1ZT4",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "20-11-2026",
+            "nav": "10.00330"
+        }
+    ],
+    "status": "SUCCESS"
+}
