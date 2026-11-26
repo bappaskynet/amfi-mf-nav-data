@@ -14480,6 +14480,11 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154889,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Maturity Plan- Series VC (114 Days),INF209KC1910,INF209KC1902,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
 154901,DSP Mutual Fund,DSP Fixed Maturity Plan (FMP) - Series 280 - 90 Days,INF740KA1ZT4,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
 154902,DSP Mutual Fund,DSP Fixed Maturity Plan (FMP) - Series 280 - 90 Days,INF740KA1ZS6,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
+154939,Motilal Oswal Mutual Fund,Motilal Oswal Nifty 10 yr Benchmark G-Sec ETF,INF247L01HY0,,Open Ended Schemes,Exchange Traded Funds
+154940,Motilal Oswal Mutual Fund,Motilal Oswal Nifty500 Growth 50 ETF,INF247L01HZ7,,Open Ended Schemes,Exchange Traded Funds
+154941,Motilal Oswal Mutual Fund,Motilal Oswal Nifty PSU Bank ETF,INF247L01IA8,,Open Ended Schemes,Exchange Traded Funds
+154942,Motilal Oswal Mutual Fund,Motilal Oswal Nifty Private Bank ETF,INF247L01IB6,,Open Ended Schemes,Exchange Traded Funds
+154943,Motilal Oswal Mutual Fund,Motilal Oswal Nifty REITS & Realty ETF,INF247L01IC4,,Open Ended Schemes,Exchange Traded Funds
 100027,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Half Yearly Dividend,,,Open Ended Schemes,Income
 100028,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Quaterly Dividend,,,Open Ended Schemes,Income
 100029,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Growth,,,Open Ended Schemes,Income
@@ -36771,15 +36776,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154932,Invesco Asset Management (India) Private Limited,Invesco India Financial Services Debt Fund - Direct Plan - Weekly IDCW (Payout/Reinvestment),INF205KA1DM4,INF205KA1DQ5,Open Ended,Income/Debt Oriented Schemes - Sectoral Fund
 154933,Invesco Asset Management (India) Private Limited,Invesco India Financial Services Debt Fund - Direct Plan - Monthly IDCW (Payout/Reinvestment),INF205KA1DN2,INF205KA1DR3,Open Ended,Income/Debt Oriented Schemes - Sectoral Fund
 154934,Invesco Asset Management (India) Private Limited,Invesco India Financial Services Debt Fund - Direct Plan - Discretionary IDCW (Payout/Reinvestment),INF205KA1DO0,INF205KA1DS1,Open Ended,Income/Debt Oriented Schemes - Sectoral Fund
-154935,quant Money Managers Limited,quant Nifty Next 50 Index Fund - Growth Option - Direct Plan,,,Open Ended,Index Funds - Equity Funds
-154936,quant Money Managers Limited,quant Nifty Next 50 Index Fund - Growth Option - Regular Plan,,,Open Ended,Index Funds - Equity Funds
-154937,quant Money Managers Limited,quant Nifty Next 50 Index Fund - IDCW Option - Direct Plan,,,Open Ended,Index Funds - Equity Funds
-154938,quant Money Managers Limited,quant Nifty Next 50 Index Fund - IDCW Option - Regular Plan,,,Open Ended,Index Funds - Equity Funds
-154939,Motilal Oswal Asset Management Company Limited,Motilal Oswal Nifty 10 yr Benchmark G-Sec ETF,INF247L01HY0,,Open Ended,Exchange Traded Funds (ETFs) - Debt ETF
-154940,Motilal Oswal Asset Management Company Limited,MOTILAL OSWAL NIFTY500 GROWTH 50 ETF,INF247L01HZ7,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
-154941,Motilal Oswal Asset Management Company Limited,MOTILAL OSWAL NIFTY PSU BANK ETF,INF247L01IA8,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
-154942,Motilal Oswal Asset Management Company Limited,MOTILAL OSWAL NIFTY PRIVATE BANK ETF,INF247L01IB6,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
-154943,Motilal Oswal Asset Management Company Limited,MOTILAL OSWAL NIFTY REITS & REALTY ETF,INF247L01IC4,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
+154935,quant Money Managers Limited,quant Nifty Next 50 Index Fund - Growth Option - Direct Plan,INF966L01FN2,,Open Ended,Index Funds - Equity Funds
+154936,quant Money Managers Limited,quant Nifty Next 50 Index Fund - Growth Option - Regular Plan,INF966L01FQ5,,Open Ended,Index Funds - Equity Funds
+154937,quant Money Managers Limited,quant Nifty Next 50 Index Fund - IDCW Option - Direct Plan,INF966L01FO0,INF966L01FP7,Open Ended,Index Funds - Equity Funds
+154938,quant Money Managers Limited,quant Nifty Next 50 Index Fund - IDCW Option - Regular Plan,INF966L01FR3,INF966L01FS1,Open Ended,Index Funds - Equity Funds
 154944,Trust Asset Management Private Limited,TRUSTMF BALANCED ADVANTAGE FUND-DIRECT PLAN- GROWTH,INF0GCD01917,,Open Ended,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 154945,Trust Asset Management Private Limited,TRUSTMF BALANCED ADVANTAGE FUND-REGULAR PLAN- GROWTH,INF0GCD01925,,Open Ended,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 154946,DSP Asset Managers Private Limited,DSP CRISIL-IBX Financial Services 9 to 12 Months Debt Index Fund,INF740KA1ZU2,,Open Ended,Index Funds - Debt Funds
@@ -36804,3 +36804,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154966,Jio BlackRock Asset Management Private Limited,JioBlackRock CRISIL-IBX AAA Financial Services Index - Sep 2027 Fund - Direct Plan - Growth Option,,,Open Ended,Index Funds - Debt Funds
 154967,Axis Asset Management Co. Ltd.,Axis Nifty LargeMidcap 250 Index Fund,INF846KA1655,,Open Ended,Index Funds - Equity Funds
 154968,Axis Asset Management Co. Ltd.,Axis Nifty LargeMidcap 250 Index Fund -,INF846KA1648,,Open Ended,Index Funds - Equity Funds
+154969,quant Money Managers Limited,quant Diversified Equity All Cap Active FOF - Growth Option - Direct Plan,,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154970,quant Money Managers Limited,quant Diversified Equity All Cap Active FOF - Growth Option - Regular Plan,,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154971,quant Money Managers Limited,quant Diversified Equity All Cap Active FOF - IDCW Option - Direct Plan,,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154972,quant Money Managers Limited,quant Diversified Equity All Cap Active FOF - IDCW Option - Regular Plan,,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
